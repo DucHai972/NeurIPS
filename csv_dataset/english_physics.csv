@@ -1,171 +1,303 @@
-problem,answer
+problem,answer;;
 "A student carried out a laboratory experiment to investigate the relationship between the acceleration $a$ of a body and the force $F$ applied to it. During the experiment the student recorded values for the force and measured the associated acceleration.
-The following data were recorded.
-Draw a labelled diagram of how the apparatus was arranged in this experiment.","trolley, applied force, ticker timer/light gates"
+The following data were recorded. 
+| F (N) | 0.2 | 0.3 | 0.4 | 0.5 | 0.6 | 0.7 |
+| ------- | ----- | ----- | ----- | ----- | ----- | ----- |
+| a (m s$^{-2}$) | 0.280 | 0.422 | 0.554 | 0.702 | 0.837 | 0.982 |
+Draw a labelled diagram of how the apparatus was arranged in this experiment.,""trolley, applied force, ticker timer/light gates""";;
 "A student carried out a laboratory experiment to investigate the relationship between the acceleration $a$ of a body and the force $F$ applied to it. During the experiment the student recorded values for the force and measured the associated acceleration.
-The following data were recorded.
-Describe how the student determined the acceleration of the body.","calculate initial velocity and final velocity, measure distance/time interval between velocities, use relevant formula"
+The following data were recorded. 
+| F (N) | 0.2 | 0.3 | 0.4 | 0.5 | 0.6 | 0.7 |
+| ------- | ----- | ----- | ----- | ----- | ----- | ----- |
+| a (m s$^{-2}$) | 0.280 | 0.422 | 0.554 | 0.702 | 0.837 | 0.982 |
+Describe how the student determined the acceleration of the body.,""calculate initial velocity and final velocity, measure distance/time interval between velocities, use relevant formula""";;
 "A student carried out a laboratory experiment to investigate the relationship between the acceleration $a$ of a body and the force $F$ applied to it. During the experiment the student recorded values for the force and measured the associated acceleration.
-The following data were recorded.
-Draw a suitable graph to show the relationship between $F$ and $a$.","labelled axes, points plotted, line of best fit"
+The following data were recorded. 
+| F (N) | 0.2 | 0.3 | 0.4 | 0.5 | 0.6 | 0.7 |
+| ------- | ----- | ----- | ----- | ----- | ----- | ----- |
+| a (m s$^{-2}$) | 0.280 | 0.422 | 0.554 | 0.702 | 0.837 | 0.982 |
+Draw a suitable graph to show the relationship between $F$ and $a$.,""labelled axes, points plotted, line of best fit""";;
 "A student carried out a laboratory experiment to investigate the relationship between the acceleration $a$ of a body and the force $F$ applied to it. During the experiment the student recorded values for the force and measured the associated acceleration.
-The following data were recorded.
-Explain how your graph verifies the relationship between $F$ and $a$.",straight line through the origin shows $F$ is proportional to $a$
+The following data were recorded. 
+| F (N) | 0.2 | 0.3 | 0.4 | 0.5 | 0.6 | 0.7 |
+| ------- | ----- | ----- | ----- | ----- | ----- | ----- |
+| a (m s$^{-2}$) | 0.280 | 0.422 | 0.554 | 0.702 | 0.837 | 0.982 |
+Explain how your graph verifies the relationship between $F$ and $a$.,straight line through the origin shows $F$ is proportional to $a$";;
 "A student carried out a laboratory experiment to investigate the relationship between the acceleration $a$ of a body and the force $F$ applied to it. During the experiment the student recorded values for the force and measured the associated acceleration.
-The following data were recorded.
-Use your graph to calculate the mass that had been accelerated.","slope formula, $m=0.71$ kg"
+The following data were recorded. 
+| F (N) | 0.2 | 0.3 | 0.4 | 0.5 | 0.6 | 0.7 |
+| ------- | ----- | ----- | ----- | ----- | ----- | ----- |
+| a (m s$^{-2}$) | 0.280 | 0.422 | 0.554 | 0.702 | 0.837 | 0.982 |
+Use your graph to calculate the mass that had been accelerated.,""slope formula, $m=0.71$ kg""";;
 "A student carried out a laboratory experiment to investigate the relationship between the acceleration $a$ of a body and the force $F$ applied to it. During the experiment the student recorded values for the force and measured the associated acceleration.
-The following data were recorded.
-Sketch the graph that a student would get if they did not account for the presence of a constant frictional force of less than 0.2 N.",a (m s$^{-2}$) vs F (N) graph with a straight line starting at a positive x-intercept.
+The following data were recorded. 
+| F (N) | 0.2 | 0.3 | 0.4 | 0.5 | 0.6 | 0.7 |
+| ------- | ----- | ----- | ----- | ----- | ----- | ----- |
+| a (m s$^{-2}$) | 0.280 | 0.422 | 0.554 | 0.702 | 0.837 | 0.982 |
+Sketch the graph that a student would get if they did not account for the presence of a constant frictional force of less than 0.2 N.,a (m s$^{-2}$) vs F (N) graph with a straight line starting at a positive x-intercept.";;
 "In an experiment to measure the focal length $f$ of a converging lens, a student first found an approximate value for the focal length. Then the student set up the apparatus and recorded the image distance $v$ for different values of the object distance $u$.
 The following data were recorded.
-Describe how the student found an approximate value for the focal length.","focus the image of a distant object on a screen, measure the distance from the screen to the lens"
+| u (cm) | 20.0 | 30.0 | 40.0 | 50.0 |
+| ------ | ----- | ----- | ----- | ----- |
+| v (cm) | 78.7 | 35.2 | 26.9 | 23.4 |
+Describe how the student found an approximate value for the focal length.,""focus the image of a distant object on a screen, measure the distance from the screen to the lens""";;
 "In an experiment to measure the focal length $f$ of a converging lens, a student first found an approximate value for the focal length. Then the student set up the apparatus and recorded the image distance $v$ for different values of the object distance $u$.
 The following data were recorded.
-Draw a labelled diagram of the apparatus and clearly identify the distances $u$ and $v$.","lens, object, screen, $u$ and $v$ shown."
+| u (cm) | 20.0 | 30.0 | 40.0 | 50.0 |
+| ------ | ----- | ----- | ----- | ----- |
+| v (cm) | 78.7 | 35.2 | 26.9 | 23.4 |
+Draw a labelled diagram of the apparatus and clearly identify the distances $u$ and $v$.,""lens, object, screen, $u$ and $v$ shown.""";;
 "In an experiment to measure the focal length $f$ of a converging lens, a student first found an approximate value for the focal length. Then the student set up the apparatus and recorded the image distance $v$ for different values of the object distance $u$.
 The following data were recorded.
-Describe, with reference to your diagram, how the values for $v$ were determined and measured.","move object/lens/screen, until a sharp image is formed, measure $v$ with a meter stick"
+| u (cm) | 20.0 | 30.0 | 40.0 | 50.0 |
+| ------ | ----- | ----- | ----- | ----- |
+| v (cm) | 78.7 | 35.2 | 26.9 | 23.4 |
+Describe, with reference to your diagram, how the values for $v$ were determined and measured.,""move object/lens/screen, until a sharp image is formed, measure $v$ with a meter stick""";;
 "In an experiment to measure the focal length $f$ of a converging lens, a student first found an approximate value for the focal length. Then the student set up the apparatus and recorded the image distance $v$ for different values of the object distance $u$.
 The following data were recorded.
-Calculate the focal length of the lens using all of the data in the table.","1/$u$ + 1/$v$ = 1/$f$, 1st calculation of $f$, three further calculations for $f$, average for $f$."
+| u (cm) | 20.0 | 30.0 | 40.0 | 50.0 |
+| ------ | ----- | ----- | ----- | ----- |
+| v (cm) | 78.7 | 35.2 | 26.9 | 23.4 |
+Calculate the focal length of the lens using all of the data in the table.,""1/$u$ + 1/$v$ = 1/$f$, 1st calculation of $f$, three further calculations for $f$, average for $f$.""";;
 "In an experiment to measure the specific latent heat of fusion of ice.
 The following data were recorded.
-Draw a labelled diagram of the apparatus used in this experiment.","ice, calorimeter with water, balance, thermometer"
+| Mass of copper calorimeter        |                      | 83.2 g   |
+| --------------------------------- | -------------------- | -------- |
+| Mass of calorimeter + water       | before adding ice    | 132.9 g  |
+|                                   | after adding ice     | 138.5 g  |
+| Temperature of water              | before adding ice    | 26.8 °C  |
+|                                   | after adding ice     | 17.4 °C  |
+Draw a labelled diagram of the apparatus used in this experiment.,""ice, calorimeter with water, balance, thermometer""";;
 "In an experiment to measure the specific latent heat of fusion of ice.
 The following data were recorded.
-State two steps the student took to prepare the ice taken from the freezer.","crush the ice, dry the ice."
+| Mass of copper calorimeter        |                      | 83.2 g   |
+| --------------------------------- | -------------------- | -------- |
+| Mass of calorimeter + water       | before adding ice    | 132.9 g  |
+|                                   | after adding ice     | 138.5 g  |
+| Temperature of water              | before adding ice    | 26.8 °C  |
+|                                   | after adding ice     | 17.4 °C  |
+State two steps the student took to prepare the ice taken from the freezer.,""crush the ice, dry the ice.""";;
 "In an experiment to measure the specific latent heat of fusion of ice.
 The following data were recorded.
-Describe the importance of each step (crush the ice, dry the ice).","crush the ice: ensure the ice was at 0Â°C / it would melt faster, dry the ice: no additional water added / only ice added"
+| Mass of copper calorimeter        |                      | 83.2 g   |
+| --------------------------------- | -------------------- | -------- |
+| Mass of calorimeter + water       | before adding ice    | 132.9 g  |
+|                                   | after adding ice     | 138.5 g  |
+| Temperature of water              | before adding ice    | 26.8 °C  |
+|                                   | after adding ice     | 17.4 °C  |
+Describe the importance of each step (crush the ice, dry the ice).,""crush the ice: ensure the ice was at 0Â°C / it would melt faster, dry the ice: no additional water added / only ice added""";;
 "In an experiment to measure the specific latent heat of fusion of ice.
 The following data were recorded.
-Use the data in the table to calculate the energy lost by the calorimeter after the ice was added.","$mc \Delta \theta$, $\Delta \theta_{cal} = 9.4$ (Â°C), 305 J"
+| Mass of copper calorimeter        |                      | 83.2 g   |
+| --------------------------------- | -------------------- | -------- |
+| Mass of calorimeter + water       | before adding ice    | 132.9 g  |
+|                                   | after adding ice     | 138.5 g  |
+| Temperature of water              | before adding ice    | 26.8 °C  |
+|                                   | after adding ice     | 17.4 °C  |
+Use the data in the table to calculate the energy lost by the calorimeter after the ice was added.,""$mc \Delta \theta$, $\Delta \theta_{cal} = 9.4$ (Â°C), 305 J""";;
 "In an experiment to measure the specific latent heat of fusion of ice.
 The following data were recorded.
-Hence, or otherwise, calculate the specific latent heat of fusion of ice.","$m_{water} = 49.7$ (g); $m_{ice} = 5.6$ (g); $\Delta \theta_{ice} = 17.4$ (Â°C)
-$ml$, $(ml)_{ice} + (mc\Delta \theta)_{melted ice} = (mc\Delta \theta)_{cal} + (mc\Delta \theta)_{water}$, $l = 3.3 \times 10^5$ J kg$^{-1}$"
+| Mass of copper calorimeter        |                      | 83.2 g   |
+| --------------------------------- | -------------------- | -------- |
+| Mass of calorimeter + water       | before adding ice    | 132.9 g  |
+|                                   | after adding ice     | 138.5 g  |
+| Temperature of water              | before adding ice    | 26.8 °C  |
+|                                   | after adding ice     | 17.4 °C  |
+Hence, or otherwise, calculate the specific latent heat of fusion of ice.,""$m_{water} = 49.7$ (g)"; $m_{ice} = 5.6$ (g); $\Delta \theta_{ice} = 17.4$ (Â°C)
+"$ml$, $(ml)_{ice} + (mc\Delta \theta)_{melted ice} = (mc\Delta \theta)_{cal} + (mc\Delta \theta)_{water}$, $l = 3.3 \times 10^5$ J kg$^{-1}$""";;
+"A student investigated how the fundamental frequency $f$ of a stretched string of length 70 cm varied with its tension $T$. During the experiment, the length of the string was kept constant, and the student varied the tension.
+| f (Hz) | 256 | 320 | 341 | 426.5 | 480 | 512 |
+| ------ | --- | --- | --- | ----- | --- | --- |
+| T (N) | 29 | 44 | 51 | 79 | 100 | 115 |
+The following data were recorded.
+Draw a labelled diagram of how the apparatus was arranged in this experiment.,""stretched string, newtonmeter / weights, tuning fork / signal generator, meter stick / bridges / paper rider""";;
 "A student investigated how the fundamental frequency $f$ of a stretched string of length 70 cm varied with its tension $T$. During the experiment, the length of the string was kept constant, and the student varied the tension.
 The following data were recorded.
-Draw a labelled diagram of how the apparatus was arranged in this experiment.","stretched string, newtonmeter / weights, tuning fork / signal generator, meter stick / bridges / paper rider"
+| f (Hz) | 256 | 320 | 341 | 426.5 | 480 | 512 |
+| ------ | --- | --- | --- | ----- | --- | --- |
+| T (N) | 29 | 44 | 51 | 79 | 100 | 115 |
+How did the student determine that resonance had occurred?,paper rider fell off / maximum displacement of the string observed";;
 "A student investigated how the fundamental frequency $f$ of a stretched string of length 70 cm varied with its tension $T$. During the experiment, the length of the string was kept constant, and the student varied the tension.
 The following data were recorded.
-How did the student determine that resonance had occurred?",paper rider fell off / maximum displacement of the string observed
+| f (Hz) | 256 | 320 | 341 | 426.5 | 480 | 512 |
+| ------ | --- | --- | --- | ----- | --- | --- |
+| T (N) | 29 | 44 | 51 | 79 | 100 | 115 |
+Describe how the student determined (a) the frequency $f$, (b) the tension $T$.,""(a) read from tuning fork/signal generator, (b) read from newtonmeter/weights""";;
 "A student investigated how the fundamental frequency $f$ of a stretched string of length 70 cm varied with its tension $T$. During the experiment, the length of the string was kept constant, and the student varied the tension.
 The following data were recorded.
-Describe how the student determined (a) the frequency $f$, (b) the tension $T$.","(a) read from tuning fork/signal generator, (b) read from newtonmeter/weights"
+| f (Hz) | 256 | 320 | 341 | 426.5 | 480 | 512 |
+| ------ | --- | --- | --- | ----- | --- | --- |
+| T (N) | 29 | 44 | 51 | 79 | 100 | 115 |
+Draw a suitable graph to show the relationship between $f$ and $T$.,""values for $\sqrt{T}$ or $f^2$, $\sqrt{T}$ values, labelled axes, correct points plotted, line of best fit""";;
 "A student investigated how the fundamental frequency $f$ of a stretched string of length 70 cm varied with its tension $T$. During the experiment, the length of the string was kept constant, and the student varied the tension.
 The following data were recorded.
-Draw a suitable graph to show the relationship between $f$ and $T$.","values for $\sqrt{T}$ or $f^2$, $\sqrt{T}$ values, labelled axes, correct points plotted, line of best fit"
+| f (Hz) | 256 | 320 | 341 | 426.5 | 480 | 512 |
+| ------ | --- | --- | --- | ----- | --- | --- |
+| T (N) | 29 | 44 | 51 | 79 | 100 | 115 |
+State the relationship between $f$ and $T$.,frequency is proportional to square root of tension";;
 "A student investigated how the fundamental frequency $f$ of a stretched string of length 70 cm varied with its tension $T$. During the experiment, the length of the string was kept constant, and the student varied the tension.
 The following data were recorded.
-State the relationship between $f$ and $T$.",frequency is proportional to square root of tension
-"A student investigated how the fundamental frequency $f$ of a stretched string of length 70 cm varied with its tension $T$. During the experiment, the length of the string was kept constant, and the student varied the tension.
-The following data were recorded.
-Use your graph to determine the mass per unit length of the string used in this experiment.","slope formula, $f = \frac{1}{2l} \sqrt{\frac{T}{\mu}}$, $\mu = 2.2 \times 10^{-3}$ kg m$^{-1}$"
+| f (Hz) | 256 | 320 | 341 | 426.5 | 480 | 512 |
+| ------ | --- | --- | --- | ----- | --- | --- |
+| T (N) | 29 | 44 | 51 | 79 | 100 | 115 |
+Use your graph to determine the mass per unit length of the string used in this experiment.,""slope formula, $f = \frac{1}{2l} \sqrt{\frac{T}{\mu}}$, $\mu = 2.2 \times 10^{-3}$ kg m$^{-1}$""";;
 "In an experiment to investigate the relationship between current $I$ and potential difference $V$ for a length of copper wire the following data were recorded.
-Draw a circuit diagram for this experiment.","power supply, copper wire, ammeter, voltmeter"
+| V (V) | 1.0 | 2.0 | 3.0 | 4.0 | 5.0 | 6.0 | 
+| ------ | --- | --- | --- | ----- | --- | --- |
+| I (A) | 0.14 | 0.26 | 0.43 | 0.58 | 0.70 | 0.84 |
+Draw a circuit diagram for this experiment.,""power supply, copper wire, ammeter, voltmeter""";;
 "In an experiment to investigate the relationship between current $I$ and potential difference $V$ for a length of copper wire the following data were recorded.
-Draw a suitable graph to show the relationship between $I$ and $V$.","labelled axes, correct points plotted, line of best fit"
+| V (V) | 1.0 | 2.0 | 3.0 | 4.0 | 5.0 | 6.0 | 
+| ------ | --- | --- | --- | ----- | --- | --- |
+| I (A) | 0.14 | 0.26 | 0.43 | 0.58 | 0.70 | 0.84 |
+Draw a suitable graph to show the relationship between $I$ and $V$.,""labelled axes, correct points plotted, line of best fit""";;
 "In an experiment to investigate the relationship between current $I$ and potential difference $V$ for a length of copper wire the following data were recorded.
-Use your graph to calculate the resistance $R$ of the copper wire.","slope formula, $R = 7.03$ $\Omega$"
+| V (V) | 1.0 | 2.0 | 3.0 | 4.0 | 5.0 | 6.0 | 
+| ------ | --- | --- | --- | ----- | --- | --- |
+| I (A) | 0.14 | 0.26 | 0.43 | 0.58 | 0.70 | 0.84 |
+Use your graph to calculate the resistance $R$ of the copper wire.,""slope formula, $R = 7.03$ $\Omega$""";;
 "In an experiment to investigate the relationship between current $I$ and potential difference $V$ for a length of copper wire the following data were recorded.
+| V (V) | 1.0 | 2.0 | 3.0 | 4.0 | 5.0 | 6.0 | 
+| ------ | --- | --- | --- | ----- | --- | --- |
+| I (A) | 0.14 | 0.26 | 0.43 | 0.58 | 0.70 | 0.84 |
 The student used their results to calculate the resistivity of the copper wire. The following additional data were recorded:
 length of wire = 65 cm; diameter of wire = 0.32 mm
-Describe how the student determined both the length and the diameter of the copper wire.","length: meter stick, diameter: micrometer/digital callipers"
+Describe how the student determined both the length and the diameter of the copper wire.,""length: meter stick, diameter: micrometer/digital callipers""";;
 "In an experiment to investigate the relationship between current $I$ and potential difference $V$ for a length of copper wire the following data were recorded.
+| V (V) | 1.0 | 2.0 | 3.0 | 4.0 | 5.0 | 6.0 | 
+| ------ | --- | --- | --- | ----- | --- | --- |
+| I (A) | 0.14 | 0.26 | 0.43 | 0.58 | 0.70 | 0.84 |
 The student used their results to calculate the resistivity of the copper wire. The following additional data were recorded:
 length of wire = 65 cm; diameter of wire = 0.32 mm
-Calculate the resistivity of the copper wire.","$\rho = \frac{RA}{\ell}$, $A = \pi r^2$, $\rho = 8.7 \times 10^{-7}$ $\Omega$ m"
+Calculate the resistivity of the copper wire.,""$\rho = \frac{RA}{\ell}$, $A = \pi r^2$, $\rho = 8.7 \times 10^{-7}$ $\Omega$ m""";;
 "A meter stick is suspended from its centre of gravity as shown in the diagram. The meter stick is in equilibrium.
-Calculate the mass of the apple.","$M = Fd$, $W = mg$, $m = 0.11$ kg"
-A simple pendulum has a period of 1.24 s. Calculate the length of the pendulum.,"$T = 2\pi \sqrt{\frac{l}{g}}$, $l = 0.38$ m"
-A current of 6 A passes a point in a circuit. Calculate the number of electrons that pass that point every minute.,"$q = It$, $q = 360$ (C), $2.25 \times 10^{21}$ (electrons)"
-Calculate the electrostatic force between two protons that are $5.6 \times 10^{-15}$ m apart in a vacuum.,"$F = \frac{1}{4\pi \epsilon_0} \frac{q_1q_2}{r^2}$, 7.36 N"
+Calculate the mass of the apple.,""$M = Fd$, $W = mg$, $m = 0.11$ kg""";;
+Explain what is meant by a geostationary orbit and state a use of a satellite in geostationary orbit., remains in the same position above earth / has a period of 24 hours any use;;
+"A simple pendulum has a period of 1.24 s. Calculate the length of the pendulum.,""$T = 2\pi \sqrt{\frac{l}{g}}$, $l = 0.38$ m""";;
+"Conduction and convection are methods of heat transfer.  Distinguish between conduction and convection.,conduction is transfer of heat (by vibration) from particle to particle 
+convection is transfer of heat by means of circulating currents ";;
+"Describe an experiment to demonstrate that sound is a wave.,two coherent sound sources 
+movement relative to the sources 
+interference observed ";;
+"Explain what is meant by a stationary wave.,(superposition of) two waves of the same frequency and amplitude 
+maximum amplitude at each point is constant  / no net transfer of energy";;
+"Define critical angle., angle of incidence 
+angle of refraction of 90°";;
+"A lightning conductor can be placed on top of a tall building as shown.  Explain how a 
+lightning conductor works.,point discharge 
+transfers charge to ground ";;
+"A current of 6 A passes a point in a circuit. Calculate the number of electrons that pass that point every minute.,""$q = It$, $q = 360$ (C), $2.25 \times 10^{21}$ (electrons)""";;
+"Calculate the electrostatic force between two protons that are $5.6 \times 10^{-15}$ m apart in a vacuum.,""$F = \frac{1}{4\pi \epsilon_0} \frac{q_1q_2}{r^2}$, 7.36 N""";;
+"Einstein’s photoelectric law is explained by the equation hf = ? + ½mv2.  Explain what each 
+of the symbols in the equation stands for., h &= \text{Planck constant} \\
+f &= \text{frequency} \\
+\phi &= \text{work function} \\
+m &= \text{mass} \\
+v &= \text{velocity}";;
+"Cockcroft and Walton won a Nobel Prize for their experiment that bombarded a lithium 
+nucleus with a proton.  State two reasons why their experiment was significant. , first artificial splitting of nucleus, first transmutation using artificially accelerated particles, 
+verification of E = m c^2, major step in the development of particle accelerators ";;
+"Cockcroft and Walton won a Nobel Prize for their experiment that bombarded a lithium 
+nucleus with a proton.  State two reasons why their experiment was significant. Draw a diagram to show how a galvanometer can be converted into a voltmeter.,galvanometer in series with 
+(large valued) resistor/multiplier";;
 "The hammer throw is an athletics event where athletes rotate a metal ball, attached to a wire, in a circle before releasing it.
-Derive the formula to show the relationship between the radius, velocity and angular velocity of an object moving with uniform circular motion.","$\theta = s/r$ or $v=s/t$ or $\omega = \theta / t$
+Derive the formula to show the relationship between the radius, velocity and angular velocity of an object moving with uniform circular motion.,""$\theta = s/r$ or $v=s/t$ or $\omega = \theta / t$
 combination of two formulae
-$v = r\omega$"
+$v = r\omega$""";;
+"The hammer throw is an athletics event where athletes rotate a metal ball, attached to a wire, in a 
+circle before releasing it. Explain what is meant by centripetal force., force towards centre of circle  [3] 
+ (that keeps) object moving in a circle  ";;
+"The hammer throw is an athletics event where athletes rotate a metal ball, attached to a wire, in a 
+circle before releasing it. Draw a force diagram to show the forces acting on the ball just before it is released.,weight down [3] 
+ tension towards centre";;
 "An athlete rotates a ball of mass 4 kg in a circle of radius 1.25 m. The ball is moving with an angular velocity of 21.6 rad s$^{-1}$ just before it is released.
-Calculate the centripetal force acting on the ball just before it is released.","$F=mr\omega^2$
-$F= 2332.8$ N"
+Calculate the centripetal force acting on the ball just before it is released.,""$F=mr\omega^2$ F = 2332.8 N";;
 "An athlete rotates a ball of mass 4 kg in a circle of radius 1.25 m. The ball is moving with an angular velocity of 21.6 rad s$^{-1}$ just before it is released.
-Calculate the magnitude of the velocity of the ball just as it is released.",$(v = r\omega =) 27$ m s$^{-1}$
-"The velocity of the ball as it is released is at an angle of 36Â° above the horizontal. The ball is released at a height of 1.26 m above the ground and lands 3.79 s later.
-With the aid of a labelled diagram, resolve the velocity of the ball into its horizontal and vertical components.","$u_x = 27 \cos 36^\circ$
-$u_y = 27 \sin 36^\circ$"
-"The velocity of the ball as it is released is at an angle of 36Â° above the horizontal. The ball is released at a height of 1.26 m above the ground and lands 3.79 s later.
+Calculate the magnitude of the velocity of the ball just as it is released.,$(v = r\omega =) 27$ m s$^{-1}$";;
+"The velocity of the ball as it is released is at an angle of 36° above the horizontal. The ball is released at a height of 1.26 m above the ground and lands 3.79 s later.
+With the aid of a labelled diagram, resolve the velocity of the ball into its horizontal and vertical components.,""$u_x = 27 \cos 36^\circ$ $u_y = 27 \sin 36^\circ$""";;
+"The velocity of the ball as it is released is at an angle of 36° above the horizontal. The ball is released at a height of 1.26 m above the ground and lands 3.79 s later.
 Ignoring air resistance,
-calculate the maximum height above the ground reached by the ball,","$v^2 = u^2 + 2as$
+calculate the maximum height above the ground reached by the ball,,""$v^2 = u^2 + 2as$ 
 $s_y= 12.85$ (m)
-(above ground $= 12.85 + 1.26 =) 14.11$ m"
+(above ground $= 12.85 + 1.26 =) 14.11$ m""";;
 "The velocity of the ball as it is released is at an angle of 36Â° above the horizontal. The ball is released at a height of 1.26 m above the ground and lands 3.79 s later.
 Ignoring air resistance,
-calculate the horizontal distance travelled by the ball in 3.79 s.","$s=ut$
-$s_x = 82.79$ m"
+calculate the horizontal distance travelled by the ball in 3.79 s.,""$s=ut$
+$s_x = 82.79$ m""";;
+"The velocity of the ball as it is released is at an angle of 36° above the horizontal. The ball is released at a height of 1.26 m above the ground and lands 3.79 s later.
+How would air resistance affect the path of the ball?,reduction in the horizontal and vertical distance travelled ";;
+"A moving-coil loudspeaker is based on the principle that a current-carrying conductor in a magnetic field experiences a force. State two quantities that affect the magnitude of the force on a current-carrying conductor 
+in a magnetic field., magnetic flux density, current, length of conductor, angle";;
+"A  moving-coil loudspeaker is based on the principle that a current-carrying conductor in a 
+magnetic field experiences a force. Describe a laboratory experiment to demonstrate that a current-carrying conductor in a magnetic field experiences a force.,apparatus 
+ method 
+ observation ";;
+"A  moving-coil loudspeaker is based on the principle that a current-carrying conductor in a 
+magnetic field experiences a force. Draw a diagram of the magnetic field produced by a current flowing in a long straight wire., shape
+direction";;
 "A moving-coil loudspeaker is based on the principle that a current-carrying conductor in a magnetic field experiences a force.
-A wire of length 65 cm carrying a current of 3 A experiences a force of 7 mN when placed in a magnetic field. Calculate the magnetic flux density of the field when the current is flowing at right angles to the field.","$F = BIl$
-$B = 0.0036$ T"
+A wire of length 65 cm carrying a current of 3 A experiences a force of 7 mN when placed in a magnetic field. Calculate the magnetic flux density of the field when the current is flowing at right angles to the field.,""$F = BIl$ $B = 0.0036$ T""";;
 "A loudspeaker has a power of 80 mW.
-Calculate the sound intensity for a person standing 7 m from the loudspeaker.","$I = P/A$
-$A = 4\pi r^2$
-$I = 1.3 \times 10^{-4}$ W m$^{-2}$"
+Calculate the sound intensity for a person standing 7 m from the loudspeaker.,""$I = P/A$";;
+$A = 4\pi r^2$;;
+"$I = 1.3 \times 10^{-4}$ W m$^{-2}$""";;
 "A loudspeaker has a power of 80 mW.
-This sound intensity is halved for the person when they stand a distance d from the loudspeaker. Calculate d.","$I \propto \frac{1}{r^2}$ / reference to $\sqrt{2}$
-9.9 m"
+This sound intensity is halved for the person when they stand a distance d from the loudspeaker. Calculate d.,""$I \propto \frac{1}{r^2}$ / reference to $\sqrt{2}$";;
+"9.9 m""";;
 "A loudspeaker has a power of 80 mW.
-After this, the speaker of power 80 mW is replaced by a speaker of power 20 mW. Calculate the decrease in sound intensity level.","reference to 3 dB
-6 dB"
+After this, the speaker of power 80 mW is replaced by a speaker of power 20 mW. Calculate the decrease in sound intensity level.,""reference to 3 dB";;
+"6 dB""";;
 "The resistance of a semiconductor depends on multiple factors, one of which is temperature.
-Calculate the input power supplied to the drill by the 230 V mains supply.","$P = VI$
-$P = 1150$ W"
+Calculate the input power supplied to the drill by the 230 V mains supply.,""$P = VI$";;
+"$P = 1150$ W""";;
 "The resistance of a semiconductor depends on multiple factors, one of which is temperature.
-Calculate the percentage efficiency of the drill.","$\frac{P_o}{P_i} \times 100$ or $P=W/t$
-52.2 %"
+Calculate the percentage efficiency of the drill.,""$\frac{P_o}{P_i} \times 100$ or $P=W/t$";;
+"52.2 %""";;
 "Food irradiation is used to delay spoilage and prevent illness caused by microorganisms.
-Calculate the maximum energy of the X-rays used for food irradiation.","$c=f\lambda$ and $E=hf$
-$E = 1.95 \times 10^{-14}$ J"
+Calculate the maximum energy of the X-rays used for food irradiation.,""$c=f\lambda$ and $E=hf$";;
+"$E = 1.95 \times 10^{-14}$ J""";;
 "Food irradiation is used to delay spoilage and prevent illness caused by microorganisms.
-How many times bigger is the average energy of the gamma rays than the maximum energy of the X-rays?","$1 eV = 1.6 \times 10^{-19}$ J
-10.28 times"
+How many times bigger is the average energy of the gamma rays than the maximum energy of the X-rays?,""$1 eV = 1.6 \times 10^{-19}$ J";;
+"10.28 times""";;
 "A parallel-plate capacitor with metal plates of area 0.0225 m$^2$ are placed 8 mm apart in a vacuum.
-A voltage of 3 kV is applied across the plates. Calculate the maximum potential energy stored in the capacitor.","$C = \frac{1}{2}CV^2$
-$W= 1.12 \times 10^{-4}$ J"
+A voltage of 3 kV is applied across the plates. Calculate the maximum potential energy stored in the capacitor.,""$C = \frac{1}{2}CV^2$";;
+"$W= 1.12 \times 10^{-4}$ J""";;
 "Capacitors and resistors can be combined to create timing circuits such as those used to create the flash on a camera. The circuit diagram below shows a resistor and a capacitor connected in series with a 30 V power supply. The current flowing in the circuit at a given instant is 0.3 mA.
-Calculate the potential difference across the resistor at this instant.","$V=IR$
-$V=7.5$ V"
+Calculate the potential difference across the resistor at this instant.,""$V=IR$";;
+"$V=7.5$ V""";;
 "Capacitors and resistors can be combined to create timing circuits such as those used to create the flash on a camera. The circuit diagram below shows a resistor and a capacitor connected in series with a 30 V power supply. The current flowing in the circuit at a given instant is 0.3 mA.
-Calculate the charge held by the capacitor at this instant.","$V_{capacitor} = 30 - 7.5 = (22.5)$ (V)
-$C = q/V$
-$q = 1.91 \times 10^{-5}$ C"
+Calculate the charge held by the capacitor at this instant.,""$V_{capacitor} = 30 - 7.5 = (22.5)$ (V)";;
+$C = q/V$;;
+"$q = 1.91 \times 10^{-5}$ C""";;
 "All matter and energy in the universe must abide by one or more of the four fundamental forces of nature.
-Calculate the energy released during this beta-decay.","$E=mc^2$
-change in mass $= 1.395 \times 10^{-30}$ (kg)
-$E = 1.25 \times 10^{-13}$ J"
-When an electron and a positron meet. Write an equation that represents this process.,"$_{-1}^{0}e + _{1}^{0}e \rightarrow 2\gamma$
-// $2mc^2 = 2hf$"
+Calculate the energy released during this beta-decay.,""$E=mc^2$";;
+change in mass $= 1.395 \times 10^{-30}$ (kg);;
+"$E = 1.25 \times 10^{-13}$ J""";;
+"When an electron and a positron meet. Write an equation that represents this process.,""$_{-1}^{0}e + _{1}^{0}e \rightarrow 2\gamma$";;
+"// $2mc^2 = 2hf$""";;
 "The refractive index of a block of glass for red light is 1.51 and for violet light is 1.53.
-Calculate the difference between the speed of the red light and the speed of the violet light as they travel through the block of glass.","$n = \frac{c}{v}$
-$c_{red} = 1.985 \times 10^8$ (m s$^{-1}$), $c_{violet} = 1.959 \times 10^8$ (m s$^{-1}$)
-difference $= 2.6 \times 10^6$ m s$^{-1}$"
+Calculate the difference between the speed of the red light and the speed of the violet light as they travel through the block of glass.,""$n = \frac{c}{v}$";;
+$c_{red} = 1.985 \times 10^8$ (m s$^{-1}$), $c_{violet} = 1.959 \times 10^8$ (m s$^{-1}$);;
+"difference $= 2.6 \times 10^6$ m s$^{-1}$""";;
 "A man is competition participants are required to slide from a raised horizontal platform down a 2.4 m long slide. The slide is at an angle of 32Â° to the horizontal from the platform.
-Calculate the height of the platform above the surface of the water.","slide height = 2.4 sin 32Â° (= 1.27 m)
-total height = 1.27 + 0.9 = 2.17 m"
+Calculate the height of the platform above the surface of the water.,""slide height = 2.4 sin 32Â° (= 1.27 m)";;
+"total height = 1.27 + 0.9 = 2.17 m""";;
 "A man is competition participants are required to slide from a raised horizontal platform down a 2.4 m long slide. The slide is at an angle of 32Â° to the horizontal from the platform.
-Calculate his velocity as he enters the water. Assume that there is no friction on the slide.","$mgh = \frac{1}{2}mv^2$
-$v = 6.52$ m s$^{-1}$"
+Calculate his velocity as he enters the water. Assume that there is no friction on the slide.,""$mgh = \frac{1}{2}mv^2$";;
+"$v = 6.52$ m s$^{-1}$""";;
 "Raâ€“224 is an unstable nucleus of radium.
-Write a nuclear equation for this decay.",$_{88}^{224}Ra \rightarrow _{2}^{4}He + _{86}^{220}Rn$
+Write a nuclear equation for this decay.,$_{88}^{224}Ra \rightarrow _{2}^{4}He + _{86}^{220}Rn$";;
 "Raâ€“224 has a half-life of 3.6 days.
-Calculate the total number of alpha-particles emitted per second by a sample of Raâ€“224 containing 4.7 Ã— 10$^{14}$ atoms.","$T_{\frac{1}{2}} = \frac{ln2}{\lambda}$
-$A = \lambda N$
-$A = 1.05 \times 10^{9}$ (Bq)"
+Calculate the total number of alpha-particles emitted per second by a sample of Raâ€“224 containing 4.7 Ã— 10$^{14}$ atoms.,""$T_{\frac{1}{2}} = \frac{ln2}{\lambda}$";;
+$A = \lambda N$;;
+"$A = 1.05 \times 10^{9}$ (Bq)""";;
 "A high-speed electron that strikes the screen of an oscilloscope produces the green light that is seen.
-Calculate the minimum voltage required across the tube to give an electron a velocity of 2.7 Ã— 10$^7$ m s$^{-1}$.","$E_k = \frac{1}{2}mv^2$ or $W = qV$
-$qV = \frac{1}{2}mv^2$
-$V = 2072$ V"
+Calculate the minimum voltage required across the tube to give an electron a velocity of 2.7 Ã— 10$^7$ m s$^{-1}$.,""$E_k = \frac{1}{2}mv^2$ or $W = qV$";;
+$qV = \frac{1}{2}mv^2$;;
+"$V = 2072$ V""";;
 "Green light of wavelength 530 nm is passed through a diffraction grating with 400 lines per mm.
-Calculate the angle of separation between the second order images.","$d = \frac{1}{number\ of\ lines\ per\ metre}$
-$n\lambda = d\sin i$
-$\theta = 25.1$
-angle of separation $= 50.2^\circ$"
+Calculate the angle of separation between the second order images.,""$d = \frac{1}{number\ of\ lines\ per\ metre}$";;
+$n\lambda = d\sin i$;;
+$\theta = 25.1$;;
+"angle of separation $= 50.2^\circ$""";;
