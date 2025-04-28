@@ -7,8 +7,8 @@
 # import pandas as pd
 
 # # Create directory to save dataset
-# output_dir = os.path.join(os.getcwd(), "local_dataset")
-# csv_dir = os.path.join(os.getcwd(), "csv_dataset")
+# output_dir = os.path.join(os.getcwd(), "local_dataset2")
+# csv_dir = os.path.join(os.getcwd(), "csv_dataset2")
 # os.makedirs(output_dir, exist_ok=True)
 # os.makedirs(csv_dir, exist_ok=True)
 
@@ -28,6 +28,10 @@
 # # To verify it worked, print dataset info
 # print(f"Dataset saved to: {output_dir}")
 # print(dataset)
+
+##########################
+# Print problems and answers from CSV
+##########################
 
 import pandas as pd
 import os

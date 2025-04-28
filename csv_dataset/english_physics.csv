@@ -184,7 +184,15 @@ The following data were recorded.
 | ------ | --- | --- | --- | ----- | --- | --- |
 | T (N)  | 29  | 44  | 51  | 79    | 100 | 115 |
 
-Describe how the student determined (a) the frequency $f$, (b) the tension $T$.","(a) read from tuning fork/signal generator [2], (b) read from newtonmeter/weights [2]"
+Describe how the student determined the frequency $f$","read from tuning fork/signal generator [2]"
+"A student investigated how the fundamental frequency $f$ of a stretched string of length 70 cm varied with its tension $T$. During the experiment, the length of the string was kept constant, and the student varied the tension.
+The following data were recorded.
+
+| f (Hz) | 256 | 320 | 341 | 426.5 | 480 | 512 |
+| ------ | --- | --- | --- | ----- | --- | --- |
+| T (N)  | 29  | 44  | 51  | 79    | 100 | 115 |
+
+Describe how the student determined the tension $T$.","read from newtonmeter/weights [2]"
 "A student investigated how the fundamental frequency $f$ of a stretched string of length 70 cm varied with its tension $T$. During the experiment, the length of the string was kept constant, and the student varied the tension.
 The following data were recorded.
 
@@ -487,7 +495,7 @@ adapted from: ‘The Ascent of John Tyndall: Victorian Scientist, Mountaineer, a
 The refractive index of a medium varies for different wavelengths of light.  Therefore, different colours travel at different speeds and are turned through different angles.Explain what is meant by refractive index.","ratio of sine of the angle of incidence // formula to sine of the angle of refraction // notation"
 "John Tyndall ranks as one of Ireland’s most successful scientists and educators.  He reached the pinnacle of 19th century science and counted amongst his friends and collaborators many of the best-known scientists of that century.  Tyndall’s scientific interests spanned heat, sound, light and environmental phenomena. Amongst his many achievements, perhaps he is best known for the explanation of why the sky is blue – the scattering of light by small particles suspended in the atmosphere.  Blue light is scattered more than other colours because it travels at shorter wavelengths.  This colour is known as Tyndall Blue. His major scientific interest was the study of the interaction of light with matter, especially gases.  He studied the absorption of infrared radiation by gases found in the atmosphere.  He made the first studies of atmospheric pollution in London. 
 adapted from: ‘The Ascent of John Tyndall: Victorian Scientist, Mountaineer, and Public Intellectual’ (Roland Jackson) Oxford University Press 2018
-The refractive index of a medium varies for different wavelengths of light.  Therefore, different colours travel at different speeds and are turned through different angles. The refractive index of a block of glass for red light is 1.51 and for violet light is 1.53. Calculate the difference between the speed of the red light and the speed of the violet light as they travel through the block of glass.","$n = \frac{c}{v}$ [3]
+The refractive index of a medium varies for different wavelengths of light.  Therefore, different colours travel at different speeds and are turned through different angles. The refractive index of a block of glass for red light is 1.51 and for violet light is 1.53. Calculate the difference between the speed of the red light and the speed of the violet light as they travel through the block of glass.","$n = \frac{c_1}{c_2}$ [3]
 $c_{red} = 1.985 \times 10^8$ (m s$^{-1}$), $c_{violet} = 1.959 \times 10^8$ (m s$^{-1}$) [2+1]
 difference $= 2.6 \times 10^6$ m s$^{-1}$ [2]"
 "John Tyndall ranks as one of Ireland’s most successful scientists and educators.  He reached the pinnacle of 19th century science and counted amongst his friends and collaborators many of the best-known scientists of that century.  Tyndall’s scientific interests spanned heat, sound, light and environmental phenomena. Amongst his many achievements, perhaps he is best known for the explanation of why the sky is blue – the scattering of light by small particles suspended in the atmosphere.  Blue light is scattered more than other colours because it travels at shorter wavelengths.  This colour is known as Tyndall Blue. His major scientific interest was the study of the interaction of light with matter, especially gases.  He studied the absorption of infrared radiation by gases found in the atmosphere.  He made the first studies of atmospheric pollution in London. 
