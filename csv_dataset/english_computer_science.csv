@@ -1,0 +1,434 @@
+problem,answer
+"Logic gates have one or more inputs and a single output. For each logic gate in Column A in the table below enter the output, either 0 or 1, in Column B.
+","| Column A Logic gate with input(s) | Column B Output (0 or 1) |
+|---|---|
+| ![Logic gate with input 1 and 1](Image unavailable) | 1 |
+| ![Logic gate with input 0 and 1](Image unavailable) | 0 |
+| ![Logic gate with input 1](Image unavailable) | 0 |
+| ![Logic gate with input 1 and 0](Image unavailable) | 1 |
+| ![Logic gate with input 0 and 0](Image unavailable) | 0 |
+| ![Logic gate with input 1 and 1](Image unavailable) | 0 |
+
+Each correct response - 1 mark"
+"What is the output displayed by the following Python code?
+
+```python
+number = 27
+while number < 39:
+    print(number, end="" "")
+    number = number + 3
+```","27 30 33 36
+
+Each correct value in order (x 4) 1 mark
+Space between each value 2 marks"
+Express the decimal number 121 as an 8-bit binary number.,"0111 1001
+
+Correct including leading zero 6 marks
+Correct without leading zero 5 marks
+For each calculation error deduct 2 marks
+Response with some merit 2 marks"
+"Figure 1 shows a row of black and white discs with their position numbers shown under each square. There are only two ways to move a disc:
+1. Move into an empty square one position to the left or right, for example 1 → 2 means move the disc from square 1 to square 2.
+2. Jump in either direction over a single adjacent disc into an empty space immediately beyond, for example 3 → 1 means move the disc from square 3 to square 1, jumping over a disc in square 2.
+
+Write a sequence of steps, or an algorithm, that swaps all the white discs with the black discs so that the row looks like that shown in Figure 2. You can only move a single disc in each step.
+","1 → 2
+3 → 1
+4 → 3
+2 → 4
+0 → 2
+1 → 0
+3 → 1
+2 → 3
+
+Full correct solution 6 marks
+Four or more correct steps in the correct order 4 marks
+Response with some merit 2 marks"
+"A leap year is a year that contains an additional day making it 366 days long instead of the usual 365 days. The Python function `is_leap_year`, shown below can be used to determine whether a year (denoted by the parameter `y`) is a leap year or not.
+
+```python
+def is_leap_year(y):
+  if (y % 400 == 0) or ((y % 4 == 0) and (y % 100 != 0)):
+    return True
+  else:
+    return False
+```
+
+Use the code to describe the **two** rules for determining whether a year is a leap year.","Rule 1: If the year is evenly divisible by 400 it is a leap year e.g. 2000 was a leap year
+
+Rule 2: If the year is evenly divisible by 4 and not 100 it is a leap year e.g. 2024 is but 2025 and 2100 are not"
+"Many fast-food restaurants have begun using interactive kiosks that allow customers to order food without having to go to a cashier. These kiosks have menu-driven interfaces.
+Name **two** principles of universal design and explain how these principles could be met in the design of such systems.","Any two from the following:
+*   Equitable Use - by incorporating accessibility features such as adjustable font sizes, colour contrasts, and audio feedback the design can ensure that the interface is usable by people with varying abilities.
+*   Flexibility in Use - this principle could be met by providing features that allows the users to interact with the system in different ways e.g. via touch screen or voice commands.
+*   Simple and Intuitive Use - this can be achieved in the design by a straightforward and intuitive menu structure with easily understandable icons and labels. Avoid unnecessary complexity to make the interface user-friendly for individuals with different levels of experience.
+*   Perceptible Information - the system should communicate necessary information effectively to the user, regardless of ambient conditions or the user's sensory abilities. For example, the menu and instructions on how to pay could be provided through multiple modalities, such as visual cues, text labels, and audio instructions, to cater to users with different sensory capabilities.
+*   Tolerance for Error - this can be achieved by including features like confirmation dialogs, clear feedback messages, and the ability to review orders before finalising.
+*   Low Physical Effort - the system should ensure that the touch interface is responsive to different levels of pressure, accommodating users with varying physical abilities. Consider alternative input methods for users who may have difficulty with touchscreens.
+*   Size and Space for Approach and Use - the kiosks should be designed with varying heights to accommodate users of different statures or those using mobility aids. Ensure there's enough space for wheelchair users to approach and interact comfortably."
+"Apply the algorithm shown in pseudo code below to the row of shapes shown in **Figure 4** and illustrate your answer in the boxes provided.
+
+```
+problem_solved ← FALSE
+LOOP UNTIL problem_solved IS TRUE
+  square ← find the leftmost square
+  triangle ← find the rightmost triangle
+  IF position of square IS GREATER THAN position of triangle
+    problem_solved ← TRUE
+  ELSE
+    swap(square, triangle)
+```
+","(a)
+Step 1: ▲▲▲☐☐☐▲▲☐☐☐
+Step 2: ▲▲▲▲☐☐☐▲☐☐☐
+
+(b)
+In Step 1 the algorithm has swapped the square from position 4 with the triangle in position 7.
+In Step 2 the algorithm has swapped the square from position 4 with the triangle in position 6.
+This leaves a final state with all the triangles to the left of all the squares."
+"The algorithm described in **part (a)** provides a general solution to the problem it solves.
+Explain what is meant by the phrase 'a general solution'.","(b)
+* A general solution provides a broad approach that can be applied to different situations
+* A general solution will always produce the correct output regardless of the input
+* The algorithm does not depend on the size of the input e.g. the number of squares and triangles."
+"Explain the meaning of the quote, shown in **Figure 5** above, in relation to online applications.","The meaning of the quote is that when a service such as social media is free, the users become a commodity for these platforms, and their attention and data are the actual products that are monetised. As users interact with social media platforms, they generate valuable data (through their preferences, behaviours etc.). This data is then collected, analysed, and used to create targeted advertising or sold to third parties for various purposes, such as market research or influencing user behaviour.
+
+The quote serves as a reminder that even though users may not be directly paying for the service with money, they are indirectly paying with their personal information and attention."
+Provide **one** implication that the quote could have for your use of online applications.,"* Privacy - users often share personal information that becomes valuable for targeted advertising.
+* Manipulation of attention - excessive use of online platforms can lead to addictive usage patterns, foster a comparison culture which in turn can have a negative impact on mental health.
+* Responsible use - on a positive note, the quote can serve as an educational tool, promoting digital literacy and empowering users to make informed decisions about their online activities such as reading terms and conditions."
+"The term artificial intelligence (AI) was first used in 1955 by among others, American computer scientist John McCarthy who had an Irish father from Co. Kerry. Since then, other related terms such as narrow AI, artificial general intelligence (AGI) and generative AI have emerged.
+What is meant by the term 'artificial intelligence'?","Any response that captures the essence of any of the following:
+• Artificial intelligence can be defined as the science and engineering of making intelligent computer programs capable of performing tasks that require subtleties of judgement, interpretation and generalisation that we associate with human intelligence.
+• The design and study of systems that appear to mimic intelligent behaviour
+• The theory and development of computer systems able to perform tasks that normally require human intelligence, such as visual perception, speech recognition, decision making and translation between languages."
+"The term artificial intelligence (AI) was first used in 1955 by among others, American computer scientist John McCarthy who had an Irish father from Co. Kerry. Since then, other related terms such as narrow AI, artificial general intelligence (AGI) and generative AI have emerged.
+Distinguish between narrow AI and artificial general intelligence (AGI).","• Narrow AI: Refers to AI systems built to perform a single task but without any skills that can be transferred to other tasks.
+• Artificial General Intelligence (AGI) refers to AI systems that can autonomously solve a variety of complex problems in a variety of different domains and learn and adapt autonomously."
+"The term artificial intelligence (AI) was first used in 1955 by among others, American computer scientist John McCarthy who had an Irish father from Co. Kerry. Since then, other related terms such as narrow AI, artificial general intelligence (AGI) and generative AI have emerged.
+ChatGPT and Gemini are examples of generative AI applications. Explain the term 'generative AI'.","• Generative AI is an Artificial Intelligence (AI) technology that automatically generates new/original content in response to prompts typed in by the user.
+• Generative AI should be used with caution as it is not always correct – a phenomena known as hallucination."
+"The term artificial intelligence (AI) was first used in 1955 by among others, American computer scientist John McCarthy who had an Irish father from Co. Kerry. Since then, other related terms such as narrow AI, artificial general intelligence (AGI) and generative AI have emerged.
+Name two types of output that can be produced by generative AI.","Any two from the following:
+• text (written in any natural language)
+• images (e.g. photographs, digital paintings and cartoons)
+• videos
+• music
+• software code
+• any reasonable format that could be produced by GenAI"
+"Computer vision is a field of AI that uses machine learning techniques to develop models capable of identifying objects in an image.
+Study the image shown in Figure 5 and answer the questions that follow.
+In relation to computer vision, what do the percentages shown in Figure 5 represent?","• The percentages represent a level of confidence returned by the model that the image has been correctly classified as the associated label. For example, *cat*: 94% means that the algorithm is 94% confident that it has identified a cat on this part of the image."
+"Computer vision is a field of AI that uses machine learning techniques to develop models capable of identifying objects in an image.
+Study the image shown in Figure 5 and answer the questions that follow.
+Suggest two applications for this type of technology and describe how each application could benefit society.","Any two from the following:
+• Computer vision can be used for early detection of diseases through medical imaging.
+• Computer vision technology can be used in self-driving cars (autonomous vehicles) to improve road safety by enabling vehicles to detect and respond dangers such as pedestrians, cyclists, other vehicles, animals etc, in real-time, reducing the risk of accidents.
+• Computer vision can be applied to eliminate the need for checkouts in supermarkets and other retail outlets thereby improving the shopping experience for customers and reducing the incidence of theft.
+• Computer vision can analyze aerial imagery to monitor crop health, detect diseases, and optimise irrigation. This helps farmers make informed decisions, increase crop yield, and reduce the use of pesticides and water.
+• Facial Recognition technology has the potential to enhances security by identifying and tracking individuals in public spaces, airports, and other high-security areas.
+• Computer vision can be used in robots to visually recognise and assemble complex products, enhancing efficiency and precision in manufacturing.
+• Computer vision can be used to monitor and track endangered species, helping conservationists protect wildlife and their habitats.
+• Augmented reality applications using computer vision can enhance interactive learning experiences, making education more engaging and accessible.
+• Any reasonable application of computer vision and associated benefit."
+"Read the two example scenarios below and for each one, state whether it could use machine learning AI. Justify each answer.
+
+Scenario 1: An online streaming service that recommends films based on users' viewing habits.","Scenario 1. An online streaming service that recommends films based on users' viewing habits.
+• AI: The system could use machine learning algorithms to analyse user behaviour and make personalised suggestions, which would qualify it as AI. The service will use the viewing habits of the user, compare it to other users, and make a prediction of what the user would be like to watch next. There are too many users of an online streaming service to be able to create rules for each user.
+• Not AI: Possible reasons include privacy concerns, limited data, resource constraints or preference for simplicity."
+"Read the two example scenarios below and for each one, state whether it could use machine learning AI. Justify each answer.
+
+Scenario 2: An automated lawnmower that uses sensors to navigate an outdoor space and avoid obstacles while cutting the grass.","Scenario 2: An automated lawnmower that uses sensors to navigate an outdoor space and avoid obstacles while cutting the grass.
+• AI (robotics): The automated lawnmower uses sensors to navigate, which involves some level of AI for obstacle avoidance and path planning.
+• Not AI: While it does employ sensors and automation, it typically relies on predefined rules rather than machine-learning techniques) to move around and avoid collisions. Automated lawnmowers typically don't learn or adapt to their environment. Therefore, they are often categorised as robotics or automation rather than AI."
+In recent years many instances of bias have been identified in computer vision applications. Explain one method that could be used to reduce bias in these applications.,"Any one of the following:
+• Diversity of images used in training datasets – ensure that the training dataset is diverse enough to represent the target population
+• Equality of representation of target population in training dataset – ensure that the images used are representative of the target population
+• Size of training datasets – It is likely that larger datasets will result in more accurate models with less bias than models trained using smaller datasets.
+• Human in the loop e.g. ensure proper diversity of race, gender etc. in development team
+• Monitoring and Bias Auditing – continually monitor the training dataset to reflect changes in society and conduct bias audits to identify and address any biases that might have inadvertently crept in.
+• Any other reasonable method to reduce bias."
+"In 2023 an open letter published by the Future of Life Institute requested all AI labs to immediately pause for at least six months the training of very powerful AI systems. Interestingly, while the letter was signed by many well-known academics and industry leaders, there were many notable individuals and companies who did not publicly declare their support.
+Discuss the reasons for some people supporting the initiative to pause training and others not supporting the initiative.","Points for supporting the initiative:
+• Ethical concerns: time is needed to make sure that AI aligns with human values and doesn't compromise principles such as privacy, accountability, and fairness.
+• Jobs/Employment/Economy: the pace of current development of AI systems has the potential to put many jobs at risk and people out of work. Pausing development provides an opportunity to address the potential societal impact on employment and consider strategies such as reskilling and implementing policies to mitigate economic disparities.
+• Security Risks: Advanced AI systems, if developed without sufficient safeguards, pose potential security risks. Pausing development allows time to assess and address security concerns related to the misuse of AI, such as cyber threats, hacking, and the development of AI-driven weaponry.
+• Unintended Consequences: The complexity of advanced AI systems increases the risk of unintended consequences. Pausing development permits a more thorough evaluation of the potential risks and unintended outcomes, ensuring that AI is deployed responsibly and doesn't lead to unforeseen negative impacts on society.
+• Existential Threat: There are some who believe that the development of highly advanced AI systems (superintelligent AI) could potentially threaten the continued existence of humanity. A pause in AI would give more time to increase public awareness through open discussions about the risks and benefits of advanced AI systems.
+• Elaboration of any other reasonable point for pausing development of advanced AI systems
+
+Points against the initiative:
+• Innovation and Progress: Continued development of advanced AI fosters innovation, leading to breakthroughs in various fields, including healthcare, education, and scientific research. Pausing development could impede progress and delay the benefits that AI can bring to society.
+• Societal Advancements: AI has the potential to address complex societal challenges, such as climate change, healthcare disparities, and resource management. Halting development may hinder the application of AI in finding solutions to pressing global issues.
+• Competitive Disadvantage: Countries and organisations are in a race to develop and adopt AI technologies. Pausing development may result in a competitive disadvantage, with nations that continue AI advancements gaining a lead in economic, military, and technological spheres.
+• Job Creation and Economic Growth: While AI may lead to job displacement in certain sectors, it also has the potential to create new jobs and stimulate economic growth. Pausing development could limit the positive economic impact of AI, affecting industries that could benefit from increased efficiency and innovation.
+• Elaboration of any other reasonable point against pausing development of advanced AI systems"
+"The flowchart, shown in Figure 6 below, describes an algorithm that reads two values, swaps them, and then displays their new values.
+State the names of the two input variables.","Input variable 1: a
+Input variable 2: b
+Each correct response - 1 mark"
+"The flowchart, shown in Figure 6 below, describes an algorithm that reads two values, swaps them, and then displays their new values.
+Explain the purpose of the variable t.","t is a temporary variable used to store the value of a
+Without t, the contents of a would be lost when b is assigned to a
+Very good explanation - clear understanding demonstrated 3 marks
+Fair explanation - limited understanding 2 mark"
+Flowcharts are commonly used in the design process to describe algorithms. State one advantage and one disadvantage of using flowcharts.,"Advantages:
+They are easier to understand than code (especially for non-programmers).
+The visual representation of flowcharts clearly depicts the flow and logic of an algorithm.
+They are independent of any programming language.
+They are flexible tools used to represent algorithms during the design stage of the design process.
+
+Disadvantages:
+They take a significant amount of time to develop.
+They can become unwieldy for detailed and complex algorithms.
+Lack of standards can lead to ambiguity and cause confusion.
+
+For each advantage/disadvantage
+Very good explanation - clear understanding demonstrated 2 marks
+Fair explanation - limited understanding 1 mark"
+"The Python code below shows an implementation of the bubble sort algorithm.
+```python
+1 values = [50, 70, 30, 60, 20]
+2 for i in range(len(values)):
+3   for j in range(len(values)-1):
+4     if values[j] > values[j+1]:
+5       t = values[j+1]
+6       values[j+1] = values[j]
+7       values[j] = t
+8
+9 print(""OUTPUT:"", values)
+```
+State the data type of the variable, values.","the data type of the variable, values, is a list (array)
+Correct response 1 mark"
+"The Python code below shows an implementation of the bubble sort algorithm.
+```python
+1 values = [50, 70, 30, 60, 20]
+2 for i in range(len(values)):
+3   for j in range(len(values)-1):
+4     if values[j] > values[j+1]:
+5       t = values[j+1]
+6       values[j+1] = values[j]
+7       values[j] = t
+8
+9 print(""OUTPUT:"", values)
+```
+What is the index of the element 70?","the index of the element 70 is 1
+Correct response 1 mark"
+"The Python code below shows an implementation of the bubble sort algorithm.
+```python
+1 values = [50, 70, 30, 60, 20]
+2 for i in range(len(values)):
+3   for j in range(len(values)-1):
+4     if values[j] > values[j+1]:
+5       t = values[j+1]
+6       values[j+1] = values[j]
+7       values[j] = t
+8
+9 print(""OUTPUT:"", values)
+```
+What does the Python expression `len(values)` return?","the Python expression `len(values)` returns 5
+Correct response 1 mark"
+"The Python code below shows an implementation of the bubble sort algorithm.
+```python
+1 values = [50, 70, 30, 60, 20]
+2 for i in range(len(values)):
+3   for j in range(len(values)-1):
+4     if values[j] > values[j+1]:
+5       t = values[j+1]
+6       values[j+1] = values[j]
+7       values[j] = t
+8
+9 print(""OUTPUT:"", values)
+```
+What does the slice expression `values[2:4]` return?","the slice expression `values[2:4]` returns the list, [30, 60]
+Full correct response 2 marks
+Response with some merit 1 mark"
+"The Python code below shows an implementation of the bubble sort algorithm.
+```python
+1 values = [50, 70, 30, 60, 20]
+2 for i in range(len(values)):
+3   for j in range(len(values)-1):
+4     if values[j] > values[j+1]:
+5       t = values[j+1]
+6       values[j+1] = values[j]
+7       values[j] = t
+8
+9 print(""OUTPUT:"", values)
+```
+Explain why the expression `values[5]` would generate a runtime error.","the expression `values[5]` would generate a runtime error because the index 5 is out of bounds
+Very good explanation - clear understanding demonstrated 3 marks
+Fair explanation - limited understanding 2 mark"
+State one advantage and one disadvantage of sorting a data set.,"Advantages
+Binary search requires a dataset to be sorted
+Sorted data can be more user friendly e.g. social media timeline sorted by date/time, product catalogue sorted by cost etc.
+Sorted data can also make it easier for data analysis e.g. finding the median or quartiles of a set of data or identifying patterns/trends and outliers
+
+Disadvantages
+sorting algorithms can take time
+sorting algorithms can consume valuable computational resources such as CPU and memory.
+If a dataset is already sorted (or almost sorted) the time and resources spent on sorting may not provide significant benefits.
+The efficiency of sorting algorithms can vary dramatically depending on the size of the input dataset, and the size of the dataset may not always be known in advance. This places a burden on designers/programmers to have a detailed understanding of the sorting algorithm being used and an awareness of the implications under all circumstances.
+Once a dataset is sorted there is a cost to maintaining the dataset in a sorted state
+
+For each advantage/disadvantage
+Valid statement 3 marks"
+"The algorithm takes five passes to complete the bubble sort of the integers in values.
+Apply the bubble sort algorithm to sort values. Show the contents of values after each of the five passes.","Initial state of values: 50, 70, 30, 60, 20
+After pass 1: 50, 30, 60, 20, 70
+After pass 2: 30, 50, 20, 60, 70
+After pass 3: 30, 20, 50, 60, 70
+After pass 4: 20, 30, 50, 60, 70
+After pass 5: 20, 30, 50, 60, 70
+
+For each pass correctly completed 1 mark"
+"The algorithm takes five passes to complete the bubble sort of the integers in values.
+The bubble sort algorithm has $O(n^2)$ best and worst case time complexity. Explain what this means in terms of the number of compare operations performed.","In a list of size N the bubble sort algorithm performs N passes. On each pass it will perform N-1 compare operations. This gives a total of $N^2 - N$ operations. For large N this is approximately the same as $N^2$. Hence we write $O(N^2)$.
+The best-case scenario is when the input list is already sorted. The worst-case scenario is when the input list is in reverse order. In both scenarios bubble sort will also carry out the same number of comparisons.
+As the number of elements increases the number of compare operations increases quadratically (by a power of 2). For example, the number of compare operations carried out by a bubble sort algorithm on a list of size 5 would be of the order of 25. If you double the size of the input list, the number of compare operations could increase by a factor of four.
+
+Very good explanation - clear understanding demonstrated 5 marks
+Good explanation - clear information, lacking demonstration of full understanding 3 marks
+Fair explanation - limited understanding 1 mark"
+"The algorithm takes five passes to complete the bubble sort of the integers in values.
+Suggest one possible improvement that could be made to the algorithm that would reduce either the number of comparisons or the number of swaps required to complete the sort.","Enhancement 1 (reducing size of list by 1 on each pass)
+On the 1st pass the largest item in the list is moved to the rightmost position
+The 2nd pass moves the next largest item to the second last position
+Each pass moves the largest item remaining to its correct position towards the end of the list
+The standard algorithm continues to compare adjacent elements that are already sorted at the end (right) of the list even though they are already sorted.
+The algorithm can be enhanced by preventing these unnecessary comparisons.
+This can be achieved by reducing the number of adjacent compares by 1 on each pass as shown in the implementation below.
+
+L = [50, 20, 70, 40, 60]
+
+for i in range(len(L)):
+   for j in range(len(L)-i-1):
+        if L[j] > L[j+1]:
+            temp = L[j+1]
+            L[j+1] = L[j]
+            L[j] = temp
+
+OR
+
+Enhancement 2 (halting if no swaps made during any pass)
+An alternative enhancement can be achieved by introducing a 'flag' to indicate whether a swap was needed on a particular pass. If no swap was performed the list is deemed to be sorted and the algorithm can end regardless of the number of passes complete e.g. if the initial list is sorted there won't be any swaps on the 1st pass. Therefore, the algorithm can be terminated.
+
+L = [50, 20, 70, 40, 60]
+
+for i in range(len(L)):
+    swap = False
+    for j in range(len(L)-i-1):
+        if L[j] > L[j+1]:
+            temp = L[j+1]
+            L[j+1] = L[j]
+            L[j] = temp
+            swap = True
+    if swap == False:
+        break
+
+Very good explanation - clear understanding demonstrated 5 marks
+Good explanation - clear information, lacking demonstration of full understanding 3 marks
+Fair explanation - limited understanding 1 mark"
+"Alex wants to keep track of her collection of Dr. Seuss books in a database. So far, she has managed to design a single table called BOOKS and enter the records shown below.
+Explain the two terms, 'database' and 'record'.","Database:
+A database is a collection of structured data organized in a way such that the data can be easily and efficiently retrieved and maintained (added to, changed/updated and deleted).
+The data is organised into entities also known as tables which are structured sets of rows and columns. Each table typically correspond to a specific entity (person, place or thing) such as customer, country, order, product or book
+
+Record:
+Is a single row of data (also known as a tuple)
+Each record contains a set of related elements or fields
+
+For each term:
+Very good explanation - clear understanding demonstrated 2 marks
+Fair explanation - limited understanding 1 mark"
+"Alex wants to keep track of her collection of Dr. Seuss books in a database. So far, she has managed to design a single table called BOOKS and enter the records shown below.
+Suggest which field would be a good choice for the primary key for the BOOKS table. Justify your answer.","Primary Key: book_id
+Justify: The value of book_id is guaranteed to be unique for each separate record
+
+Primary Key correctly identified 1 mark
+Justification:
+Very good justification - clear understanding demonstrated 2 marks"
+"Alex wants to keep track of her collection of Dr. Seuss books in a database. So far, she has managed to design a single table called BOOKS and enter the records shown below.
+Identify any two data inconsistencies in the data shown in the BOOKS table.","Any two from the following:
+The use of the euro symbol in the cost field in record number 3 is inconsistent with the way cost is specified in the other records i.e. €10 versus 6.95, 8.95 and 9.95
+The name of the author in record number 3 is inconsistent with the names in the other records i.e. Doc Seus is inconsistent with Dr. Seuss
+The format used in the author_dob field in record numbers 1 and 3. A different format is used in records 2 (mm/dd, yyyy) and 4 (American, mm/dd/yyyy).
+The values used in the on_loan field are inconsistent. Yes and Y are used to indicate that a books 1 and 2 are out on loan whereas N and No are used to indicate books with id values of 3 and 4 are not on loan.
+
+Each correctly identified inconsistency 1 marks"
+"Alex wants to keep track of her collection of Dr. Seuss books in a database. So far, she has managed to design a single table called BOOKS and enter the records shown below.
+Assuming all data inconsistencies are fixed, enter the names of three fields from the BOOKS table in Column B that correspond to the data types shown in Column A.","Boolean: on_loan
+String: title, author, author_dob
+Real: cost
+Note: The above table shows the only acceptable answers
+Each correct response 1 mark"
+"Alex has decided to build a relational database that could be used by a library and has created two new tables called MEMBERS and LOANS. The MEMBERS table is used to store the library members and LOANS will be used to keep track of the books that are taken out on loan.
+Alex is working out her design on paper and has inserted some data into both tables as shown in Figure 7 below. For example, the first row of data in the LOANS table records the fact that Chloe borrowed Green Eggs and Ham on 20th May 2024.
+Use the information provided below to fill in the six empty cells with the correct values.
+Amy borrowed How the Grinch Stole Christmas! on 1st May 2024.
+Bill borrowed The Cat in the Hat on 18th May 2024.
+Chloe borrowed Horton Hears a Who! 7 days ago.","MEMBERS
+member_id member_name
+1 Amy
+2 Bill
+3 Chloe
+
+LOANS
+member_id book_id date_borrowed
+3 2 20/05/2024
+1 4 01/05/24
+2 1 18/05/2024
+3 3 13/05/2024
+
+Each correct response 1 mark"
+"Alex has decided to build a relational database that could be used by a library and has created two new tables called MEMBERS and LOANS. The MEMBERS table is used to store the library members and LOANS will be used to keep track of the books that are taken out on loan.
+Alex is working out her design on paper and has inserted some data into both tables as shown in Figure 7 below. For example, the first row of data in the LOANS table records the fact that Chloe borrowed Green Eggs and Ham on 20th May 2024.
+Identify and explain the use of one foreign key from the design shown in Figure 7.","Possible answers are:
+Foreign Key: member_id
+Explanation: This links the LOANS table with the MEMBERS table
+OR
+Foreign Key: book_id
+Explanation: This links the LOANS table with the BOOKS table
+
+Foreign Key correctly identified 1 mark
+Very good explanation - clear understanding demonstrated 3 marks
+Fair explanation - limited understanding 2 mark"
+"Alex has decided to build a relational database that could be used by a library and has created two new tables called MEMBERS and LOANS. The MEMBERS table is used to store the library members and LOANS will be used to keep track of the books that are taken out on loan.
+Alex is working out her design on paper and has inserted some data into both tables as shown in Figure 7 below. For example, the first row of data in the LOANS table records the fact that Chloe borrowed Green Eggs and Ham on 20th May 2024.
+Explain how the design shown in Figure 7 removes the need for the on_loan field from the BOOKS table.","The presence of a record in the LOANS table can be used to infer that a book is on loan. (Not only that, but the date the book was borrowed can also be looked up.) Therefore, there is no need to store this information in BOOKS.
+
+Very good explanation - clear understanding demonstrated 3 marks
+Fair explanation - limited understanding 2 mark"
+"Alex has decided to build a relational database that could be used by a library and has created two new tables called MEMBERS and LOANS. The MEMBERS table is used to store the library members and LOANS will be used to keep track of the books that are taken out on loan.
+Alex is working out her design on paper and has inserted some data into both tables as shown in Figure 7 below. For example, the first row of data in the LOANS table records the fact that Chloe borrowed Green Eggs and Ham on 20th May 2024.
+Relational databases reduce the amount of data redundancy. Explain the term 'data redundancy'.","Data redundancy refers to a situation where a single piece of data (or value) is stored in more than one place in a database. It usually occurs as a result of poor design and is considered bad practice as it can lead to data inconsistencies as well as inefficiency use of storage.
+
+Very good explanation - clear understanding demonstrated 3 marks
+Fair explanation - limited understanding 2 mark"
+"Alex is planning to use the database for a data analytics project. A data analytics project can be carried out in stages starting with a hypothesis.
+Suggest two possible hypotheses Alex could use her data analytics project to test.","Any two statements from the following:
+The most/least popular book is X.
+The most popular time/season to borrow books is Y
+A particular user demographics (e.g. age, gender, location) prefer certain types of books.
+Certain books (e.g. expensive books) are more likely to be returned on time than others.
+Member A is more likely to return their books in time than member B
+PR campaign results in an increase in borrowing of X%
+Any reasonable hypothesis presented as a statement.
+
+For each hypothesis:
+Very good explanation - clear understanding demonstrated 2 marks
+Fair explanation - limited understanding 1 mark"
+"Alex is planning to use the database for a data analytics project. A data analytics project can be carried out in stages starting with a hypothesis.
+Another stage in a typical analytics project is data cleaning. Name and describe two types of data errors that can be removed using data cleaning.","Any two from the following:
+Missing Values: Data entries that are incomplete or entirely absent can be filled in with appropriate values or removed if they are not critical.
+Duplicate Records: Repeated entries that skew analysis and statistics can be identified and eliminated to ensure each data point is unique.
+Inconsistent Formatting: Variations in data formatting (e.g. date formats, capitalisation, unit measurements) can be standardised for consistency.
+Outliers and Anomalies: Data points that deviate significantly from the norm can be investigated and corrected or removed if they are erroneous.
+Incorrect Data Types: Values that are in the wrong format or type (e.g. text in a numerical field) can be converted to the correct type or corrected as needed.
+Typographical Errors: Spelling mistakes, typographical errors, and other text inaccuracies can be corrected to ensure data consistency and accuracy.
+Inconsistent Categories: Categorical data that uses different labels for the same category (e.g. ""Y"" vs. ""Yes"") can be standardised to unify the categories.
+Any other relevant error e.g. Invalid entries - data that do not conform to the expected rules or ranges (e.g. negative ages, future dates for past events) can be identified and corrected or removed.
+
+For each type of error correctly identified 1 mark
+For each description:
+Very good description - clear understanding demonstrated 2 marks
+Fair description - limited understanding 1 mark"

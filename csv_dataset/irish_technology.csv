@@ -1,0 +1,280 @@
+problem,answer
+"Úsáid dátaí tachtchód friotóra chun luach an fhriotóra a thaíspeáint a ríomh.
+","| Banda friotóra: | Cód Lamhálais | Dathchód |
+|---|---|---|
+| Donn | 1% | Donn | 1 |
+| Dearg | 2% | Dearg | 2 |
+| Órga | 5% | Oráiste | 3 |
+| Airgead | 10% | Buí | 4 |
+|  |  | Glas | 5 |
+|  |  | Gorm | 6 |
+|  |  | Vialait | 7 |
+|  |  | Liath | 8 |
+|  |  | Bán | 9 |"
+"Úsáid dátaí tachtchód friotóra chun luach an fhriotóra a thaíspeáint a ríomh.
+Luach: 1000 Ω
+An luach is airde:
+An luach is ísle:
+","An luach is airde: 1050 Ω
+An luach is ísle: 950 Ω"
+"Ríomh an bhuntáistíocht mheicniúil atá ag forc-ardaítheoir atá ardaíonn sé ualach de 1800 kg le fórsa iarrachta de 200 N. Glac le g = 9.81 m/s².
+Ríomh:
+Buntáistíocht mheicniúil = Ualach /Iarracht
+```
+1800 x 9.81/200 = 17,658/200 = 88.29
+```","```
+1800 x 9.81/200 = 17,658/200 = 88.29
+```"
+"Agus é sna socróití chontaiti i titim voltais de 20 mA le haghaidh dé-óidí astaithe solais leDaonna.
+Taispeántar thíos an titim voltais le haghaidh balsc LEDanna daite.
+Dé-óid astaithe solais
+
+|  | LED Dearg | LED Oráiste | LED Buí | LED Glas |
+|---|---|---|---|---|
+| Titim voltais ag 20 mA | 1.8 V | 2.0 V | 2.3 V | 3.0 V |
+
+Agus na socróití a thugtar á n-úsáid agat, ríomh luach an fhriotóra cosanta is gá le haghaidh LED glas amháin i dtionscadal soilsithe 12 V.
+```
+R = (Vs - VLed)/I = (12 - 3) / 0.02 = 450 Ω
+```","```
+R = (Vs - VLed)/I = (12 - 3) / 0.02 = 450 Ω
+```"
+"Ceist 2 - Freagair 2(a) agus 2(b)
+2(a) (i) Ainmnigh trí fheiste a d'fhéadfaí a rialú le córas uathoibrithe baile.","Teirmeastait chliste le haghaidh téimh, córais soilsithe, córais ghlásála, cloigíní dorais, córais cheamara, sonaid braiteoirí gluaiseachta, rialú dallóg agus scáthánna, monatóirí deataigh agus CO, srl."
+"Ceist 2 - Freagair 2(a) agus 2(b)
+2(a) (ii) Mínigh conas a d'fhéadfaí éifeachtúlacht fuinnimh a fheabhsú trí chóras uathoibrithe baile a shuiteáil:","D'fhéadfadh sé go mbeadh múcadh uathoibrithe, rialú gutha ag socruithe, is féidir córais a chomhtháthú le rialú teochta nó soilsithe, is féidir monatóireacht a dhéanamh ar ídiú fuinnimh agus ar théamh uisce, bainistíocht cumhachta, cianobriú srl."
+"Ceist 2 - Freagair 2(a) agus 2(b)
+2(b) (i) Agus samplaí á n-úsáid agat, déan cur síos ar gach ceann de na páirteanna a leanas de chóras uathoibrithe baile:
+An mol rialaitheora:","An mol rialaitheora: déanfaidh an gléas seo córais uathoibrithe baile a bhainistiú agus a chomhtháthú. Soláthraíonn sé rialú láraithe, tacaíonn sé le comhoiriúnacht an ghléis, slándáil agus príobháideacht a chinntiú, d'fhéadfadh cumas na cianrochtana a bheith aige, srl."
+"Ceist 2 - Freagair 2(a) agus 2(b)
+2(b) (i) Agus samplaí á n-úsáid agat, déan cur síos ar gach ceann de na páirteanna a leanas de chóras uathoibrithe baile:
+Solas cliste agus teirmeastait:",Solas cliste agus teirmeastait: is féidir cianrialú nó rialú braiteora a bheith ag córais teasa agus soilsithe. Is féidir le córais eispeiris thumthacha a chruthú (soilsiú atmaisféarach nó idirghníomhaíocht)
+"Ceist 2 - Freagair 2(a) agus 2(b)
+2(b) (i) Agus samplaí á n-úsáid agat, déan cur síos ar gach ceann de na páirteanna a leanas de chóras uathoibrithe baile:
+Braiteoirí agus ceamaraí:","Braiteoirí agus ceamaraí: is féidir iad a úsáid chun taifeadadh, monatóireacht agus rialú a dhéanamh ar ghníomhaíocht."
+"Ceist 2 - Freagair 2(a) agus 2(b)
+2(b) (ii) Comhéadan úsáideora: is é seo an pointe idirghníomhaíochta idir úsáideoir agus córas ríomhaireachta, cuimsíonn sé méarchláir, scáileáin tadhaill, aithint gutha, srl.","Comhéadan úsáideora: is é seo an pointe idirghníomhaíochta idir úsáideoir agus córas ríomhaireachta, cuimsíonn sé méarchláir, scáileáin tadhaill, aithint gutha, srl."
+"Ceist 2 - Freagair 2(a) agus 2(b)
+2(b) (iii) Bluetooth: is caighdeán cumarsáide gan sreang é Bluetooth a éascaíonn malartú sonraí gearr-raoin idir gléasanna leictreonacha.",Bluetooth: is caighdeán cumarsáide gan sreang é Bluetooth a éascaíonn malartú sonraí gearr-raoin idir gléasanna leictreonacha.
+"Ceist 2 - Freagair 2(a) agus 2(b)
+2(iii) Tabhair breac-chuntas ar dhá bhealach chun príobháideachas agus slándáil sonraí a chosaint nuair a bhíonn córais uathoibrithe baile á n-úsáid.","Úsáid pasfhocal láidir, criptiú, nuashonruithe rialta, fíordheimhniú gléis, anbhraitheoiríocht a dhéanamh ar shocruithe príobháideachais, modhanna stórála sonraí a mheas, srl."
+"Ceist 2(c) NÓ 2(d)
+2(c) (i) Déan cur síos, agus sceitsí anótáilte á n-úsáid agat, ar chóras innealta chun dallóg rolláin a oscailt agus a dhúnadh.","Déan cur síos, agus sceitsí anótáilte á n-úsáid agat, ar chóras innealta chun dallóg rolláin a oscailt agus a dhúnadh."
+"Ceist 2(c) NÓ 2(d)
+2(c) (i) Déan cur síos, agus sceitsí anótáilte á n-úsáid agat, ar chóras innealta chun dallóg rolláin a oscailt agus a dhúnadh.
+An córas innealta chun dallóg rolláin a thíomáint go díreach ag mótar nó ag mótar giarbhosca chun luas a rialú. Déantar córais láimhe a thíomáint ag crios fiaclach nó ag slabhra tiomána plaisteach.",An córas innealta chun dallóg rolláin a thíomáint go díreach ag mótar nó ag mótar giarbhosca chun luas a rialú. Déantar córais láimhe a thíomáint ag crios fiaclach nó ag slabhra tiomána plaisteach.
+"Ceist 2(c) NÓ 2(d)
+2(c) (i) Déan cur síos, agus sceitsí anótáilte á n-úsáid agat, ar chóras innealta chun dallóg rolláin a oscailt agus a dhúnadh.
+Beidh mótar ag teastáil ó gach córas uathoibrithe chun tiomáint sa dá threo.",Beidh mótar ag teastáil ó gach córas uathoibrithe chun tiomáint sa dá threo.
+"Ceist 2(c) NÓ 2(d)
+2(c) (ii) Tabhair breac-chuntas ar dhá theoisc a mbíonn tionchar acu ar éifeachtúlacht mótair DC.","Tabhair breac-chuntas ar dhá theoisc a mbíonn tionchar acu ar éifeachtúlacht mótair DC.
+Teimpeallacht/teocht, cothabháil, aois, cáilíteanais mhaighnéadacha srl."
+"Ceist 2(c) NÓ 2(d)
+2(d) (i) Mínigh dhá cheann ar bith de na gnéithe cáilíochta seo: feidhmiú, comhréireacht, agus iontaofacht.
+Feidhmiú:","Mínigh dhá cheann ar bith de na gnéithe cáilíochta seo: feidhmiú, comhréireacht, agus iontaofacht.
+Feidhmiú:
+Ní mór don mhol a fheidhmeanna riachtanacha a dhéanamh gach uair ar bhealach éifeachtúil. D’fhéadfadh droch-chaighdeán a mheastar a bheith ann a bheith mar thoradh ar dhrochfheidhmíocht, rud a laghdódh a iomaíochas sa mhargadh."
+"Ceist 2(c) NÓ 2(d)
+2(d) (i) Mínigh dhá cheann ar bith de na gnéithe cáilíochta seo: feidhmiú, comhréireacht, agus iontaofacht.
+Comhréireacht:","Mínigh dhá cheann ar bith de na gnéithe cáilíochta seo: feidhmiú, comhréireacht, agus iontaofacht.
+Comhréireacht:
+a mhéid a chomhlíonann dearadh agus saintréithe oibriúcháin táirge caighdeáin bhunaithe."
+"Ceist 2(c) NÓ 2(d)
+2(d) (i) Mínigh dhá cheann ar bith de na gnéithe cáilíochta seo: feidhmiú, comhréireacht, agus iontaofacht.
+Iontaofacht:","Mínigh dhá cheann ar bith de na gnéithe cáilíochta seo: feidhmiú, comhréireacht, agus iontaofacht.
+Iontaofacht:
+Léiríonn an ghné seo an dóchúlacht go mbeidh táirge ag feidhmiú nó ag cliseadh laistigh de thréimhse ama shonraithe."
+"Ceist 2(c) NÓ 2(d)
+2(d) (ii) Mínigh gach go hachomair ceann de na céimeanna atá i dTImthriall Deming.
+Plean:","Mínigh gach go hachomair ceann de na céimeanna atá i dTImthriall Deming.
+Plean:
+Comhpháirteanna próiseas gnó a dhearadh nó a athbhreithniú chun torthaí a fheabhsú"
+"Ceist 2(c) NÓ 2(d)
+2(d) (ii) Mínigh gach go hachomair ceann de na céimeanna atá i dTImthriall Deming.
+Déan:","Mínigh gach go hachomair ceann de na céimeanna atá i dTImthriall Deming.
+Déan:
+An plean a chur i bhfeidhm agus a fheidhmíocht a thomhas"
+"Ceist 2(c) NÓ 2(d)
+2(d) (ii) Mínigh gach go hachomair ceann de na céimeanna atá i dTImthriall Deming.
+Seiceáil/Staidéar:","Mínigh gach go hachomair ceann de na céimeanna atá i dTImthriall Deming.
+Seiceáil/Staidéar:
+Measúnú a dhéanamh ar na tomhais agus na torthaí a huaisríodh do na cinnteoirí"
+"Ceist 2(c) NÓ 2(d)
+2(d) (ii) Mínigh gach go hachomair ceann de na céimeanna atá i dTImthriall Deming.
+Gníomhaigh:","Mínigh gach go hachomair ceann de na céimeanna atá i dTImthriall Deming.
+Gníomhaigh:
+Cinneadh a dhéanamh maidir le hathruithe a theastaíonn chun an próiseas a fheabhsú"
+"Ceist 3 - Freagair 3(a) agus 3(b)
+3(a) (i) Tabhair breac-chuntas ar dhá bhuntáiste a bhaineann le mullaigh sholúbtha a úsáid.","Tabhair breac-chuntas ar dhá bhuntáiste a bhaineann le mullaigh sholúbtha a úsáid.
+Is féidir iad a fheiceáil go héasca agus bíonn siad frithchaiteach istoíche, déantar iad a lúbadh gan briseadh, is lú damáiste a dhéantar d'fheithiclí a bhuaileann iad, srl."
+"Ceist 3 - Freagair 3(a) agus 3(b)
+3(a) (ii) Mol ábhar plaisteach cuí a úsáidtear chun na mullaigh seo a tháirgeadh.","Mol ábhar plaisteach cuí a úsáidtear chun na mullaigh seo a tháirgeadh.
+Polarópile/ABS/polacarbónáit/poileistir: ábhar plaisteach frithsheasmhach, is féidir iad a mhúnlú go héasca, is féidir iad a athchúrsáil más gá iad a athsholáthar, friotaíocht UV, srl."
+"Ceist 3 - Freagair 3(a) agus 3(b)
+3(b) (i) Déan cur síos ar chomhpháirtí ar bith d'oibríocht córais luchtaithe atá cumhachtaithe ag an bpríomhlíne agus ar chóras grianluchtaithe don e-rothar.","Déan cur síos ar chomhpháirtí ar bith d'oibríocht córais luchtaithe atá cumhachtaithe ag an bpríomhlíne agus ar chóras grianluchtaithe don e-rothar.
+Beidh gá le painéal gréine agus le luchtú gréine chun fuinneamh gréine a ghabháil, córais rialaitheora agus braiteora chun an lucht leictreach a phróiseáil. Déanfaidh an cadhnra an fuinneamh a bhailiú, a stóráil agus a dháileadh don rothar leictreach."
+"Ceist 3 - Freagair 3(a) agus 3(b)
+3(b) (i) Déan cur síos ar chomhpháirtí ar bith d'oibríocht córais luchtaithe atá cumhachtaithe ag an bpríomhlíne agus ar chóras grianluchtaithe don e-rothar.
+Is féidir córas luchtaithe príomhlíne a úsáid chun cur leis an gcadhnra nó chun lucht iomlán a thabhairt don chadhnra don rothar leictreach.",Is féidir córas luchtaithe príomhlíne a úsáid chun cur leis an gcadhnra nó chun lucht iomlán a thabhairt don chadhnra don rothar leictreach.
+"Ceist 3 - Freagair 3(a) agus 3(b)
+3(b) (ii) Tabhair breac-chuntas, agus sceitsí anótáilte á n-úsáid agat, ar dhá bhuntáiste a bhaineann le fráma rothair a tháirgeadh trína chomhbhru amhrú as miotal leatháin.","Tabhair breac-chuntas, agus sceitsí anótáilte á n-úsáid agat, ar dhá bhuntáiste a bhaineann le fráma rothair a tháirgeadh trína chomhbhru amhrú as miotal leatháin.
+Tá níos lú alt táthaithe ag an bhfráma fillte
+lena bhfágann sé struchtúr níos neartú.
+Is féidir an fráma a tolladh a úsáid chun cadhnraí agus ciorcaid a stóráil.
+Tá an struchtúr toll rioghain go fós éadrom, marthanach srl."
+"Ceist 3 - Freagair 3(a) agus 3(b)
+3(b) (iii) Ríomh an fuinneamh iomlán a ghineann painéal gréine laistigh de 4 uair an chloig le haschur 50 vata in aghaidh na huaire agus éifeachtúlacht 15%.
+
+Éifeachtúlacht 15% = 0.15
+Fuinneamh iomlán = (50 vata/uaire x 4 uair) x 0.15 = 30 vata/uaire","Ríomh an fuinneamh iomlán a ghineann painéal gréine laistigh de 4 uair an chloig le haschur 50 vata in aghaidh na huaire agus éifeachtúlacht 15%.
+
+Éifeachtúlacht 15% = 0.15
+Fuinneamh iomlán = (50 vata/uaire x 4 uair) x 0.15 = 30 vata/uaire"
+"Freagair 3(c) nó 3(d)
+3(c) (i) Tabhair breac-chuntas ar dhá chúis a n-úsáidtear snáithín carbóin do na hanlaí.","Tabhair breac-chuntas ar dhá chúis a n-úsáidtear snáithín carbóin do na hanlaí.
+In ann tuairt a sheasamh – ábhar dian, éadrom, is féidir é a dhathú, is féidir cruthanna casta a tháirgeadh, srl."
+"Freagair 3(c) nó 3(d)
+3(c) (ii) Déan comparáid idir monarú hanlaí feadánacha agus hanlaí snáithín carbóin agus tagairt agat do dhéantúsaíocht, do chomhtháthú gnéithe, agus do mhealltacht aeistéitiúil.","Déan comparáid idir monarú hanlaí feadánacha agus hanlaí snáithín carbóin agus tagairt agat do dhéantúsaíocht, do chomhtháthú gnéithe, agus do mhealltacht aeistéitiúil."
+"Freagair 3(c) nó 3(d)
+3(d) (i) Pléigh an méid a chuireann dhá ghné ar bith atá sa fhrámshamhail den chlogad le sábháilteacht an úsáideora.
+LIDAR / córas cumarsáide
+Na soilse LED
+Aghaidhsciath/Scáthlán tosaigh","Pléigh an méid a chuireann dhá ghné ar bith atá sa fhrámshamhail den chlogad le sábháilteacht an úsáideora.
+LIDAR / córas cumarsáide
+Na soilse LED
+Aghaidhsciath/Scáthlán tosaigh"
+"Freagair 3(c) nó 3(d)
+3(d) (ii) Tabhair breac-chuntas ar dhá bhuntáiste a bhaineann le priontáil 3T mar mhodh táirgthe le haghaidh líneáil inmheánach an chlogaid a bhfuil cumaí maolaithe turrainge ag baint léi.","Tabhair breac-chuntas ar dhá bhuntáiste a bhaineann le priontáil 3T mar mhodh táirgthe le haghaidh líneáil inmheánach an chlogaid a bhfuil cumaí maolaithe turrainge ag baint léi.
+D'fhéadfaí í a shaincheapadh do dhuine aonair le scanadh 3D, dramhaíl laghdaithe le déantúsaíocht breiseánach, déanfaidh sí teas a scaipeadh le dearadh mogallra, éadrom, srl."
+"Rogha 1 - Córais Rialaithe Fheidhmeach
+Freagair 1(a) agus 1(b)
+1(a) (i) Cad is lorg digiteach ann?","Tagraíonn lorg digiteach do rian na sonraí agus na faisnéise a fhágann daoine aonair ina ndiaidh agus iad i mbun gníomhaíochtaí ar líne. Is féidir sonraí pearsanta, roghanna, iompraíochtaí ar líne, agus patrúin chumarsáide a bheith i measc na ngnéithe a áirítear le lorg digiteach."
+"Rogha 1 - Córais Rialaithe Fheidhmeach
+Freagair 1(a) agus 1(b)
+1(a) (ii) Mol dhá fhoinse sonraí don IoB.","Gléasanna inchaithe (iorgairí, uaireadóirí cliste, srl.), Aipeanna gutháin, na meáin shóisialta, braiteoirí bithmhéadracha, ceamaraí agus córais mhonatóireachta, srl."
+"Rogha 1 - Córais Rialaithe Fheidhmeach
+Freagair 1(a) agus 1(b)
+1(b) (ii) Míonathrú:
+Cuir frithfheidhm, (cuimsitheach/comparáideach/léirithe) ordú leis nó cuir an t-aschur i ndiaidh an dara ordú comparáideach, chun an t-aisréadór a ghníomhachtú.","Mol bealach leictreonach chun an fhuaim choiscthe a dhéanamh.
+Callaire/dordánaí pisileictreach atá nasctha leis an mbraiteoir gluaiseachta."
+"Freagair 1(c) nó 1(d)
+1(c) (i) CAD:","CAD: Líníocht/dréachtú ríomhchuidithe
+CAM:
+CNC:"
+"Freagair 1(c) nó 1(d)
+1(c) (ii) Tabhair breac-chuntas ar oibríocht córais rialaithe lúbta.","Tugtar rialú aiseolais ar rialú lúbta freisin. Déantar an freagra nó an toradh a chur i gcomparáid go leanúnach leis an toradh atá ag teastáil. Déantar an t-aschur rialaithe a choigeartú chun aon diall a laghdú, cinntíonn sé seo go leanfaidh an freagra an toradh atá ag teastáil."
+"Freagair 1(c) nó 1(d)
+1(d) (i) Tarraing léaráid de chiorcad neomatach chun aisíorcóra débhealaigh a rialú.",
+"Freagair 1(c) nó 1(d)
+1(d) (ii) Comhla sreabhrialú, chun luas an reithe a ghníomhaiseacht ar aghaidh a rialú, le luas neamhshrianta ar fhilleadh.",
+"2(a) (i)
+Luchtare reangaithe le solátar cumhachta, nuair a dhéantar é a chasadh air, gineann sé sruth ailtéarnach (SA) i gcónaí lastigh den luchtare a tháirgeann réimse leictreamaighnéadach. Nuair a chuirtear an tú gléas ar an luchtare faigheann sé an réimse maighnéadach ón luchtare agus iompaíonn sé ina shruth SD chun an cadhnra a luchtú.
+
+Mol dhá bhuntáiste a bhaineann le feisti a luchtú gan sreang.","Aisíúíl, níos sábháilte agus déantar truipeáil a chosc, an iliomad gléasanna a luchtú le chéile, is féidir luchtú trí a chomhthúthú i dtroscán/feithiclí srl"
+"2(b) (i)
+Atarraing an léaráid chiorcaid chun aschur củl a bheith san áireamh inti.",[Circuit diagram]
+"2(b) (ii)
+Ríomh minicíocht an aschuir i gcás:
+$R_1 = 10$ kΩ, $R_2 = 60$ kΩ agus $C= 10 \mu F$.
+Nóta: $f = 1.44 / ((R_1 + 2R_2) \times C)$
+$f = 1.44 / ((R_1 + 2R_2) \times C) = 1.44 / ((10000 + (2 \times 60000)) \times 0.00001)$
+$1.44 / (130,000 \times 0.00001) = 1.44 / 1.3 \quad f = 1.107$ Hz
+","$f = 1.44 / ((R_1 + 2R_2) \times C) = 1.44 / ((10000 + (2 \times 60000)) \times 0.00001)$
+$1.44 / (130,000 \times 0.00001) = 1.44 / 1.3 \quad f = 1.107$ Hz"
+"2(c) (i)
+Luaigh neasfhriotaíocht an teirmeastair ag 0 °C.",On ngraf: $8 k\Omega$ (+/-1)
+Tabhair breac-chuntas ar buntáiste amháin ar mhíbhuntáiste amháin a bhaineann le tionchar sóisialta a bheith á imirt.,"Féachaint tairge, fionnachtain tairge, lascainí agus tairiscintí, fás brandaí."
+"Míbhuntáistí a bhaineann le tionchar sóisialta a bheith á imirt. Is féidir le hábhar bréagach, ábhar míthreorach, bealach maireachtála áirithe a léiriú a chuireann brú ar dhaoine óga é a bhaint amach srl.","Míbhuntáistí a bhaineann le tionchar sóisialta a bheith á imirt. Is féidir le hábhar bréagach, ábhar míthreorach, bealach maireachtála áirithe a léiriú a chuireann brú ar dhaoine óga é a bhaint amach srl."
+"Mínigh na téarmaí tionchaire meán sóisialta a leanas; spóíl (reels i mBéarla), formhuinithe (endorsements) agus naisc chleamhnaithe (affiliate links).","Spóíl: deis a thabhairt do thionchairí físeáin ghearra a chruthú agus a roinnt. Is iondúil go mbíonn siad idir 15 agus 60 soicind agus is féidir ceól, téacs, greamáin, agus éifeachtaí speisialta a áireamh leo. Is iondúil ar spóíl é thaispeáint ábhar oirthíochta agus curraingeach a mhaispeánint, lena n-áirítear ranganna teagaisc, dúshláin, agus sracfhéachaintí ar an méid a bhíonn ar siúl sa chúlra srl.
+
+Ráitis tacaíochta: tarlaíonn ráitis tacaíochta agus tarlaíonn conththiontscadaill nuair a théann tionchaire ar na meáin shóisialta i gcomhpháirtíocht le cuideachta chun a gcuid seirbhísí nó táirgí a chur chun cinn. Úsáideann an tionchaire a ardán chun ábhar a thaispeánann nó a thacaíonn leis an mbranda a chruthú. Is féidir é seo a dhéanamh trí phoist urraithe, físeáin, spóíl, scéalta srl.
+
+Naisc chleamhnaithe: is URLanna ar leith iad a chuireann brandaí nó cláir chleamhnaithe ar fáil do thionchairí. Nuair a roinneann an tionchaire an nasc lena lucht leanúna is féidir leo cliceáil air agus ceannach lascainithe a dhéanamh. Ansin tuilleann an tionchaire coimisiún nó céatadán den díolachán do gach ceannach ó dhuine len lucht leanúna."
+Mínigh an ghnóth fóin físeáin 4K de réir 30/60 fps.,Tá taifeach cothrománach thart ar 4000 picteilín ag físeáin 4K leis an gcaighdeán 3840 × 2160.
+"Seasann an ""fps"" in ""30/60 fps"" do ""frámaí in aghaidh an tsoicind."" Léiríonn sé líon na bhfrámaí nó na n-íomhánna aonair a thaispeántar i soicind amháin den fhíseán.","Seasann an ""fps"" in ""30/60 fps"" do ""frámaí in aghaidh an tsoicind."" Léiríonn sé líon na bhfrámaí nó na n-íomhánna aonair a thaispeántar i soicind amháin den fhíseán."
+"Déan cur síos, agus samplaí á n-úsáid agat, ar gach ceann de na córais chosanta seo a leanas:
+Ceantair slán (secure enclave) le haghaidh sonraí bithmhéadracha: limistéar tionnaithe arna scaoite laistigh d'ailtireacht crua-earraí nó bogearraí ar ghutháin atá deartha chun faisnéis bithmhéadrach logáil a stóráil, a phróiseáil agus a bhainistiú go daingean chun críocha fíordheimhnithe. Baineann sé seo go háirithe le gutháin nua ina n-úsáidtear sonraí bithmhéadracha, cuir i gcás méarloirg nó scanadh aghaidhe, go cosanta chun gléasanna a dhíghlasáil, idirbhearta a údarú agus slándáil fhoriomlán a fheabhsú.","Déan cur síos, agus samplaí á n-úsáid agat, ar gach ceann de na córais chosanta seo a leanas:
+Ceantair slán (secure enclave) le haghaidh sonraí bithmhéadracha: limistéar tionnaithe arna scaoite laistigh d'ailtireacht crua-earraí nó bogearraí ar ghutháin atá deartha chun faisnéis bithmhéadrach logáil a stóráil, a phróiseáil agus a bhainistiú go daingean chun críocha fíordheimhnithe. Baineann sé seo go háirithe le gutháin nua ina n-úsáidtear sonraí bithmhéadracha, cuir i gcás méarloirg nó scanadh aghaidhe, go cosanta chun gléasanna a dhíghlasáil, idirbhearta a údarú agus slándáil fhoriomlán a fheabhsú."
+"Prótacail chumarsáide atá slán:
+Tapaíonn prótacail chumarsáide atá slán do ghutháin do na modhanna agus na teicnící a úsáidtear chun slándáil, príobháideacht agus sláine na sonraí a tharchuirtear idir gléasanna móibíleacha agus córais eile a chinntiú. Áirítear leis seo úsáid HTTPS (Prótacal Aistrithe Hipirtéacs Slán), VPN (Líonra Príobháideach Fíorúil), srl.","Prótacail chumarsáide atá slán:
+Tapaíonn prótacail chumarsáide atá slán do ghutháin do na modhanna agus na teicnící a úsáidtear chun slándáil, príobháideacht agus sláine na sonraí a tharchuirtear idir gléasanna móibíleacha agus córais eile a chinntiú. Áirítear leis seo úsáid HTTPS (Prótacal Aistrithe Hipirtéacs Slán), VPN (Líonra Príobháideach Fíorúil), srl."
+"Cianriannú agus ciandíothú:
+Cumais chianrianaite, chianghlaisiala agus chiandiothiúite thrí ghnéithe cuir i gcás ""Aimsigh Mo Ghuthán"" chun gléas caillte a aimsiú agus sonraí íogaire a chosaint nó a bhaint.","Cianriannú agus ciandíothú:
+Cumais chianrianaite, chianghlaisiala agus chiandiothiúite thrí ghnéithe cuir i gcás ""Aimsigh Mo Ghuthán"" chun gléas caillte a aimsiú agus sonraí íogaire a chosaint nó a bhaint."
+Tabhair breac-chuntas ar dhá bhuntáiste a bhaineann sonraí a aistriú ag úsáid USB Cineál C.,"Tá nasc Cineál-C inchúlaithe (is féidir é a úsáid i gceachtar treo), tá luas aistrithe níos fearr aige, is féidir nascadh le go leor gléasanna srl."
+Mínigh gach ceann díobh seo a leanas i dtaca le naisc shláná.,Mínigh gach ceann díobh seo a leanas i dtaca le naisc shláná.
+"Criptiú sonraí: córas a athraíonn gnáth-théacs nó sonraí inléite i bhformáid neamh-inléite (rúnteacs) agus úsáid á baint as algartam agus eochair chriptiúcháin. Is é cuspóir an chriptithe sonraí faisnéis íogair a dhaingniú a fhágann go bhfuil sé deacair do dhaoine aonair nó d'eintitis neamhúdaraithe sonraí a rochtain, a thuiscint nó a ionramháil gan an eochair dhichriptiúcháin chuí.","Criptiú sonraí: córas a athraíonn gnáth-théacs nó sonraí inléite i bhformáid neamh-inléite (rúnteacs) agus úsáid á baint as algartam agus eochair chriptiúcháin. Is é cuspóir an chriptithe sonraí faisnéis íogair a dhaingniú a fhágann go bhfuil sé deacair do dhaoine aonair nó d'eintitis neamhúdaraithe sonraí a rochtain, a thuiscint nó a ionramháil gan an eochair dhichriptiúcháin chuí."
+VPN: Líonra Príobháideach Fíorúil - cuireann nasc shláná agus cripitithe a bhunú ar an idirlíon chun ligean d'úsáideoirí rochtain a fháil ar líonraí príobháideacha ó chian.,VPN: Líonra Príobháideach Fíorúil - cuireann nasc shláná agus cripitithe a bhunú ar an idirlíon chun ligean d'úsáideoirí rochtain a fháil ar líonraí príobháideacha ó chian.
+"Ilbhealaí dódhéantaeirson graitheanna balla doitéain chun slándáil a fheabhsú, áirítear orthu seo balla doitéain imlíne a churfidh bac ar thrácht mailíseach sula sroicheann sé an líonra inmheánach, balla doitéain inmheánach chun nasc a chur ar scalpeada bagairtí, cosnaíonn balla doitéain aípe seirbhísí ar leith, srl.","Ilbhealaí dódhéantaeirson graitheanna balla doitéain chun slándáil a fheabhsú, áirítear orthu seo balla doitéain imlíne a churfidh bac ar thrácht mailíseach sula sroicheann sé an líonra inmheánach, balla doitéain inmheánach chun nasc a chur ar scalpeada bagairtí, cosnaíonn balla doitéain aípe seirbhísí ar leith, srl."
+Mínigh an téarma cúléisteacht líonra agus na hiarmhairtí féideartha do ghnólacht.,Mínigh an téarma cúléisteacht líonra agus na hiarmhairtí féideartha do ghnólacht.
+"Cúléisteacht líonra: is éard is cúléisteacht líonra ann monatóireacht, léamh nó tascradh neamhúdaraithe ar chumarsáid líonra chun sonraí íogaire a ghabháil de ghnáth. Is minic a bhíonn si i bhfoirm faireachas eighleomnacha ach cuidítear leis le cumarsáid gan chriptiú.","Cúléisteacht líonra: is éard is cúléisteacht líonra ann monatóireacht, léamh nó tascradh neamhúdaraithe ar chumarsáid líonra chun sonraí íogaire a ghabháil de ghnáth. Is minic a bhíonn si i bhfoirm faireachas eighleomnacha ach cuidítear leis le cumarsáid gan chriptiú."
+"Iarmhairtí: caillteanas gnó, damáiste do chlú, caillteanas airgeadais agus caillteanas faisnéise rúnda.","Iarmhairtí: caillteanas gnó, damáiste do chlú, caillteanas airgeadais agus caillteanas faisnéise rúnda."
+"Is minic a bhíonn iomhanna, físeáin agus íbhfógraí ar líne. Luaigh iarimhir chomhadaim thipiciúil do gach ceann de na heilimintí atá liostaithe thuas.","Is minic a bhíonn iomhanna, físeáin agus íbhfógraí ar líne. Luaigh iarimhir chomhadaim thipiciúil do gach ceann de na heilimintí atá liostaithe thuas."
+"Iomhána: .jpeg, .jpg, .gif, .heic, .png","Iomhána: .jpeg, .jpg, .gif, .heic, .png"
+"Físeáin: .mp4, .mov, .wmv","Físeáin: .mp4, .mov, .wmv"
+"Fuaim: .m4a, .wav, etc.","Fuaim: .m4a, .wav, etc."
+"Tabhair breac-chuntas ar fheidhm dhá cheann ar bith de na cineálacha seirbhéalaí seo:
+Rialaitheoir Fearann: soláthraíonn sé fíordheimhniú láraithe agus rochtain agus cuntais úsáideoirí, bainistíonn sé beartais maidir le slándáil agus cumraíocht líonra.
+Freastalaí Comhed: déanann sé comhaid agus fillteáin a stóráil agus a eagrú, éascaíonn sé roinnt acmhainní agus bainistíonn sé ceadanna rialaithe.
+Freastalaí Feidhmchláir: soláthraíonn sé ardán chun feidhmeanna a óstáil agus a fhorghníomhú, bainistíonn sé úsáideoirí iomadúla.","Tabhair breac-chuntas ar fheidhm dhá cheann ar bith de na cineálacha seirbhéalaí seo:
+Rialaitheoir Fearann: soláthraíonn sé fíordheimhniú láraithe agus rochtain agus cuntais úsáideoirí, bainistíonn sé beartais maidir le slándáil agus cumraíocht líonra.
+Freastalaí Comhed: déanann sé comhaid agus fillteáin a stóráil agus a eagrú, éascaíonn sé roinnt acmhainní agus bainistíonn sé ceadanna rialaithe.
+Freastalaí Feidhmchláir: soláthraíonn sé ardán chun feidhmeanna a óstáil agus a fhorghníomhú, bainistíonn sé úsáideoirí iomadúla."
+"Roinn 4 - Córais Déantúsaíochta
+Freagair 4(a) agus 4(b)
+4(a)(i) Mínigh conas a úsáideann cuideachtaí na teicnící a leanas chun t nua a fhorbairt don mhargaidh:
+mapáil choincheapúil: teicníc taighde margaidh a chuireann ar chumas cuideachtaí a fheiceáil cén tuairim atá ag a gcustaiméirí ar a gcuid táirgí i gcomparáid le táirgí eile.
+Cuireann sí ar chumas cuideachta bearnaí a aimsiú sa mhargadh, breathnú ar sheasamh branda agus táirgí a bhforbairt.
+pléanáil acmhainne: Cuireann sí ar chumas cuideachta a chinntiú go bhfuil na hacmhainní agus na cumais is gá acu chun freastal ar an éileamh ar a gcuid táirgí nó seirbhísí. Is féidir leo an t-éileamh ar tháirgí nua amach anseo a thuar.
+(ii) Déan idirdhealú idir cáilitheoir ordaithe (order qualifier) agus buaiteoir ordaithe (order winner) nuair a bhíonn táirge á fhorbairt ag cuideachta.
+Comhlíonann cáilitheoir ordaithe na buncheanglais nó na saintréithe a lorgaíonn tomhaltóirí i dtáirge.
+Is éard is buaiteoir ordaithe ann táirge a bhfuil tréithe uathúla aige a chuireann ar leithligh ó na táirgí eile é agus a dhéanann níos inmhianaithe do thomhaltóirí é.",N/A
+"Roinn 4 - Córais Déantúsaíochta
+Freagair 4(a) agus 4(b)
+4(b)(i) Déan idirdhealú idir táirgeadh aonuaire, táirgeadh baise, agus olltáirgeadh, agus luaigh cén córas táirgthe is oiriúnaí chun an t-ordú seo a chomhlíonadh.
+Aonuaire: tionscadail aonuaire: is iondúil go dtáirgtear mír amháin nó líon íseal earraí, is féidir iad a bheith costasach, srl.
+Baistctháirgeadh: táirgí a tháirgtear le linn thréimhse áirithe ama mar go bhféadfadh luainiú teacht ar an éileamh ar na hearraí, táirgeacht íseal, úsáidtear é le haghaidh earraí sóirt a d’fhéadfadh athrú gach bliain srl.
+Olltáirgeacht: Déantar táirgí caighdeánacha a tháirgeadh i méideanna móra, bíonn an t-éileamh ard agus cobhsaí, úsáidtear é le haghaidh earraí leictreacha tí srl.
+Is oiriúnaí an baistctháirgeadh don ordú seo.
+(ii) Agus an t-eolas thuas á úsáid, tarraing graf chun costas cóimeála na dtrofaithe a thaispeáint agus úsáid á baint as rogha A agus rogha B.
+
+$BEQ \text{ (cainníocht chóimeála)} = \frac{\text{Costas Láimhe in aghaidh an aonaid}}{\text{costas uathoibrithe in aghaidh an aonaid - costas uathoibrithe in aghaidh an aonaid}}$
+
+$BEQ \text{ (cainníocht chóimeála)} = \frac{500}{8.5 - 0.15} = 60$
+
+Is iúriúnaí Rogha A do bhaisc 50 táirge.",N/A
+"Roinn 4 - Córais Déantúsaíochta
+Freagair 4(c) nó 4(d)
+4(c) (i) Tabhair breac-chuntas, agus samplaí á dtabhairt agat, ar an difríocht idir tástáil luathaithe chainníochtiúil agus tástáil luathaithe cháilíochtiúil.
+
+Tástáil luasghéaraithe chainníochtiúil: déirionn sí an anailís a dhéanamh ar pharaiméadair intomhaiste i gcás airíonna ábhartha, rátaí feidhmíochta agus teipe. Déanfaidh siad seo feidhmíocht táirgí a thuar i gcaitheamh tréimhse fhada.
+
+Tástáil luasghéaraithe cháilíochtiúil: féachann sí le tréithe iomprórlána foriomlána agus teipe táirge faoi dhálaí luasghéaraithe a thuiscint. Bionn táirgí faoi réir tástála struis freisin ach bíonn níos mó bhreathnú ar ghnéithe cháilíochtúla cuir i gcás cigireachtaí amhairc, measúnuithe ar chaitheamh agus cumais an uais shubiachtúla.
+(ii) Mínigh gach ceann de na príomhschéimeanna a bhaineann le cuar an tobáin folctha agus tagairt á déanamh agat d’iontaofacht táirge ag gach céim.
+A - léirítear rátaí teipe luatha a laghdaíonn go tapa de réir mar a cheartaítear lochtanna. Beidh iontaofacht neamhleoitor ag roinnt táirgí luatha.
+B - tá ráta teipe íseal aige, tá an táirge iontaofa.
+C - is é an chéim chaite é nuair a thagann méadú ar theipeanna agus nuair a éiríonn iontaofacht ina saincheist suntasach de réir mar a éiríonn an táirge níos lú iontaofa mar gheall ar sheirbhís leathnaithe de ghnáth.",N/A
+"Roinn 4 - Córais Déantúsaíochta
+Freagair 4(c) nó 4(d)
+4(d) (i) Ainmnigh agus déan cur síos ar gach ceann de na céimeanna saolré A, B, C, agus D.
+Tar éis an taighde agus an fhorbairt go léir a chríochnú, seoltar an táirge. Seans gur beag táirge eile atá ann ar an dúl leis an táirge atá á sheoladh agus gur beag éileamh atá air ar dtús toisc go dtfógfaidh sé am ar an margadh glacadh le táirge nua.
+
+B - Fás: Glacann an margadh leis an táirge tosaíonn díolacháin ag dul i méid. Seans go dteastaíonn ón gcuideachta cúpla athrú chun feabhas a dhéanamh ar an táirge le go bhfanfadh sé iomaíoch.
+C - Aibíocht: Baineann díolacháin a mbuaicphointe amach. Isteach le hiomaíocht i ngeall ar an margadh agus réitigh eile a dtáiriscinnt acu is téann an iomaíocht i ngéire.
+D - Meath: Téann díolacháin in léig de réir mar a thagann saghsúiltiú ar an éileamh. Baintear mórcuid na dtáirgí den mhargadh de réir a chéile agus an oireann sé seo toisc díolacháin a bheith ag dul i léig agus an brú atá ann ó iomaíocht. Caitfidh an margadh leis an táirge mar sheanrud ansin nach bhfuil toir air a thuilleadh.
+(ii) Taispeántas saolré uasdátaithe don táirge stíle grúaige.
+Léiríonn sé sin athrú suntasach ag céim D den táirge.
+
+Mol dhá chúis a d’fhéadfadh a bheith leis an athrú seo.",N/A
+5(a) (i) Luaigh dhá chúis le pacáistiú brandáilte a úsáid.,"Cruthaíonn sé foimse fógraíochta cuideachta, is féidir leis tairge a dhéanamh níos tarraingtí, d’fhéadfadh luach níos mó a bheith aige ná mar atá ag pacáistiú ginearálta, srl."
+5(a) (ii) Tabhair breac-chuntas ar dhá chúis a mbaintear úsáid leathan as cairtchláir rocach i dtionscal na pacáistíochta.,"Ábhar láidir agus éadrom, maolaíonn sé tuairt, is féidir táirgí a stóráil agus a chruachadh go héifeachtach, is féidir táirge a athúsáid, is féidir é a athchúrsáil, tá sé inmhúirithe, srl."
+"5(b) (i) Déan idirdhealú idir teirmeaplaistigh agus plaistigh theirmeadhachta.
+Teirmeaplaistigh: múnlaítear iad seo i gcruth agus is féidir iad a athchúrsáil ansin nuair atá n-úsáid tosaigh críochnaithe.
+Plaistigh theirmeadhachta: Déantar táirgí plaisteacha a mhúnlú i gcruth lena n-úsáid go buan, ní féidir iad a athchúrsáil.","Déan idirdhealú idir teirmeaplaistigh agus plaistigh theirmeadhachta.
+Teirmeaplaistigh: múnlaítear iad seo i gcruth agus is féidir iad a athchúrsáil ansin nuair atá n-úsáid tosaigh críochnaithe.
+Plaistigh theirmeadhachta: Déantar táirgí plaisteacha a mhúnlú i gcruth lena n-úsáid go buan, ní féidir iad a athchúrsáil."
+"5(b) (ii) Déan cur síos, agus sceitsí anoitáilte á n-úsáid agat, ar mhodh oiriúnach olltáirgeachta chun an chásáil lasmuigh den scanóir barrchód a tháirgeadh.","Déan cur síos, agus sceitsí anoitáilte á n-úsáid agat, ar mhodh oiriúnach olltáirgeachta chun an chásáil lasmuigh den scanóir barrchód a tháirgeadh."
+"5(c) (i) Déan cur síos ar thrí chrí i ndéanamh bosca bronntanais, cosúil leis an gceann a taispeántar, agus teicnící ceardaíochta de láimh á n-úsáid.","Déan cur síos ar thrí chrí i ndéanamh bosca bronntanais, cosúil leis an gceann a taispeántar, agus teicnící ceardaíochta de láimh á n-úsáid."
+5(c) (ii) Tabhair breac-chuntas ar theicníc uainithe chearta a cuideachta ar an mbosca bronntanais.,Tabhair breac-chuntas ar theicníc uainithe chearta a cuideachta ar an mbosca bronntanais.
+5(d) (i) Luaigh dhá chúis eile le PET a úsáid már ábhar pacáistithe bia.,Luaigh dhá chúis eile le PET a úsáid már ábhar pacáistithe bia.
+"5(d) (ii) Déan cur síos, agus sceitsí anoitáilte á n-úsáid agat, ar mhodh chun an pacáiste ar na sútha talún a taispeántar a fhoirmiú as leathán PET.","Déan cur síos, agus sceitsí anoitáilte á n-úsáid agat, ar mhodh chun an pacáiste ar na sútha talún a taispeántar a fhoirmiú as leathán PET."

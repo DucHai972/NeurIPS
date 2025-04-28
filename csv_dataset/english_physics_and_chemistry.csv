@@ -1,0 +1,177 @@
+problem,answer
+State Newton’s law of gravitation.,force between (any) two (point) masses is proportional to the product of their masses and inversely proportional to the square of the distance (between their centres) or $F \propto \frac{GMm}{d^2}$ correct notation
+Explain how the addition of velocities is different to the addition of masses.,"velocity is a vector, mass is a scalar"
+"The diagram on the right shows a golf ball at rest on a horizontal surface 1.5m from a hole. A golfer hits the ball so that it moves horizontally with an initial velocity of 1.2ms$^{-1}$. The ball decelerates at 0.4 m s$^{-2}$ as it travels to the hole.
+Calculate the velocity of the ball when it reaches the edge of the hole.",$v = \sqrt{u^2 + 2as} = \sqrt{1.2^2 + 2(-0.4)(1.5)}$  $v = 0.49$ (m s$^{-1}$)
+Calculate how much work is done when a mass of 60kg is raised vertically to a height of 8 m.,"$W = Fs$ or $W = mgh$
+$W = 60 \times 9.8 \times 8 = 4704(J)$"
+"In order to probe muscle tissue in the human body ultrasound waves with a wavelength of 0.4mm and a speed of 1580ms$^{-1}$are used.
+Calculate the frequency of this ultrasound wave.",$f = \frac{c}{\lambda}$  $f = \frac{1580}{4 \times 10^{-4}}$  $f = 3.95 \times 10^6$ (Hz)
+"The graph on the right shows the displacement s of a wave over time t. What is (i) the amplitude, (ii) the frequency of this wave?","(i) amplitude = 8 (m), (ii) frequency = 0.1 (Hz)"
+"Three resistors 2 $\Omega$, 3 $\Omega$ and4 $\Omega$ are arranged in parallel. Calculate the total resistance.","$\frac{1}{R} = \frac{1}{R1} + \frac{1}{R2} + \frac{1}{R3}$, $\frac{1}{R} = \frac{1}{2} + \frac{1}{3} + \frac{1}{4}$, $\frac{1}{R} = \frac{13}{12}$, $R = \frac{12}{13} = 0.923(\Omega)$"
+A deuterium nucleus and a tritium nucleus fuse together to form a helium nucleus and particle X as shown by the equation: $^2_1H + ^3_1H \rightarrow ^4_2He + X$. Identify X.,n / neutron
+"State the principle of mass-energy conservation.
+(in nuclear reactions) the mass plus energy of the reactants equals the mass plus energy of the products",$E = mc^2$
+What is meant by acceleration?,rate of change of velocity / $a = \frac{v-u}{t}$
+State Newton's second law of motion.,the rate of change of momentum is proportional to the force acting and (takes place) in the direction of the force // F and in same direction
+"Use Newton’s second law of motion to derive an equation which shows the relationship between force, mass and acceleration.","$F \propto \frac{m(v-u)}{t} / F \propto ma$ when k = 1 (in SI system)
+$F \propto ma / F = ma$"
+"The diagram on the right shows a jet engine. Air of mass 195 kg enters at X, is heated and then exits at Y. The speed of the air mass increases by 460 m s$^{-1}$in 0.75s as it passes through the engine.
+Calculate (a) the acceleration of the air mass,",$a = \frac{460}{0.75} = 613.3ms^{-2}$
+"The diagram on the right shows a jet engine. Air of mass 195 kg enters at X, is heated and then exits at Y. The speed of the air mass increases by 460 m s$^{-1}$in 0.75s as it passes through the engine.
+Calculate (b) the force the air mass exerts on the engine.",$F = (195)(613.3) = 119600 N$ (to the left)
+"An experiment to demonstrate the relationship between the acceleration a of a trolley when a force F is applied to it was carried out. The following data were collected. Each force F was applied to the trolley, which was initially at rest and the final velocity was measured.
+Calculate the mass that had been accelerated.","$slope = \frac{Y_2 - Y_1}{X_2 - X_1} = \frac{6 - 3}{1 - 0.5}$, $mass = 0.17$ kg"
+The acceleration of the trolley was 3 m s$^{-2}$ for a time of 1.9 s. Calculate the final velocity of the trolley.,"$v = u + at$
+$v = 0 + (3)(1.9) = 5.7$ m s$^{-1}$"
+"An object is placed 30cm in front of a concave mirror with a focal length of 40 cm.
+Calculate (a) the image distance from the mirror,","$\frac{1}{f} = \frac{1}{u} + \frac{1}{v}$, $\frac{1}{40} = \frac{1}{30} + \frac{1}{v}$ , $\frac{1}{v} = -\frac{1}{120}$, $v = -120$cm"
+"An object is placed 30cm in front of a concave mirror with a focal length of 40 cm.
+Calculate (b) the object height, if the image produced is 18cm high.","$m = \frac{v}{u} / m = \frac{120}{30} = 4$
+height of object = $\frac{18}{4} = 4.5cm$"
+"A different concave mirror produces a real image with a magnification of 3 when the object is placed 30 cm in front of it.
+Calculate the focal length of this mirror.","$v = 90 (cm)$
+$\frac{1}{f} = \frac{1}{u} + \frac{1}{v} = \frac{1}{30} + \frac{1}{90} = \frac{4}{90}$
+$f = 22.5$ cm"
+Use the slope of the graph to find this constant temperature T.,"$m = \frac{y_2 - y_1}{x_2 - x_1}$
+$m = \frac{(9.9-5.1)\times10^3}{4 - 2} = 2.425 \times 10^3$
+$PV = nRT / T = \frac{PV}{nR}$
+$T = \frac{slope}{R} = \frac{2.425\times10^3}{8.31} \approx 292$ K"
+How many moles of the gas would be present if the pressure was 7 x 10$^5$ Pa and the volume 0.2 m$^3$ at constant temperature T?,"$PV = (7\times10^5)(0.2) = 1400$ // $PV = nRT / (7 \times 10^5)(0.2) = n(8.31)(292)$
+use graph to get n = 0.6 (moles) // n = 0.6 (moles)"
+Define electrical resistance.,ratio of voltage to current / $R = \frac{V}{I}$
+What is the unit of electrical resistance i.e. the ohm.,the ohm.
+the resistance of a conductor is 1 ohm if a current of 1 ampere flows through it when the potential difference (between its ends) is 1 volt,the resistance of a conductor is 1 ohm if a current of 1 ampere flows through it when the potential difference (between its ends) is 1 volt
+Suggest two properties of a wire coil which would determine the size of its resistance.,diameter or thickness or area / length / type of material or resistivity
+"A current $I$ was allowed to flow through the coil for a fixed length of time and the rise in temperature $\Delta \theta$ was recorded. This was repeated for different values of the current $I$. The following data were recorded:
+Draw a graph, on graph paper, that shows the relationship between $I^2$ and $\Delta \theta$.","current values squared, axes labelled, scale correctly drawn, points correctly plotted, straight line through the origin"
+"A current $I$ was allowed to flow through the coil for a fixed length of time and the rise in temperature $\Delta \theta$ was recorded. This was repeated for different values of the current $I$. The following data were recorded:
+Hence, or otherwise, describe the relationship between the change in temperature and the current.",$\Delta \theta \propto I^2$
+"A current $I$ was allowed to flow through the coil for a fixed length of time and the rise in temperature $\Delta \theta$ was recorded. This was repeated for different values of the current $I$. The following data were recorded:
+Use your graph to determine the size of the current flowing when the rise in temperature is 6 °C.","line shown from 6 °C on temperature axis, $I^2$ = 5 => $I = \sqrt{5}$ = 2.2 A"
+"The diagram shows a transformer with 9200 turns in its primary coil. The primary coil is connected to a 230V mains supply. A 6.0V lamp connected to the secondary coil operates at full brightness.
+Calculate the number of turns in the secondary coil.","$\frac{N_p}{N_s} = \frac{V_p}{V_s}$, $\frac{9200}{N_s} = \frac{230}{6}$, $N_s = \frac{6}{230} 9200$, $N_s$ = 240 turns"
+"The diagram shows a transformer with 9200 turns in its primary coil. The primary coil is connected to a 230V mains supply. A 6.0V lamp connected to the secondary coil operates at full brightness.
+Calculate the current in the primary circuit, if the current in the lamp is 0.23A.","$V_pI_p = V_sI_s$, $230 \times I = 6 \times 0.23 => I_p = 0.006 A$"
+"A transparent semicircular block has a ray of light $AB$ directed at the centre of the flat edge of the block. The diagram below shows the path of the ray through the block and the emerging ray $CD$.
+State why the emerging ray $CD$ does not change direction as it leaves the block.
+(a) the angle of incidence, $90° - 24° = 66°$
+(b) the angle of refraction. $90° - 50° = 40°$","(a) the angle of incidence, $90° - 24° = 66°$
+(b) the angle of refraction. $90° - 50° = 40°$"
+"A transparent semicircular block has a ray of light $AB$ directed at the centre of the flat edge of the block. The diagram below shows the path of the ray through the block and the emerging ray $CD$.
+Calculate the refractive index of the block.","$n = \frac{sin i}{sin r}$, $n = \frac{sin 66}{sin 40}$, $n = 1.42$"
+"A transparent semicircular block has a ray of light $AB$ directed at the centre of the flat edge of the block. The diagram below shows the path of the ray through the block and the emerging ray $CD$.
+Determine the critical angle of the block.","$n = \frac{1}{sin C}$, $n = 1.42 => C = 44.8°$"
+"The diagram on the right shows a magnet with poles $X$ and $Y$ supported by a frame placed on an electronic mass balance which shows a reading of 7.980g. When the current $I$ flows in the wire the balance reads 8.620g.
+Explain the change in the reading on the balance when the current $I$ flows in the wire.",(the wire experiences a) downward force(changing the weight recorded on the balance)
+"The graph on the right shows the decay curve for a particular radioactive substance.
+What term is used to describe the time taken for the activity (count rate) of a radioactive isotope to reduce by 50%?",half-life
+"The graph on the right shows the decay curve for a particular radioactive substance.
+Use the graph to determine this time.","2200 ÷ 2 =1100, 2 s"
+"The graph on the right shows the decay curve for a particular radioactive substance.
+Predict the value of the count rate 1.5 s from the start of the measurements.",≈1300 (counts per second)
+"The graph on the right shows the decay curve for a particular radioactive substance.
+How long will it take the count rate to decrease by 75%?","2 x half-life // 2200 ÷ 4 = 550, 4 s"
+How many molecules are in 6g of $N_2$ gas?,"$\frac{6}{28}$ / 0.214 (moles), $0.214 \times 6 \times 10^{23} = 1.29 \times 10^{23}$ (molecules)"
+Define the first ionisation energy of an element.,minimum energy required to remove the most loosely bound or outermost electron from one mole of atoms (in its neutral gaseous state)
+"The following equation describes the process occurring when the first ionisation energy of sodium is measured.
+Write an equation to describe the process occurring when the first ionisation energy of sodium is measured.
+$Na_{(g)} \rightarrow Na_{(g)}^{+} + e^{-}$",$Na_{(g)} \rightarrow Na_{(g)}^{+} + e^{-}$
+"The first 10 successive ionisation energies of element X are shown on the right.
+Explain why there is such a large increase in energy from the fifth to the sixth ionisation energies.",the sixth electron is being removed from a full shell/energy level which is stable
+"The first 10 successive ionisation energies of element X are shown on the right.
+Use the graph to estimate this increase in energy.",15000 kJ mol$^{-1}$
+"The first 10 successive ionisation energies of element X are shown on the right.
+Identify element X if it occurs in period 3 of the periodic table. Justify your answer.","P/ phosphorus
+P (is in period 3 and) has 5 electrons in its n=3 main energy level or outer energy level"
+"The first 10 successive ionisation energies of element X are shown on the right.
+How many ionisation energies in total will this element X have?",15 ionisation energies
+"The first 10 successive ionisation energies of element X are shown on the right.
+Write the s,p electronic configuration of element X.",$1s^2 2s^2 2p^6 3s^2 3p^3$ / $3s^2 3p_x 1 3p_y 1 3p_z 1$
+"The first 10 successive ionisation energies of element X are shown on the right.
+What is the lowest ionisation energy that will remove an electron from a full sublevel?
+Explain your answer.","~5000 kJ mol$^{-1}$
+fourth ionisation energy"
+Define relative atomic mass.,"average mass of an atom of an element
+taking their abundance into account
+relative to $^{12}C^{th}$ the mass of a C-12 isotope"
+"A sample of chromium contains four isotopes and has a relative atomic mass of 52.09.
+The mass numbers and % abundance of three of the isotopes are given in the following table.
+Determine the % abundance of the fourth isotope.",100 – (82.8 + 10.9 + 2.7) = 3.6%
+"A sample of chromium contains four isotopes and has a relative atomic mass of 52.09.
+The mass numbers and % abundance of three of the isotopes are given in the following table.
+Determine the mass number of the fourth isotope.","$\frac{52(82.8) + 53(0.109) + 54(0.027) + x(0.036)}{100} = 52.09$
+x = 50"
+"A solution of $H_2SO_4$ contains 1.96g of $H_2SO_4$ in one litre of solution.
+Calculate the molarity of the solution.",$\frac{1.96}{98} = 0.02$(moles per litre)
+"A solution of $H_2SO_4$ contains 1.96g of $H_2SO_4$ in one litre of solution.
+Calculate the pH of a solution of $H_2SO_4$ containing 1.96g in one litre of solution.","2 x 0.02 / 0.04 // pH = -log[$H^+$]
+pH = -log (0.04) = 1.4"
+"To determine the ammonia concentration in a household cleaning product a chemist diluted 20cm$^3$ of the product to 500cm$^3$ using deionised water.
+25cm$^3$ portions of the diluted solution were titrated against 0.15M $H_2SO_4$.
+On average, 13.2cm$^3$ of 0.15M $H_2SO_4$ were required to neutralise the 25cm$^3$ portions of the diluted $NH_4OH$ solution.
+Calculate the concentration of the diluted $NH_4OH$ solution in moles per litre.","$\frac{M_1V_1}{n_1} = \frac{M_2V_2}{n_2}$
+$\frac{M_1*25}{1} = \frac{13.2*0.15}{2}$
+$M_1 = 0.1584$ (moles per litre)
+or
+Moles $H_2SO_4$ in 13.2cm$^3$ of 0.15M $H_2SO_4$ = (13.2x0.15 /1000) = 1.98x$10^{-3}$
+Moles $NH_4OH$ in 25 cm$^3$ = 2x1.98x$10^{-3}$ = 3.96x$10^{-3}$
+Moles $NH_4OH$ in 1l = 0.1584"
+"To determine the ammonia concentration in a household cleaning product a chemist diluted 20cm$^3$ of the product to 500cm$^3$ using deionised water.
+25cm$^3$ portions of the diluted solution were titrated against 0.15M $H_2SO_4$.
+On average, 13.2cm$^3$ of 0.15M $H_2SO_4$ were required to neutralise the 25cm$^3$ portions of the diluted $NH_4OH$ solution.
+Calculate the molarity of the original solution.",0.1584x 25 = 3.96 moles per litre
+"To determine the ammonia concentration in a household cleaning product a chemist diluted 20cm$^3$ of the product to 500cm$^3$ using deionised water.
+25cm$^3$ portions of the diluted solution were titrated against 0.15M $H_2SO_4$.
+On average, 13.2cm$^3$ of 0.15M $H_2SO_4$ were required to neutralise the 25cm$^3$ portions of the diluted $NH_4OH$ solution.
+Calculate the mass of ammonia ($NH_3$) per 100cm$^3$ of the cleaning product solution.",3.96 x 17 = 67.32g per litre=6.73 (g per 100cm$^{-1}$)
+"Calculate how many Faradays of electricity are transferred,",0.4 moles of electrons ==> 0.4 (Faradays)
+Calculate coulombs of charge pass.,0.4 x 96485.3383 = 38594.13532(C) / 38594(C)
+The energy lost by an electron is 3.028 x $10^{-19}$ J during a transition. Calculate the frequency of the light emitted.,"3.028 x $10^{-19}$ = (6.626x$10^{-34}$)*f
+4.  57 x $10^{14}$Hz"
+"A mixture of magnesium oxide MgO and magnesium hydroxide $Mg(OH)_2$has a mass of 4.8 g. The mixture is reacted with $CO_2$ to form $MgCO_3$ according to the following equations:
+$MgO + CO_2 \rightarrow MgCO_3$
+$Mg(OH)_2 + CO_2 \rightarrow MgCO_3 + H_2O$
+The mass of water produced is 0.315g.
+How many moles of water are produced?","1 mole $H_2O$ = 18(g)
+$\frac{0.315}{18}$ = 0.0175 (moles)"
+"A mixture of magnesium oxide MgO and magnesium hydroxide $Mg(OH)_2$has a mass of 4.8 g. The mixture is reacted with $CO_2$ to form $MgCO_3$ according to the following equations:
+$MgO + CO_2 \rightarrow MgCO_3$
+$Mg(OH)_2 + CO_2 \rightarrow MgCO_3 + H_2O$
+The mass of water produced is 0.315g.
+How many grams of $Mg(OH)_2$is present in the mixture?","1 mole $Mg(OH)_2$ = 58(g)
+0.  0175 x 58 = 1.015(g)"
+"A mixture of magnesium oxide MgO and magnesium hydroxide $Mg(OH)_2$has a mass of 4.8 g. The mixture is reacted with $CO_2$ to form $MgCO_3$ according to the following equations:
+$MgO + CO_2 \rightarrow MgCO_3$
+$Mg(OH)_2 + CO_2 \rightarrow MgCO_3 + H_2O$
+The mass of water produced is 0.315g.
+What mass of MgO is in the mixture?",4.8 – 1.015 = 3.785(g)
+"A mixture of magnesium oxide MgO and magnesium hydroxide $Mg(OH)_2$has a mass of 4.8 g. The mixture is reacted with $CO_2$ to form $MgCO_3$ according to the following equations:
+$MgO + CO_2 \rightarrow MgCO_3$
+$Mg(OH)_2 + CO_2 \rightarrow MgCO_3 + H_2O$
+The mass of water produced is 0.315g.
+How many moles of $CO_2$ are required for each of the reactions above?","$\frac{3.785}{40}$ = 0.094625 (moles of $CO_2$)
+0.  0175 (moles of $CO_2$)"
+"A mixture of magnesium oxide MgO and magnesium hydroxide $Mg(OH)_2$has a mass of 4.8 g. The mixture is reacted with $CO_2$ to form $MgCO_3$ according to the following equations:
+$MgO + CO_2 \rightarrow MgCO_3$
+$Mg(OH)_2 + CO_2 \rightarrow MgCO_3 + H_2O$
+The mass of water produced is 0.315g.
+What is the total volume of $CO_2$ at STP that is required?",0.112125 x22.4 = 2.5116(L)
+"A mixture of magnesium oxide MgO and magnesium hydroxide $Mg(OH)_2$has a mass of 4.8 g. The mixture is reacted with $CO_2$ to form $MgCO_3$ according to the following equations:
+$MgO + CO_2 \rightarrow MgCO_3$
+$Mg(OH)_2 + CO_2 \rightarrow MgCO_3 + H_2O$
+The mass of water produced is 0.315g.
+What mass of $MgCO_3$ in total is produced?","RMM $MgCO_3$ = 84
+0.  112125 x 84 = 9.4185(g)"
+"The following balanced equation represents the complete combustion of methanol:
+$2CH_3OH_{(l)} + 3O_{2(g)} \rightarrow 2CO_{2(g)} + 4H_2O_{(g)}$
+How many moles of oxygen are required for the complete combustion of 1 mole of methanol?",1.5 (moles)
+"Calculate the heat of combustion of $N_2$ from the following data:
+$H_{2(g)} + \frac{1}{2}O_{2(g)} \rightarrow H_2O_{(l)} \Delta H = -285.8 kJ mol^{-1}$
+$N_2O_{(g)} + H_2O_{(l)} \rightarrow 2HNO_{(l)} \Delta H = -76.6 kJ mol^{-1}$
+$N_{2(g)} + 3O_{(g)} \rightarrow H_{(g)} \rightarrow 2HNO_{(l)} \Delta H = -348.2 kJ mol^{-1}$
+$2N_{2(g)} + 6O_{2(g)} + 2H_{2(g)} \rightarrow 4HNO_{3(l)} \Delta H = -696.4 kJmol^{-1}$
+$4HNO_{3(l)} \rightarrow 2N_2O_{5(g)} + 2H_2O_{(l)} \Delta H = 153.2 kJ mol^{-1}$
+$2H_2O_{(l)} \rightarrow 2H_{2(g)} + O_{2(g)} \Delta H = 571.6 kJ mol^{-1}$
+$2N_{2(g)} + 5O_{2(g)} \rightarrow 2N_2O_{5(g)} \Delta H = 28.4 kJ mol^{-1}$
+$N_{(g)} + \frac{5}{2} O_{2(g)} \rightarrow N_2O_{5(g)} \Delta H = 14.2 kJ mol^{-1}$",Not possible to provide answer without knowing which reaction relates to the heat of combustion of N2
