@@ -53,8 +53,7 @@ Taifeadadh na sonraí seo a leanas.
 | ------- | ----- | ----- | ----- | ----- | ----- | ----- |
 | a (m s$^{-2}$) | 0.280 | 0.422 | 0.554 | 0.702 | 0.837 | 0.982 |
 
-(vi) Déan scéitsiú den ghraf a gheobhadh an scoláire mura gcuirfeadh sé san áireamh go raibh fórsa frithchuimilte tairiseach níos lú ná 0.2 N ann.","F(N) [4]
-a (m s$^{-2}$)"
+(vi) Déan scéitsiú den ghraf a gheobhadh an scoláire mura gcuirfeadh sé san áireamh go raibh fórsa frithchuimilte tairiseach níos lú ná 0.2 N ann.","Léiríonn an líne dhíreach tríd an mbunús go bhfuil $F$ i gcomhréir le $a$ [4]"
 "I dturgnamh chun fad fócasach $f$ ag lionsa inréimneach a thomhas, fuair scoláire garluach ar an bhfad fócasach ar dtús. Lean an scoláire ar aghaidh amach ansin agus thaifead sí an fad go dtí an íomhá $v$ le haghaidh luachanna difriúla den fhad go dtí an thríthe $u$.
 Taifeadadh na sonraí seo a leanas.
 
@@ -92,8 +91,8 @@ Taifeadadh na sonraí seo a leanas.
 | ------ | ----- | ----- | ----- | ----- |
 | v (cm) | 78.7  | 35.2  | 26.9  | 23.4  |
 
-(iv) Ríomh fad fócasach an lionsa agus na sonraí go léir sa tábla á n-úsáid agat.
-$\frac{1}{u} + \frac{1}{v} = \frac{1}{f}$","an 1$^{\text{ríomh}}$ eile ar $f$ [3]
+(iv) Ríomh fad fócasach an lionsa agus na sonraí go léir sa tábla á n-úsáid agat.", "$\frac{1}{u} + \frac{1}{v} = \frac{1}{f}$ [3] 
+an 1$^{\text{ríomh}}$ eile ar $f$ [3]
 trí ríomh eile ar $f$ [3]
 meán na ríomhanna ar $f$ [3]"
 "I dturgnamh chun fad fócasach $f$ ag lionsa inréimneach a thomhas, fuair scoláire garluach ar an bhfad fócasach ar dtús. Lean an scoláire ar aghaidh amach ansin agus thaifead sí an fad go dtí an íomhá $v$ le haghaidh luachanna difriúla den fhad go dtí an thríthe $u$.
@@ -219,13 +218,11 @@ Taifeadadh na sonraí seo a leanas.
 | ------ | --- | --- | --- | ----- | --- | --- |
 | T (N)  | 29  | 44  | 51  | 79    | 100 | 115 |
 
-(iv) Tarraing graf oiriúnach chun an coibhneas idir $f$ agus $T$ a thaispeáint.
-Luachanna ar $\sqrt{T}$ nó $f^2$
-
+(iv) Tarraing graf oiriúnach chun an coibhneas idir $f$ agus $T$ a thaispeáint.","Luachanna ar $\sqrt{T}$ nó $f^2$
 | $f^2$ | 65536  | 102400  | 116281  | 181902  | 230400  | 262144  |
 | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
-| $\sqrt{T}$ | 5.39 | 6.63 | 7.14 | 8.89 | 10.00 | 10.72 |
-","aiseanna lipéadaithe [3]
+| $\sqrt{T}$ | 5.39 | 6.63 | 7.14 | 8.89 | 10.00 | 10.72 | [3]
+aiseanna lipéadaithe [3]
 pointí cearta breactha [3]
 an líne is fearr oiriúint [3]"
 "Rinne scoláire fiosrú ar an dóigh chomhrathaigh minicíocht bhunúsach $f$ sreinge atá 70 cm ar fad i gcoibhneas lena teannas $T$. I rith an turgnaimh, coimeádadh fad na sreinge tairiseach, agus d'athraigh an scoláire an teannas.
@@ -251,8 +248,10 @@ $\mu = 2.2 \times 10^{-4}$ kg m$^{-1}$ [3]"
 | ----- | ---- | ---- | ---- | ---- | ---- | ---- |
 | I (A) | 0.14 | 0.26 | 0.43 | 0.58 | 0.70 | 0.84 |
 
-(i) Tarraing léaráid de chiorcad don turgnamh seo.","soláthar cumhachta, aimpmhéadar, volltmhéadar agus sreang chopair i dtreo-cheangailte [3]
-rud éigin chun voltais a athrú [3]"
+(i) Tarraing léaráid de chiorcad don turgnamh seo.","soláthar cumhachta, sreang chopair, aimpmhéadar, voltmhéadar [3 cinn ar bith × 1 mharc an ceann]
+soláthar cumhachta, sreang chopair agus aimpmhéadar agus iad sraithcheangailte [3]
+voltmhéadar agus sreang chopair i dtreo-cheangal [3]
+rud éigin chun voltas a athrú [3]"
 "Rinneadh turgnamh chun an coibhneas idir sruth $I$ agus difríocht poitéinsil $V$ a fhiosrú i gcás sreang chopair agus rinneadh na sonraí seo a leanas a thaifeadadh.
 
 | V (V) | 1.0  | 2.0  | 3.0  | 4.0  | 5.0  | 6.0  |
@@ -276,15 +275,25 @@ $R = 7.03 \Omega$ [2]"
 | ----- | ---- | ---- | ---- | ---- | ---- | ---- |
 | I (A) | 0.14 | 0.26 | 0.43 | 0.58 | 0.70 | 0.84 |
 
-(iv) Déan cur síos ar an tslí ar ndeárna an scoláire amach fad ag trasthomhas na sreinge copair.",fad: méadarslat [3+3]
+D’úsáid an scoláire a torthaí chun friotachas na sreinge copair a ríomh. Taifeadadh na sonraí breise 
+seo a leanas: 
+fad na sreinge = 65 cm 
+trastomhas na sreinge = 0.32 mm
+(iv) Déan cur síos ar an tslí ar ndeárna an scoláire amach fad ag trasthomhas na sreinge copair.","fad: méadarslat [3+3]
+trastomhas: micriméadar/cailpéir dhigiteacha [3+3]"
+
 "Rinneadh turgnamh chun an coibhneas idir sruth $I$ agus difríocht poitéinsil $V$ a fhiosrú i gcás sreang chopair agus rinneadh na sonraí seo a leanas a thaifeadadh.
 
 | V (V) | 1.0  | 2.0  | 3.0  | 4.0  | 5.0  | 6.0  |
 | ----- | ---- | ---- | ---- | ---- | ---- | ---- |
 | I (A) | 0.14 | 0.26 | 0.43 | 0.58 | 0.70 | 0.84 |
 
-(v) Ríomh friotaíocht na sreinge copair.","trasthomhas: micriméadar/cailpéir digiteach [3+2]
-$p = 8.7 \times 10^{-7} \Omega \text{ m}$ [3]"
+D’úsáid an scoláire a torthaí chun friotachas na sreinge copair a ríomh. Taifeadadh na sonraí breise 
+seo a leanas: 
+fad na sreinge = 65 cm 
+trastomhas na sreinge = 0.32 mm
+(v) Ríomh friotaíocht na sreinge copair.","$\rho = \frac{RA}{\ell}$, $A = \pi r^2$ [3+2], $\rho = 8.7 \times 10^{-7}$ $\Omega$ m [3]"
+
 "(a) Braitheann friotaíocht leathsheoltóra ar ábhar ilchineál ghnéithe. Tá teocht ar cheann acu. Is leathsheoltóir atá i dteirmeastar a bhíonn ag brath ar the teocht.
 Cad is leathsheoltóir ann?
 ábhar ag a bhfuil friotachas
