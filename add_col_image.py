@@ -2,8 +2,8 @@ import pandas as pd
 import os
 
 # Path to the CSV file
-csv_path = os.path.join(os.getcwd(), "csv_dataset", "english_chemistry.csv")
-output_path = os.path.join(os.getcwd(), "csv_dataset", "english_chemistry_with_images.csv")
+csv_path = os.path.join(os.getcwd(), "csv_dataset", "irish_chemistry.csv")
+# output_path = os.path.join(os.getcwd(), "csv_dataset", "english_chemistry_with_images.csv")
 
 try:
     # Read the CSV file
@@ -19,7 +19,7 @@ try:
     # Save to a new CSV file
     new_df.to_csv(csv_path, index=False, quoting=1)  # quoting=1 means QUOTE_ALL
     
-    print(f"Modified CSV saved to: {output_path}")
+    print(f"Modified CSV saved to: {csv_path}")
     print(f"New column structure: {new_df.columns.tolist()}")
     print(f"Total rows: {len(new_df)}")
     
