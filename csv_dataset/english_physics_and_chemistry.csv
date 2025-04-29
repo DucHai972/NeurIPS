@@ -1,177 +1,806 @@
-problem,answer
-State Newton’s law of gravitation.,force between (any) two (point) masses is proportional to the product of their masses and inversely proportional to the square of the distance (between their centres) or $F \propto \frac{GMm}{d^2}$ correct notation
-Explain how the addition of velocities is different to the addition of masses.,"velocity is a vector, mass is a scalar"
-"The diagram on the right shows a golf ball at rest on a horizontal surface 1.5m from a hole. A golfer hits the ball so that it moves horizontally with an initial velocity of 1.2ms$^{-1}$. The ball decelerates at 0.4 m s$^{-2}$ as it travels to the hole.
-Calculate the velocity of the ball when it reaches the edge of the hole.",$v = \sqrt{u^2 + 2as} = \sqrt{1.2^2 + 2(-0.4)(1.5)}$  $v = 0.49$ (m s$^{-1}$)
-Calculate how much work is done when a mass of 60kg is raised vertically to a height of 8 m.,"$W = Fs$ or $W = mgh$
-$W = 60 \times 9.8 \times 8 = 4704(J)$"
-"In order to probe muscle tissue in the human body ultrasound waves with a wavelength of 0.4mm and a speed of 1580ms$^{-1}$are used.
-Calculate the frequency of this ultrasound wave.",$f = \frac{c}{\lambda}$  $f = \frac{1580}{4 \times 10^{-4}}$  $f = 3.95 \times 10^6$ (Hz)
-"The graph on the right shows the displacement s of a wave over time t. What is (i) the amplitude, (ii) the frequency of this wave?","(i) amplitude = 8 (m), (ii) frequency = 0.1 (Hz)"
-"Three resistors 2 $\Omega$, 3 $\Omega$ and4 $\Omega$ are arranged in parallel. Calculate the total resistance.","$\frac{1}{R} = \frac{1}{R1} + \frac{1}{R2} + \frac{1}{R3}$, $\frac{1}{R} = \frac{1}{2} + \frac{1}{3} + \frac{1}{4}$, $\frac{1}{R} = \frac{13}{12}$, $R = \frac{12}{13} = 0.923(\Omega)$"
-A deuterium nucleus and a tritium nucleus fuse together to form a helium nucleus and particle X as shown by the equation: $^2_1H + ^3_1H \rightarrow ^4_2He + X$. Identify X.,n / neutron
-"State the principle of mass-energy conservation.
-(in nuclear reactions) the mass plus energy of the reactants equals the mass plus energy of the products",$E = mc^2$
-What is meant by acceleration?,rate of change of velocity / $a = \frac{v-u}{t}$
-State Newton's second law of motion.,the rate of change of momentum is proportional to the force acting and (takes place) in the direction of the force // F and in same direction
-"Use Newton’s second law of motion to derive an equation which shows the relationship between force, mass and acceleration.","$F \propto \frac{m(v-u)}{t} / F \propto ma$ when k = 1 (in SI system)
-$F \propto ma / F = ma$"
-"The diagram on the right shows a jet engine. Air of mass 195 kg enters at X, is heated and then exits at Y. The speed of the air mass increases by 460 m s$^{-1}$in 0.75s as it passes through the engine.
-Calculate (a) the acceleration of the air mass,",$a = \frac{460}{0.75} = 613.3ms^{-2}$
-"The diagram on the right shows a jet engine. Air of mass 195 kg enters at X, is heated and then exits at Y. The speed of the air mass increases by 460 m s$^{-1}$in 0.75s as it passes through the engine.
-Calculate (b) the force the air mass exerts on the engine.",$F = (195)(613.3) = 119600 N$ (to the left)
-"An experiment to demonstrate the relationship between the acceleration a of a trolley when a force F is applied to it was carried out. The following data were collected. Each force F was applied to the trolley, which was initially at rest and the final velocity was measured.
-Calculate the mass that had been accelerated.","$slope = \frac{Y_2 - Y_1}{X_2 - X_1} = \frac{6 - 3}{1 - 0.5}$, $mass = 0.17$ kg"
-The acceleration of the trolley was 3 m s$^{-2}$ for a time of 1.9 s. Calculate the final velocity of the trolley.,"$v = u + at$
-$v = 0 + (3)(1.9) = 5.7$ m s$^{-1}$"
-"An object is placed 30cm in front of a concave mirror with a focal length of 40 cm.
-Calculate (a) the image distance from the mirror,","$\frac{1}{f} = \frac{1}{u} + \frac{1}{v}$, $\frac{1}{40} = \frac{1}{30} + \frac{1}{v}$ , $\frac{1}{v} = -\frac{1}{120}$, $v = -120$cm"
-"An object is placed 30cm in front of a concave mirror with a focal length of 40 cm.
-Calculate (b) the object height, if the image produced is 18cm high.","$m = \frac{v}{u} / m = \frac{120}{30} = 4$
-height of object = $\frac{18}{4} = 4.5cm$"
-"A different concave mirror produces a real image with a magnification of 3 when the object is placed 30 cm in front of it.
-Calculate the focal length of this mirror.","$v = 90 (cm)$
-$\frac{1}{f} = \frac{1}{u} + \frac{1}{v} = \frac{1}{30} + \frac{1}{90} = \frac{4}{90}$
-$f = 22.5$ cm"
-Use the slope of the graph to find this constant temperature T.,"$m = \frac{y_2 - y_1}{x_2 - x_1}$
-$m = \frac{(9.9-5.1)\times10^3}{4 - 2} = 2.425 \times 10^3$
-$PV = nRT / T = \frac{PV}{nR}$
-$T = \frac{slope}{R} = \frac{2.425\times10^3}{8.31} \approx 292$ K"
-How many moles of the gas would be present if the pressure was 7 x 10$^5$ Pa and the volume 0.2 m$^3$ at constant temperature T?,"$PV = (7\times10^5)(0.2) = 1400$ // $PV = nRT / (7 \times 10^5)(0.2) = n(8.31)(292)$
-use graph to get n = 0.6 (moles) // n = 0.6 (moles)"
-Define electrical resistance.,ratio of voltage to current / $R = \frac{V}{I}$
-What is the unit of electrical resistance i.e. the ohm.,the ohm.
-the resistance of a conductor is 1 ohm if a current of 1 ampere flows through it when the potential difference (between its ends) is 1 volt,the resistance of a conductor is 1 ohm if a current of 1 ampere flows through it when the potential difference (between its ends) is 1 volt
-Suggest two properties of a wire coil which would determine the size of its resistance.,diameter or thickness or area / length / type of material or resistivity
-"A current $I$ was allowed to flow through the coil for a fixed length of time and the rise in temperature $\Delta \theta$ was recorded. This was repeated for different values of the current $I$. The following data were recorded:
-Draw a graph, on graph paper, that shows the relationship between $I^2$ and $\Delta \theta$.","current values squared, axes labelled, scale correctly drawn, points correctly plotted, straight line through the origin"
-"A current $I$ was allowed to flow through the coil for a fixed length of time and the rise in temperature $\Delta \theta$ was recorded. This was repeated for different values of the current $I$. The following data were recorded:
-Hence, or otherwise, describe the relationship between the change in temperature and the current.",$\Delta \theta \propto I^2$
-"A current $I$ was allowed to flow through the coil for a fixed length of time and the rise in temperature $\Delta \theta$ was recorded. This was repeated for different values of the current $I$. The following data were recorded:
-Use your graph to determine the size of the current flowing when the rise in temperature is 6 °C.","line shown from 6 °C on temperature axis, $I^2$ = 5 => $I = \sqrt{5}$ = 2.2 A"
-"The diagram shows a transformer with 9200 turns in its primary coil. The primary coil is connected to a 230V mains supply. A 6.0V lamp connected to the secondary coil operates at full brightness.
-Calculate the number of turns in the secondary coil.","$\frac{N_p}{N_s} = \frac{V_p}{V_s}$, $\frac{9200}{N_s} = \frac{230}{6}$, $N_s = \frac{6}{230} 9200$, $N_s$ = 240 turns"
-"The diagram shows a transformer with 9200 turns in its primary coil. The primary coil is connected to a 230V mains supply. A 6.0V lamp connected to the secondary coil operates at full brightness.
-Calculate the current in the primary circuit, if the current in the lamp is 0.23A.","$V_pI_p = V_sI_s$, $230 \times I = 6 \times 0.23 => I_p = 0.006 A$"
-"A transparent semicircular block has a ray of light $AB$ directed at the centre of the flat edge of the block. The diagram below shows the path of the ray through the block and the emerging ray $CD$.
-State why the emerging ray $CD$ does not change direction as it leaves the block.
-(a) the angle of incidence, $90° - 24° = 66°$
-(b) the angle of refraction. $90° - 50° = 40°$","(a) the angle of incidence, $90° - 24° = 66°$
-(b) the angle of refraction. $90° - 50° = 40°$"
-"A transparent semicircular block has a ray of light $AB$ directed at the centre of the flat edge of the block. The diagram below shows the path of the ray through the block and the emerging ray $CD$.
-Calculate the refractive index of the block.","$n = \frac{sin i}{sin r}$, $n = \frac{sin 66}{sin 40}$, $n = 1.42$"
-"A transparent semicircular block has a ray of light $AB$ directed at the centre of the flat edge of the block. The diagram below shows the path of the ray through the block and the emerging ray $CD$.
-Determine the critical angle of the block.","$n = \frac{1}{sin C}$, $n = 1.42 => C = 44.8°$"
-"The diagram on the right shows a magnet with poles $X$ and $Y$ supported by a frame placed on an electronic mass balance which shows a reading of 7.980g. When the current $I$ flows in the wire the balance reads 8.620g.
-Explain the change in the reading on the balance when the current $I$ flows in the wire.",(the wire experiences a) downward force(changing the weight recorded on the balance)
-"The graph on the right shows the decay curve for a particular radioactive substance.
-What term is used to describe the time taken for the activity (count rate) of a radioactive isotope to reduce by 50%?",half-life
-"The graph on the right shows the decay curve for a particular radioactive substance.
-Use the graph to determine this time.","2200 ÷ 2 =1100, 2 s"
-"The graph on the right shows the decay curve for a particular radioactive substance.
-Predict the value of the count rate 1.5 s from the start of the measurements.",≈1300 (counts per second)
-"The graph on the right shows the decay curve for a particular radioactive substance.
-How long will it take the count rate to decrease by 75%?","2 x half-life // 2200 ÷ 4 = 550, 4 s"
-How many molecules are in 6g of $N_2$ gas?,"$\frac{6}{28}$ / 0.214 (moles), $0.214 \times 6 \times 10^{23} = 1.29 \times 10^{23}$ (molecules)"
-Define the first ionisation energy of an element.,minimum energy required to remove the most loosely bound or outermost electron from one mole of atoms (in its neutral gaseous state)
-"The following equation describes the process occurring when the first ionisation energy of sodium is measured.
-Write an equation to describe the process occurring when the first ionisation energy of sodium is measured.
-$Na_{(g)} \rightarrow Na_{(g)}^{+} + e^{-}$",$Na_{(g)} \rightarrow Na_{(g)}^{+} + e^{-}$
-"The first 10 successive ionisation energies of element X are shown on the right.
-Explain why there is such a large increase in energy from the fifth to the sixth ionisation energies.",the sixth electron is being removed from a full shell/energy level which is stable
-"The first 10 successive ionisation energies of element X are shown on the right.
-Use the graph to estimate this increase in energy.",15000 kJ mol$^{-1}$
-"The first 10 successive ionisation energies of element X are shown on the right.
-Identify element X if it occurs in period 3 of the periodic table. Justify your answer.","P/ phosphorus
-P (is in period 3 and) has 5 electrons in its n=3 main energy level or outer energy level"
-"The first 10 successive ionisation energies of element X are shown on the right.
-How many ionisation energies in total will this element X have?",15 ionisation energies
-"The first 10 successive ionisation energies of element X are shown on the right.
-Write the s,p electronic configuration of element X.",$1s^2 2s^2 2p^6 3s^2 3p^3$ / $3s^2 3p_x 1 3p_y 1 3p_z 1$
-"The first 10 successive ionisation energies of element X are shown on the right.
-What is the lowest ionisation energy that will remove an electron from a full sublevel?
-Explain your answer.","~5000 kJ mol$^{-1}$
-fourth ionisation energy"
-Define relative atomic mass.,"average mass of an atom of an element
-taking their abundance into account
-relative to $^{12}C^{th}$ the mass of a C-12 isotope"
-"A sample of chromium contains four isotopes and has a relative atomic mass of 52.09.
-The mass numbers and % abundance of three of the isotopes are given in the following table.
-Determine the % abundance of the fourth isotope.",100 – (82.8 + 10.9 + 2.7) = 3.6%
-"A sample of chromium contains four isotopes and has a relative atomic mass of 52.09.
-The mass numbers and % abundance of three of the isotopes are given in the following table.
-Determine the mass number of the fourth isotope.","$\frac{52(82.8) + 53(0.109) + 54(0.027) + x(0.036)}{100} = 52.09$
-x = 50"
-"A solution of $H_2SO_4$ contains 1.96g of $H_2SO_4$ in one litre of solution.
-Calculate the molarity of the solution.",$\frac{1.96}{98} = 0.02$(moles per litre)
-"A solution of $H_2SO_4$ contains 1.96g of $H_2SO_4$ in one litre of solution.
-Calculate the pH of a solution of $H_2SO_4$ containing 1.96g in one litre of solution.","2 x 0.02 / 0.04 // pH = -log[$H^+$]
-pH = -log (0.04) = 1.4"
-"To determine the ammonia concentration in a household cleaning product a chemist diluted 20cm$^3$ of the product to 500cm$^3$ using deionised water.
-25cm$^3$ portions of the diluted solution were titrated against 0.15M $H_2SO_4$.
-On average, 13.2cm$^3$ of 0.15M $H_2SO_4$ were required to neutralise the 25cm$^3$ portions of the diluted $NH_4OH$ solution.
-Calculate the concentration of the diluted $NH_4OH$ solution in moles per litre.","$\frac{M_1V_1}{n_1} = \frac{M_2V_2}{n_2}$
-$\frac{M_1*25}{1} = \frac{13.2*0.15}{2}$
-$M_1 = 0.1584$ (moles per litre)
+"problem","image_problem","answer","image_answer"
+"1. (a) State Newton's law of gravitation.","","force
+between (any) two (point) masses is proportional to the product of their masses and inversely
+proportional to the square of the distance (between their centres)
 or
-Moles $H_2SO_4$ in 13.2cm$^3$ of 0.15M $H_2SO_4$ = (13.2x0.15 /1000) = 1.98x$10^{-3}$
-Moles $NH_4OH$ in 25 cm$^3$ = 2x1.98x$10^{-3}$ = 3.96x$10^{-3}$
-Moles $NH_4OH$ in 1l = 0.1584"
-"To determine the ammonia concentration in a household cleaning product a chemist diluted 20cm$^3$ of the product to 500cm$^3$ using deionised water.
-25cm$^3$ portions of the diluted solution were titrated against 0.15M $H_2SO_4$.
-On average, 13.2cm$^3$ of 0.15M $H_2SO_4$ were required to neutralise the 25cm$^3$ portions of the diluted $NH_4OH$ solution.
-Calculate the molarity of the original solution.",0.1584x 25 = 3.96 moles per litre
-"To determine the ammonia concentration in a household cleaning product a chemist diluted 20cm$^3$ of the product to 500cm$^3$ using deionised water.
-25cm$^3$ portions of the diluted solution were titrated against 0.15M $H_2SO_4$.
-On average, 13.2cm$^3$ of 0.15M $H_2SO_4$ were required to neutralise the 25cm$^3$ portions of the diluted $NH_4OH$ solution.
-Calculate the mass of ammonia ($NH_3$) per 100cm$^3$ of the cleaning product solution.",3.96 x 17 = 67.32g per litre=6.73 (g per 100cm$^{-1}$)
-"Calculate how many Faradays of electricity are transferred,",0.4 moles of electrons ==> 0.4 (Faradays)
-Calculate coulombs of charge pass.,0.4 x 96485.3383 = 38594.13532(C) / 38594(C)
-The energy lost by an electron is 3.028 x $10^{-19}$ J during a transition. Calculate the frequency of the light emitted.,"3.028 x $10^{-19}$ = (6.626x$10^{-34}$)*f
-4.  57 x $10^{14}$Hz"
-"A mixture of magnesium oxide MgO and magnesium hydroxide $Mg(OH)_2$has a mass of 4.8 g. The mixture is reacted with $CO_2$ to form $MgCO_3$ according to the following equations:
-$MgO + CO_2 \rightarrow MgCO_3$
-$Mg(OH)_2 + CO_2 \rightarrow MgCO_3 + H_2O$
+F ∝ $\frac{GMm}{d^2}$
+correct notation",""
+"1. (b) Velocity and mass are both physical quantities.
+Explain how the addition of velocities is different to the addition of masses.","","velocity is a vector
+mass is a scalar",""
+"1. (c) The diagram on the right shows a golf ball at rest on a horizontal surface 1.5m from a hole. A golfer
+hits the ball so that it moves horizontally with an initial velocity of 1.2ms$^{-1}$. The ball decelerates at
+0.4 m s$^{-2}$as it travels to the hole.
+Calculate the velocity of the ball when it reaches the edge of the hole.","","v$^2$= u$^2$ + 2as / v$^2$ =1.2$^2$ + 2(-0.4)(1.5)
+v = 0.49 (ms$^{-1}$)",""
+"1. (d) Calculate how much work is done when a mass of 60kg is raised vertically to a height of 8 m.","","W =Fs or W =mgh
+W = 60×9.8×8 = 4704(J)",""
+"1. (e) One property of electromagnetic waves is that they are transverse waves.
+State two other properties.","","travel at the speed of light /can be diffracted / can be polarized /can travel in a vacuum etc
+any 2",""
+"1. (f) A beam of electrons can undergo interference.
+What information about electrons can be deduced from this fact?","","(electrons) have wave properties",""
+"1. (g) In order to probe muscle tissue in the human body ultrasound waves with a wavelength of 0.4mm
+and a speed of 1580ms$^{-1}$are used.
+Calculate the frequency of this ultrasound wave.","","f =$\frac{c}{\lambda}$ / f = $\frac{1580}{4×10^{-4}}$
+f = 3.95 x10$^6$(Hz)",""
+"1. (h) The graph on the right shows the displacement s of a wave over time t.
+What is (i) the amplitude, (ii) the frequency of this wave?","","(i)    amplitude = 8 (m)
+(ii)    frequency = 0.1 (Hz)",""
+"1. (i) What thermometric property is used when calibrating (i) a constant volume gas thermometer, (ii)a
+mercury thermometer?","","(i)    pressure
+(ii)    length / height / volume (of a column of mercury)",""
+"1. (j) Explain what is meant by Brownian motion.","","movement of visible particles/molecules due to collisions with invisible particle or molecules
+suspended in a liquid or gas  / rapid/continuous /random/straight line/zig-zag motion of small
+particles or molecules",""
+"1. (k) What are the two reference temperatures used to set up the Kelvin scale of temperature?","","triple point of water / 273.16 K / 0.01°C
+absolute zero / 0 K / -273.15 °C",""
+"1. (l) Explain how the graph shown on the right can be used to estimate a value for absolute zero on the
+Celsius scale.","","extend the line until it intersects the temperature axis /
+read absolute zero from intersection with temperature axis",""
+"1. (m) Three resistors 2 Ω, 3 Ω and4 Ω are arranged in parallel. Calculate the total resistance.","","$\frac{1}{R} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3}$ / $\frac{1}{R} = \frac{1}{2} + \frac{1}{3} + \frac{1}{4} = \frac{13}{12}$
+$R = \frac{12}{13} = 0.923(Ω)$",""
+"1. (n) State two properties of a parallel-plate capacitor which determine the amount of charge it can store.","","area (of overlap) of plates / distance between plates / dielectric or material between plates
+any two",""
+"1. (o) State Faraday's law of electromagnetic induction.","","emf induced                                                   // E
+is proportional to the rate of change of magnetic flux        // ∝$\frac{dΦ}{dt}$",""
+"1. (p) Draw the magnetic field around a current-carrying solenoid.","","lines going through center of the solenoid and curving from ends
+direction shown
+[lines not through center (−1)]",""
+"1. (q) A deuterium nucleus and a tritium nucleus fuse together to form a helium nucleus and particle X as
+shown by the equation:$_1^2H + _1^3H →_2^4He+X$. Identify X.","","$_0^1n$ / neutron",""
+"1. (r) State the principle of mass-energy conservation.","","(In nuclear reactions) the mass plus energy of the reactants  // E = mc$^2$
+equals the mass plus energy of the products                  // notation",""
+"2. (a)(i) What is meant by
+(a)    mass,","","amount of matter in an object / a measure of the resistance to movement",""
+"2. (a)(i) What is meant by
+(b)    acceleration?","","rate of change of velocity / a = $\frac{v-u}{t}$",""
+"2. (a)(ii) State Newton's second law of motion.","","the rate of change of momentum is proportional to              // $\frac{mv-mu}{t}$ ∝
+the force acting and (takes place) in the direction of the force // F and in same direction
+[Allow F=ma ...4]",""
+"2. (a)(iii) Use Newton's second law of motion to derive an equation which shows the relationship between
+force, mass and acceleration.","","F ∝ $\frac{mv-mu}{t}$ / F∝ m($\frac{v-u}{t}$)
+F∝ m / F = kma / F = ma when k = 1 (in SI system)",""
+"2. (a) The diagram on the right shows a jet engine. Air of mass 195 kg enters at X, is heated and then exits at
+Y. The speed of the air mass increases by 460 m s$^{-1}$in 0.75s as it passes through the engine.
+(iv) Calculate
+(a)    the acceleration of the air mass,","","a = $\frac{460}{0.75}$ = 613.3ms$^{-2}$",""
+"2. (a)(iv) Calculate
+(b)    the force the air mass exerts on the engine.","","F= (195)(613.3)≈119600 N(to the left)",""
+"2. (b) An experiment to demonstrate the relationship between the acceleration a of a trolley when a force F
+applied to it was carried out. The following data were collected. Each force F was applied to the trolley
+which was initially at rest and the final velocity was measured.
+F (N)        0.50       0.75       1.00       1.25       1.50       2.00
+a(ms$^{-2}$)   3.0        4.6        6.0        7.4        8.9       11.9
+(i)    Draw a graph, on graph paper, of acceleration against force.","","axes labelled
+axes drawn with appropriate scales
+points correctly plotted
+straight best fit line",""
+"2. (b) An experiment to demonstrate the relationship between the acceleration a of a trolley when a force F
+applied to it was carried out. The following data were collected. Each force F was applied to the trolley
+which was initially at rest and the final velocity was measured.
+F (N)        0.50       0.75       1.00       1.25       1.50       2.00
+a(ms$^{-2}$)   3.0        4.6        6.0        7.4        8.9       11.9
+(ii) Use your graph to calculate the mass that had been accelerated.","","slope = $\frac{y_2-y_1}{x_2-x_1}$ = $\frac{6-3}{1-0.5}$
+mass = 0.17 kg",""
+"2. (b) An experiment to demonstrate the relationship between the acceleration a of a trolley when a force F
+applied to it was carried out. The following data were collected. Each force F was applied to the trolley
+which was initially at rest and the final velocity was measured.
+F (N)        0.50       0.75       1.00       1.25       1.50       2.00
+a(ms$^{-2}$)   3.0        4.6        6.0        7.4        8.9       11.9
+(iii) The acceleration of the trolley was 3 m s$^{-2}$ for a time of 1.9 s. Calculate the final velocity of the
+trolley.","","v = u + at
+v = 0 + (3)(1.9) = 5.7 m s$^{-1}$",""
+"2. (b) An experiment to demonstrate the relationship between the acceleration a of a trolley when a force F
+applied to it was carried out. The following data were collected. Each force F was applied to the trolley
+which was initially at rest and the final velocity was measured.
+F (N)        0.50       0.75       1.00       1.25       1.50       2.00
+a(ms$^{-2}$)   3.0        4.6        6.0        7.4        8.9       11.9
+(iv) Draw a labelled diagram of the apparatus you could use to carry out this experiment.","","trolley on track, sloped track or a smooth frictionless track or air track
+attached by string over pulley to weights
+ticker tape timer / light gates / datalogging sensor &computer",""
+"2. (b) An experiment to demonstrate the relationship between the acceleration a of a trolley when a force F
+applied to it was carried out. The following data were collected. Each force F was applied to the trolley
+which was initially at rest and the final velocity was measured.
+F (N)        0.50       0.75       1.00       1.25       1.50       2.00
+a(ms$^{-2}$)   3.0        4.6        6.0        7.4        8.9       11.9
+(v) State one precaution that should be taken to ensure an accurate result.","","total mass is constant for each trial / polish track / slope track to negate friction",""
+"3. (a)(i) State the laws of reflection of light.","","the incident ray, the normal ray and the reflected rays all lie in the same plane
+the angle of incidence equals the angle of reflection",""
+"3. (a)(ii) Describe, with the aid of a labelled diagram, an experiment to measure the focal length of a concave
+mirror.","","concave mirror, pin, search pin // concave mirror, ray box, screen, arrangement
+locate image using search pin  // bring image into (sharp) focus on the screen
+measure object distance and image distance",""
+"3. (a)(iii) How can the radius of curvature of the mirror be determined from the result of the experiment?","","radius of curvature = focal length × 2",""
+"3. (b) An object is placed 30cm in front of a concave mirror with a focal length of 40 cm.
+(i) Calculate
+(a)    the image distance from the mirror,","","$\frac{1}{f} = \frac{1}{u} + \frac{1}{v}$ / $\frac{1}{40} = \frac{1}{30} + \frac{1}{v}$
+$\frac{1}{v} = \frac{-1}{120}$
+v = 120cm",""
+"3. (b) An object is placed 30cm in front of a concave mirror with a focal length of 40 cm.
+(i) Calculate
+(b)    the object height, if the image produced is 18cm high.","","m =$\frac{v}{u}$ /m = $\frac{120}{30}$ =4
+height of object = $\frac{18}{4}$ = 4.5cm",""
+"3. (b) An object is placed 30cm in front of a concave mirror with a focal length of 40 cm.
+(ii) State three properties of the image produced.","","image is behind the mirror /virtual /erect /magnified
+any 3[6 + 2 + 1]",""
+"3. (b) A different concave mirror produces a real image with a magnification of 3 when the object is placed 30 cm
+in front of it.
+(iii) Calculate the focal length of this mirror.","","v = 90 (cm)
+$\frac{1}{f} = \frac{1}{u} + \frac{1}{v}$ / $\frac{1}{f} = \frac{1}{30} + \frac{1}{90}$ / = $\frac{4}{90}$
+f = 22.5 cm",""
+"3. (c) The diagram below shows the formation of images by the lens arrangement in a compound microscope.
+(i) Explain why this microscope is not in normal adjustment.","","the final image is not at infinity",""
+"3. (c) The diagram below shows the formation of images by the lens arrangement in a compound microscope.
+(ii) Name the lenses L$_1$ and L$_2$.","","L$_1$ = objective lens
+L$_2$ = eyepiece lens
+[Allow converging once only ....3]",""
+"3. (c) The diagram below shows the formation of images by the lens arrangement in a compound microscope.
+(iii) How do the focal lengths of the two lenses compare?","","(the focal length of) the eyepiece lens is longer than (that of) the objective lens",""
+"3. (c) The diagram below shows the formation of images by the lens arrangement in a compound microscope.
+(iv) If the focal lengths of both lenses are reduced, how is the magnification of the final image affected?","","(the final image) is larger",""
+"4. (a) The kinetic theory attempts to explain the temperature, the pressure and other characteristics of a gas in
+terms of the motion of the particles of the gas.
+(i) State two assumptions of the kinetic theory that are obeyed
+(a)    by all gases,","","a gas is composed of a large number of tiny particles / the particles are in constant (rapid or
+random straight line) motion / the particles collide with each other / particles collide with
+the walls of the container                                      any 2",""
+"4. (a) The kinetic theory attempts to explain the temperature, the pressure and other characteristics of a gas in
+terms of the motion of the particles of the gas.
+(i) State two assumptions of the kinetic theory that are obeyed
+(b)    only some gases.","","all collisions are perfectly elastic / no attractive or repulsive forces (between particles) / the
+distance between the particles is large compared to the size of the particles / time spent in
+collision is small compared to the time between collisions       any 2",""
+"4. (a) The kinetic theory attempts to explain the temperature, the pressure and other characteristics of a gas in
+terms of the motion of the particles of the gas.
+(ii) What term is used to describe the gas that
+(a)    does obey all of the assumptions of this theory,","","ideal gas",""
+"4. (a) The kinetic theory attempts to explain the temperature, the pressure and other characteristics of a gas in
+terms of the motion of the particles of the gas.
+(ii) What term is used to describe the gas that
+(b)    does not obey all of the assumptions of this theory?","","real gas",""
+"4. (a) The kinetic theory attempts to explain the temperature, the pressure and other characteristics of a gas in
+terms of the motion of the particles of the gas.
+(iii) How does the kinetic theory explain the pressure exerted by gases?","","pressure is due to collisions of the particles with the walls of the container /
+each time a particle collides with a wall it exerts a force or pressure on the wall",""
+"4. (a) The kinetic theory attempts to explain the temperature, the pressure and other characteristics of a gas in
+terms of the motion of the particles of the gas.
+(iv) How does the pressure of a gas change when the speed of the particles of the gas increases?
+Justify your answer.","","pressure increases // as the particles strike the walls more frequently",""
+"4. (a) The kinetic theory attempts to explain the temperature, the pressure and other characteristics of a gas in
+terms of the motion of the particles of the gas.
+(v) How does the temperature of a gas change when the speed of the particles of the gas increases?
+Justify your answer.","","temperature increases //as the average kinetic energy of the particles increases .",""
+"4. (b) The graph below shows pV against the number of moles of a gas n at constant temperature T, where p is
+the pressure and V is the volume of the gas in a container.
+(i) Use the slope of the graph to find this constant temperature T.","","m = $\frac{y_2-y_1}{x_2-x_1}$
+m = $\frac{(9.95-5.1)×10^3}{4-2}$ ≈2.425 x 10$^3$
+PV = nRt / T =$\frac{PV}{nR}$
+T = $\frac{\text{slope}}{R}$ = $\frac{2.425×10^3}{8.31}$ ≈ 292 K",""
+"4. (b) The graph below shows pV against the number of moles of a gas n at constant temperature T, where p is
+the pressure and V is the volume of the gas in a container.
+(ii) How many moles of the gas would be present if the pressure was 7 x 10$^3$ Pa and the volume 0.2 m$^3$ at
+constant temperature T?","","PV= (7x10$^3$)(0.2)= 1400                // PV = nRT / (7x10$^3$)(0.2) = n(8.31)(292)
+use graph to get n = 0.6( moles) // n = 0.6 (moles)",""
+"4. (b) The graph below shows pV against the number of moles of a gas n at constant temperature T, where p is
+the pressure and V is the volume of the gas in a container.
+(iii) What is the unit of measurement of pV?","","Pam$^3$ / Nm / J",""
+"4. (b) The graph below shows pV against the number of moles of a gas n at constant temperature T, where p is
+the pressure and V is the volume of the gas in a container.
+(iv) How will the temperature of the gas change if pV is kept constant and the number of moles of gas in
+the container is increased? Justify your answer.","","temperature decreases
+(PV constant and ) R is a constant / If n increases then T will decrease in order to keep PV constant",""
+"5. (a)(i) Define
+(a)    electrical resistance,","","ratio of voltage to current / R = $\frac{V}{I}$",""
+"5. (a)(i) Define
+(b)    the unit of electrical resistance i.e. the ohm.","","the resistance of a conductor is 1 ohm if a current of 1 ampere flows through it
+when the potential difference (between its ends) is 1 volt",""
+"5. (ii) Suggest two properties of a wire coil which would determine the size of its resistance.","","diameter or thickness or area / length /  type of material or resistivity ",""
+"5. (b) The diagram shows an apparatus used to investigate the heating effect of a current.
+A current I was allowed to flow through the coil for a fixed length of time and the rise in temperature of the
+water Δθ was recorded. This was repeated for different values of the current I.
+The following data were recorded:
+I (A)        1.0        2.0        2.5        3.0        3.5        4.0
+Δθ (°C)      1.2        4.8        7.5       10.8       14.7       19.2
+(i) Draw a graph, on graph paper, that shows the relationship between I$^2$and Δθ.","","current values squared
+axes labelled
+scales correctly drawn
+points correctly plotted
+straight line through the origin",""
+"5. (b) The diagram shows an apparatus used to investigate the heating effect of a current.
+A current I was allowed to flow through the coil for a fixed length of time and the rise in temperature of the
+water Δθ was recorded. This was repeated for different values of the current I.
+The following data were recorded:
+I (A)        1.0        2.0        2.5        3.0        3.5        4.0
+Δθ (°C)      1.2        4.8        7.5       10.8       14.7       19.2
+(ii) Hence, or otherwise, describe the relationship between the change in temperature and the current.","","Δθ ∝ I$^2$",""
+"5. (b) The diagram shows an apparatus used to investigate the heating effect of a current.
+A current I was allowed to flow through the coil for a fixed length of time and the rise in temperature of the
+water Δθ was recorded. This was repeated for different values of the current I.
+The following data were recorded:
+I (A)        1.0        2.0        2.5        3.0        3.5        4.0
+Δθ (°C)      1.2        4.8        7.5       10.8       14.7       19.2
+(iii) Why was a fixed mass of water used for each value of the current?","","rise in temperature would have been affected by the mass of water present / can only have two
+variables / fair test",""
+"5. (b) The diagram shows an apparatus used to investigate the heating effect of a current.
+A current I was allowed to flow through the coil for a fixed length of time and the rise in temperature of the
+water Δθ was recorded. This was repeated for different values of the current I.
+The following data were recorded:
+I (A)        1.0        2.0        2.5        3.0        3.5        4.0
+Δθ (°C)      1.2        4.8        7.5       10.8       14.7       19.2
+(iv) Suggest a material which might be used for insulation.","","cotton wool /polystyrene etc",""
+"5. (b) The diagram shows an apparatus used to investigate the heating effect of a current.
+A current I was allowed to flow through the coil for a fixed length of time and the rise in temperature of the
+water Δθ was recorded. This was repeated for different values of the current I.
+The following data were recorded:
+I (A)        1.0        2.0        2.5        3.0        3.5        4.0
+Δθ (°C)      1.2        4.8        7.5       10.8       14.7       19.2
+(v) Apart from insulation, state one other way of reducing heat loss.","","use a lid / maintain a room temperature close to the starting temperature",""
+"5. (b) The diagram shows an apparatus used to investigate the heating effect of a current.
+A current I was allowed to flow through the coil for a fixed length of time and the rise in temperature of the
+water Δθ was recorded. This was repeated for different values of the current I.
+The following data were recorded:
+I (A)        1.0        2.0        2.5        3.0        3.5        4.0
+Δθ (°C)      1.2        4.8        7.5       10.8       14.7       19.2
+(vi) What is the function of X?","","alters and keeps the current constant",""
+"5. (b) The diagram shows an apparatus used to investigate the heating effect of a current.
+A current I was allowed to flow through the coil for a fixed length of time and the rise in temperature of the
+water Δθ was recorded. This was repeated for different values of the current I.
+The following data were recorded:
+I (A)        1.0        2.0        2.5        3.0        3.5        4.0
+Δθ (°C)      1.2        4.8        7.5       10.8       14.7       19.2
+(vii) Use your graph to determine the size of the current flowing when the rise in temperature is 6 °C.","","Line shown from  6 °C on temperature axis
+I$^2$= 5 => I = √5 = 2.2 A",""
+"5. (c) The diagram shows a transformer with 9200 turns in its primary coil. The primary coil is connected to
+230V mains supply. A 6.0V lamp connected to the secondary coil operates at full brightness.
+(i) State one characteristic of the core of the transformer which helps to improve its efficiency.","","laminated / made of soft iron",""
+"5. (c) The diagram shows a transformer with 9200 turns in its primary coil. The primary coil is connected to
+230V mains supply. A 6.0V lamp connected to the secondary coil operates at full brightness.
+Assume the transformer operates with 100% efficiency.
+(ii) Calculate
+(a)    the number of turns in the secondary coil,","","$\frac{N_p}{N_s} = \frac{V_p}{V_s}$
+$\frac{9200}{N_s} = \frac{230}{6}$
+$N_s = 240$ turns",""
+"5. (c) The diagram shows a transformer with 9200 turns in its primary coil. The primary coil is connected to
+230V mains supply. A 6.0V lamp connected to the secondary coil operates at full brightness.
+Assume the transformer operates with 100% efficiency.
+(ii) Calculate
+(b)    the current in the primary circuit, if the current in the lamp is 0.23A.","","$V_pI_p = V_sI_s$
+$230 ×I = 6 × 0.23 => I_p = 0.006 A$",""
+"6. (a) A transparent semicircular block has a ray of light AB directed at the centre of the flat edge of the block.
+The diagram below shows the path of the ray through the block and the emerging ray CD.
+(i) State why the emerging ray CD does not change direction as it leaves the block.","","CD is perpendicular to the surface of the block / CD hits the surface normally / it coincides with a
+radius (of the semi-circular block) / angle of incidence is zero",""
+"6. (a) A transparent semicircular block has a ray of light AB directed at the centre of the flat edge of the block.
+The diagram below shows the path of the ray through the block and the emerging ray CD.
+(ii) As the ray enters the block, find
+(a)    the angle of incidence,","","90° − 24° = 66°",""
+"6. (a) A transparent semicircular block has a ray of light AB directed at the centre of the flat edge of the block.
+The diagram below shows the path of the ray through the block and the emerging ray CD.
+(ii) As the ray enters the block, find
+(b)    the angle of refraction.","","90° − 50° = 40°",""
+"6. (a) A transparent semicircular block has a ray of light AB directed at the centre of the flat edge of the block.
+The diagram below shows the path of the ray through the block and the emerging ray CD.
+(iii) Name and state the law which indicates the relationship between the two angles.","","Snell's law
+sine of the angle of inci   dence is proportional to       // $\frac{\sin i}{\sin r}$
+sine of the angle of refraction                         // = constant",""
+"6. (a) A transparent semicircular block has a ray of light AB directed at the centre of the flat edge of the block.
+The diagram below shows the path of the ray through the block and the emerging ray CD.
+(iv) Calculate the refractive index of the block.","","n = $\frac{\sin 66}{\sin 40}$
+n = 1.42",""
+"6. (a) A transparent semicircular block has a ray of light AB directed at the centre of the flat edge of the block.
+The diagram below shows the path of the ray through the block and the emerging ray CD.
+(v) The angle between AB and the block is increased. How is the size of the angle of refraction affected?
+Justify your answer.","","the angle of refraction decreases
+the angle of incidence decreased",""
+"6. (a) A transparent semicircular block has a ray of light AB directed at the centre of the flat edge of the block.
+The diagram below shows the path of the ray through the block and the emerging ray CD.
+(vi) Determine the critical angle of the block.","","n=$\frac{1}{\sin C}$
+=1.42 => C = 44.8°",""
+"6. (b) The diagram shows the electric field around two identical spheres A and B which are given different
+quantities of charge.
+(i) What type of charge is on sphere A?","","positive charge",""
+"6. (b) The diagram shows the electric field around two identical spheres A and B which are given different
+quantities of charge.
+(ii) Which sphere has the greater charge? Justify your answer.","","sphere B // because more lines of force",""
+"6. (b) The diagram shows the electric field around two identical spheres A and B which are given different
+quantities of charge.
+A plastic rod is rubbed with a cloth and becomes negatively charged. The rod is then held close to a neutral
+metallic ball suspended from a nylon thread.
+(iii) The metallic ball is attracted to the rod. Explain why this happens.","","(rod's negative charge) attracts                      // ( rod's negative charge) repels
+positive charges to the side of the ball (closest to it) // negative charges to the side of the ball
+                                                      (farthest from it)
+[correctly labelled diagram showing positive charges on side of ball closest to the rod. (5)]",""
+"6. (b) The diagram shows the electric field around two identical spheres A and B which are given different
+quantities of charge.
+A plastic rod is rubbed with a cloth and becomes negatively charged. The rod is then held close to a neutral
+metallic ball suspended from a nylon thread.
+(iv) The rod is then positively charged. Explain why the neutral ball is still attracted towards the rod.","","the positively charged rod repels positive charges on the ball
+leaving negative charges near the rod",""
+"6. (b) The diagram shows the electric field around two identical spheres A and B which are given different
+quantities of charge.
+A plastic rod is rubbed with a cloth and becomes negatively charged. The rod is then held close to a neutral
+metallic ball suspended from a nylon thread.
+(v) The ball is earthed when the positively charged rod is held close.
+What charge is left on the ball when the earth is removed? Justify your answer.","","positive (charges remain on the ball)
+the negative charges on the ball run to earth",""
+"6. (b) The diagram shows the electric field around two identical spheres A and B which are given different
+quantities of charge.
+A plastic rod is rubbed with a cloth and becomes negatively charged. The rod is then held close to a neutral
+metallic ball suspended from a nylon thread.
+(vi) Draw a diagram to show the distribution of the charge on the ball when the rod is removed.","","Diagram showing charge distributed evenly across the surface of the ball",""
+"6. (b) The diagram shows the electric field around two identical spheres A and B which are given different
+quantities of charge.
+A plastic rod is rubbed with a cloth and becomes negatively charged. The rod is then held close to a neutral
+metallic ball suspended from a nylon thread.
+(vii) State the SI unit of electric charge.","","coulomb / C",""
+"6. (c) The diagram on the right shows a magnet with poles X and Y supported by a frame placed on an
+electronic mass balance which shows a reading of 7.980g. When the current I flows in the wire the
+balance reads 8.620g.
+(i) Explain the change in the reading on the balance when the current I  flows in the wire.","","(the wire experiences a) downward force(changing the weight recorded on the balance)",""
+"6. (c) The diagram on the right shows a magnet with poles X and Y supported by a frame placed on an
+electronic mass balance which shows a reading of 7.980g. When the current I flows in the wire the
+balance reads 8.620g.
+(ii) Explain, with the aid of a labelled diagram, the direction of the force acting on a current-carrying
+conductor that is in a magnetic field.","","three arrows perpendicular to each other
+arrows labelled force, current and magnetic field
+[reference to the left hand rule when no other marks awarded...(3)]",""
+"6. (c) The diagram on the right shows a magnet with poles X and Y supported by a frame placed on an
+electronic mass balance which shows a reading of 7.980g. When the current I flows in the wire the
+balance reads 8.620g.
+(iii) Is X a north pole or a south pole? Justify your answer.","","north pole
+direction of current & force acting downwards / means magnetic field from X to Y",""
+"6. (c) The diagram on the right shows a magnet with poles X and Y supported by a frame placed on an
+electronic mass balance which shows a reading of 7.980g. When the current I flows in the wire the
+balance reads 8.620g.
+A moving-coil galvanometer operates on the principle demonstrated above.
+(iv) What does a moving-coil galvanometer measure?","","small currents",""
+"6. (c) The diagram on the right shows a magnet with poles X and Y supported by a frame placed on an
+electronic mass balance which shows a reading of 7.980g. When the current I flows in the wire the
+balance reads 8.620g. 
+(v) Show, with the aid of a diagram, how a galvanometer can be adapted to operate as a moving-coil
+voltmeter.","","diagram with galvanometer
+in series with large resistor/multiplier",""
+"6. (d) The graph on the right shows the decay curve for a particular radioactive substance.
+(i) What term is used to describe the time taken for the activity (count rate) of a radioactive isotope
+to reduce by 50%?","","half-life",""
+"6. (d) The graph on the right shows the decay curve for a particular radioactive substance.
+(ii) Use the graph to determine this time.","","2200 ÷ 2 =1100
+2 s
+[no unit or incorrect unit (-1)]",""
+"6. (d) The graph on the right shows the decay curve for a particular radioactive substance.
+(iii) Predict the value of the count rate 1.5 s from the start of the measurements.","","≈1300 (counts per second)",""
+"6. (d) The graph on the right shows the decay curve for a particular radioactive substance.
+(iv) How long will it take the count rate to decrease by 75%?","","2 × half-life     // 2200 ÷ 4 = 550
+4 s
+[no unit or incorrect unit (-1)]","" 
+"6. (d) A student measures the level of radiation emitted by a radioactive source. He places a detector close to the
+source and puts different absorbers between the source and the detector. The source is found to emit only
+two types of radiation.
+The results are in the table below.
+Absorber       none     0.1 mm paper     3mm aluminium    100 mm lead
+Counts per minute   125          73               73             10
+(v) Which two types of radiation are being emitted by the source? Justify your answer.","","alpha
+gamma
+alpha: radiation stopped by 0.1 mm paper
+gamma: radiation stopped by 100 mm lead",""
+"7. (a) How many molecules are in 6g of N$_2$ gas?","","$\frac{6}{28}$ / 0.214 (moles)
+0.214 x 6x10$^{23}$ = 1.29× 10$^{23}$ (molecules)",""
+"7. (b) The diagram on the right incorrectly represents the outer 4 electrons in the 2p sublevel of a neutral
+atom.
+(i) Why is the representation incorrect?","","in order to occupy the same orbital two electrons must have opposite spins",""
+"7. (b) The diagram on the right incorrectly represents the outer 4 electrons in the 2p sublevel of a neutral
+atom.
+(ii) Copy and write the correct representation.","","↑↓        ↑        ↑",""
+"7. (c) The set of quantum numbers {3, 1, 0,$\frac{1}{2}$} describes one of the electrons in an atom.
+Which quantum number describes
+(i) the shape of the orbital containing the electron,","","1",""
+"7. (c) The set of quantum numbers {3, 1, 0,$\frac{1}{2}$} describes one of the electrons in an atom.
+Which quantum number describes
+(ii) the energy of the electron in that orbital?","","3",""
+"7. (d) The ions F$^-$ and Mg$^{2+}$ both have the same number of electrons.
+Which has the larger radius? Justify your answer.","","F$^-$
+Mg$^{2+}$ has a greater nuclear charge (which pulls the electrons in closer to the nucleus)",""
+"7. (e) Explain why the size of the bond angle in water is less than the size of the bond angle in ammonia.","","H$_2$O has two lone pairs / NH$_3$ has one lone pair
+the repulsion between two lone pairs is greater than the repulsion between a lone pair and a
+bonding pair / lp:lp repulsion>lp:bp repulsion",""
+"7. (f) Define electronegativity.","","measure of attraction / force or power of attraction / relative attraction(an atom in a molecule
+has)
+for a shared pair of electrons / for electrons in a covalent bond
+['measure of' or 'power of' or 'relative' omitted (-1)]",""
+"7. (g) What is a cation?","","positively charged ion / atom which has lost electron(s)",""
+"7. (h) Balance the following equation:        FeSO$_4$ → Fe$_2$O$_3$ + SO$_2$ + SO$_3$","","2FeSO$_4$→ Fe$_2$O$_3$ + SO$_2$ +SO$_3$",""
+"7. (i) State Hess's law.","","heat change for a reaction      // algebraic sum of heat changes equal to
+Independent of path followed // heat change for reaction taking place in one step
+[evolved instead of change..(-1)]",""
+"7. (j) An atom has 2 more protons and 3 more neutrons than an atom of $_{26}^{56}$Fe.
+(i) Identify the atom, (ii) state its atomic and mass numbers.
+(i)    Ni","","",""
+"7. (j) An atom has 2 more protons and 3 more neutrons than an atom of $_{26}^{56}$Fe.
+(i) Identify the atom, (ii) state its atomic and mass numbers.
+(ii)    28, 61","","",""
+"7. (k) How many grams of aluminium (Al) are there in 50g of Al$_2$O$_3$?","","102g of Al$_2$O$_3$ contains 54g of Al
+50g contains 26.47g of Al",""
+"7. (l) Consider the compounds in the following list:CaO,Al$_2$O$_3$,SO$_2$,HCl,NH$_3$,CH$_4$
+Identify from the list
+(i) an acidic oxide,(ii)a hydride with low solubility in water,(iii) a basic hydride.
+(i)    SO$_2$","","",""
+"7. (l) Consider the compounds in the following list:CaO,Al$_2$O$_3$,SO$_2$,HCl,NH$_3$,CH$_4$
+Identify from the list
+(i) an acidic oxide,(ii)a hydride with low solubility in water,(iii) a basic hydride.
+(ii)    CH$_4$","","",""
+"7. (l) Consider the compounds in the following list:CaO,Al$_2$O$_3$,SO$_2$,HCl,NH$_3$,CH$_4$
+Identify from the list
+(i) an acidic oxide,(ii)a hydride with low solubility in water,(iii) a basic hydride.
+(iii)    NH$_3$","","",""
+"7. (m) Rusting of iron is a familiar corrosion process. What two substances must be present to react with
+iron during the rusting process?","","water, oxygen",""
+"7. (n) Write (i) the formula of the acid which has the conjugate base H$_2$PO$_4$$^-$, (ii) the formula of the base
+which has the conjugate acid H$_2$O.
+(i)    H$_3$PO$_4$","","",""
+"7. (n) Write (i) the formula of the acid which has the conjugate base H$_2$PO$_4$$^-$, (ii) the formula of the base
+which has the conjugate acid H$_2$O.
+(ii)    OH$^-$","","",""
+"7. (o) Benzene is a stable molecule due to the presence of delocalised electrons.
+What is meant by delocalised electrons?","","electrons shared between many atoms / electrons not associated with a single covalent bond
+/ electrons moving between atoms",""
+"7. (p) Distinguish between saturated and unsaturated hydrocarbons.","","saturated contain (only) single bonds (between the carbon atoms) /
+Unsaturated contain a double or triple bond (between the carbon atoms)",""
+"7. (q) Esters are formed when alcohols react with carboxylic acids.
+What (i) alcohol, (ii) carboxylic acid reacts to form the ester HCOOCH$_3$?
+(i)    CH$_3$OH /methanol","","",""
+"7. (q) Esters are formed when alcohols react with carboxylic acids.
+What (i) alcohol, (ii) carboxylic acid reacts to form the ester HCOOCH$_3$?
+(ii)    HCOOH /methanoic acid","","",""
+"7. (r) Draw the structural formula of 3-methyl-but-1-ene.","","double bond in correct location
+CH$_3$ group attached to correct C and number of H's correct and in correct location",""
+"8. (a)(i) Define the first ionisation energy of an element.","","minimum energy required
+to remove the most loosely bound or outermost electron
+from one mole of atoms (in its neutral gaseous state)
+[minimum omitted ..(-1), one mole omitted.. (-1)]",""
+"8. (a) The following equation describes the process occurring when the first ionisation energy
+of sodium is measured:
+Na$_{(g)}$ → Na$^+_{(g)}$ + e$^-$
+(ii) Write an equation to describe the process occurring when the second ionisation
+energy of sodium is measured.","","Na$^+_{(g)}$→ Na$^{2+}_{(g)}$ + e$^-$
+[state symbols omitted ..(-1)]",""
+"8. (a) The first 10 successive ionisation energies of element X are shown on the right.
+(iii) Explain why there is such a large increase in energy from the fifth to the
+sixth ionisation energies.","","the sixth electron is being removed from a full shell/energy level which is stable",""
+"8. (a) The first 10 successive ionisation energies of element X are shown on the right.
+(iv) Use the graph to estimate this increase in energy.","","15000 kJ mol$^{-1}$",""
+"8. (a) The first 10 successive ionisation energies of element X are shown on the right.
+(v) Identify element X if it occurs in period 3 of the periodic table. Justify your answer.","","P/ phosphorous
+P (is in period 3 and) has 5 electrons in its n=3 main energy level or outer energy level",""
+"8. (a) The first 10 successive ionisation energies of element X are shown on the right.
+(vi) How many ionisation energies in total will this element X have?","","15 ionisation energies",""
+"8. (a) The first 10 successive ionisation energies of element X are shown on the right.
+(vii) Write the s,p electronic configuration of element X.","","1s$^2$ 2s$^2$ 2p$^6$
+3s$^2$ 3p$^3$ / 3s$^2$ 3p$_x$1 3p$_y$1 3p$_z$1",""
+"8. (a) The first 10 successive ionisation energies of element X are shown on the right.
+(viii) What is the lowest ionisation energy that will remove an electron from a full sublevel?
+Explain your answer.","","~5000 kJ mol$^{-1}$
+fourth ionisation energy",""
+"8. (b)(i) What are isotopes?","","atoms of the same elements with the same number of protons / same atomic number
+// but different numbers of neutrons /different mass numbers",""
+"8. (b)(ii) Define relative atomic mass.","","average mass of an atom of an element
+taking their abundance into account
+relative to $\frac{1}{12}$th the mass of a C-12 isotope
+[average omitted ..(-1)]",""
+"8. (b) A sample of chromium contains four isotopes and has a relative atomic mass of 52.09.
+The mass numbers and % abundance of three of the isotopes are given in the following table.
+mass number        52        53        54
+% abundance      82.8      10.9       2.7
+(iii) Determine
+(a)    the % abundance of the fourth isotope,","","100 − (82.8 + 10.9 + 2.7) = 3.6%",""
+"8. (b) A sample of chromium contains four isotopes and has a relative atomic mass of 52.09.
+The mass numbers and % abundance of three of the isotopes are given in the following table.
+mass number        52        53        54
+% abundance      82.8      10.9       2.7
+(iii) Determine
+(b)    the mass number of the fourth isotope.","","52(0.828) + 53(0.109) + 54(0.027) + x(0.036) = 52.09
+x = 50",""
+"9. (a)(i) What is a molar solution?","","a solution containing 1 mole of a solute
+in 1 litre of solution",""
+"9. (a)(ii) How could you change the molarity of a given solution?","","by changing the ratio of moles of solute to volume of solvent / add more solute",""
+"9. (a) A solution of H$_2$SO$_4$ contains 1.96g of H$_2$SO$_4$ in one litre of solution.
+(iii) Calculate the molarity of the solution.","","$\frac{1.96}{98}$ = 0.02(moles per litre)",""
+"9. (a) A solution of H$_2$SO$_4$ contains 1.96g of H$_2$SO$_4$ in one litre of solution.
+(iv) Calculate the pH of a solution of H$_2$SO$_4$ containing 1.96g in one litre of solution.","","2 x 0.02 / 0.04 // pH = -log[H$^+$]
+pH = -log (0.04) = 1.4",""
+"9. (b) To determine the ammonia concentration in a household cleaning product a chemist diluted 20cm$^3$
+of the product to 500cm$^3$ using deionised water.
+25cm$^3$ portions of the diluted solution were titrated against 0.15M H$_2$SO$_4$.
+In solution ammonia (NH$_3$) exists as ammonium hydroxide(NH$_4$OH), a weak base.
+The following reaction occurs during this titration:
+2NH$_4$OH + H$_2$SO$_4$ → (NH$_4$)$_2$SO$_4$ + 2H$_2$O
+(i) Name a piece of apparatus that was used to carry out the dilution accurately.","","volumetric flask/pipette /burette",""
+"9. (b) To determine the ammonia concentration in a household cleaning product a chemist diluted 20cm$^3$
+of the product to 500cm$^3$ using deionised water.
+25cm$^3$ portions of the diluted solution were titrated against 0.15M H$_2$SO$_4$.
+(ii) State an advantage of diluting the cleaning product before titration.","","smaller volume ( of H$_2$SO$_4$) required / less concentrated solution (of H$_2$SO$_4$ ) required",""
+"9. (b) The H$_2$SO$_4$ was placed in the burette using a funnel.
+(iii) Why was a funnel used?","","to ensure all the solution enters the burette/prevents spillage",""
+"9. (b) The H$_2$SO$_4$ was placed in the burette using a funnel.
+(iv) Why should the funnel be removed before taking readings?","","some solution may be trapped which may interfere with the zero reading",""
+"9. (b) The H$_2$SO$_4$ was placed in the burette using a funnel.
+(v) State an advantage of using a conical flask rather than a beaker during the titration.","","narrow mouth prevents loss of solution due to splashing / swirl without splashing",""
+"9. (b) During the titration the inside of the flask was washed down with deionised water.
+(vi) Explain why this does not result in an in accurate result.","","does not alter the number of moles of NH$_4$OH or H$_2$SO$_4$ in the flask",""
+"9. (b) Three titration curves A,B and C are shown below.
+(vii) Which curve could represent the above titration? Justify your answer.","images/physics_and_chemistry/problem/9b_vii.png","C
+weak base and strong acid used",""
+"9. (b) Three titration curves A,B and C are sh own below.
+(viii) Name a suitable indicator for the titration.","","methyl orange",""
+"9. (b) Three titration curves A,B and C are shown below.
+(ix) What colour change occurs at the endpoint?","","yellow to
+pink/red
+[correct colours reversed...3]",""
+"9. (b) Three titration curves A,B and C are shown below.
+(x) Use your choice of curve to explain why this indicator is the most suitable for this titration.","","methyl orange changes colour in the range 3-5 which coincides with
+the endpoint of the titration / endpoint is below pH 6 / colour change coincides with sharp
+rise in the graph / methyl orange is suitable for a strong acid weak base titration",""
+"9. (b) On average, 13.2cm$^3$ of 0.15M H$_2$SO$_4$ were required to neutralise the 25cm$^3$ portions of the diluted NH$_4$OH
+solution.
+(xi) Calculate
+(a)    the concentration of the diluted NH$_4$OH solution in moles per litre,","","$M_1V_1 = M_2V_2$
+$\frac{2}{1} = \frac{13.2×0.15}{25×M_2}$
+$M_2 = 0.1584$ (moles per litre)
+
+or
+
+Moles H$_2$SO$_4$in 13.2cm$^3$ of 0.15M H$_2$SO$_4$ = (13.2×0.15 /1000) = 1.98×10$^{-3}$
+Moles NH$_4$OH in 25 cm$^3$ = 2×1.98×10$^{-3}$ =3.96×10$^{-3}$
+Moles NH$_4$OH in 1l = 0.1584",""
+"9. (b) On average, 13.2cm$^3$ of 0.15M H$_2$SO$_4$ were required to neutralise the 25cm$^3$ portions of the diluted NH$_4$OH
+solution.
+(xi) Calculate
+(b)    the molarity of the original solution,","","0.1584× 25 = 3.96 moles per litre",""
+"9. (b) On average, 13.2cm$^3$ of 0.15M H$_2$SO$_4$ were required to neutralise the 25cm$^3$ portions of the diluted NH$_4$OH
+solution.
+(xi) Calculate
+(c)    the mass of ammonia (NH$_3$) per 100cm$^3$ of the cleaning product solution.","","3.96 × 17 = 67.32g per litre=6.73 (g per 100cm$^3$ )",""
+"10. (a)(i) What is the electrochemical series?","","a list of elements arranged in order
+of their tendency to lose electrons/ of their standard electrode potentials / decreasing ease of
+oxidation.",""
+"10. (a) The following is a list of metals arranged in order of their increasing ability to act as oxidising agents:
+K      Mg    Zn     Fe      Ni      Pb
+(ii) What is an oxidising agent in terms of electron transfer?","","gains electrons",""
+"10. (a) The following is a list of metals arranged in order of their increasing ability to act as oxidising agents:
+K      Mg    Zn     Fe      Ni      Pb
+(iii) Explain why potassium (K) is such a poor oxidising agent.","","(potassium) has one electron in its outermost shell / which it tends to lose",""
+"10. (a) The following is a list of metals arranged in order of their increasing ability to act as oxidising agents:
+K      Mg    Zn     Fe      Ni      Pb
+(iv) Which of the metals will form the least stable oxide? Explain your answer.","","Pb
+it has least tendency to give away electrons / lowest on the list",""
+"10. (b) Cadmium metal tends to form Cd$^{2+}$ ions. When a zinc metal strip is placed in a solution of CdCl$_2$ cadmium
+metal is deposited on the strip. When a strip of cadmium metal is placed in a solution of Ni(NO$_3$)$_2$ nickel
+metal is deposited on the strip.
+(i) Write an equation to represent
+(a)    the reaction of CdCl$_2$ with zinc,","","CdCl$_2$ + Zn
+→ Cd + ZnCl$_2$",""
+"10. (b) Cadmium metal tends to form Cd$^{2+}$ ions. When a zinc metal strip is placed in a solution of CdCl$_2$ cadmium
+metal is deposited on the strip. When a strip of cadmium metal is placed in a solution of Ni(NO$_3$)$_2$ nickel
+metal is deposited on the strip.
+(i) Write an equation to represent
+(b)    the reaction of cadmium with Ni(NO$_3$)$_2$.","","Cd + Ni(NO$_3$)$_2$
+→ Ni + Cd(NO$_3$)$_2$",""
+"10. (b) Cadmium metal tends to form Cd$^{2+}$ ions. When a zinc metal strip is placed in a solution of CdCl$_2$ cadmium
+metal is deposited on the strip. When a strip of cadmium metal is placed in a solution of Ni(NO$_3$)$_2$ nickel
+metal is deposited on the strip.
+(ii) What can you conclude about the position of cadmium in the above list of metals?
+Justify your answer.","","cadmium comes after Zn in the list and before nickel / Zn, Cd, Ni
+zinc displaces cadmium from its salt /cadmium displaces nickel from its salt",""
+"10. (c) In 2022, Bus Éireann introduced electric buses powered by hydrogen fuel cells.
+Hydrogen gas (H$_2$) is introduced at electrode X and oxygen gas (O$_2$) from the air at electrode Y as shown.
+The electrodes are inert and separated by an electrolyte membrane which allows H$^+$ ions to pass through, but
+blocks electrons.
+The electrons pass through an external circuit producing a current.
+The chemical reactions involved are the reverse of those occurring in the electrolysis of water.
+At electrode Y the following reaction occurs:
+O$_{2(g)}$ + H$^+$ + e$^-$ → H$_2$O$_{(l)}$
+(i) Copy and balance this equation.","","O$_{2(g)}$ +4H$^+_{(g)}$ + 4e$^-$ →
+2H$_2$O$_{(l)}$",""
+"10. (c) In 2022, Bus Éireann introduced electric buses powered by hydrogen fuel cells.
+Hydrogen gas (H$_2$) is introduced at electrode X and oxygen gas (O$_2$) from the air at electrode Y as shown.
+The electrodes are inert and separated by an electrolyte membrane which allows H$^+$ ions to pass through, but
+blocks electrons.
+The electrons pass through an external circuit producing a current.
+The chemical reactions involved are the reverse of those occurring in the electrolysis of water.
+(ii) Write an equation for the reaction occurring at electrode X.","","2H$_{2(g)}$
+→ 4H$^+_{(g)}$ + 4e$^-$",""
+"10. (c) In 2022, Bus Éireann introduced electric buses powered by hydrogen fuel cells.
+Hydrogen gas (H$_2$) is introduced at electrode X and oxygen gas (O$_2$) from the air at electrode Y as shown.
+The electrodes are inert and separated by an electrolyte membrane which allows H$^+$ ions to pass through, but
+blocks electrons.
+The electrons pass through an external circuit producing a current.
+The chemical reactions involved are the reverse of those occurring in the electrolysis of water.
+(iii) Which electrode is the anode? Justify your answer.","","X
+oxidation occurs at the anode/ electrons lost at anode",""
+"10. (c) In 2022, Bus Éireann introduced electric buses powered by hydrogen fuel cells.
+Hydrogen gas (H$_2$) is introduced at electrode X and oxygen gas (O$_2$) from the air at electrode Y as shown.
+The electrodes are inert and separated by an electrolyte membrane which allows H$^+$ ions to pass through, but
+blocks electrons.
+The electrons pass through an external circuit producing a current.
+The chemical reactions involved are the reverse of those occurring in the electrolysis of water.
+0.2 moles of water are formed by a fuel cell.
+(iv) Calculate how many
+(a)    Faradays of electricity are transferred,","","0.4 moles of electrons => 0.4 (Faradays)",""
+"10. (c) In 2022, Bus Éireann introduced electric buses powered by hydrogen fuel cells.
+Hydrogen gas (H$_2$) is introduced at electrode X and oxygen gas (O$_2$) from the air at electrode Y as shown.
+The electrodes are inert and separated by an electrolyte membrane which allows H$^+$ ions to pass through, but
+blocks electrons.
+The electrons pass through an external circuit producing a current.
+The chemical reactions involved are the reverse of those occurring in the electrolysis of water.
+0.2 moles of water are formed by a fuel cell.
+(iv) Calculate how many
+(b)    coulombs of charge pass.","","0.4 x 96485.3383 = 38594.13532(C) / 38594(C)",""
+"10. (c) In 2022, Bus Éireann introduced electric buses powered by hydrogen fuel cells.
+Hydrogen gas (H$_2$) is introduced at electrode X and oxygen gas (O$_2$) from the air at electrode Y as shown.
+The electrodes are inert and separated by an electrolyte membrane which allows H$^+$ ions to pass through, but
+blocks electrons.
+The electrons pass through an external circuit producing a current.
+The chemical reactions involved are the reverse of those occurring in the electrolysis of water.
+(ii) Write an equation for the reaction occurring at electrode X.","","2H$_{2(g)}$
+→ 4H$^+_{(g)}$ + 4e$^-$",""
+"10. (c) In 2022, Bus Éireann introduced electric buses powered by hydrogen fuel cells.
+Hydrogen gas (H$_2$) is introduced at electrode X and oxygen gas (O$_2$) from the air at electrode Y as shown.
+The electrodes are inert and separated by an electrolyte membrane which allows H$^+$ ions to pass through, but
+blocks electrons.
+The electrons pass through an external circuit producing a current.
+The chemical reactions involved are the reverse of those occurring in the electrolysis of water.
+(iii) Which electrode is the anode? Justify your answer.","","X
+oxidation occurs at the anode/ electrons lost at anode",""
+"10. (c) In 2022, Bus Éireann introduced electric buses powered by hydrogen fuel cells.
+Hydrogen gas (H$_2$) is introduced at electrode X and oxygen gas (O$_2$) from the air at electrode Y as shown.
+The electrodes are inert and separated by an electrolyte membrane which allows H$^+$ ions to pass through, but
+blocks electrons.
+The electrons pass through an external circuit producing a current.
+The chemical reactions involved are the reverse of those occurring in the electrolysis of water.
+0.2 moles of water are formed by a fuel cell.
+(iv) Calculate how many
+(a)    Faradays of electricity are transferred,","","0.4 moles of electrons => 0.4 (Faradays)",""
+"10. (c) In 2022, Bus Éireann introduced electric buses powered by hydrogen fuel cells.
+Hydrogen gas (H$_2$) is introduced at electrode X and oxygen gas (O$_2$) from the air at electrode Y as shown.
+The electrodes are inert and separated by an electrolyte membrane which allows H$^+$ ions to pass through, but
+blocks electrons.
+The electrons pass through an external circuit producing a current.
+The chemical reactions involved are the reverse of those occurring in the electrolysis of water.
+0.2 moles of water are formed by a fuel cell.
+(iv) Calculate how many
+(b)    coulombs of charge pass.","","0.4 x 96485.3383 = 38594.13532(C) / 38594(C)",""
+"11. (a)(i) Identify the compounds A, B, C& D as being aliphatic or aromatic compounds.","","aromatic: A & D
+aliphatic: B & C",""
+"11. (a)(ii) Write a molecular formula for compound B.","","C$_5$H$_{12}$",""
+"11. (a)(iii) Name the homologous series of each of the compounds which have the functional groups E, F, G& H.","","E= aldehydes
+F= alcohols
+G = alkynes
+H= ketones",""
+"11. (b) The diagram shows an apparatus used to prepare ethyne gas by dropping water onto a solid Q.
+(i) Identify solid Q.","","calcium dicarbide /CaC$_2$",""
+"11. (b) The diagram shows an apparatus used to prepare ethyne gas by dropping water onto a solid Q.
+(ii) Write a balanced equation for the reaction occurring.","","CaC$_2$ + 2H$_2$O →
+C$_2$H$_2$ + Ca(OH)$_2$",""
+"11. (b) The diagram shows an apparatus used to prepare ethyne gas by dropping water onto a solid Q.
+(iii) Describe the colour change observed when ethyne gas is passed through a test tube of bromine
+solution.","","yellow/brown
+to colourless/decolourised
+[correct colours reversed ...3]",""
+"11. (b) The diagram shows an apparatus used to prepare ethyne gas by dropping water onto a solid Q.
+(iv) What does this colour change indicate about ethyne?","","(ethyne is) unsaturated",""
+"11. (b) Ethyne undergoes the three reactions shown in the diagram below.
+(v) Name the main products X, Y and Z of each reaction.","","X = ethene /C$_2$H$_4$
+Y = ethanal /CH$_3$CHO
+Z = tetrachloroethane /C$_2$H$_2$Cl$_4$",""
+"11. (b) Ethyne undergoes the three reactions shown in the diagram below.
+(vi) Classify the reactions resulting in the products X and Y as being either an oxidation, reduction,
+hydrogenation or a substitution reaction.","","X = hydrogenation
+Y = oxidation",""
+"11. (b) Ethyne undergoes the three reactions shown in the diagram below.
+(vii) If compound X undergoes a hydration reaction, what will the product of the reaction be?","","ethanol / C$_2$H$_5$OH",""
+"12. (a) Some of the energy levels in an atom of hydrogen are shown.
+An energised hydrogen atom can emit photons with certain discrete frequencies.
+Three possible transitions A, B&C of the electrons in an atom of hydrogen are shown.
+(i) State two ways in which hydrogen atoms can be energised.","","heating
+passing an electric current through",""
+"12. (a) Some of the energy levels in an atom of hydrogen are shown.
+An energised hydrogen atom can emit photons with certain discrete frequencies.
+Three possible transitions A, B&C of the electrons in an atom of hydrogen are shown.
+(ii) A photon in the visible region of the electromagnetic spectrum is emitted. Identify the transition
+involved.","","B / n=3 to n=2 / E$_3$ – E$_2$",""
+"12. (a) Some of the energy levels in an atom of hydrogen are shown.
+An energised hydrogen atom can emit photons with certain discrete frequencies.
+Three possible transitions A, B&C of the electrons in an atom of hydrogen are shown.
+(iii) What colour is this line in the emission spectrum of hydrogen?","","red",""
+"12. (a) Some of the energy levels in an atom of hydrogen are shown.
+An energised hydrogen atom can emit photons with certain discrete frequencies.
+Three possible transitions A, B&C of the electrons in an atom of hydrogen are shown.
+(iv) What name is given to this series of lines in the visible region of the spectrum?","","Balmer (series)",""
+"12. (a) Some of the energy levels in an atom of hydrogen are shown.
+An energised hydrogen atom can emit photons with certain discrete frequencies.
+Three possible transitions A, B&C of the electrons in an atom of hydrogen are shown.
+(v) Write an equation to show the relationship between the energy lost by the electron during the
+transition and the frequency of the emitted photon of radiation.","","ΔE = hf / E(lost) = hf",""
+"12. (a) Some of the energy levels in an atom of hydrogen are shown.
+An energised hydrogen atom can emit photons with certain discrete frequencies.
+Three possible transitions A, B&C of the electrons in an atom of hydrogen are shown.
+(vi) The energy lost by an electron is 3.028 × 10$^{-19}$ J during a transition. Calculate the frequency of the
+light emitted.","","3.028 × 10$^{-19}$ = (6.626× 10$^{-34}$)f
+4.57 × 10$^{14}$Hz
+[no unit or incorrect unit (-1)]",""
+"12. (b) A mixture of magnesium oxide MgO and magnesium hydroxide Mg(OH)$_2$has a mass of 4.8 g. The mixture is
+reacted with CO$_2$ to form MgCO$_3$ according to the following equations:
+MgO        +   CO$_2$   →   MgCO$_3$
+Mg(OH)$_2$        +   CO$_2$   →   MgCO$_3$ +   H$_2$O
 The mass of water produced is 0.315g.
-How many moles of water are produced?","1 mole $H_2O$ = 18(g)
-$\frac{0.315}{18}$ = 0.0175 (moles)"
-"A mixture of magnesium oxide MgO and magnesium hydroxide $Mg(OH)_2$has a mass of 4.8 g. The mixture is reacted with $CO_2$ to form $MgCO_3$ according to the following equations:
-$MgO + CO_2 \rightarrow MgCO_3$
-$Mg(OH)_2 + CO_2 \rightarrow MgCO_3 + H_2O$
+(i) How many moles of water are produced?","","1 mole H$_2$O = 18(g)
+$\frac{0.315}{18}$ = 0.0175 (moles)",""
+"12. (b) A mixture of magnesium oxide MgO and magnesium hydroxide Mg(OH)$_2$has a mass of 4.8 g. The mixture is
+reacted with CO$_2$ to form MgCO$_3$ according to the following equations:
+MgO        +   CO$_2$   →   MgCO$_3$
+Mg(OH)$_2$        +   CO$_2$   →   MgCO$_3$ +   H$_2$O
 The mass of water produced is 0.315g.
-How many grams of $Mg(OH)_2$is present in the mixture?","1 mole $Mg(OH)_2$ = 58(g)
-0.  0175 x 58 = 1.015(g)"
-"A mixture of magnesium oxide MgO and magnesium hydroxide $Mg(OH)_2$has a mass of 4.8 g. The mixture is reacted with $CO_2$ to form $MgCO_3$ according to the following equations:
-$MgO + CO_2 \rightarrow MgCO_3$
-$Mg(OH)_2 + CO_2 \rightarrow MgCO_3 + H_2O$
+(ii) How many grams of Mg(OH)$_2$is present in the mixture?","","1 mole Mg(OH)$_2$ = 58(g)
+0.0175 x 58 = 1.015(g )",""
+"12. (b) A mixture of magnesium oxide MgO and magnesium hydroxide Mg(OH)$_2$has a mass of 4.8 g. The mixture is
+reacted with CO$_2$ to form MgCO$_3$ according to the following equations:
+MgO        +   CO$_2$   →   MgCO$_3$
+Mg(OH)$_2$        +   CO$_2$   →   MgCO$_3$ +   H$_2$O
 The mass of water produced is 0.315g.
-What mass of MgO is in the mixture?",4.8 – 1.015 = 3.785(g)
-"A mixture of magnesium oxide MgO and magnesium hydroxide $Mg(OH)_2$has a mass of 4.8 g. The mixture is reacted with $CO_2$ to form $MgCO_3$ according to the following equations:
-$MgO + CO_2 \rightarrow MgCO_3$
-$Mg(OH)_2 + CO_2 \rightarrow MgCO_3 + H_2O$
+(iii) What mass of MgO is in the mixture?","","4.8 – 1.015 = 3.785(g)",""
+"12. (b) A mixture of magnesium oxide MgO and magnesium hydroxide Mg(OH)$_2$has a mass of 4.8 g. The mixture is
+reacted with CO$_2$ to form MgCO$_3$ according to the following equations:
+MgO        +   CO$_2$   →   MgCO$_3$
+Mg(OH)$_2$        +   CO$_2$   →   MgCO$_3$ +   H$_2$O
 The mass of water produced is 0.315g.
-How many moles of $CO_2$ are required for each of the reactions above?","$\frac{3.785}{40}$ = 0.094625 (moles of $CO_2$)
-0.  0175 (moles of $CO_2$)"
-"A mixture of magnesium oxide MgO and magnesium hydroxide $Mg(OH)_2$has a mass of 4.8 g. The mixture is reacted with $CO_2$ to form $MgCO_3$ according to the following equations:
-$MgO + CO_2 \rightarrow MgCO_3$
-$Mg(OH)_2 + CO_2 \rightarrow MgCO_3 + H_2O$
+(iv) How many moles of CO$_2$are required for each of the reactions above?","","$\frac{3.785}{40}$ = 0.094625 (moles of CO$_2$)
+0.0175 (moles of CO$_2$)",""
+"12. (b) A mixture of magnesium oxide MgO and magnesium hydroxide Mg(OH)$_2$has a mass of 4.8 g. The mixture is
+reacted with CO$_2$ to form MgCO$_3$ according to the following equations:
+MgO        +   CO$_2$   →   MgCO$_3$
+Mg(OH)$_2$        +   CO$_2$   →   MgCO$_3$ +   H$_2$O
 The mass of water produced is 0.315g.
-What is the total volume of $CO_2$ at STP that is required?",0.112125 x22.4 = 2.5116(L)
-"A mixture of magnesium oxide MgO and magnesium hydroxide $Mg(OH)_2$has a mass of 4.8 g. The mixture is reacted with $CO_2$ to form $MgCO_3$ according to the following equations:
-$MgO + CO_2 \rightarrow MgCO_3$
-$Mg(OH)_2 + CO_2 \rightarrow MgCO_3 + H_2O$
+(v) What is the total volume of CO$_2$ at STP that is required?","","0.112125 x22.4 = 2.5116(L)",""
+"12. (b) A mixture of magnesium oxide MgO and magnesium hydroxide Mg(OH)$_2$has a mass of 4.8 g. The mixture is
+reacted with CO$_2$ to form MgCO$_3$ according to the following equations:
+MgO        +   CO$_2$   →   MgCO$_3$
+Mg(OH)$_2$        +   CO$_2$   →   MgCO$_3$ +   H$_2$O
 The mass of water produced is 0.315g.
-What mass of $MgCO_3$ in total is produced?","RMM $MgCO_3$ = 84
-0.  112125 x 84 = 9.4185(g)"
-"The following balanced equation represents the complete combustion of methanol:
-$2CH_3OH_{(l)} + 3O_{2(g)} \rightarrow 2CO_{2(g)} + 4H_2O_{(g)}$
-How many moles of oxygen are required for the complete combustion of 1 mole of methanol?",1.5 (moles)
-"Calculate the heat of combustion of $N_2$ from the following data:
-$H_{2(g)} + \frac{1}{2}O_{2(g)} \rightarrow H_2O_{(l)} \Delta H = -285.8 kJ mol^{-1}$
-$N_2O_{(g)} + H_2O_{(l)} \rightarrow 2HNO_{(l)} \Delta H = -76.6 kJ mol^{-1}$
-$N_{2(g)} + 3O_{(g)} \rightarrow H_{(g)} \rightarrow 2HNO_{(l)} \Delta H = -348.2 kJ mol^{-1}$
-$2N_{2(g)} + 6O_{2(g)} + 2H_{2(g)} \rightarrow 4HNO_{3(l)} \Delta H = -696.4 kJmol^{-1}$
-$4HNO_{3(l)} \rightarrow 2N_2O_{5(g)} + 2H_2O_{(l)} \Delta H = 153.2 kJ mol^{-1}$
-$2H_2O_{(l)} \rightarrow 2H_{2(g)} + O_{2(g)} \Delta H = 571.6 kJ mol^{-1}$
-$2N_{2(g)} + 5O_{2(g)} \rightarrow 2N_2O_{5(g)} \Delta H = 28.4 kJ mol^{-1}$
-$N_{(g)} + \frac{5}{2} O_{2(g)} \rightarrow N_2O_{5(g)} \Delta H = 14.2 kJ mol^{-1}$",Not possible to provide answer without knowing which reaction relates to the heat of combustion of N2
+(vi) What mass of MgCO$_3$in total is produced?","","RMM MgCO$_3$ = 84
+0.112125 x 84 = 9.4185(g)",""
+"12. (c)(i) Define heat of combustion.","","heat change or involved when one mole of a substance
+is burned in excess oxygen / is burned completely",""
+"12. (c) The following balanced equation represents the complete combustion of methanol:
+2CH$_3$OH$_{(l)}$ + 3O$_{2(g)}$ → 2CO$_{2(g)}$ + 4H$_2$O$_{(l)}$
+(ii) How many moles of oxygen are required for the complete combustion of 1 mole of methanol?","","1.5 (moles)",""
+"12. (c) The following balanced equation represents the complete combustion of methanol:
+2CH$_3$OH$_{(l)}$ + 3O$_{2(g)}$ → 2CO$_{2(g)}$ + 4H$_2$O$_{(l)}$
+(iii) Are combustion reactions exothermic or endothermic?","","exothermic",""
+"12. (c) The combustion of nitrogen can be represented by 2N$_{2(g)}$ + 5O$_{2(g)}$ → 2N$_2$O$_{5(g)}$
+(iv) Calculate the heat of combustion of N$_2$ from the following data:
+H$_{2(g)}$ + $\frac{1}{2}$O$_{2(g)}$ → H$_2$O$_{(l)}$                    ΔH = -285.8 kJ mol$^{-1}$
+N$_2$O$_{5(g)}$ + H$_2$O$_{(l)}$ → 2HNO$_{3(l)}$                     ΔH = -76.6 kJ mol$^{-1}$
+N$_{2(g)}$ + 3O$_{2(g)}$ + H$_{2(g)}$ → 2HNO$_{3(l)}$              ΔH = -348.2 kJ mol$^{-1}$","","2N$_{2(g)}$ + 6O$_{2(g)}$ + 2H$_{2(g)}$ →4HNO$_{3(l)}$                ΔH = -696.4 kJmol$^{-1}$
+4HNO$_{3(l)}$→2N$_2$O$_{5(g)}$ + 2H$_2$O$_{(l)}$                 ΔH = 153.2 kJmol$^{-1}$
+2H$_2$O$_{(l)}$→2H$_{2(g)}$ + O$_{2(g)}$                        ΔH = 571.6 kJ mol$^{-1}$
+2N$_{2(g)}$ + 5O$_{2(g)}$ → 2N$_2$O$_{5(g)}$                  ΔH = 28.4 kJ mol$^{-1}$
+N$_{2(g)}$ + $\frac{5}{2}$O$_{2(g)}$ →N$_2$O$_{5(g)}$                  ΔH = 14.2 kJ mol$^{-1}$",""
+"12. (d) In crystalline solids, particles are arranged in a regular repeating pattern.
+(i) What is this regular repeating pattern called?","","unit cell",""
+"12. (d) In crystalline solids, particles are arranged in a regular repeating pattern.
+The structure of iodine, a molecular crystal is shown in the diagram on the right.
+(ii) What are the attractive forces holding the iodine molecules together in the crystal?","","Van Der Waals forces / London forces /dispersion forces",""
+"12. (d) In crystalline solids, particles are arranged in a regular repeating pattern.
+Ice is another example of a molecular crystal, shown in the diagram below.
+(iii) What type of intermolecular attraction holds the water molecules together in an ice crystal?","","Hydrogen bonding / H bonding",""
+"12. (d) In crystalline solids, particles are arranged in a regular repeating pattern.
+(iv) Name two other types of crystal and give an example of each type.","","ionic / covalent /metallic
+ionic: NaCl etc
+covalent: diamond etc
+metallic: copper etc",""
+"12. (d) In crystalline solids, particles are arranged in a regular repeating pattern.
+(v) For any one of the crystal types you have stated in part (iv), describe how the particles are held in
+position.","","one of the following
+ionic:      the particles are ions held by ionic bonds/electrostatic forces
+covalent: atoms held by covalent bonds
+metallic: metal atoms held by a sea of delocalised electrons",""
