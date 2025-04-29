@@ -1,451 +1,800 @@
 "problem","image_problem","answer","image_answer"
-"Breac síos dlí imtharraingthe Newton.
-fórsa
-idir dhá (phointe) mhais (ar bith) i gcomhréir le hiolrach a maisseana agus i gcomhréir inbhéartach leis an bhfad (idir a n-ionaíd) cearnaíthe.
+"1. (a) Breac síos dlí imtharraingthe Newton.","","fórsa
+idir dhá (phointe) mhais (ar bith) i gcomhréir le hiolrach a maiseanna agus i gcomhréir
+inbhéartach leis an bhfad (idir a n-ionaid) cearnaithe.
 nó
-$F \propto \frac{Gm_1m_2}{d^2}$
-nodaireacht cheart","","[4+2]",""
-"Cainníochtaí fisiceacha is ea mais agus treoluas.
-Mínigh conas atá difríocht idir suimiú treoluasanna agus suimiú maisseana.
-is treoluas é veicteoir
-is scálach é mais","","[4+2]",""
-"Taispeántar sa léaráid ar dheis liathróid ghailf atá ar fos ar dhromchla cothrománach 1.2 m ó pholl. Buaileann imreoir gailf an liathróid ar tslí a go n-imluaiseann / go cothrománach le treoluas tosaigh 1.2ms⁻¹. Luasmhoillíonn an liathróid ag 0.4 m s⁻² agus tagisteal go dtí an poll.
-Ríomh treoluas na liathróide nuair a bhaineann sí ciumhais an phoill amach.","","[4]",""
-"Taispeántar sa léaráid ar dheis liathróid ghailf atá ar fos ar dhromchla cothrománach 1.2 m ó pholl. Buaileann imreoir gailf an liathróid ar tslí a go n-imluaiseann / go cothrománach le treoluas tosaigh 1.2ms⁻¹. Luasmhoillíonn an liathróid ag 0.4 m s⁻² agus tagisteal go dtí an poll.
-$V^2=U^2+2as / v= \sqrt{1.2^2 + 2(-0.4)(1.5)}$
-$v = 0.49 (m s^{-1})$
-Ríomh an méad oibre a dhéantar nuair a ardaítear mais 60kg go ceartingearach go hairde 8 m.","","[2]",""
-"Taispeántar sa léaráid ar dheis liathróid ghailf atá ar fos ar dhromchla cothrománach 1.2 m ó pholl. Buaileann imreoir gailf an liathróid ar tslí a go n-imluaiseann / go cothrománach le treoluas tosaigh 1.2ms⁻¹. Luasmhoillíonn an liathróid ag 0.4 m s⁻² agus tagisteal go dtí an poll.
-Ríomh an méad oibre a dhéantar nuair a ardaítear mais 60kg go ceartingearach go hairde 8 m.
-$W=Fxd or W=mgh$
-$W = 60x9.8x8 = 4704 (J)$","","[4]",""
-"Taispeántar sa léaráid ar dheis liathróid ghailf atá ar fos ar dhromchla cothrománach 1.2 m ó pholl. Buaileann imreoir gailf an liathróid ar tslí a go n-imluaiseann / go cothrománach le treoluas tosaigh 1.2ms⁻¹. Luasmhoillíonn an liathróid ag 0.4 m s⁻² agus tagisteal go dtí an poll.
-Ríomh an méad oibre a dhéantar nuair a ardaítear mais 60kg go ceartingearach go hairde 8 m.
-$W=Fxd or W=mgh$","","[2]",""
-"Aist amháin de chuid tonnta leictreamaighnéadacha is ea gur trastonnta iad.
-Luaigh dhá airí eile.
-taispeal ag luas an tsolais /is féidir a dhíraonadh/ is féidir é a pholarú/is féidir leis taisteal i bhfolús srl","","2 cheann ar bith [4+2]",""
-"Is féidir go dtarlódh trasnaíocht i léas leictreon.
-Cén t-eolas faoi leictreoin is féidir a dhéadúchtú ón bhfioras sin?
-tá airionna tonne ag (leictreoin)","","[6]",""
-"Úsáidtear tonnta ultrafhuaime de thonnfhaid 0.4mm agus ar luas 1580ms⁻¹ chun fíochán matáin a scrúdú i gcorp an duine.
-Ríomh minicíocht na toinne ultrafhuaime sin.","","[4]",""
-"Úsáidtear tonnta ultrafhuaime de thonnfhaid 0.4mm agus ar luas 1580ms⁻¹ chun fíochán matáin a scrúdú i gcorp an duine.
-$f = \frac{v}{\lambda} = \frac{1580}{4 \times 10^{-4}}$
-$f = 3.95 \times 10^6 (Hz)$","","[2]",""
-"Taispeántar sa léaráid ar dheis díthróirí a thionnraíonn imeacht ama t.
-Cad iad (i) aimplitiúd, (ii) minicíocht na toinne sin?
-(i) aimplitiúd= 8 (m)
-(ii) minicíocht = 0.1 (Hz)","","[4+2]",""
-"Cén t-airí teirmeidinimeadach agus cás calabrú a dhéanamh ar i: (i) gaisteiméadar toirt-tairiseach, (ii) teirmiméadar mearcair?
-(i) brú
-(ii) fad / airde / toirt (de cholún mearcair)","","[4+2]",""
-"Mínigh cad is brí le gluaisne Brown.
-gluaiseacht caithini/moilíni inifheicthe mar thoradh ar imbhualtí le caithinní nó móilíní dofheicthe atá ar fuadreaimh i leacht nó i ngás / gluaiseacht thapa/leanúnach /randamach/ i líne dhíreach/fhiriainnach de cháithníní nó móilíní beaga","","[6]",""
-"Cad iad an dá thaechta tagartha a úsáidtear chun scála teochta Kelvin a bhunú?
-triphointe uisce / 273.16 K / 0.01🌡️
-dearbhphiarais / 0 K / -273.15 🌡️","","[4+2]",""
-"Mínigh conas is féidir an graf ar dheis a úsáid chun luach dearbhphiarais a mheas ar scála Celsius.
-an líne a leathnú go dtí go dtrasnaíonn sé an ais teochta /
-leagh dearbhphiarais ón idirmhir leis an ais teochta","","[6]",""
-"Socraítear trí fhriotóir, 2 $\Omega$, 3 $\Omega$ agus 4 $\Omega$ i dtreocheangal. Ríomh an fhriototaíocht iomlán.
-$\frac{1}{R} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3} / \frac{1}{R} = \frac{1}{2} + \frac{1}{3} + \frac{1}{4} = \frac{13}{12}$
-$R = \frac{12}{13} = 0.923 (\Omega)$","","[4]
-[2]",""
-"Luaigh dhá airí de thoilleoir plátaí comhthreomhara a chinneann an méid luchta is féidir a storáil ann.
-achar (forlui) na bplátaí / fad idir plátaí / tréleictreach nó ábhar idir plátaí","","dhá cheann ar bith [4+2]",""
-"Breac síos dlí Faraday maidir le hionduchtú leictreamaighnéadach.
-Flig ionduchtaithe
+F $\propto \frac{GMm}{d^2}$
+nodaireacht cheart",""
+"1. (b) Cainníochtaí fisiceacha is ea mais agus treoluas.
+Mínigh conas atá difriocht idir suimiú treoluasanna agus suimiú maiseanna.","","is treoluas é veicteoír
+is scálach é mais",""
+"1. (c) Taispeántar sa léaráid ar dheis liathróid ghaIf atá ar fos ar dhromchla cothrománach 1.5 m ó
+phoIl. Buaileann imreoir galf an liathróid sa tslí is go ngluaiseann sí go cothrománach le
+treoluas tosaigh 1.2ms$^{-1}$. Luasméadaíonn an liathróid ag 0.4 m s$^{-2}$ agus í ag taisteal go dtí an
+poll.
+Ríomh treoluas na liathróide nuair a bhaineann sí ciumhais an phoill amach.","","$v^2 = u^2 + 2as / v^2 = 1.2^2 + 2(-0.4)(1.5)$
+$v = 0.49 (ms^{-1})$",""
+"1. (d) Ríomh an méad oibre a dhéantar nuair a ardaítear mais 60kg go ceartingearach go hairde 8 m.","","$W =Fs$ nó $W =mgh$
+$W = 60×9.8×8 = 4704(J)$",""
+"1. (e) Airi amháin de chuid tonnta leictreamaighnéadacha is ea gur trastonnta iad.
+Luaigh dhá airí eile.","","taisteal ag luas an tsolais /is féidir é a dhíraonach/ is féidir é a pholarú/is féidir leis taisteal i
+bhfolús srl
+2 cheann ar bith",""
+"1. (f) Is féidir go dtarlódh trasnaíocht i léas leictreon.
+Cén t-eolas faoi leictreoin is féidir a dhéaduchtú ón bhfioras sin?","","tá airionna toInne ag (leictreoin)",""
+"1. (g) Úsáidtear tonnta ultraîhuaime de thonnfhad 0.4mm agus ar luas 1580ms$^{-1}$ chun fíochán
+matáin a scrúdú i gcorp an duine.
+Ríomh minicíocht na toinne ultrafhuaime sin.","","$f =\frac{c}{\lambda} / f = \frac{1580}{4×10^{-4}}$
+$f = 3.95 ×10^6 (Hz)$
+[cumhacht mhícheard de 10 ...(-1)]",""
+"1. (h) Taispeántar sa léaráid ar dheis dlíshiúithriú s toinne in imeacht ama t.
+Cad iad (i) amplitúid agus (ii) minicíocht na toinne sin?","","(i)    aimplitiúid= 8 (m)
+(ii)    minicíocht - 0.1 (Hz)",""
+"1. (i) Cén t-airí teirmimeádrach a úsáidtear agus calabrú á dhéanamh ar: (i) gásteirmiméadar toirt-
+tairiseach, (ii) teirmiméadar mearcair?","","(i)    brú
+(ii)    fad / airde / toirt (de cholún mearcair)",""
+"1. (j) Mínigh cad is brí le gluaisne de Brún.","","gluaiseacht cáithníní/móilíní intheicthe mar thoradh ar imbhuailtí le cáithníní nó móilíní
+dofheicthe atá ar fuaidreamh i leacht nó i ngás / gluaiseacht thapa/leanúnach /randamach/i
+líne dhíreach/thiarlánach de cháithníní nó móilíní beaga",""
+"1. (k) Cad iad an dá theocht tagartha a úsáidtear chun scála teochta Kelvin a bhunú?","","tríphointí uisce / 273.16 K / 0.01℃
+dearbhnialas / 0 K / -273.15℃",""
+"1. (l) Mínigh conas is féidir an graf ar dheis a úsáid chun luach dearbhnialas a mheas ar scála
+Celsius.","","an líne a leathnú go dtí go dtrasnaíonn sé an ais teochta /
+léigh dearbhnialas ón idirnhí leis an ais teochta",""
+"1. (m) Socraítear trí fhriotóir, 2 Ω, 3 Ω agus 4 Ω i dtreocheangal. Ríomh an fhriotaíocht iomlán.","","$\frac{1}{R} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3} / \frac{1}{R} = \frac{6}{12} + \frac{4}{12} + \frac{3}{12} = \frac{13}{12}$
+$R =\frac{12}{13}= 0.923(Ω)$",""
+"1. (n) Luaigh dhá airí de thoilleoir plataí comhthreomhara a chinneann an méid luchtaa is féidir a
+stóráil ann.","","achar (forlú) na bplataí / fad idir plátaí / treileictreach nó ábhar idir plataí
+dhá cheann ar bith",""
+"1. (o) Breac síos dlí Faraday maidir le hionduchtú leictreamaighnéadach.","","// E ionduchta\\ithe
 tá sé i gcomhréir le ráta athraithe an fhlosca mhaighnéadaigh
-$// E \propto \frac{d\phi}{dt}$","","[4+2]",""
-"Tarraing ar aisceiméad maighnéadach a bhaineann le solanoideach atá ag iompar srutha.
-linte ar dul tríd artholanoideach agus ag lúbadh ó na pointí deiridh","","[níl na linte tríd an láirphointe (-1)]",""
-"Comhléann núicléis deoitéiriam agus núicléis tritiam le chéile chun núicléas héiliam agus caithinn X a tháormiú mar a léirionn an chothromóid: $^2_1H + ^3_1H \rightarrow ^4_2He + X$. Sainaithin X.
-$_{0}^{1}n$ / neodrón","","[6]",""
-"Luaigh prionsabal imoibrithe maise is fuinnimh.
-(In imoibrithe núicléacha) is ionann mais mhide fuinneamh na n-imoibreoirí//$E = mc^2$
-agus mais mhide fuinneamh na dtáirgi // nodaireacht","","[4+2]",""
-"Cad is brí le
-(i) mais,
-méid damhna i réad / tomhas ar an bhfriotaoíocht in aghaidh gluaiseachta
-(b) luasghéarú?
-ráta athraithe treoluais// a=$\frac{v-u}{t}$","","[6+3]",""
-"Breac síos dlí gluaisne Newton.
-tá an ráta athraithe móimintim i gcomhréir leis
+// $E \propto \frac{dΦ}{dt}$",""
+"1. (p) Tarraing an réimse maighnéadach a bhaineann le solanóidígh atá ac iompar srutha.","","línte ag dul trí lárphointe an tsolanóidigh agus ag lúbadh ó na pointí deiridh
+léiritheaán treo
+[níl na línte tríd an lárphointe (-1)]",""
+"1. (q) Comhleánn núicléas deoitéiriam agus núicléas trítiam le chéile chun núicléas héiliam agus
+cáithnín X a fhoirmiú mar a léirionn an chothromóid:$_1^2H + _1^3H →_2^4He+X$. Sainaithin X.","","n$^0$ / neodrón",""
+"1. (r) Luaigh prionsabal imchoimeádta mais is fuinnimh.","","(In imoibrithe núicléacha) is ionann mais móide fuinneamh na n-imoibreoirí/ / E = mc$^2$
+agus mais móide fuinneamh na dtáirgí
+// nodaireacht",""
+"2. (a) (i) Cad is brí le
+(a)    mais,","","méid damhna i réad / tomhas ar an bhfriotaíocht in aghaidh gluaiseachta",""
+"2. (a) (i) Cad is brí le
+(b)    luasghéarú?","","ráta athraithe an treoluais/ $a = \frac{v-u}{t}$",""
+"2. (a) (ii) Breac síos dara dlí gluaisne Newton.","","tá an ráta athraithe móimintím i gcomhréir leis
+an bhfórsa atá ag gníomhú agus (a tharlaíonn) i dtreo an fhórsa // $F$ agus sa treo céanna
 // $\frac{mv-mu}{t}$
-an bhfórsa atá ag gníomhú agus (a tharlaíonn) i dtreo an fhórsa // F agus a treó ceanna","","[Ceadaigh F=ma ...4]",""
-"Úsáid an dlí gluaisne Newton le cothromóid a dhíorthú luach d'aimpéantar an coibhneas idir fórsa, mais agus luasghéarú.
-$F= \frac{mv-mu}{t} / F = m (\frac{v-u}{t})$
-$F/m = \frac{v-u}{t} / F=ma / F \propto ma$ / i gcás $k=1$ (sa chóras SI)","","[6+3]",""
-"Léirítear scairdscairdil sa léaráid ar dheis. Gabhann aer de mhais 195 kg isteach ag X, teiltear aer agus fáganann sé ag Y ansin. Tagann méadú de 460 m s⁻¹ ar luas na haershaemhaise i agus í ag dul tríd an inneall.
+[Ceadaigh F=ma ...4]",""
+"2. (a) (iii) Úsáid dara dlí gluaisne Newton le cothromóid a dhíorthú ina dtaispeántar an coibhneas idir
+fórsa, mais agus luasghéarú.","","$F = \frac{mv-mu}{t}$ / $F = m(\frac{v-u}{t})$
+$F = m \cdot a$ / $F = kma$ / $F = ma$ i gcás $k = 1$ (sa chóras SI)",""
+"2. (a) Léirítear scairdínneall sa léaráid ar dheis. Gabhann aer de mhais 195 kg isteach ag X, téitear é agus fágann sé an t-inneall ag
+Y ansin. Tagann méadú de 460 m s$^{-1}$ ar luas na haermhaise i 0.75 s agus í ag dul tríd an inneall.
 (iv) Ríomh
-(a) luasghéarú na haermaise,
-$a = \frac{460}{0.75} = 613.3 m s^{-2}$","","[3]",""
-"Léirítear scairdscairdil sa léaráid ar dheis. Gabhann aer de mhais 195 kg isteach ag X, teiltear aer agus fáganann sé ag Y ansin. Tagann méadú de 460 m s⁻¹ ar luas na haershaemhaise i agus í ag dul tríd an inneall.
-(b) an fórsa a fheidhmíonn an aermhais ar an inneall.
-$F = (195)(613.3) = 119600 N (ar chlé)$","","[3]",""
-"Rinneadh turgnamh chun léiriú a dhéanamh ar an gcoibhneas idir luasghéarú a tralaí nuair a feidhmíodh fórsa F air. Bailíodh na sonraí a leanas. Cuireadh gach fórsa F i bhfeidhm ar an tralaí, a bhí ar fos i dtús ama agus tomhaiseadh an treoluas deiridh.
-Tarraing graf, ar ghraifpháipéar, de luasghéarú in aghaidh fórsa.","","[3]",""
-"Rinneadh turgnamh chun léiriú a dhéanamh ar an gcoibhneas idir luasghéarú a tralaí nuair a feidhmíodh fórsa F air. Bailíodh na sonraí a leanas. Cuireadh gach fórsa F i bhfeidhm ar an tralaí, a bhí ar fos i dtús ama agus tomhaiseadh an treoluas deiridh.
-fána","","[3]",""
-"Rinneadh turgnamh chun léiriú a dhéanamh ar an gcoibhneas idir luasghéarú a tralaí nuair a feidhmíodh fórsa F air. Bailíodh na sonraí a leanas. Cuireadh gach fórsa F i bhfeidhm ar an tralaí, a bhí ar fos i dtús ama agus tomhaiseadh an treoluas deiridh.
-pointí breachta i gceart","","[3]",""
-"Rinneadh turgnamh chun léiriú a dhéanamh ar an gcoibhneas idir luasghéarú a tralaí nuair a feidhmíodh fórsa F air. Bailíodh na sonraí a leanas. Cuireadh gach fórsa F i bhfeidhm ar an tralaí, a bhí ar fos i dtús ama agus tomhaiseadh an treoluas deiridh.
-an líne díreach is fearr oiriúint","","[3]",""
-"Rinneadh turgnamh chun léiriú a dhéanamh ar an gcoibhneas idir luasghéarú a tralaí nuair a feidhmíodh fórsa F air. Bailíodh na sonraí a leanas. Cuireadh gach fórsa F i bhfeidhm ar an tralaí, a bhí ar fos i dtús ama agus tomhaiseadh an treoluas deiridh.
-Úsáid do ghraf chun ríomh a dhéanamh ar an mais a luasghéaraíodh.
-Fána = $\frac{y_2 - y_1}{x_2 - x_1} = \frac{1.2 - 0}{3.5-0.5}$
-mais = 0.17 kg","","[3]",""
-"Rinneadh turgnamh chun léiriú a dhéanamh ar an gcoibhneas idir luasghéarú a tralaí nuair a feidhmíodh fórsa F air. Bailíodh na sonraí a leanas. Cuireadh gach fórsa F i bhfeidhm ar an tralaí, a bhí ar fos i dtús ama agus tomhaiseadh an treoluas deiridh.
-Bhí luasghéarú 3 m s⁻² faoin tralaí le feadh 1.9 s. Ríomh treoluas deiridh an tralaí.","","[4]
-[2]",""
-"Rinneadh turgnamh chun léiriú a dhéanamh ar an gcoibhneas idir luasghéarú a tralaí nuair a feidhmíodh fórsa F air. Bailíodh na sonraí a leanas. Cuireadh gach fórsa F i bhfeidhm ar an tralaí, a bhí ar fos i dtús ama agus tomhaiseadh an treoluas deiridh.
-Bhí luasghéarú 3 m s⁻² faoin tralaí le feadh 1.9 s. Ríomh treoluas deiridh an tralaí.
-$v = u + at$
-$v = 0 + (3)(1.9) = 5.7 m s^{-1}$","","[4]
-[2]",""
-"Breac síos dlíthe frithchaithimh an tsolais.
-tá an ga ina uillinn ionsaithe ag uillinn frithchaithimh","","[4+2]",""
-"Cuirtear fritne 30cm os comhair cuasach ag a bhfuil fad fócasach 40cm.
-Ríomh
-(a) fad na híomha ón scáthan,","","[4+3+2]",""
-"Cuirtear fritne 30cm os comhair cuasach ag a bhfuil fad fócasach 40cm.
-Ríomh
-(a) fad na híomha ón scáthan,
-$\frac{1}{f} = \frac{1}{u} + \frac{1}{v} / \frac{1}{40} = \frac{1}{30} + \frac{1}{v}$
-$\frac{1}{v} = \frac{1}{120}$
-$v = 120 cm$","","[4+3+2]",""
-"Cuirtear fritne 30cm os comhair cuasach ag a bhfuil fad fócasach 40cm.
-(b) airde na fritne, más é 18cm airde na híomha a tháirgtear.
-$m = \frac{v}{u} / m = \frac{120}{30} = 4$
-airde na fritne $= \frac{18}{4} = 4.5cm$","","[4+2]",""
-"Cuirtear fritne 30cm os comhair cuasach ag a bhfuil fad fócasach 40cm.
-Táirgeann scáthan cuasach difriúil fíoríomhá a bhfuil formhéadú de 3 ann nuair a chuirtear an fhrithne 30 cm os a chomhair.
-(iii) Ríomh fad fócasach an scátháin seo.
-$\frac{1}{f} = \frac{1}{u} + \frac{1}{v} / \frac{1}{f} = \frac{1}{30} + \frac{1}{90} = \frac{4}{90}$
-$f = 22.5 cm$","","[4+3+2]",""
-"Ainmnigh na lionsa L₁ agus L₂.
-$L_1$ = réadlionsa
-$L_2$ = súllionsa","","[4+2]",""
-"Faigh an teoiric chinéiteach le mínú a thabhairt ar theocht, ar bhrú agus ar airíonna eile gáis i dtéarmaí gluaiseachta na cáithníní.
-(i) Luaigh dhá fhosuímh nuaír sa teoirice cinéití
-(a) a gclolonn gach gás leo,
-tá gás comhdhéanta de lion mór cáithníní beaga bídeacha / bíonn na caithníní i ngluaiseacht leanúnach (líne dhíreach thapa nó randamach) / imbhuaileann na caithníní le chéile / imbhuaileann na caithníní le ballaí an choimeádáin","","[4+2]",""
-"Faigh an teoiric chinéiteach le mínú a thabhairt ar theocht, ar bhrú agus ar airíonna eile gáis i dtéarmaí gluaiseachta na cáithníní.
-(b) nach gcloíonn roinnt gás,
-tá gás imbhualainn breá leaisteach / níl aon fhorsaí traingteachta nó eártacha (idir caithníní) / is é an t-achar idir na cáithníní mór i gcomparáid leis an méid de na cáithníní / a chaitrear in imbhuaileadh beag i gcomparáid leis an idir imbhualtí","","[4+2]",""
-"Faigh an teoiric chinéiteach le mínú a thabhairt ar theocht, ar bhrú agus ar airíonna eile gáis i dtéarmaí gluaiseachta na cáithníní.
-Cén tearma a úsáidtear le cur síos a dhéanamh ar
-(a) an ngás a chloíonn le gach fosuímh de chuid na teoirice seo,
-gás ídealach
-(b) gás nach gcloíonn le gach fosuímh de chuid na teoirice seo?
-gás fíor","","[4+2]",""
-"Faigh an teoiric chinéiteach le mínú a thabhairt ar theocht, ar bhrú agus ar airíonna eile gáis i dtéarmaí gluaiseachta na cáithníní.
-Conas a athraíonn teocht gáis le méadaíteas luas cáithníní an gáis?
-Cosáin do fhreagra.
-Méadaítear an teocht // de réir mar a bhuaileann na ballaí níos minice","","[4+2]",""
-"Faigh an teoiric chinéiteach le mínú a thabhairt ar theocht, ar bhrú agus ar airíonna eile gáis i dtéarmaí gluaiseachta na cáithníní.
-Conas a athraíonn teocht gáis le méadaíteas luas cáithníní an gáis?
-Cosáin do fhreagra.
-Méadaítear an teocht // de réir mar a mhéadaíteas luas cáithníní an gáis.","","[4+2]",""
-"Taispeántar sa ghraf thíos $pV$ in aghaidh líon na mól de ghás n ag teocht tairiseach T, áit arb iad p brú agus V toirt an ghais i gcoimeádáin.
-(i) Bain úsáid as fána an ghraif chun teocht thairiseach T a aimsiú.","","[4]",""
-"Taispeántar sa ghraf thíos $pV$ in aghaidh líon na mól de ghás n ag teocht tairiseach T, áit arb iad p brú agus V toirt an ghais i gcoimeádáin.
-$m = \frac{y_2 - y_1}{x_2 - x_1}$
-$m = \frac{(2.95-1)x10^3}{4-2} = 2.425 x 10^3$","","[4]",""
-"Taispeántar sa ghraf thíos $pV$ in aghaidh líon na mól de ghás n ag teocht tairiseach T, áit arb iad p brú agus V toirt an ghais i gcoimeádáin.
-$pV = nRT / T = \frac{pV}{nR}$","","[2]",""
-"Taispeántar sa ghraf thíos $pV$ in aghaidh líon na mól de ghás n ag teocht tairiseach T, áit arb iad p brú agus V toirt an ghais i gcoimeádáin.
-$T = \frac{slope}{R} = \frac{2.425x10^3}{8.31} = 292 K$","","[2]",""
-"Cé mhéad mól den ghás a bheadh i láthair dá mbeadh brú 7 x 103 Pa agus toirt 0.2 m3 ann ag teocht tairiseach T?
-$pV= (7x10^3)(0.2) = 1400$  // $pV = nRT / (7x10^3)(0.2) = n(8.31)(292)$
-úsáid an graf chun n = 0.6 (mól) / n = 0.6 (mól)","","[4+2]",""
-"Cad é an t-aonad tomhais don $pV$?
-$Pam^3$ / Nm / J","","[3]",""
-"Sainmhínigh
-friotaíocht leictreach.
-cóimheas idir voltas agus sruth / $R = \frac{V}{I}$","","friotaíocht leictreach.
-cóimheas idir voltas agus sruth / $R = \frac{V}{I}$",""
-"aonad na friotaíochta leictrí ᵢ, an t-óm.
-is ionann friotaíocht seoltóra agus 1 óm má shreabhann sruth 1 aimpéar tríd nuair is ionann an difríocht phóitéinsil (idir a chríoch) agus 1 volta","","aonad na friotaíochta leictrí ᵢ, an t-óm.
-is ionann friotaíocht seoltóra agus 1 óm má shreabhann sruth 1 aimpéar tríd nuair is ionann an difríocht phóitéinsil (idir a chríoch) agus 1 volta",""
-"Mol dhá airí a bhíonn ag corna sreinge a chinnefeadh méid na friotaíochta ann.
-trastomhas nó tiús nó achar / fad / cineál ábhair nó friotas","","Mol dhá airí a bhíonn ag corna sreinge a chinnefeadh méid na friotaíochta ann.
-trastomhas nó tiús nó achar / fad / cineál ábhair nó friotas",""
-"Taispeántar sa léaráid galraes a úsáidtear chun an iarmhairt téimh atá ag sruth leictreach a fhiosrú.
-Ligeadh do shruth / sreabhadh tríd an gcorna ar feadh méid sheasta ama agus taifeadadh an t-ardú sa teocht Δθ. Athdheánadh é seo le haghaidh luachanna difriúla den sruth.
-
+(a)    luasghéarú na haermhaise,","","$a = \frac{460}{0.75} = 613.3ms^{-2}$
+[gan aonad nó aonad mícheart (−1)]",""
+"2. (a) Léirítear scairdínneall sa léaráid ar dheis. Gabhann aer de mhais 195 kg isteach ag X, téitear é agus fágann sé an t-inneall ag
+Y ansin. Tagann méadú de 460 m s$^{-1}$ ar luas na haermhaise i 0.75 s agus í ag dul tríd an inneall.
+(iv) Ríomh
+(b)    an fórsa a fheidhmíonn an aermhais ar an inneall.","","$F= (195)(613.3)=119600$ N(ar chlé)
+[gan aonad nó aonad mícheart (−1)]",""
+"2. (b) Rinneadh turgnamh chun léiriú a dhéanamh ar an gcoibhneas idir luasghéarú a tralai nuair a
+feidhmíodh fórsa F air. Bailíodh na sonraí a leanas. Cuireadh gach fórsa F i bhfeidhm ar an tralai, a
+bhí ar fos i dtús ama agus tomhaiseadh an treoluas deiridh.
+F (N)       0.50       0.75       1.00       1.25       1.50       2.00
+v(ms$^{-2}$)   3.0        4.6        6.0        7.4        8.9        11.9
+(i) Tarraing graf, ar ghrafpháipéar, de luasghéarú in aghaidh fórsa.","","aiseanna lipéadaithe
+aiseanna tarraingthe le scálaí cuí
+pointí breactha i gceart
+an líne dhíreach is fearr oiriúint",""
+"2. (b) Rinneadh turgnamh chun léiriú a dhéanamh ar an gcoibhneas idir luasghéarú a tralai nuair a
+feidhmíodh fórsa F air. Bailíodh na sonraí a leanas. Cuireadh gach fórsa F i bhfeidhm ar an tralai, a
+bhí ar fos i dtús ama agus tomhaiseadh an treoluas deiridh.
+F (N)       0.50       0.75       1.00       1.25       1.50       2.00
+v(ms$^{-2}$)   3.0        4.6        6.0        7.4        8.9        11.9
+(ii) Úsáid do ghraf chun ríomh a dhéanamh ar an mais a luasghéaraíodh.","","Fána = $\frac{Y_2−Y_1}{X_2−X_1} = \frac{6−3}{1−0.5}$
+mais= 0.17 kg",""
+"2. (b) Rinneadh turgnamh chun léiriú a dhéanamh ar an gcoibhneas idir luasghéarú a tralai nuair a
+feidhmíodh fórsa F air. Bailíodh na sonraí a leanas. Cuireadh gach fórsa F i bhfeidhm ar an tralai, a
+bhí ar fos i dtús ama agus tomhaiseadh an treoluas deiridh.
+F (N)       0.50       0.75       1.00       1.25       1.50       2.00
+v(ms$^{-2}$)   3.0        4.6        6.0        7.4        8.9        11.9
+(iii) Bhí luasghéarú 3 m s$^{-2}$ faoin tralai ar feadh 1.9 s. Ríomh treoluas deiridh an tralai.","","$v = u + at$
+$v = 0 + (3)(1.9) = 5.7$ m s$^{-1}$
+[gan aonad nó aonad mícheart (−1)]",""
+"2. (b) Rinneadh turgnamh chun léiriú a dhéanamh ar an gcoibhneas idir luasghéarú a tralai nuair a
+feidhmíodh fórsa F air. Bailíodh na sonraí a leanas. Cuireadh gach fórsa F i bhfeidhm ar an tralai, a
+bhí ar fos i dtús ama agus tomhaiseadh an treoluas deiridh.
+F (N)       0.50       0.75       1.00       1.25       1.50       2.00
+v(ms$^{-2}$)   3.0        4.6        6.0        7.4        8.9        11.9
+(iv) Tarraing léaráid lipéadaithe den ghaireas a d'fhéadfá a úsáid chun an turgnamh seo a
+dhéanamh.","","tralai ar an gconair, conair chlaonta nó conair réidh gan frithchuimilt nó aerchonair
+ceangailte le teaghrán thar úlóg le meáchain
+amadóir téipe ticeála / geatai solais / braiteoir logála sonraí & ríomhaire",""
+"2. (b) Rinneadh turgnamh chun léiriú a dhéanamh ar an gcoibhneas idir luasghéarú a tralai nuair a
+feidhmíodh fórsa F air. Bailíodh na sonraí a leanas. Cuireadh gach fórsa F i bhfeidhm ar an tralai, a
+bhí ar fos i dtús ama agus tomhaiseadh an treoluas deiridh.
+F (N)       0.50       0.75       1.00       1.25       1.50       2.00
+v(ms$^{-2}$)   3.0        4.6        6.0        7.4        8.9        11.9
+(v) Luaigh réamhchúram amháin ba chóir a ghlacadh chun toradh cruinn a chinntiú.","","bíonn an mhais iomlán seasmhach do gach triail / conair shnasaithe / conair chlaonta chun
+frithchuimilt a chealú",""
+"3. (a) (i) Breac síos dlíthe frithchaiteamh an tsolais.","","tá an ga ionsaitheach, an gnáth-gha agus na gathanna frithchaite go léir sa phlána céanna
+is ionann an uillinn ionsaithe agus an uillinn frithchaiteamh",""
+"3. (a) (ii) Le cabhair léaráide lipéadaithe, cuir síos ar thurgnamh chun an fad fócasach atá ag scáthán
+cuasach a thomhas.","","scáthán cuasach, pionna cuardaigh // scáthán cuasach, bosca gathanna, scáileán,
+socrú
+Aimsigh an íomhá agus pionna cuardaigh á úsáid agat // cuir an íomhá i bhfócas (géar) ar an
+scáileán
+tomhais achar an réada agus achar na híomhá",""
+"3. (a) (iii) Conas is féidir ga cuaire an scátháin a aimsiú ó thorthaí an turgnaimh?","","ga na cuaire = fad fócasach × 2",""
+"3. (b) Cuirtear frithne 30cm os comhair scáthán cuasach ag a bhfuil fad fócasach 40cm.
+(i) Ríomh
+(a)    fad na híomhá ón scáthán,","","$\frac{1}{f} = \frac{1}{u} + \frac{1}{v}$ / $\frac{1}{40} = \frac{1}{30} + \frac{1}{v}$
+$\frac{1}{v} = \frac{-1}{120}$
+$v = 120$cm
+[gan aonad nó aonad mícheart (-1)]",""
+"3. (b) Cuirtear frithne 30cm os comhair scáthán cuasach ag a bhfuil fad fócasach 40cm.
+(i) Ríomh
+(b)    airde na frithne, más é 18cm airde na híomhá a tháirgtear.","","$m = \frac{v}{u}$ /m = $\frac{120}{30}$ =4
+airde na frithne = $\frac{18}{4}$ = 4.5cm
+[gan aonad nó aonad mícheart (-1)]",""
+"3. (b) Cuirtear frithne 30cm os comhair scáthán cuasach ag a bhfuil fad fócasach 40cm.
+(ii) Luaigh trí airí de chuid na híomhá a tháirgtear.","","tá an íomhá taobh thiar den scáileán /fíorúil /cearteasamhach /formhéadaithe
+3 cinn ar bith[6 + 2 + 1]",""
+"3. (b) Táirgeann scáthán cuasach difriúil fíoríomhá a bhfuil formhéadú de 3 ann nuair a chuirtear an
+fhrithne 30 cm os a chomhair.
+(iii) Ríomh fad fócasach an scátháin seo.","","$v = 90$ (cm)
+$\frac{1}{f} = \frac{1}{u} + \frac{1}{v}$ /$\frac{1}{f} = \frac{1}{30} + \frac{1}{90}$ / = $\frac{4}{90}$
+$f = 22.5$ cm",""
+"3. (c) Taispeántar sa léaráid thíos an foirmiú íomhánna ag leagan amach na lionsaí i micreascóp
+comhshuite.
+(i) Mínigh cén fáth nach bhfuil an micreascóp seo i gcoigeartú normalach.","","níl an íomhá deiridh ag an éigríoch",""
+"3. (c) Taispeántar sa léaráid thíos an foirmiú íomhánna ag leagan amach na lionsaí i micreascóp
+comhshuite.
+(ii) Ainmnigh na lionsaí L$_1$ agus L$_2$.","","L$_1$ = réadlionsa
+L$_2$ = súil-lionsa
+[Ceadaigh inréimniú uair amháin ...3]",""
+"3. (c) Taispeántar sa léaráid thíos an foirmiú íomhánna ag leagan amach na lionsaí i micreascóp
+comhshuite.
+(iii) Cén chomparáid atá ann idir faid fhócasacha na lionsaí?","","(tá achar fócasach) an tsúil-lionsa níos faide ná (achar fócasach) an réadlionsa",""
+"3. (c) Taispeántar sa léaráid thíos an foirmiú íomhánna ag leagan amach na lionsaí i micreascóp
+comhshuite.
+(iv) Má laghdaítear faid fhócasacha an dá lionsa, cén tionchar a bhíonn ar fhormhéadú na
+híomhá deiridh?","","(tá an íomhá deiridh) níos mó",""
+"4. (a) Féachann an teoiric chinéiteach le míniú a thabhairt ar theocht, ar bhrú agus ar airíonna eile gáis i
+dtéarmaí gluaisne cháithníní an gháis.
+(i) Luaigh dhá fhoshuíomh de chuid na teoirice cinétí
+(a)    gcloíonn gach gás leo.","","tá gás comhdhéanta de líon mór cáithníní beaga bídeacha / bíonn na cáithníní i
+ngluaiseacht leanúnach (líne dhíreach thapa nó randamach) / imbhualteann na
+cáithníní le chéile /imbhuaileann na cáithníní le ballaí an choimeádáin
+2 cheann ar bith",""
+"4. (a) Féachann an teoiric chinéiteach le míniú a thabhairt ar theocht, ar bhrú agus ar airíonna eile gáis i
+dtéarmaí gluaisne cháithníní an gháis.
+(i) Luaigh dhá fhoshuíomh de chuid na teoirice cinétí
+(b)    nach gcloíonn ach roinnt gás leo.","","tá gach imbhuaileadh breá leaisteach / níl aon fhórsaí tarraingteacha nó éarthacha
+(idir cáithníní ) / is é an t-achar idir na cáithníní mór i gcomparáid leis an méid de na
+cáithníní / am a chaitear in imbhualadh beag i gcomparáid leis an am idir imbhuailtí
+2 cheann ar bith",""
+"4. (a) Féachann an teoiric chinéiteach le míniú a thabhairt ar theocht, ar bhrú agus ar airíonna eile gáis i
+dtéarmaí gluaisne cháithníní an gháis.
+(ii) Cén téarma a úsáidtear le cur síos a dhéanamh ar
+(a)    an ngás a chloíonn le gach foshuíomh de chuid na teoirice seo,","","gás idéalach",""
+"4. (a) Féachann an teoiric chinéiteach le míniú a thabhairt ar theocht, ar bhrú agus ar airíonna eile gáis i
+dtéarmaí gluaisne cháithníní an gháis.
+(ii) Cén téarma a úsáidtear le cur síos a dhéanamh ar
+(b)    ghás nach gcloíonn le gach foshuíomh de chuid na teoirice seo?","","gás fíor",""
+"4. (a) Féachann an teoiric chinéiteach le míniú a thabhairt ar theocht, ar bhrú agus ar airíonna eile gáis i
+dtéarmaí gluaisne cháithníní an gháis.
+(iii) Cén chaoi a míníonn an teoiric chinéiteach an brú a fheidhmíonn gáis?","","bíonn brú mar gheall ar imbhuailtí na gcáithníní le ballaí an choimeádáin /
+gach uair a imbhuaileann cáithnín le balla cuireann sé fórsa nó brú ar an mballa",""
+"4. (a) Féachann an teoiric chinéiteach le míniú a thabhairt ar theocht, ar bhrú agus ar airíonna eile gáis i
+dtéarmaí gluaisne cháithníní an gháis.
+(iv) Conas a athraíonn brú gáis nuair a mhéadaítear luas cháithníní an gháis?
+Cosain do fhreagra.","","méadaítear an brú // de réir mar a bhuaileann na cáithníní na ballaí níos minice",""
+"4. (a) Féachann an teoiric chinéiteach le míniú a thabhairt ar theocht, ar bhrú agus ar airíonna eile gáis i
+dtéarmaí gluaisne cháithníní an gháis.
+(v) Conas a athraíonn teocht gáis nuair a mhéadaítear luas cháithníní an gháis?
+Cosain do fhreagra.","","méadaítear an teocht // de réir mar a mhéadaítear meánfhuinneamh cinéiteach na
+gcáithníní.",""
+"4. (b) Taispeántar sa ghraf thíos pV in aghaidh lίon na mόl de ghás n ag teocht thairiseach T, áit arb iad p
+brú agus V toirt an gháis i gcoimeádán.
+(i) Bain úsáid as fána an ghraif chun an teocht thairiseach seo T a aimsiú.","","$m =\frac{y_2−y_1}{x_2−x_1}$
+$m = \frac{(9.95−5.1)×10^3}{4−2} =2.425 × 10^3$
+$PV = nRT / T=\frac{PV}{nR}$
+$T =\frac{slope}{R} = \frac{2.425×10^3}{8.31} = 292$ K",""
+"4. (b) Taispeántar sa ghraf thíos pV in aghaidh lίon na mόl de ghás n ag teocht thairiseach T, áit arb iad p
+brú agus V toirt an gháis i gcoimeádán.
+(ii) Cé mhéad mól den ghás a bheadh i láthair dá mbeadh brú 7 x 103 Pa agus toirt 0.2 m3 ann ag
+teocht thairiseach T?","","$PV= (7x10^3)(0.2)= 1400$        // $PV = nRT / (7x10^3)(0.2) = n(8.31)(292)$
+úsáid an graf chun $n = 0.6$ (mhól) a fháil// $n = 0.6$ (mól)",""
+"4. (b) Taispeántar sa ghraf thíos pV in aghaidh lίon na mόl de ghás n ag teocht thairiseach T, áit arb iad p
+brú agus V toirt an gháis i gcoimeádán.
+(iii) Cad é an t-aonad tomhais don pV?","","Pam$^3$ / Nm / J",""
+"4. (b) Taispeántar sa ghraf thíos pV in aghaidh lίon na mόl de ghás n ag teocht thairiseach T, áit arb iad p
+brú agus V toirt an gháis i gcoimeádán.
+(iv) Cén t-athrú a thiocfaidh ar theocht an gháis má choinnitear pV tairiseach agus má
+mhéadaítear líon mól an gháis sa choimeádán? Cosain do fhreagra.","","laghdaítear an teocht
+(pV buan agus ) is tairiseach é R / Má mhéadaítear n laghdóar T ansin chun PV a choinneáil
+buan",""
+"5. (a) (i) Sainmhínigh
+(a)    friotaíocht leictreach,","","cóimheas idir voltas agus sruth / $R = \frac{V}{I}$",""
+"5. (a) (i) Sainmhínigh
+(b)    aonad na friotaíochta leitrí, i.e. an t-óm.","","is ionann friotaíocht seoltóra agus 1 óm má shreabhann sruth 1 aimpéar tríd
+nuair is ionann an difríocht phóitéinsil (idir a chríocha) agus 1 volta",""
+"5. (a) (ii) Mol dhá airí a bhíonn ag corna sreinge a chinnfeadh méid na friotaíochta ann.","","trastomhas nó tiús nó achar / fad / cineál ábhair nó friotachas
+2 cheann ar bith",""
+"5. (b) Taispeántar sa léaráid gaireas a úsáidtear chun an iarmhairt téimh atá ag sruth leictreach a fhiosrú.
+Ligeadh do shruth / sreabhadh tríd an gcorna ar feadh méid sheasta ama agus taifeadadh an t-ardú sa
+teocht Δθ. Athdéanadh é seo le haghaidh luachanna difriúla den sruth/.
 Taifeadadh na sonraí seo a leanas:
-```
-I (A)	1.0	2.0	2.5	3.0	3.5	4.0
-Δθ (°C)	1.2	4.8	7.5	10.8	14.7	19.2
-```
-Tarraing graf, ar ghrafpháipéar, a thaispeánann an coibhneas idir $I^2$agusΔθ.","","Tarraing graf, ar ghrafpháipéar, a thaispeánann an coibhneas idir $I^2$agusΔθ.",""
-"Luaigh bealach amháin eile, seachas insliú, chun caillteanas teasa a laghdú.
-úsáid clúdach / coinnigh teocht seomra atá ar don teocht tosaigh","","Luaigh bealach amháin eile, seachas insliú, chun caillteanas teasa a laghdú.
-úsáid clúdach / coinnigh teocht seomra atá ar don teocht tosaigh",""
-"Cén fheidhm atá ag X?
-athraíonn agus coinníonn sé an tairiseach reatha","","Cén fheidhm atá ag X?
-athraíonn agus coinníonn sé an tairiseach reatha",""
-"Úsáid do ghraf chun méid an tsrutha atá ag sreabhadh a aimsíu nuair is é 6 °C an t-ardú sa teocht.
-Léirítear an líne ó 6 °C ar an ais teochta
-$I^2 = 5 => I = \sqrt{5} = 2.2 A$","","Úsáid do ghraf chun méid an tsrutha atá ag sreabhadh a aimsíu nuair is é 6 °C an t-ardú sa teocht.
-Léirítear an líne ó 6 °C ar an ais teochta
-$I^2 = 5 => I = \sqrt{5} = 2.2 A$",""
-"Sa léaráid taispeántar claochladán a bhfuil 9200 lúb ina chorna príomhúil. Tá an corna príomhúil ceangailte le soláthar príomhlíonra 230V. Tá lampa 6.0V ceangailte le corna tánaisteach ag lánsoilsiúacht.
-
-Luaigh airí amháin a bhaineann le croíleacan an chlaochladáin a chabhraíonn lena éifeachtúlacht a fheabhsú.
-iannaithe / déanta as iarann bog","","Sa léaráid taispeántar claochladán a bhfuil 9200 lúb ina chorna príomhúil. Tá an corna príomhúil ceangailte le soláthar príomhlíonra 230V. Tá lampa 6.0V ceangailte le corna tánaisteach ag lánsoilsiúacht.
-
-Luaigh airí amháin a bhaineann le croíleacan an chlaochladáin a chabhraíonn lena éifeachtúlacht a fheabhsú.
-iannaithe / déanta as iarann bog",""
-"Sa léaráid taispeántar claochladán a bhfuil 9200 lúb ina chorna príomhúil. Tá an corna príomhúil ceangailte le soláthar príomhlíonra 230V. Tá lampa 6.0V ceangailte le corna tánaisteach ag lánsoilsiúacht.
-Glac leis go bhfuil an claochladán ag feidhmiú go héifeachtúil 100%.
-Ríomh
-líon na lúb sa chorna tánaisteach,
-$\frac{N_p}{N_s} = \frac{V_p}{V_s}$
-
+I (A)       1.0        2.0        2.5        3.0        3.5        4.0
+Δθ (°C)    1.2        4.8        7.5        10.8       14.7       19.2
+(i) Tarraing graf, ar ghrafpháipéar, a thaispeánann an coibhneas idir I$^2$agusΔθ.","","luachanna srutha cearnaithe
+aiseanna lipéadaithe
+scálaí tarraingthe i gceart
+pointí breactha i gceart
+líne dhíreach tríd an mbunphointe",""
+"5. (b) Taispeántar sa léaráid gaireas a úsáidtear chun an iarmhairt téimh atá ag sruth leictreach a fhiosrú.
+Ligeadh do shruth / sreabhadh tríd an gcorna ar feadh méid sheasta ama agus taifeadadh an t-ardú sa
+teocht Δθ. Athdéanadh é seo le haghaidh luachanna difriúla den sruth/.
+Taifeadadh na sonraí seo a leanas:
+I (A)       1.0        2.0        2.5        3.0        3.5        4.0
+Δθ (°C)    1.2        4.8        7.5        10.8       14.7       19.2
+(ii) Uaidh sin, nó ar shlí eile, déan cur síos ar an gcoibhneas idir an t-athrú sa teocht agus an sruth.","","Δθ ∝ I$^2$",""
+"5. (b) Taispeántar sa léaráid gaireas a úsáidtear chun an iarmhairt téimh atá ag sruth leictreach a fhiosrú.
+Ligeadh do shruth / sreabhadh tríd an gcorna ar feadh méid sheasta ama agus taifeadadh an t-ardú sa
+teocht Δθ. Athdéanadh é seo le haghaidh luachanna difriúla den sruth/.
+Taifeadadh na sonraí seo a leanas:
+I (A)       1.0        2.0        2.5        3.0        3.5        4.0
+Δθ (°C)    1.2        4.8        7.5        10.8       14.7       19.2
+(iii) Cén fáth ar úsáideadh mais sheasta uisce le haghaidh gach luach den sruth?","","bheadh tionchar ag mais an uisce atá i láthair ar ardú teochta / ní féidir ach dhá athrόg a
+bheith ann / tástáil chothrom",""
+"5. (b) Taispeántar sa léaráid gaireas a úsáidtear chun an iarmhairt téimh atá ag sruth leictreach a fhiosrú.
+Ligeadh do shruth / sreabhadh tríd an gcorna ar feadh méid sheasta ama agus taifeadadh an t-ardú sa
+teocht Δθ. Athdéanadh é seo le haghaidh luachanna difriúla den sruth/.
+Taifeadadh na sonraí seo a leanas:
+I (A)       1.0        2.0        2.5        3.0        3.5        4.0
+Δθ (°C)    1.2        4.8        7.5        10.8       14.7       19.2
+(iv) Mol ábhar a d'fhéadfaí a úsáid mar insliu.","","olann chadáis /polaistitéin srl",""
+"5. (b) Taispeántar sa léaráid gaireas a úsáidtear chun an iarmhairt téimh atá ag sruth leictreach a fhiosrú.
+Ligeadh do shruth / sreabhadh tríd an gcorna ar feadh méid sheasta ama agus taifeadadh an t-ardú sa
+teocht Δθ. Athdéanadh é seo le haghaidh luachanna difriúla den sruth/.
+Taifeadadh na sonraí seo a leanas:
+I (A)       1.0        2.0        2.5        3.0        3.5        4.0
+Δθ (°C)    1.2        4.8        7.5        10.8       14.7       19.2
+(v) Luaigh bealach amháin eile, seachas insliu, chun caillteanas teasa a laghdú.","","úsáid clúdach / coinnigh teocht seomra atá gar don teocht tosaigh",""
+"5. (b) Taispeántar sa léaráid gaireas a úsáidtear chun an iarmhairt téimh atá ag sruth leictreach a fhiosrú.
+Ligeadh do shruth / sreabhadh tríd an gcorna ar feadh méid sheasta ama agus taifeadadh an t-ardú sa
+teocht Δθ. Athdéanadh é seo le haghaidh luachanna difriúla den sruth/.
+Taifeadadh na sonraí seo a leanas:
+I (A)       1.0        2.0        2.5        3.0        3.5        4.0
+Δθ (°C)    1.2        4.8        7.5        10.8       14.7       19.2
+(vi) Cén fheidhm atá ag X?","","athraíonn agus coinníonn sé an tairiseach reatha",""
+"5. (b) Taispeántar sa léaráid gaireas a úsáidtear chun an iarmhairt téimh atá ag sruth leictreach a fhiosrú.
+Ligeadh do shruth / sreabhadh tríd an gcorna ar feadh méid sheasta ama agus taifeadadh an t-ardú sa
+teocht Δθ. Athdéanadh é seo le haghaidh luachanna difriúla den sruth/.
+Taifeadadh na sonraí seo a leanas:
+I (A)       1.0        2.0        2.5        3.0        3.5        4.0
+Δθ (°C)    1.2        4.8        7.5        10.8       14.7       19.2
+(vii) Úsáid do ghraf chun méid an tsrutha atá ag sreabhadh a aimsiú nuair is é 6 °C an t-ardú sa
+teocht.","","Léirítear an líne ó 6 °C ar an ais teochta
+I$^2$= 5 => I = √5 = 2.2 A
+[gan aonad nó aonad mícheart (−1)]",""
+"5. (c) Sa léaráid taispeántar claochladán a bhfuil 9200 lúb ina chorna príomhúil. Tá an corna príomhúil
+ceangailte le soláthar príomhlíonra 230V. Tá lampa 6.0V ceangailte le corna tánaisteach ag feidhmiú
+ar lánsoilseacht.
+(i) Luaigh airí amháin a bhaineann le croíleacán an chlaochladáin a chabhraíonn lena
+éifeachtúlacht a fheabhsú.","","iarnaithe / déanta as iarann bog",""
+"5. (c) Sa léaráid taispeántar claochladán a bhfuil 9200 lúb ina chorna príomhúil. Tá an corna príomhúil
+ceangailte le soláthar príomhlíonra 230V. Tá lampa 6.0V ceangailte le corna tánaisteach ag feidhmiú
+ar lánsoilseacht.
+Glac leis go bhfuil an claochladán ag feidhmiú ag éifeachtúlacht 100%.
+(ii) Ríomh
+(a)    líon na lúb sa chorna tánaisteach,","","$\frac{N_p}{N_s} = \frac{V_p}{V_s}$
 $\frac{9200}{N_s} = \frac{230}{6}$
-
-$N_s = 240$ casadh","","Sa léaráid taispeántar claochladán a bhfuil 9200 lúb ina chorna príomhúil. Tá an corna príomhúil ceangailte le soláthar príomhlíonra 230V. Tá lampa 6.0V ceangailte le corna tánaisteach ag lánsoilsiúacht.
-Glac leis go bhfuil an claochladán ag feidhmiú go héifeachtúil 100%.
-Ríomh
-líon na lúb sa chorna tánaisteach,
-$\frac{N_p}{N_s} = \frac{V_p}{V_s}$
-
-$\frac{9200}{N_s} = \frac{230}{6}$
-
 $N_s = 240$ casadh",""
-"Sa léaráid taispeántar claochladán a bhfuil 9200 lúb ina chorna príomhúil. Tá an corna príomhúil ceangailte le soláthar príomhlíonra 230V. Tá lampa 6.0V ceangailte le corna tánaisteach ag lánsoilsiúacht.
-Glac leis go bhfuil an claochladán ag feidhmiú go héifeachtúil 100%.
-Ríomh
-an sruth sa chiorcad príomhúil más é 0.23A an sruth atá sa lampa.
-$V_pI_p = V_sI_s$
-
-$230 \times I = 6 \times 0.23 =>I_p = 0.006 A$","","Sa léaráid taispeántar claochladán a bhfuil 9200 lúb ina chorna príomhúil. Tá an corna príomhúil ceangailte le soláthar príomhlíonra 230V. Tá lampa 6.0V ceangailte le corna tánaisteach ag lánsoilsiúacht.
-Glac leis go bhfuil an claochladán ag feidhmiú go héifeachtúil 100%.
-Ríomh
-an sruth sa chiorcad príomhúil más é 0.23A an sruth atá sa lampa.
-$V_pI_p = V_sI_s$
-
-$230 \times I = 6 \times 0.23 =>I_p = 0.006 A$",""
-"Dírítear ga solais AB ar lar an imill chothroim i mbloc leathchiorclach trédhearcach. Taispeántar sa léaráid thíos conair an gha tríd an mbloc agus an ga CD ag teacht amach as.
-Luagh an fáth nach dtagann athrú ar threo an gha CD agus é ag teacht amach as an mbloc.
-Tá CD ingearach le dromchla an bhloic / buaileann CD an dromchla de ghnáth / bíonn sé i gcomhthráth le ga (an bhloic leathchiorclaigh )/ is ionann an uillin insaithe agus nialas","","Dírítear ga solais AB ar lar an imill chothroim i mbloc leathchiorclach trédhearcach. Taispeántar sa léaráid thíos conair an gha tríd an mbloc agus an ga CD ag teacht amach as.
-Luagh an fáth nach dtagann athrú ar threo an gha CD agus é ag teacht amach as an mbloc.
-Tá CD ingearach le dromchla an bhloic / buaileann CD an dromchla de ghnáth / bíonn sé i gcomhthráth le ga (an bhloic leathchiorclaigh )/ is ionann an uillin insaithe agus nialas",""
-"Dírítear ga solais AB ar lar an imill chothroim i mbloc leathchiorclach trédhearcach. Taispeántar sa léaráid thíos conair an gha tríd an mbloc agus an ga CD ag teacht amach as.
-Agus an ga ag dul isteach sa bhloc, faigh
-an uillin ionsaithe,
-$90° - 24° = 66°$","","Dírítear ga solais AB ar lar an imill chothroim i mbloc leathchiorclach trédhearcach. Taispeántar sa léaráid thíos conair an gha tríd an mbloc agus an ga CD ag teacht amach as.
-Agus an ga ag dul isteach sa bhloc, faigh
-an uillin ionsaithe,
-$90° - 24° = 66°$",""
-"Dírítear ga solais AB ar lar an imill chothroim i mbloc leathchiorclach trédhearcach. Taispeántar sa léaráid thíos conair an gha tríd an mbloc agus an ga CD ag teacht amach as.
-Agus an ga ag dul isteach sa bhloc, faigh
-an uillin athraonta.
-$90° - 50° = 40°$","","Dírítear ga solais AB ar lar an imill chothroim i mbloc leathchiorclach trédhearcach. Taispeántar sa léaráid thíos conair an gha tríd an mbloc agus an ga CD ag teacht amach as.
-Agus an ga ag dul isteach sa bhloc, faigh
-an uillin athraonta.
-$90° - 50° = 40°$",""
-"Dírítear ga solais AB ar lar an imill chothroim i mbloc leathchiorclach trédhearcach. Taispeántar sa léaráid thíos conair an gha tríd an mbloc agus an ga CD ag teacht amach as.
-Ainmnigh agus breac sios an dlí a léiríonn an coibhneas idir an dá uillin.
-DlÍ Snell
-tá sineas na huillin ionsaithe i gcomhréir le // $\frac{sin i}{sin r}$
-sineas na huillin athraonta
-Ríomh comhéifeacht athraonta an bhloic.
-$n = \frac{sin i}{sin r}$
-
-$n = \frac{sin 66}{sin 40}$
-
-$n = 1.42$","","Dírítear ga solais AB ar lar an imill chothroim i mbloc leathchiorclach trédhearcach. Taispeántar sa léaráid thíos conair an gha tríd an mbloc agus an ga CD ag teacht amach as.
-Ainmnigh agus breac sios an dlí a léiríonn an coibhneas idir an dá uillin.
-DlÍ Snell
-tá sineas na huillin ionsaithe i gcomhréir le // $\frac{sin i}{sin r}$
-sineas na huillin athraonta
-Ríomh comhéifeacht athraonta an bhloic.
-$n = \frac{sin i}{sin r}$
-
-$n = \frac{sin 66}{sin 40}$
-
+"5. (c) Sa léaráid taispeántar claochladán a bhfuil 9200 lúb ina chorna príomhúil. Tá an corna príomhúil
+ceangailte le soláthar príomhlíonra 230V. Tá lampa 6.0V ceangailte le corna tánaisteach ag feidhmiú
+ar lánsoilseacht.
+Glac leis go bhfuil an claochladán ag feidhmiú ag éifeachtúlacht 100%.
+(ii) Ríomh
+(b)    an sruth sa chiorcad príomhúil más é 0.23A an sruth atá sa lampa.","","$V_pI_p = V_sI_s$
+230 ×I = 6 × 0.23 =>I$_p$ = 0.006 A",""
+"6. (a) Díritear ga solais AB ar lár an imill chothroim i mbloc leathchiorclach trédhearcach. Taispeántar sa
+léaráid thíos conair an gha tríd an mbloc agus an ga CD ag teacht amach as.
+(i) Luaigh an fáth nach dtagann athrú ar threo an gha CD agus é ag teacht amach as an mbloc.","","Tá CD ingearach le dromchla an bhloic / buaileann CD an dromchla de ghnáth / bíonn sé i
+gcomhthráth le ga (an bhloic leathchiorclach) // is ionann an uillinn ionsaithe agus nialas",""
+"6. (a) Díritear ga solais AB ar lár an imill chothroim i mbloc leathchiorclach trédhearcach. Taispeántar sa
+léaráid thíos conair an gha tríd an mbloc agus an ga CD ag teacht amach as.
+(ii) Agus an ga ag dul isteach sa bhloc, faigh
+(a)    an uillinn ionsaithe,","","90° − 24° = 66°",""
+"6. (a) Díritear ga solais AB ar lár an imill chothroim i mbloc leathchiorclach trédhearcach. Taispeántar sa
+léaráid thíos conair an gha tríd an mbloc agus an ga CD ag teacht amach as.
+(ii) Agus an ga ag dul isteach sa bhloc, faigh
+(b)    an uillinn athraonta.","","90° − 50° = 40°",""
+"6. (a) Díritear ga solais AB ar lár an imill chothroim i mbloc leathchiorclach trédhearcach. Taispeántar sa
+léaráid thíos conair an gha tríd an mbloc agus an ga CD ag teacht amach as.
+(iii) Ainmnigh agus breac síos an dlí a léiríonn an coibhneas idir an dá uillinn.","","Dlí Snell
+tá síneas na huillinne ionsaithe i gcomhréir le     // $\frac{\sin i}{\sin r}$
+síneas na huillinne athraonta                           // = tairiseach",""
+"6. (a) Díritear ga solais AB ar lár an imill chothroim i mbloc leathchiorclach trédhearcach. Taispeántar sa
+léaráid thíos conair an gha tríd an mbloc agus an ga CD ag teacht amach as.
+(iv) Ríomh comhéifeacht athraonta an bhloic.","","$n = \frac{\sin 66}{\sin 40}$
 $n = 1.42$",""
-"Dírítear ga solais AB ar lar an imill chothroim i mbloc leathchiorclach trédhearcach. Taispeántar sa léaráid thíos conair an gha tríd an mbloc agus an ga CD ag teacht amach as.
-Méadaítear an uillin idir AB agus an bloc. Cén tionchar a bhíonn ar mhéid na huillin athraonta? Cosain do fhreagra.
-laghdaítear an uillin athraonta
-laghdaíodh an uillin ionsaithe","","Dírítear ga solais AB ar lar an imill chothroim i mbloc leathchiorclach trédhearcach. Taispeántar sa léaráid thíos conair an gha tríd an mbloc agus an ga CD ag teacht amach as.
-Méadaítear an uillin idir AB agus an bloc. Cén tionchar a bhíonn ar mhéid na huillin athraonta? Cosain do fhreagra.
-laghdaítear an uillin athraonta
-laghdaíodh an uillin ionsaithe",""
-"Dírítear ga solais AB ar lar an imill chothroim i mbloc leathchiorclach trédhearcach. Taispeántar sa léaráid thíos conair an gha tríd an mbloc agus an ga CD ag teacht amach as.
-Aimsigh uillin chriticiúil an bhloic.
-$n = \frac{1}{sin C}$
-
-$1.42 => C = 44.8°$","","Dírítear ga solais AB ar lar an imill chothroim i mbloc leathchiorclach trédhearcach. Taispeántar sa léaráid thíos conair an gha tríd an mbloc agus an ga CD ag teacht amach as.
-Aimsigh uillin chriticiúil an bhloic.
-$n = \frac{1}{sin C}$
-
-$1.42 => C = 44.8°$",""
-"Léirítear sa léaráid an réimse leictreach timpeall ar dhá sféar chionnionta A agus B a dtugtar cáinníochtaí difriúla lucht deobh.
-Cén cineál lucht atá ar sféar A?
-lucht deimhneach","","Léirítear sa léaráid an réimse leictreach timpeall ar dhá sféar chionnionta A agus B a dtugtar cáinníochtaí difriúla lucht deobh.
-Cén cineál lucht atá ar sféar A?
-lucht deimhneach",""
-"Léirítear sa léaráid an réimse leictreach timpeall ar dhá sféar chionnionta A agus B a dtugtar cáinníochtaí difriúla lucht deobh.
-Cé acu sféar a bhfuil an lucht is mó? Cosain do fhreagra.
-sféar B // mar go bhfuil níos mó treolínte fórsa ann","","Léirítear sa léaráid an réimse leictreach timpeall ar dhá sféar chionnionta A agus B a dtugtar cáinníochtaí difriúla lucht deobh.
-Cé acu sféar a bhfuil an lucht is mó? Cosain do fhreagra.
-sféar B // mar go bhfuil níos mó treolínte fórsa ann",""
-"Léirítear sa léaráid an réimse leictreach timpeall ar dhá sféar chionnionta A agus B a dtugtar cáinníochtaí difriúla lucht deobh.
-Tarraing léaráid chun dáileadh an luchta ar na liathróid a thaispeáint nuair a bhaintear an tslat.
-Léaráid le léiríonn luchtáile de gothrom ar fud dromchla na liathróide","","Léirítear sa léaráid an réimse leictreach timpeall ar dhá sféar chionnionta A agus B a dtugtar cáinníochtaí difriúla lucht deobh.
-Tarraing léaráid chun dáileadh an luchta ar na liathróid a thaispeáint nuair a bhaintear an tslat.
-Léaráid le léiríonn luchtáile de gothrom ar fud dromchla na liathróide",""
-"Léirítear sa léaráid an réimse leictreach timpeall ar dhá sféar chionnionta A agus B a dtugtar cáinníochtaí difriúla lucht deobh.
-Breac síos an t-aonad SI do lucht leictreach.
-cúlóm / C","","Léirítear sa léaráid an réimse leictreach timpeall ar dhá sféar chionnionta A agus B a dtugtar cáinníochtaí difriúla lucht deobh.
-Breac síos an t-aonad SI do lucht leictreach.
-cúlóm / C",""
-"Taispeántar sa léaráid ar dheis maighnéad ar a bhfuil poill X agus Y ina luí ar fhráma atá suite ar mhéadair maise leictreonaí ar a bhfuil léamh de 7.980 g. Is é 8.620g an léamh ar an meátán nuair a shreabhann sruth / sa tsreang.
-Mínigh an t-athrú sa léamh ar an meátán nuair a shreabhann sruth / sa tsreang.
-tá fórsa anuas (ar an sreang) (rud a athraíonn an thaifeadtar a thaifeadtar ar an meá)","","Taispeántar sa léaráid ar dheis maighnéad ar a bhfuil poill X agus Y ina luí ar fhráma atá suite ar mhéadair maise leictreonaí ar a bhfuil léamh de 7.980 g. Is é 8.620g an léamh ar an meátán nuair a shreabhann sruth / sa tsreang.
-Mínigh an t-athrú sa léamh ar an meátán nuair a shreabhann sruth / sa tsreang.
-tá fórsa anuas (ar an sreang) (rud a athraíonn an thaifeadtar a thaifeadtar ar an meá)",""
-"Taispeántar sa léaráid ar dheis maighnéad ar a bhfuil poill X agus Y ina luí ar fhráma atá suite ar mhéadair maise leictreonaí ar a bhfuil léamh de 7.980 g. Is é 8.620g an léamh ar an meátán nuair a shreabhann sruth / sa tsreang.
-An pol thuaidh nó pol theas é X? Cosain do fhreagra.
-cuaille thuaidh
-treo cuaille thuaidh de lucht & fórsa ag gníomhú anuas / ciallaíonn sé sin réimse maighnéadach ó X go Y","","Taispeántar sa léaráid ar dheis maighnéad ar a bhfuil poill X agus Y ina luí ar fhráma atá suite ar mhéadair maise leictreonaí ar a bhfuil léamh de 7.980 g. Is é 8.620g an léamh ar an meátán nuair a shreabhann sruth / sa tsreang.
-An pol thuaidh nó pol theas é X? Cosain do fhreagra.
-cuaille thuaidh
-treo cuaille thuaidh de lucht & fórsa ag gníomhú anuas / ciallaíonn sé sin réimse maighnéadach ó X go Y",""
-"Léirítear sa léaráid ar dheis an cearr meata de shubstaint radaighníomhach áirithe.
-Cén téarma a úsáidtear le cur síos ar an am a ghlacann sé go laghdóidh gníomhaíocht (ráta comhairimh) iseatóip radaighníomhaigh de 50%?
-leathré","","Léirítear sa léaráid ar dheis an cearr meata de shubstaint radaighníomhach áirithe.
-Cén téarma a úsáidtear le cur síos ar an am a ghlacann sé go laghdóidh gníomhaíocht (ráta comhairimh) iseatóip radaighníomhaigh de 50%?
-leathré",""
-"Léirítear sa léaráid ar dheis an cearr meata de shubstaint radaighníomhach áirithe.
-Úsáid an graf chun an t-am seo a aimsiú.
-2200 ÷ 2 =1100","","Léirítear sa léaráid ar dheis an cearr meata de shubstaint radaighníomhach áirithe.
-Úsáid an graf chun an t-am seo a aimsiú.
-2200 ÷ 2 =1100",""
-"Léirítear sa léaráid ar dheis an cearr meata de shubstaint radaighníomhach áirithe.
-Réamh-mheas luach ráta an chomhairimh ar uair amháin i.e. 1.5 s ón am ar cuireadh tús leis na tomais.
-=1300 (comhaireamh in aghaidh an tsoicind)","","Léirítear sa léaráid ar dheis an cearr meata de shubstaint radaighníomhach áirithe.
-Réamh-mheas luach ráta an chomhairimh ar uair amháin i.e. 1.5 s ón am ar cuireadh tús leis na tomais.
-=1300 (comhaireamh in aghaidh an tsoicind)",""
-"Léirítear sa léaráid ar dheis an cearr meata de shubstaint radaighníomhach áirithe.
-Cad é fad a ghlacfaidh sé go laghdóidh an ráta chomhairimh de 75%?
-2 x leathré // 2200 ÷ 4 = 550","","Léirítear sa léaráid ar dheis an cearr meata de shubstaint radaighníomhach áirithe.
-Cad é fad a ghlacfaidh sé go laghdóidh an ráta chomhairimh de 75%?
-2 x leathré // 2200 ÷ 4 = 550",""
-"Cad é an dá chúr cheann de na cineálacha radaíochta atá n-astú ón bhfoinse? Cosain do fhreagra.
-alfa
-gamma
-alfa: radaíocht stoptha ag páipéar 0.1 mm
-gáma: radaíocht stoptha ag 100 mm luaidhe","","Cad é an dá chúr cheann de na cineálacha radaíochta atá n-astú ón bhfoinse? Cosain do fhreagra.
-alfa
+"6. (a) Díritear ga solais AB ar lár an imill chothroim i mbloc leathchiorclach trédhearcach. Taispeántar sa
+léaráid thíos conair an gha tríd an mbloc agus an ga CD ag teacht amach as.
+(v) Méadaítear an uillinn idir AB agus an bloc. Cén tionchar a bhíonn ar mhéid na huillinne
+athraonta? Cosain do fhreagra.","","laghdaítear an uillinn athraonta
+laghdaíodh an uillinn ionsaithe",""
+"6. (a) Díritear ga solais AB ar lár an imill chothroim i mbloc leathchiorclach trédhearcach. Taispeántar sa
+léaráid thíos conair an gha tríd an mbloc agus an ga CD ag teacht amach as.
+(vi) Aimsigh uillinn chriticiúil an bhloic.","","$n = \frac{1}{\sin c}$
+=1.42 =>C = 44.8°",""
+"6. (b) Léirítear sa léaráid an réimse leictreach timpeall ar dhá sféar chomhiomanna A agus B a dtugtar
+cainníochtaí difriúla luchta dóibh.
+(i) Cén cineál luchta atá ar sféar A?","","lucht deimhneach",""
+"6. (b) Léirítear sa léaráid an réimse leictreach timpeall ar dhá sféar chomhiomanna A agus B a dtugtar
+cainníochtaí difriúla luchta dóibh.
+(ii) Cé acu sféar ar a bhfuil an lucht is mó? Cosain do fhreagra.","","sféar B // mar go bhfuil níos mó treolínte fórsa ann",""
+"6. (b) Léirítear sa léaráid an réimse leictreach timpeall ar dhá sféar chomhiomanna A agus B a dtugtar
+cainníochtaí difriúla luchta dóibh.
+Cuimlítear éadach de shlat phlaisteach a dtagann lucht diúltach uirthi. Coinnítear an tslat ansin gar
+do liathróid mhiotail neodrach atá ar crochadh ó shnáithe niolóin.
+(iii) Aomtar an liathróid mhiotail i dtreo na slaite. Mínigh an fáth a dtarlaíonn sé seo.","","meallann (lucht diúltach slaite)                    // éarann (lucht diúltach slaite)
+luchtanna deimhneacha ar thaobh na liathróide (is gaire dó) // luchtanna diúltacha ar
+thaobh
+na liathróide                                                                       (is faide uaidh)
+[léaráid lipéadaithe i gceart a thaispeánann luchtanna deimhneacha ar thaobh na liathróide
+is gaire don slat                                                                        ...(9)]",""
+"6. (b) Léirítear sa léaráid an réimse leictreach timpeall ar dhá sféar chomhiomanna A agus B a dtugtar
+cainníochtaí difriúla luchta dóibh.
+Cuimlítear éadach de shlat phlaisteach a dtagann lucht diúltach uirthi. Coinnítear an tslat ansin gar
+do liathróid mhiotail neodrach atá ar crochadh ó shnáithe niolóin.
+(iv) Luchtaítear an slat go deimhneach ansin. Mínigh an fáth a n-aomfaí an liathróid neodrach fós i
+dtreo na slaite.","","éarann an slat atá luchtaithe go deimhneach luchtanna deimhneacha ar an liathróid
+agus luchtanna diúltacha á bhfágáil gar don slat",""
+"6. (b) Léirítear sa léaráid an réimse leictreach timpeall ar dhá sféar chomhiomanna A agus B a dtugtar
+cainníochtaí difriúla luchta dóibh.
+Cuimlítear éadach de shlat phlaisteach a dtagann lucht diúltach uirthi. Coinnítear an tslat ansin gar
+do liathróid mhiotail neodrach atá ar crochadh ó shnáithe niolóin.
+(v) Talmhaítear an liathróid agus í gar don tslat atá luchtaithe go deimhneach.
+Cén lucht a bhíonn fágtha ar an liathróid nuair a bhaintear an talmhú? Cosain do fhreagra.","","deimhneach (fanann na luchtanna ar an liathróid)
+ritheann na luchtanna diúltacha ar an liathróid chun talaimh",""
+"6. (b) Léirítear sa léaráid an réimse leictreach timpeall ar dhá sféar chomhiomanna A agus B a dtugtar
+cainníochtaí difriúla luchta dóibh.
+Cuimlítear éadach de shlat phlaisteach a dtagann lucht diúltach uirthi. Coinnítear an tslat ansin gar
+do liathróid mhiotail neodrach atá ar crochadh ó shnáithe niolóin.
+(vi) Tarraing léaráid chun dáileadh an luchta ar an liathróid a thaispeáint nuair a bhaintear an tslat.","","Léaráid a léiríonn lucht a dháiltear go cothrom ar fud dhromchla na liathróide",""
+"6. (b) Léirítear sa léaráid an réimse leictreach timpeall ar dhá sféar chomhiomanna A agus B a dtugtar
+cainníochtaí difriúla luchta dóibh.
+Cuimlítear éadach de shlat phlaisteach a dtagann lucht diúltach uirthi. Coinnítear an tslat ansin gar
+do liathróid mhiotail neodrach atá ar crochadh ó shnáithe niolóin.
+(vii) Breac síos an t-aonad SI do lucht leictreach.","","cúlóm / C",""
+"6. (c) Taispeántar sa léaráid ar dheis maighneád ar a bhfuil poil X agus Y ina luí ar fhráma atá suite ar
+mheátán maise leictreonai ar a bhfuil léamh de 7.980 g. Is é 8.620g an léamh ar an meátán
+nuair a shreabhann sruth I sa tsreang.
+(i) Mínigh an t-athrú sa léamh ar an meátán nuair a shreabhann sruth I sa tsreang.","","tá fórsa anuas (ar an sreang) (rud a athraíonn an méáchan a thaifeadtar ar an meá)",""
+"6. (c) Taispeántar sa léaráid ar dheis maighneád ar a bhfuil poil X agus Y ina luí ar fhráma atá suite ar
+mheátán maise leictreonai ar a bhfuil léamh de 7.980 g. Is é 8.620g an léamh ar an meátán
+nuair a shreabhann sruth I sa tsreang.
+(ii) Le cabhair léaráide lipéadaithe, mínigh treo an fhórsa atá á fheidhmiú ar sheoltóir atá ag
+iompar sruth i réimse maighnéadach.","","trí shaighead atá ingearach lena chéile
+fórsa lipéadaithe na saighde, lucht agus réimse maighnéadach
+[tagairt do riail na clóicíge i gcás nach mbronntar aon mharcanna eile...(3)]",""
+"6. (c) Taispeántar sa léaráid ar dheis maighneád ar a bhfuil poil X agus Y ina luí ar fhráma atá suite ar
+mheátán maise leictreonai ar a bhfuil léamh de 7.980 g. Is é 8.620g an léamh ar an meátán
+nuair a shreabhann sruth I sa tsreang.
+(iii) An pol thuaidh nó pol theas é X? Cosain do fhreagra.","","cuaille thuaidh
+treo cuaille thuaidh de lucht & fórsa ag gníomhú anuas / ciallaíonn sé sin réimse
+maighnéadach ó X go Y",""
+"6. (c) Taispeántar sa léaráid ar dheis maighneád ar a bhfuil poil X agus Y ina luí ar fhráma atá suite ar
+mheátán maise leictreonai ar a bhfuil léamh de 7.980 g. Is é 8.620g an léamh ar an meátán
+nuair a shreabhann sruth I sa tsreang.
+Tá feidhmiú galbhánaiméadair luailchorna bunaithe ar an bprionsabal a léirítear thuas.
+(iv) Cad a thomhaistear le galbhánaiméadar luailchorna?","","sruthanna beaga",""
+"6. (c) Taispeántar sa léaráid ar dheis maighneád ar a bhfuil poil X agus Y ina luí ar fhráma atá suite ar
+mheátán maise leictreonai ar a bhfuil léamh de 7.980 g. Is é 8.620g an léamh ar an meátán
+nuair a shreabhann sruth I sa tsreang.
+Tá feidhmiú galbhánaiméadair luailchorna bunaithe ar an bprionsabal a léirítear thuas.
+(v) Le cabhair léaráide, taispeáin conas is féidir galbhánaiméadar a chur in oiriúint lena úsáid mar
+voltmhéadar luailchorna.","","léaráid le galbhánaiméadar
+i sraith le friotóir/iolraitheoir mór",""
+"6. (d) Léirítear sa léaráid ar dheis an cuar meatha de shubstaint radaighníomhach áirithe.
+(i) Cén téarma a úsáidtear le cur síos ar an am a ghlacann sé go laghdóidh ghníomhaíocht (ráta
+comhairimh) iseatóip radaighníomhaigh de 50%?","","leathré",""
+"6. (d) Léirítear sa léaráid ar dheis an cuar meatha de shubstaint radaighníomhach áirithe.
+(ii) Úsáid an graf chun an t-am seo a aimsiú.","","2200 ÷ 2 =1100
+2 s
+[gan aonad nó aonad mícheart (−1)]",""
+"6. (d) Léirítear sa léaráid ar dheis an cuar meatha de shubstaint radaighníomhach áirithe.
+(iii) Réamh-mheas luach ráta an chomhairimh tar éis 1.5 s ón am ar cuireadh tús leis na tomhais.","","≈1300 (comhaireamh in aghaidh an tsoicind)",""
+"6. (d) Léirítear sa léaráid ar dheis an cuar meatha de shubstaint radaighníomhach áirithe.
+(iv) Cá fhad a ghlacfaidh sé go laghdóidh an ráta chomhairimh de 75%?","","2 x leathré        // 2200 ÷ 4 = 550
+4 s
+[gan aonad nó aonad mícheart (−1)]",""
+"6. (d) Léirítear sa léaráid ar dheis an cuar meatha de shubstaint radaighníomhach áirithe.
+Tomhaiseann delta an leibhéal radaíochta a astaitear ó fhoinse radaighníomhach. Cuireann sé
+brathadóir gar don fhoinse agus cuireann sé ionsúirí difriúla idir an fhoinse agus an brathadóir.
+Fuarthas nach n-astaíonn an fhoinse ach dhá chineál radaíochta.
+Tá na torthaí sa tábla thíos.
+Maolaire       dada     páipéar 0.1 mm    alúmanam 3mm    luaidhe 100 mm
+Comhairimh in aghaidh an nóiméid    125       73                  73                10
+(v) Cé acu dhá cheann de na cineálacha radaíochta atá á n-astú ón bhfoinse? Cosain do fhreagra.","","alfa
 gamma
 alfa: radaíocht stoptha ag páipéar 0.1 mm
 gáma: radaíocht stoptha ag 100 mm luaidhe",""
-"Cad é mhéad móilin atá in 6g de ghás $N_2$?
-$(\frac{6}{28})$ / 0.214 (móil)
-0.  214 x 6x10²³ = 1.29 x 10²³ (móilíní)","","Cad é mhéad móilin atá in 6g de ghás $N_2$?
-$(\frac{6}{28})$ / 0.214 (móil)
-0.  214 x 6x10²³ = 1.29 x 10²³ (móilíní)",""
-"Sainmhínigh fuinneamh ceadúnaíochta dúile.","","an t-íosmhéid fuinnimh a theastaíonn chun an leictreon is scaoilte nó is foirimeallaí a bhaint de mhol amháin adaimh (ina staid ghásach neodrach)",""
-"Cuireann an chothromóid a leanas síos ar an bpróiseas a tharlaíonn nuair a thomhaistear fuinneamh ceadúnaíochta sóidiam:
-$Na_{(g)} \rightarrow Na_{(g)}^+ + e^-$
-Scríobh cothromóid eile cur síos ar an bpróiseas a tharlaíonn nuair a thomhaistear fuinneamh an dara hianúcháin ag sóidiam.","","$Na_{(g)}^+ \rightarrow Na_{(g)}^{2+} + e^-$",""
-"Táispeántar ar dheis an chéad deich bhfuinnimh ianúcháin chomhsheantacha den eilimint X.
-Mínigh an fáth a bhfuil méadú chomh mór sin fuinnimh in cúigiú go dtí an séú fuinneamh ianúcháin in seo leictreon á bhaint de sceall iomlán/leibhéal fuinnimh atá cobhsaí","","Mínigh an fáth a bhfuil méadú chomh mór sin fuinnimh in cúigiú go dtí an séú fuinneamh ianúcháin in seo leictreon á bhaint de sceall iomlán/leibhéal fuinnimh atá cobhsaí",""
-"Úsáid an graf leis an méadú fuinnimh seo a mheas.
-15000 kJ mol$^{-1}$","","15000 kJ mol$^{-1}$",""
-"Ainmnigh dúil X más í beiriliad den tábla peiriadach atá sí. Cúisín do fhreagra.
-P/ fosfar
-Tá 5 leictreon ag P (atá i dtréimhse 3 agus) ina phríomhleibhéal fuinnimh n=3 nó ina phríomhleibhéal fuinnimh sheachtraigh","","Tá 5 leictreon ag P (atá i dtréimhse 3 agus) ina phríomhleibhéal fuinnimh n=3 nó ina phríomhleibhéal fuinnimh sheachtraigh",""
-"Cé mhéad fuinneamh ianúcháin san iomlán a bheidh ag an dúil X seo?
-15 fhuinneamh ianúcháin","","15 fhuinneamh ianúcháin",""
-"Scríobh an chumraíocht leictreonach s,p de dhúil X.
-$1s^2 2s^2 2p^6$
-$3s^2 3p^3$","","$1s^2 2s^2 2p^6$
-$3s^2 3p^3$",""
-"Cad é an fuinneamh ianúcháin is lú a bhaineadh leictreon ó fho-leibhéal iomlán?
-Mínigh do fhreagra.
--5000 kJ mol$^{-1}$
-an ceathrú fuinneamh ianúcháin","","-5000 kJ mol$^{-1}$
+"7. (a) Cé mhéad móilín atá in 6g de ghás N$_2$?","","($\frac{6}{28}$) / 0.214 (mól)
+0.214 x 6x10$^{23}$ = 1.29× 10$^{23}$ (móilíní)",""
+"7. (b) Léiriú mícheart atá sa léaráid ar dheis ar na 4 leictreon sheachtracha san fho-leibhéal 2p
+d'adamh neodrach.
+(i) Cén fáth ar léiriú mícheart é?","","chun a bheith san fhithiseán céanna ní mór guairní malartacha a bheith ag dhá
+leictreon",""
+"7. (b) Léiriú mícheart atá sa léaráid ar dheis ar na 4 leictreon sheachtracha san fho-leibhéal 2p
+d'adamh neodrach.
+(ii) Cóipeáil agus scríobh síos an léiriú ceart.","","[4+2]",""
+"7. (c) Cuireann tacar na gcandamuimhreacha [3, 1, 0,$\frac{1}{2}$] síos ar cheann de na leictreoín in
+Cé acu de na randamuimhreacha a chuireann síos orthu seo
+(i) cruth an fhithiseáin ina bhfuil an leictreon,","","1",""
+"7. (c) Cuireann tacar na gcandamuimhreacha [3, 1, 0,$\frac{1}{2}$] síos ar cheann de na leictreoín in
+Cé acu de na randamuimhreacha a chuireann síos orthu seo
+(ii) fuinneamh an leictreoín san fhithiseán sin?","","3",""
+"7. (d) Tá an lion céanna leictreon ag na hiain F$^-$ agus Mg$^{2+}$ araon.
+Cé acu ceann ag a bhfuil an ga is mó? Cosain do fhreagra.","","F$^-$
+Tá lucht núicléach níos mó ag Mg$^{2+}$ (rud a tharraingíonn na leictreoín isteach níos gaire don
+núicléas",""
+"7. (e) Mínigh cén fáth a bhfuil méid na nascuillinne in uisce níos lú ná méid na nascuillinne in
+amóinia.","","Tá dhá dhís aonair ag H$_2$O / tá dís aonair amháin ag NH$_3$
+Tá an t-éaradh idir dhá dhís aonair níos mó ná an t-éaradh idir dís aonair agus dís nascach /
+lp:lp éaradh>lp:bp éaradh",""
+"7. (f) Sainmhínigh leictridiúltacht.","","tomhas ar tharraingt / fórsa nó cumhacht na tarraingthe / tarraingt choibhneasta (atá ag
+adamh i móilín)le haghaidh phéire roinnt leictreon / leictreoín i nasc comhfhiúsach",""
+"7. (g) Cad is caitian ann?","","ian / adamh luchtaithe go deimhneach a bhfuil leictreon / leictreoín caillte aige",""
+"7. (h) Cothromaigh an chothromóid a leanas:    FeSO$_4$ → Fe$_2$O$_3$ + SO$_2$ + SO$_3$","","2FeSO$_4$→ Fe$_2$O$_3$ + SO$_2$ +SO$_3$",""
+"7. (i) Breac síos dlí Hess.","","athrú teasa le haghaidh imoibrithe        // suim ailgéabrach d'athruithe teasa cothrom le
+Neamhspleách ar an gconair a leantar // athrú teasa le haghaidh imoibrithe ar slí i gcéim
+amháin
+[scaoileadh seachas athrú..(-1)]",""
+"7. (j) Tá 2 phróitón níos mó agus 3 neodrón níos mó ag adamh ná mar atá ag adamh $^{56}_{26}$Fe.
+(i) sainaithin an t-adamh, (ii) luaigh a uimhir adamhach agus a mhaisuimhir.","","(i)    Ni
+(ii)    28, 61",""
+"7. (k) Cé mhéad gram d'alúmanam (Al) atá in 50g de Al$_2$O$_3$?","","Tá 54g de Al in 102g de Al$_2$O$_3$
+Tá 26.47g de Al in 50g",""
+"7. (l) Scrúdaigh na comhdhúile sa liosta a leanas:CaO,Al$_2$O$_3$,SO$_2$,HCl,NH$_3$,CH$_4$
+Sainaithin ón liosta
+(i) ocsaíd aigéadach, (ii) hidrίd ag a bhfuil tuaslagacht ίseal in uisce, (iii) hidrίd bhunata.","","(i)    SO$_2$
+(ii)    CH$_4$
+(iii)    NH$_3$",""
+"7. (m) Próiseas coitianta creimthe is ea meirgiú iarainn. Cén dá shubstaint a chaithfidh a bheith i
+láthair chun imoibriú leis an iarann le linn phróiseas an mheirgthe?","","uisce, ocsaigin",""
+"7. (n) Scríobh (i) foirmle an aigéid ag a bhfuil an bun comhchuingeach H$_2$PO$_4^-$, (ii) foirmle an bhuin
+ag a bhfuil an t-aigéad comhchuingeach H$_2$O.","","(i)    H$_3$PO$_4$
+(ii)    OH$^-$",""
+"7. (o) Móilín cobhsaí is ea beinséin mar go bhfuil leictreoín dhílógánaithe i láthair ann.
+Cad is brí le leictreoín dhílógánaithe?","","leictreoín roinnte idir go leor adamh / leictreoín nach mbaineann le nasc comhfhiúsach
+amháin / leictreoín ag gluaiseacht idir adaimh",""
+"7. (p) Idirdhealaiġh idir hidreacarbóin sháithithe agus hidreacarbóin neamhsháithithe.
+(níl ach) naisc aonair (idir na hadaimh charbóin) sna cinn sáithithe","","Tá nasc dúbailte nó nasc triarach (idir na hadaimh charbóin) sna cinn neamhsháithithe",""
+"7. (q) Foirmítear eistir nuair a imoibríonn alcóil le haigéid charbocsaileacha.
+Cén (i) alcól, (ii) aigéad carbocsaileach a imoibríonn chun an t-eistear HCOOCH$_3$ a fhoirmiú?","","(i)    CH$_3$OH /meatánól
+(ii)    HCOOH /aigéad meatánóch",""
+"7. (r) Tarraing foirmle struchtúrach 3-meitiól-búit-1-éin.","","nasc dúbailte san áit cheart
+Grúpa CH$_3$ceangailte le C ceart agus líon na Hanna ceart agus san áit cheart",""
+"8. (a) (i) Sainmhínigh fuinneamh céadianúcháin dúile.","","an t-íosmhéid fuinnimh a theastaíonn
+chun an leictreon is scaoilte nó is forimeallai a bhaint
+de mhól amháin adaimh (ina staid ghásach neodrach)
+[an t-íosmhéid a fhágtar ar lár ..(−1), mól amháin fágtha ar lár..(−1)]",""
+"8. (a) Cuireann an chothromóid a leanas síos ar an bpróiseas a tharlaíonn nuair a thomhaistear fuinneamh
+céadianúcháin sóidiam:
+Na$_{(g)}$ → Na$^+_{(g)}$ + e$^-$
+(ii) Scríobh chothromóid le cur síos ar an bpróiseas a tharlaíonn nuair a thomhaistear fuinneamh an
+dara hianúcháin ag sóidiam.","","Na$_{(g)}$→ Na$^{2+}_{(g)}$ + e$^-$
+[cuir na siombailí atá fágtha ar lár in iúl ..(−1)]",""
+"8. (a) Taispeántar ar dheis an chéad deich fhuinnimh ianúcháin chomhleantacha den eilimint X.
+(iii) Mínigh an fáth a bhfuil méadú chomh mór sin fuinnimh ón cúigiú go dtí an séú fuinneamh
+ianúcháin.","","tá an séú leictreon á bhaint de scaill iomlán/leibhéal fuinnimh atá cobhsaí",""
+"8. (a) Taispeántar ar dheis an chéad deich fhuinnimh ianúcháin chomhleantacha den eilimint X.
+(iv) Úsáid an graf leis an méadú fuinnimh seo a mheas.","","15000 kJ mol$^{-1}$",""
+"8. (a) Taispeántar ar dheis an chéad deich fhuinnimh ianúcháin chomhleantacha den eilimint X.
+(v) Ainmnigh dúil X más i bpeiriad 3 den tábla peiriadach atá sí. Cosain do fhreagra.","","P/ fosfar
+Tá 5 leictreon ag P (atá i dtréimhse 3 agus) ina phríomhleibhéal fuinnimh n=3 nó ina
+phríomhleibhéal fuinnimh sheachtraigh",""
+"8. (a) Taispeántar ar dheis an chéad deich fhuinnimh ianúcháin chomhleantacha den eilimint X.
+(vi) Cé mhéad fuinneamh ianúcháin san iomlán a bheidh ag an dúil X seo?","","15 fhuinneamh ianúcháin",""
+"8. (a) Taispeántar ar dheis an chéad deich fhuinnimh ianúcháin chomhleantacha den eilimint X.
+(vii) Scríobh an chumraíocht leictreonach s,p de dhúil X.","","1s$^2$ 2s$^2$2p$^6$
+3s$^2$ 3p$^3$ / 3s$^2$ 3p$_x$1 3p$_y$1 3p$_z$1",""
+"8. (a) Taispeántar ar dheis an chéad deich fhuinnimh ianúcháin chomhleantacha den eilimint X.
+(viii) Cad é an fuinneamh ianúcháin is lú a bhainfidh leictreon ó fho-leibhéal iomlán?
+Mínigh do fhreagra.","","~5000 kJ mol$^{-1}$
 an ceathrú fuinneamh ianúcháin",""
-"Cad is iseatóp ann?","","adaimh a bhfuil na dúile céanna agus an líon céanna prótón / an uimhir adamhach chéanna acu",""
-"Tá ceithre iseatóp i sampla de chróimiam ag a bhfuil mais adamhach mheánmheásta 52.09.
-Tugtar a tábla thíos an mhaisuimhir agus an % lionmhaireachta de thrí cinn de na hiseatóip.
-
-| maisuimhir | 52   | 53   | 54   |
-|-------------|------|------|------|
-| % lionmhaireachta | 82.8 | 10.9 | 2.7  |
-
-(a) Aimsigh % lionmhaireachta an cheathrú iseatóip,
-$100 - (82.8 + 10.9 + 2.7) = 3.6\%$
-(b) maisuimhir an cheathrú iseatóip.
-$52(0.828) + 53(0.109) + 54(0.027) + x(0.036) = 52.09$
-$x = 50$","","(a) $100 - (82.8 + 10.9 + 2.7) = 3.6\%$
-(b) $52(0.828) + 53(0.109) + 54(0.027) + x(0.036) = 52.09$
-$x = 50$",""
-"Cad is tuaslagán mólárach ann?","","Tuaslagán ina bhfuil 1 mhol de thuaslagáit in 1 lítear den tuaslagán",""
-"Tá 1.96g de $H_2SO_4$ i lítear amháin de thuaslagán.
-Ríomh móláracht an tuaslagáin.","","$\frac{1.96}{98} = 0.02$(móil in aghaidh an lítir)",""
-"Ríomh an pH i dtuaslagán de $H_2SO_4$, ina bhfuil 1.96g i lítear amháin den tuaslagán.","","$2 \times 0.02 / 0.04 / [H^+] \\ pH = -log(0.04) = 1.4$",""
-"An méin, bhí 13.2cm$^3$ de 0.15M $H_2SO_4$ ag teastáil chun an codanna 25cm$^3$ den tuaslagán caolaithe de $NH_4OH$ a neodrú.
-Ríomh
-(i) tiúchan an tuaslagáin chaolaithe de $NH_4OH$ ina mól in aghaidh an lítir.
-(ii) móláracht an tuaslagáin bhunaidh,
-(iii) mais an amóinia ($NH_3$) in aghaidh 100cm$^3$ de thuaslagán an táirge ghlantacháin.","","(i) $\frac{M_1V_1}{n_1} = \frac{M_2V_2}{n_2}$
-$\frac{13.2 \times 0.15}{1} = \frac{25 \times M_2}{1}$
-$M_2 = 0.1584$ (mól in aghaidh an lítir)
-
+"8. (b) (i) Cad is iosatóip ann?","","adaimh a bhfuil na dúile céanna agus an líon céanna prótón / an uimhir adamhach chéanna
+acu
+// ach uimhreacha difriúla neodrón /maisuimhreacha difriúla",""
+"8. (b) (ii) Sainmhínigh mais adamhach choibhneasta.","","meánmhais adaimh dúile
+agus a bhfuirse a cur san áireamh
+i gcoibhneas le $\frac{1}{12}$mais iseatóp C-12
+[an meánmhéid a fhágtar ar lár ..(−1)]",""
+"8. (b) Tá ceithre iseatóp i sampla de chróimiam ag a bhfuil mais adamhach choibhneasta 52.09.
+Tugtar sa tábla thíos an mhaisuimhir agus an % líonmhaireachta de thrí cinn de na hiseatóip.
+maisuimhir           52            53            54
+% líonmhaireachta     82.8         10.9         2.7
+(iii) Aimsigh
+(a)    % líonmhaireachta an cheathrú iseatóip,","","100 − (82.8 + 10.9 + 2.7) = 3.6%",""
+"8. (b) Tá ceithre iseatóp i sampla de chróimiam ag a bhfuil mais adamhach choibhneasta 52.09.
+Tugtar sa tábla thíos an mhaisuimhir agus an % líonmhaireachta de thrí cinn de na hiseatóip.
+maisuimhir           52            53            54
+% líonmhaireachta     82.8         10.9         2.7
+(iii) Aimsigh
+(b)    maisuimhir an cheathrú iseatóip.","","52(0.828) + 53(0.109) + 54(0.027) + x(0.036) = 52.09
+x = 50",""
+"9. (a) (i) Cad is tuaslagán mólárach ann?","","tuaslagán ina bhfuil 1 mhól de thuaslagáit
+in 1 lítear den tuaslagán",""
+"9. (a) (ii) Conas a d'fhéadfá móláracht tuaslagáin ar leith a athrú?","","tríd an gcóimheas idir na móil tuaslagáite agus toirt an tuaslagóra a athrú / cuir níos mó
+tuaslagáite leis",""
+"9. (a) Tá 1.96g de H$_2$SO$_4$ i lítear amháin de thuaslagán de H$_2$SO$_4$.
+(iii) Ríomh móláracht an tuaslagáin.","","$\frac{1.96}{98} = 0.02$(móil in aghaidh an lítir)",""
+"9. (a) Tá 1.96g de H$_2$SO$_4$ i lítear amháin de thuaslagán de H$_2$SO$_4$.
+(iv) Ríomh an pH i dtuaslagán de H$_2$SO$_4$ ina bhfuil 1.96g i lítear amháin den tuaslagán.","","2 x 0.02 / 0.04 // pH = -log[H$^+$]
+pH = -log (0.04) = 1.4",""
+"9. (b) Chun tiúchan an amóinia i dtáirge glantacháin tí a aimsiú, rinne ceimiceoir 20cm$^3$ den táirge a chaolú go
+500cm$^3$ agus úsáid á baint as uisce dí-ianaithe.Rinneadh codanna 25cm$^3$ den tuaslagán caolaithe a
+thoirtmheascadh le 0.15M H$_2$SO$_4$.
+Is ann d'amóinia (NH$_3$) i dtuaslagán mar hiodrocsaíd amóinia (NH$_4$OH), ar bun lag é.
+Tarlaíonn an t-imoibriú seo thíos le linn an toirtmheasctha seo:
+2NH$_4$OH    +    H$_2$SO$_4$    →    (NH$_4$)$_2$SO$_4$    +    2H$_2$O
+(i) Ainmnigh píosa trealaimh a úsáideadh chun an caolú a dhéanamh go cruinn.","","fleascán toirtmhéadrach/pipéad /buiréad",""
+"9. (b) Chun tiúchan an amóinia i dtáirge glantacháin tí a aimsiú, rinne ceimiceoir 20cm$^3$ den táirge a chaolú go
+500cm$^3$ agus úsáid á baint as uisce dí-ianaithe.Rinneadh codanna 25cm$^3$ den tuaslagán caolaithe a
+thoirtmheascadh le 0.15M H$_2$SO$_4$.
+Is ann d'amóinia (NH$_3$) i dtuaslagán mar hiodrocsaíd amóinia (NH$_4$OH), ar bun lag é.
+Tarlaíonn an t-imoibriú seo thíos le linn an toirtmheasctha seo:
+2NH$_4$OH    +    H$_2$SO$_4$    →    (NH$_4$)$_2$SO$_4$    +    2H$_2$O
+(ii) Luaigh buntáiste a bhaineann leis an táirge glantacháin a chaolú roimh an toirtmheascadh.","","toirt níos lú ( de H$_2$SO$_4$) ag teastáil / tuaslagán níos lú tiúbhaithe (de H$_2$SO$_4$ ) ag teastáil",""
+"9. (b) Cuireadh an H$_2$SO$_4$ sa bhuiréad agus tonnadóir in úsáid.
+(iii) Cén fáth ar baineadh úsáid as tonnadóir?","","chun a chinntiú go dtéann an tuaslagán go léir isteach sa bhuiréad/cosc ar dhoirteadh",""
+"9. (b) Cuireadh an H$_2$SO$_4$ sa bhuiréad agus tonnadóir in úsáid.
+(iv) Cén fáth ar chóir an tonnadóir a bhaint sula dtógtar léamha?","","d'fhéadfadh cuid den tuaslagán a bheith gafa, rud a d'fhéadfadh cur isteach ar an
+léitheoireacht nialasach",""
+"9. (b) Cuireadh an H$_2$SO$_4$ sa bhuiréad agus tonnadóir in úsáid.
+(v) Luaigh buntáiste a bhaineann le fleascán cónúil a úsáid seachas eascra le linn an toirtmheasctha.","","cuireann béal caol cosc ar chaillliúint tuaslagáin mar gheall ar stealladh / suaitheadh gan
+stealladh",""
+"9. (b) Rinneadh an taobh istigh den fhleascán a ní le huisce dí-ianaithe le linn an toirtmheasctha.
+(vi) Mínigh cén fáth nach bhfaightear toradh míchruinn dá bharr seo.","","ní athraítear líon na mól de NH$_4$OH nó H$_2$SO$_4$ sa fhleascán",""
+"9. (b) Taispeántar trí chuar toirtmheasctha A, B agus C thíos.
+(vii) Cé acu cuar a d'fhéadfadh an toirtmheascadh thuas a léiriú? Cosain do fhreagra.","images/physics_and_chemistry/problem/9b_vii.png","C
+bonn lag agus aigéad láidir in úsáid",""
+"9. (b) Taispeántar trí chuar toirtmheasctha A, B agus C thíos.
+(viii) Ainmnigh táscaire oiriúnach don toirtmheascadh seo.","","oráiste meitile",""
+"9. (b) Taispeántar trí chuar toirtmheasctha A, B agus C thíos.
+(ix) Cén t-athrú datha a tharlaíonn ag an gcríochphointe?","","buí go
+bándearg/dearg
+[dathanna cearta aisiompaithe.....3]",""
+"9. (b) Taispeántar trí chuar toirtmheasctha A, B agus C thíos.
+(x) Úsáid do rogha cuair le míniú cén fáth arb é an táscaire seo an ceann is oiriúnaí don toirtmheascadh
+seo.","","athraíonn oráiste meitile dath sa raon 3-5 atá comhthráthach le
+críochphointe an toirtmheasctha / tá an chríochphointe faoi bhun pH 6 / athrú datha i
+gcomhthráth le
+hardú géar sa ghraf / tá oráiste meitile oiriúnach le haghaidh toirtmheascadh d'aigéad láidir a
+bhfuil bonn lag aige",""
+"9. (b) Ar an meán, bhí 13.2cm$^3$ de 0.15M H$_2$SO$_4$ ag teastáil chun na codanna 25cm$^3$ den tuaslagán caolaithe de
+NH$_4$OH a neodrú.
+(xi) Ríomh
+(a)    tiúchan an tuaslagáin chaolaithe de NH$_4$OH ina móil in aghaidh an lítir,","","$\frac{M_1V_1}{n_1} = \frac{M_2V_2}{n_2}$
+$\frac{13.2×0.15}{1} = \frac{25×M_2}{2}$
+$M_2 = 0.1584$ (móil in aghaidh an lítir)
 nó
-Móil $H_2SO_4$ in 13.2cm$^3$ de 0.15M $H_2SO_4 = (13.2 \times 0.15 / 1000) = 1.98 \times 10^{-3}$
-Móil $NH_4OH$ in 25 cm$^3 = 2 \times 1.98 \times 10^{-3} = 3.96 \times 10^{-3}$
-Móil $NH_4OH$ in 1l = 0.1584
-(b) móláracht an tuaslagáin bhunaidh,
-0.1584x 25 = 3.96 mhól in aghaidh an lítir
-(c) mais an amóinia ($NH_3$) in aghaidh 100cm$^3$ de thuaslagán an táirge ghlantacháin.
-3.96 x 17 = 67.32g in aghaidh an lítir =6.73 (g in aghaidh 100cm$^3$)",""
-"Tá mais 4.8 g ag meascán d'ocsáid mhaignéisiam MgO agus hiodrocsaíd mhaignéisiam Mg(OH)₂.
-Imbhrítear an meascán le CO₂, chun MgCO₃ a dhéanamh de réir na gcothromóidí a leanas:
-
-$MgO + CO_2 \rightarrow MgCO_3$
-$Mg(OH)_2 + CO_2 \rightarrow MgCO_3 + H_2O$
-
+Móil H$_2$SO$_4$in 13.2cm$^3$ de 0.15M H$_2$SO$_4$ = (13.2×0.15 /1000) = 1.98×10$^{-3}$
+Móil NH$_4$OH in 25 cm$^3$ = 2×1.98×10$^{-3}$ =3.96×10$^{-3}$
+Móil NH$_4$OH in 1l = 0.1584",""
+"9. (b) Ar an meán, bhí 13.2cm$^3$ de 0.15M H$_2$SO$_4$ ag teastáil chun na codanna 25cm$^3$ den tuaslagán caolaithe de
+NH$_4$OH a neodrú.
+(xi) Ríomh
+(b)    mólaracht an tuaslagáin bhunaidh,","","0.1584× 25 = 3.96 mhól in aghaidh an lítir",""
+"9. (b) Ar an meán, bhí 13.2cm$^3$ de 0.15M H$_2$SO$_4$ ag teastáil chun na codanna 25cm$^3$ den tuaslagán caolaithe de
+NH$_4$OH a neodrú.
+(xi) Ríomh
+(c)    mais an amóinia (NH$_3$) in aghaidh 100cm$^3$ de thuaslagán an táirge ghlantacháin.","","3.96 x 17 = 67.32g in aghaidh an lítir=6.73 (g in aghaidh 100cm$^3$ )",""
+"10. (a) (i) Cad is ea an tsraith leictriceimiceach?","","liosta dúl atá eagraithe in ord
+a gclaonadh leictreoín a chailliúint/ dá bpóitéinsil chaighdeánacha leictreoidí / éascaíocht
+laghdaithe ocsaídiúcháin.",""
+"10. (a) Seo a leanas liosta miotal agus iad leagtha amach in ord méadaitheach a gcumais chun feidhmiú mar
+ocsaideoir:
+K        Mg        Zn        Fe        Ni        Pb
+(ii) Cad is ocsaideoir ann i dtéarmaí trasghur leictreon?","","faigheann sé leictreoín",""
+"10. (a) Seo a leanas liosta miotal agus iad leagtha amach in ord méadaitheach a gcumais chun feidhmiú mar
+ocsaideoir:
+K        Mg        Zn        Fe        Ni        Pb
+(iii) Mínigh an fáth ar drochocaideoir é potaisiam (K).","","tá leictreon amháin (ag potaisiam) ina sceall is forimeallai / a bhfuil claonadh aige é
+a chailleadh",""
+"10. (a) Seo a leanas liosta miotal agus iad leagtha amach in ord méadaitheach a gcumais chun feidhmiú mar
+ocsaideoir:
+K        Mg        Zn        Fe        Ni        Pb
+(iv) Cé acu de na miotail lena fhoirmeoidh an ocsaíd is lú cobhsaíocht? Mínigh do fhreagra.","","Pb
+is lú claonadh atá aige leictreoín a thabhairt uaidh / is ísle ar an liosta",""
+"10. (b) Is gnách leis an miotal caidmiam iain Cd$^{2+}$ a fhoirmiú. Nuair a chuirtear stiall de mhiotal sinc i dtuaslagán
+de CdCl$_2$, síl-deasctar miotal caidmiam ar an stiall. Nuair a chuirtear stiall de mhiotal caidmiam i
+dtuaslagán de Ni(NO$_3$)$_2$,síl-deasctar miotal nicile ar an stiall.
+(i) Scríobh cothromóid chun iad seo a leanas a léiriú:
+(a) an t-imoibriú idir CdCl$_2$ agus sinc,","","CdCl$_2$ + Zn
+→ Cd + ZnCl$_2$",""
+"10. (b) Is gnách leis an miotal caidmiam iain Cd$^{2+}$ a fhoirmiú. Nuair a chuirtear stiall de mhiotal sinc i dtuaslagán
+de CdCl$_2$, síl-deasctar miotal caidmiam ar an stiall. Nuair a chuirtear stiall de mhiotal caidmiam i
+dtuaslagán de Ni(NO$_3$)$_2$,síl-deasctar miotal nicile ar an stiall.
+(i) Scríobh cothromóid chun iad seo a leanas a léiriú:
+(b) an t-imoibriú idir caidmiam agus Ni(NO$_3$)$_2$.","","Cd + Ni(NO$_3$)$_2$
+→ Ni + Cd(NO$_3$)$_2$",""
+"10. (b) Is gnách leis an miotal caidmiam iain Cd$^{2+}$ a fhoirmiú. Nuair a chuirtear stiall de mhiotal sinc i dtuaslagán
+de CdCl$_2$, síl-deasctar miotal caidmiam ar an stiall. Nuair a chuirtear stiall de mhiotal caidmiam i
+dtuaslagán de Ni(NO$_3$)$_2$,síl-deasctar miotal nicile ar an stiall.
+(ii) Cén chonclúid is féidir a bhaint as suíomh an chaidmiam sa liosta miotal thuas?","","Cosain do fhreagra.
+isgann caidmiam tar éis Zn sa liosta agus roimh nicil / Zn, Cd, Ni
+díláithríonn sinc caidmiam as a shalann /díláithríonn caidmiam nicil as a salann",""
+"10. (c) I 2022, thug Bus Éireann busanna leictreacha isteach agus iad á gcumhachtú ag cealla breosla
+hidrígine.Tugtar gás hidrígine (H$_2$) isteach ag leictreoid X agus gás ocsaigine (O$_2$) ón aer ag leictreoid Y mar a
+thaispeántar.
+Is leictreoid támha iad agus scartár óna chéile iad le scannán leictrilíte a ligeann do na hiain H$^+$ dul tríd ach a
+choscann leictreoín. Gabhann na leictreoín trí chiorcad seachtrach agus táirgtear sruth dá thoradh.
+Is iad na himoibrithe ceimiceacha atá i gceist ná a mhalairt de na himoibrithe a bhaineann le leictrealú uisce.
+Tarlaíonn an t-imoibriú thíos ag leictreoid Y:
+O$_{2(g)}$ + H$^+$ + e$^-$ → H$_2$O$_{(l)}$
+(i) Cóipeáil agus cothromaigh an chothromóid.","","O$_{2(g)}$ +4H$^+_{(g)}$ + 4e$^-$ →
+2H$_2$O$_{(l)}$",""
+"10. (c) I 2022, thug Bus Éireann busanna leictreacha isteach agus iad á gcumhachtú ag cealla breosla
+hidrígine.Tugtar gás hidrígine (H$_2$) isteach ag leictreoid X agus gás ocsaigine (O$_2$) ón aer ag leictreoid Y mar a
+thaispeántar.
+(ii) Scríobh chothromóid don imoibriú atá ag tarlú ag leictreoid X.","","2H$_{2(g)}$
+→ 4H$^+_{(g)}$ + 4e$^-$",""
+"10. (c) I 2022, thug Bus Éireann busanna leictreacha isteach agus iad á gcumhachtú ag cealla breosla
+hidrígine.Tugtar gás hidrígine (H$_2$) isteach ag leictreoid X agus gás ocsaigine (O$_2$) ón aer ag leictreoid Y mar a
+thaispeántar.
+(iii) Cé acu leictreoid an anóid? Cosain do fhreagra.","","X
+Tarlaíonn ocsaidiú ag an anóid/ cailltear leictreoín ag an anóid",""
+"10. (c) I 2022, thug Bus Éireann busanna leictreacha isteach agus iad á gcumhachtú ag cealla breosla
+hidrígine.Tugtar gás hidrígine (H$_2$) isteach ag leictreoid X agus gás ocsaigine (O$_2$) ón aer ag leictreoid Y mar a
+thaispeántar.
+Foirmíonn cill bhreosla 0.2 mól d'uisce.
+(iv) Ríomh cé mhéad
+(a) an líon faraidéanna leictreachais a thraschuirtear,","","0.4 mhól de leictreoín => 0.4 (Faraidéanna)",""
+"10. (c) I 2022, thug Bus Éireann busanna leictreacha isteach agus iad á gcumhachtú ag cealla breosla
+hidrígine.Tugtar gás hidrígine (H$_2$) isteach ag leictreoid X agus gás ocsaigine (O$_2$) ón aer ag leictreoid Y mar a
+thaispeántar.
+Foirmíonn cill bhreosla 0.2 mól d'uisce.
+(iv) Ríomh cé mhéad
+(b) an líon cúlóm luchta a shreabhann.","","0.4 x 96485.3383 = 38594.13532(C) / 38594(C)",""
+"11. (a) (i) Sainaithin na comhdhúile A, B, C & D mar chomhdhúile alafatacha nó mar chomhdhúile
+aramatacha.","","aramatacha: A & D
+alafatach: B & C",""
+"11. (a) (ii) Scríobh foirmle mhóilíneach do chomhdhúil B.","","C$_4$H$_{12}$",""
+"11. (a) (iii) Ainmnigh an tsraith homalógach de gach ceann de na comhdhúile a bhfuil na feidhmghrúpaí E,
+F,
+G & H.","","E= aildéid
+F= alcóil
+G = ailcíní
+H= céatóin",""
+"11. (b) Taispeántar sa léaráid gaireas a úsáidtear chun gás eitin a ullmhú trí uisce a dhoirteadh ar sholad Q.
+(i) Sainaithin solad Q.","","déchairbíd chailciam/CaC$_2$",""
+"11. (b) Taispeántar sa léaráid gaireas a úsáidtear chun gás eitin a ullmhú trí uisce a dhoirteadh ar sholad Q.
+(ii) Scríobh cothromóid chothroimaithe don imoibriú atá ag tarlú.","","CaC$_2$ + 2H$_2$O →
+C$_2$H$_2$ + Ca(OH)$_2$",""
+"11. (b) Taispeántar sa léaráid gaireas a úsáidtear chun gás eitin a ullmhú trí uisce a dhoirteadh ar sholad Q.
+(iii) Cuir síos ar an athrú datha a bhreathnaítear nuair a chuirtear gás eitin trí phromhadán de
+thuaslagán bróimín.","","buí/donn
+go dtí gan dath/dídathaithe
+[dathanna cearta aisiompaithe ....3]",""
+"11. (b) Taispeántar sa léaráid gaireas a úsáidtear chun gás eitin a ullmhú trí uisce a dhoirteadh ar sholad Q.
+(iv) Cad a thugann an t-athrú datha seo le fios faoi eitin?","","(tá eitin) neamhsháithithe",""
+"11. (b) Gabhann eitin faoi na trí imoibriú a thaispeántar sa léaráid thíos.
+(v) Ainmnigh na príomhtháirgí X, Y agus Z de gach imoibriú.","","X = eitéin/C$_2$H$_4$
+Y = eatánal/CH$_3$CHO
+Z = teitreaclóireatán/C$_2$H$_2$Cl$_4$",""
+"11. (b) Gabhann eitin faoi na trí imoibriú a thaispeántar sa léaráid thíos.
+(vi) Rangaigh na himoibrithe óna bhfaightear na táirgí X agus Y mar imoibriú ocsaidiúcháin, dí-
+ocsaidiúcháin, hidríginiúcháin nó malartaíochta.","","X = hidríginiú
+Y = ocsaidiú",""
+"11. (b) Gabhann eitin faoi na trí imoibriú a thaispeántar sa léaráid thíos.
+(vii) Má ghabhann comhdhúil X faoi imoibriú hiodráitiúcháin, cad é táirge an imoibrithe?","","eatánól / C$_2$H$_5$OH",""
+"12. (a) Taispeántar cuid de na leibhéil fuinnimh in adamh hidrigine.
+Is féidir le hadamh fuinnmhithe hidrigine fótóin a astú le minicíochtaí áirithe.
+Taispeántar trí thrasdul A, B & C a d'fhéadfadh a bheith ag an leictreon in adamh hidrigine.
+(i) Luaigh dhá bhealach is féidir adamh hidrigine a fhuinmmiú.","","téamh
+ag cur sruth leictreach trí",""
+"12. (a) Taispeántar cuid de na leibhéil fuinnimh in adamh hidrigine.
+Is féidir le hadamh fuinnmhithe hidrigine fótóin a astú le minicíochtaí áirithe.
+Taispeántar trí thrasdul A, B & C a d'fhéadfadh a bheith ag an leictreon in adamh hidrigine.
+(ii) Astaítear fótón sa réigiún infheicthe den speictream leictreamaighnéadach. Sainaithin an
+trasdul atá i gceist.","","B / n=3 go n=2 / E$_3$ − E$_2$",""
+"12. (a) Taispeántar cuid de na leibhéil fuinnimh in adamh hidrigine.
+Is féidir le hadamh fuinnmhithe hidrigine fótóin a astú le minicíochtaí áirithe.
+Taispeántar trí thrasdul A, B & C a d'fhéadfadh a bheith ag an leictreon in adamh hidrigine.
+(iii) Cén dath atá ar an líne seo i speictream astaíochta hidrigine?","","dearg",""
+"12. (a) Taispeántar cuid de na leibhéil fuinnimh in adamh hidrigine.
+Is féidir le hadamh fuinnmhithe hidrigine fótóin a astú le minicíochtaí áirithe.
+Taispeántar trí thrasdul A, B & C a d'fhéadfadh a bheith ag an leictreon in adamh hidrigine.
+(iv) Cén t-ainm a thugtar ar an tsraith seo línte sa réigiún infheicthe den speictream?","","(sraith) Balmer",""
+"12. (a) Taispeántar cuid de na leibhéil fuinnimh in adamh hidrigine.
+Is féidir le hadamh fuinnmhithe hidrigine fótóin a astú le minicíochtaí áirithe.
+Taispeántar trí thrasdul A, B & C a d'fhéadfadh a bheith ag an leictreon in adamh hidrigine.
+(v) Scríobh cothromóid chun an coibhneas a thaispeáint idir an fuinneamh a chailleann an
+leictreon le linn an trasdula agus minicíocht an fhótóin radaíochta a astaítear.","","ΔE = hf / E(caillte) = hf",""
+"12. (a) Taispeántar cuid de na leibhéil fuinnimh in adamh hidrigine.
+Is féidir le hadamh fuinnmhithe hidrigine fótóin a astú le minicíochtaí áirithe.
+Taispeántar trí thrasdul A, B & C a d'fhéadfadh a bheith ag an leictreon in adamh hidrigine.
+(vi) Is é 3.028 × 10$^{-19}$ J an fuinneamh a chaill leictreon le linn trasdula. Ríomh minicíocht an tsolais
+a astaíodh.","","3.028 × 10$^{-19}$ = (6.626× 10$^{-34}$)f
+4.57 × 10$^{14}$Hz
+[gan aonad nó aonad mícheart (−1)]",""
+"12. (b) Tá mais 4.8 g ag meascán d'ocsaíd mhaignéisiam MgO agus de hiodrocsaíd mhaignéisiam Mg(OH)$_2$.
+Imoibrítear an meascán le CO$_2$ chun MgCO$_3$ a dhéanamh de réir na gcothromóidí a leanas:
+MgO + CO$_2$ → MgCO$_3$
+Mg(OH)$_2$ + CO$_2$ → MgCO$_3$ + H$_2$O
 Is ionann mais an uisce a tháirgtear agus 0.315g.
-(i) Cé mhéad mól d'uisce a tháirgtear?
-(ii) Cé mhéad gram de Mg(OH)₂ atá i láthair sa mheascán?
-(iii) Cé mhais de MgO atá sa mheascán?
-(iv) Cé mhéad mól de CO₂ atá ag teastáil do gach ceann dá imiórú?
-(v) Céin toirt iomlán de CO₂ atá ag TBC ag teastáil?
-(vi) Céin mhais de MgCO₃ san iomlán a tháirgtear?","","(i) Cé mhéad mól d'uisce a tháirgtear?
-$1 \text{mhol } H_2O = 18(g)$
-$\frac{0.315}{18} = 0.0175 (\text{mhól})$
-(ii) Cé mhéad gram de Mg(OH)₂ atá i láthair sa mheascán?
-$1 \text{mhól } Mg(OH)_2 = 58(g)$
-$0.0175 \times 58 = 1.015 (g)$
-(iii) Cé mhais de MgO atá sa mheascán?
-$4.8 - 1.015 = 3.785 (g)$
-(iv) Cé mhéad mól de CO₂ atá ag teastáil do gach ceann dá imiórú?
-$\frac{3.785}{40} = 0.094625 (\text{móil de } CO_2)$
-$0.0175 \text{ (móil de } CO_2)$
-(v) Céin toirt iomlán de CO₂ atá ag TBC ag teastáil?
-$0.112125 \times 22.4 = 2.5116 (L)$
-(vi) Céin mhais de MgCO₃ san iomlán a tháirgtear?
-$RMM MgCO_3 = 84$
-$0.112125 \times 84 = 9.4185 (g)$",""
-"Sainmhínigh teas dócháin.","","teas dócháin athrú teochta i gceist nuair a dhéantar mól amháin de shubstaint a dhó san iomarca ocsaigine / a dhó ina iomláine",""
-"Léirítear dócháin iomlán meatánóil sa chothromóid chothromaithithe seo:
-$2CH_3OH_{(l)} + 3O_{2(g)} \rightarrow 2CO_{2(g)} + 4H_2O_{(l)}$
-(ii) Cé mhéad mól d’ocsaigin atá ag teastáil chun 1 mhól de mheatánól a dhó go hiomlán?","","1.5 (mól)",""
-"Ríomh teas dócháin $N_2$ ó na sonraí a leanas:
-$H_{2(g)} + \frac{1}{2}O_{2(g)} \rightarrow H_2O_{(l)} \quad \Delta H = -285.8 \text{ (kJ mol}^{-1})$
-$N_2O_{2(g)} + H_2O_{(g)} \rightarrow 2HNO_{3(l)} \quad \Delta H = -76.6 \text{ (kJ mol}^{-1})$
-$N_{2(g)} + 3O_{2(g)} + H_{2(g)} \rightarrow 2HNO_{3(l)} \quad \Delta H = -348.2 \text{ (kJ mol}^{-1})$
-$2N_{2(g)} + 6O_{2(g)} + 2H_{2(g)} \rightarrow 4HNO_{3(l)} \quad \Delta H = -696.4 \text{ (kJ mol}^{-1})$
-$4HNO_{3(l)} \rightarrow 2N_2O_{5(g)} + 2H_{2}O_{(l)} \quad \Delta H = 153.2 \text{ (kJ mol}^{-1})$
-$2H_2O_{(l)} \rightarrow 2H_{2(g)} + O_{2(g)} \quad \Delta H = 571.6 \text{ (kJ mol}^{-1})$
-$2N_{2(g)} + 5O_{2(g)} \rightarrow 2N_2O_{5(g)} \quad \Delta H = 28.4 \text{ (kJ mol}^{-1})$
-$N_{2(g)} + \frac{5}{2}O_{2(g)} \rightarrow N_2O_{5(g)} \quad \Delta H = 14.2 \text{ (kJ mol}^{-1})$","","This problem contains equations that describe reaction, but does not have an associated answer.",""
+(i) Cé mhéad mól d'uisce a tháirgtear?","","1 mhólH$_2$O = 18(g)
+$\frac{0.315}{18} = 0.0175$ (mhól)",""
+"12. (b) Tá mais 4.8 g ag meascán d'ocsaíd mhaignéisiam MgO agus de hiodrocsaíd mhaignéisiam Mg(OH)$_2$.
+Imoibrítear an meascán le CO$_2$ chun MgCO$_3$ a dhéanamh de réir na gcothromóidí a leanas:
+MgO + CO$_2$ → MgCO$_3$
+Mg(OH)$_2$ + CO$_2$ → MgCO$_3$ + H$_2$O
+Is ionann mais an uisce a tháirgtear agus 0.315g.
+(ii) Cé mhéad gram de Mg(OH)$_2$ atá i láthair sa mheascán?","","1 mhólMg(OH)$_2$ = 58(g)
+0.0175 x 58 = 1.015(g)",""
+"12. (b) Tá mais 4.8 g ag meascán d'ocsaíd mhaignéisiam MgO agus de hiodrocsaíd mhaignéisiam Mg(OH)$_2$.
+Imoibrítear an meascán le CO$_2$ chun MgCO$_3$ a dhéanamh de réir na gcothromóidí a leanas:
+MgO + CO$_2$ → MgCO$_3$
+Mg(OH)$_2$ + CO$_2$ → MgCO$_3$ + H$_2$O
+Is ionann mais an uisce a tháirgtear agus 0.315g.
+(iii) Cén mhais de MgO atá sa mheascán?","","4.8 − 1.015 = 3.785(g)",""
+"12. (b) Tá mais 4.8 g ag meascán d'ocsaíd mhaignéisiam MgO agus de hiodrocsaíd mhaignéisiam Mg(OH)$_2$.
+Imoibrítear an meascán le CO$_2$ chun MgCO$_3$ a dhéanamh de réir na gcothromóidí a leanas:
+MgO + CO$_2$ → MgCO$_3$
+Mg(OH)$_2$ + CO$_2$ → MgCO$_3$ + H$_2$O
+Is ionann mais an uisce a tháirgtear agus 0.315g.
+(iv) Cé mhéad mól de CO$_2$ atá ag teastáil do gach ceann den dá imoibriú?","","$\frac{3.785}{40} = 0.094625$ (móil de CO$_2$)
+0.0175 (móil de CO$_2$)",""
+"12. (b) Tá mais 4.8 g ag meascán d'ocsaíd mhaignéisiam MgO agus de hiodrocsaíd mhaignéisiam Mg(OH)$_2$.
+Imoibrítear an meascán le CO$_2$ chun MgCO$_3$ a dhéanamh de réir na gcothromóidí a leanas:
+MgO + CO$_2$ → MgCO$_3$
+Mg(OH)$_2$ + CO$_2$ → MgCO$_3$ + H$_2$O
+Is ionann mais an uisce a tháirgtear agus 0.315g.
+(v) Cén toirt iomlán de CO$_2$ ag TBC atá ag teastáil?","","0.112125 x22.4 = 2.5116(L)",""
+"12. (b) Tá mais 4.8 g ag meascán d'ocsaíd mhaignéisiam MgO agus de hiodrocsaíd mhaignéisiam Mg(OH)$_2$.
+Imoibrítear an meascán le CO$_2$ chun MgCO$_3$ a dhéanamh de réir na gcothromóidí a leanas:
+MgO + CO$_2$ → MgCO$_3$
+Mg(OH)$_2$ + CO$_2$ → MgCO$_3$ + H$_2$O
+Is ionann mais an uisce a tháirgtear agus 0.315g.
+(vi) Cén mhais de MgCO$_3$ san iomlán a tháirgtear?","","RMM MgCO$_3$ = 84
+0.112125 x 84 = 9.4185(g)",""
+"12. (c) (i) Sainmhínigh teas dócháin.","","athrú teochta nó teocht i gceist nuair a dhéantar mól amháin de shubstaint
+a dhó san iomarca ocsaigine / a dhó ina iomláine",""
+"12. (c) Léirítear dóchán iomlán meatánóil sa chothromóid chothroimaithe seo:
+2CH$_3$OH$_{(l)}$ + 3O$_{2(g)}$ → 2CO$_{2(g)}$ + 4H$_2$O$_{(l)}$
+(ii) Cé mhéad mól d'ocsaigin atá ag teastáil chun 1 mhól de mheatánól a dhó go hiomlán?","","1.5 (mól)",""
+"12. (c) Léirítear dóchán iomlán meatánóil sa chothromóid chothroimaithe seo:
+2CH$_3$OH$_{(l)}$ + 3O$_{2(g)}$ → 2CO$_{2(g)}$ + 4H$_2$O$_{(l)}$
+(iii) An bhfuil imoibrithe dócháin eisteirmeach nó inteirmeach?","","eisteirmeach",""
+"12. (c) Is féidir dóchán nítrigine a léiriú le
+2N$_{2(g)}$ + 5O$_{2(g)}$ → 2N$_2$O$_{5(g)}$
+(iv) Ríomh teas dócháin N$_2$ ó na sonraí seo a leanas:","","H$_{2(g)}$ + $\frac{1}{2}$O$_{2(g)}$ → H$_2$O$_{(l)}$ $\Delta$H = -285.8 (kJ mol$^{-1}$)
+N$_2$O$_{5(g)}$ + H$_2$O$_{(l)}$ → 2HNO$_{3(l)}$ $\Delta$H = -76.6 (kJ mol$^{-1}$)
+N$_{2(g)}$ + 3O$_{2(g)}$ + H$_{2(g)}$ → 2HNO$_{3(l)}$ $\Delta$H = -348.2 kJ mol$^{-1}$
+2N$_{2(g)}$ + 6O$_{2(g)}$ + 2H$_{2(g)}$ →4HNO$_{3(l)}$ $\Delta$H = - 696.4 kJmol$^{-1}$
+4HNO$_{3(l)}$→2N$_2$O$_{5(g)}$ + 2H$_2$O$_{(l)}$ $\Delta$H = 153.2 kJmol$^{-1}$
+2H$_2$O$_{(l)}$→2H$_{2(g)}$ + O$_{2(g)}$ $\Delta$H = 571.6 kJ mol$^{-1}$
+2N$_{2(g)}$ + 5O$_{2(g)}$ → 2N$_2$O$_{5(g)}$ $\Delta$H = 28.4 kJ mol$^{-1}$
+N$_{2(g)}$ + $\frac{5}{2}$O$_{2(g)}$ →N$_2$O$_{5(g)}$ $\Delta$H = 14.2 kJ mol$^{-1}$",""
+"12. (d) I solaid chriostalta, leagtar amach na cáithníní i bpatrún athfhillteach rialta.
+(i) Cad a thugtar ar an bpatrún athfhillteach rialta seo?","","aonadchill",""
+"12. (d) Taispeántar sa léaráid ar dheis struchtúr iaidin ar criostal móilíneach é.
+(ii) Cad iad na fórsaí aomtha a choinníonn na móilíní iaidin le chéile sa chriosta?","","Fórsaí Van Der Waals / fórsaí London / fórsaí scaipthe",""
+"12. (d) Sampla eile de chriostal móilíneach is ea oighear, a thaispeántar sa léaráid thíos.
+(iii) Cén sórt aomadh idirmheánach a choinníonn na móilíní uisce le chéile sa chriostail oighir?","","Nascadh hidrigine / nascadh H",""
+"12. (d) Sampla eile de chriostal móilíneach is ea oighear, a thaispeántar sa léaráid thíos.
+(iv) Ainmnigh dhá chineál eile criostal agus tabhair sampla de gach ceann díobh.","","ianach / comhfhiúsach /miotalach
+ianach: NaCl srl
+comhfhiúsach:diamant srl
+miotalach:copar srl",""
+"12. (d) Sampla eile de chriostal móilíneach is ea oighear, a thaispeántar sa léaráid thíos.
+(v) I gcás ceann ar bith de na cineálacha criostail a luaigh tú i bpáirt (iv), cuir síos ar conas a
+choinntear na cáithníní le chéile.","","ceann díobh seo a leanas
+ianach:      is iain iad na cáithníní atá i seilbh naisc ianacha/fórsaí leictreastatacha
+comhfhiúsach:adaimh atá i seilbh naisc chomhfhiúsacha
+miotalach:adaimh mhiotail atá i seilbh lear mór leictreoín dhílógánaithe",""
