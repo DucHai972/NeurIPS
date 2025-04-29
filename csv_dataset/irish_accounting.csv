@@ -1,0 +1,925 @@
+problem,answer
+"Cuntais Fhoilsithe
+Tá scairchaipiteal údaraithe de €850,000 ag Ó Laighin cpt roinnte ina 650,000 gnáthscair ar €1 an ceann agus 200,000 scair tosaíochta 4% ar €1 an ceann. Baineadh an comhardú trialach seo a leanas as na leabhair ar an 31/12/2023.
+
+Talaimh agus foirgnimh ar a gcostas	€850,000
+Foirgnimh – dímheas carntha ar an 01/01/2023	€55,000
+Feithiclí ar a gcostas	€440,000
+Feithiclí – dímheas carntha ar an 01/01/2023	€75,000
+Caipiteal eisithe	€500,000
+Gnáthscaireanna	€150,000
+Scaireanna tosaíochta 4%
+Paitinn 01/01/2023	€37,500
+Infheistíochtaí 3%	€140,000
+Féichiúnaithe agus creidiúnaithe	€105,000	€44,000
+Ceannacháin agus díolacháin	€1,500,000	€2,150,000
+Stoc 01/01/2023	€57,000
+Costais dáileacháin	€232,000
+Speansais riaracháin	€146,000
+Ioncam ó chíosanna	€85,000
+Brabús ar dhíol talún	€60,000
+Táillí siúrtóirí	€35,000
+Cuntas brabúis agus caillteanais 01/01/2023	€43,000
+Soláthar in aghaidh drochfhiach	€5,600
+Ús bintiúir íoctha	€12,000
+Banc	€38,000
+Coimisiún	€14,000
+CBL	€5,600
+Díbhinní íoctha	€35,000
+Bintiúir 8% 2027/2028	€380,000
+Fógraíocht	€4,500
+--------	--------
+	€3,599,600	€3,599,600
+
+Baineann na h-eolas seo a leanas:
+(i)	Stoc ar an 31/12/2023, €85,000
+(ii)	Ceannaíodh an paitinn ar an 01/01/2018 ar €75,000. Tá sí á hamúchadh thar 10 mbliana i dtráthchodanna cothroma. Tá an t-amúchadh le háireamh i gcostas na ndíolachán.
+(iii)	Le linn na bliana, díoladh talamh le taobh áitreabh na cuideachta, a chosain €210,000, ar €270,000. (Chosain an chuid eile den talamh €200,000.)
+
+Bhí dímheas ar fhoirgnimh ar ráta 2% den chostas in aghaidh na bliana de réir meid cothrom agus le dáileadh 25% do chostais dáileacháin agus 75% do speansais riaracháin. Níor ceannaíodh ná níor díoladh foirgnimh ar bith le linn na bliana.
+
+Ag deireadh na bliana, rinne an chuideachta a chuid talún agus foirgneamh a athluacháil ar €950,000. Is mian leis an gcuideachta an luach sin a léiriú sna cuntais.
+(iv)	Déantar feithiclí a dhímheas ar ráta 20% dá gcostas in aghaidh na bliana de réir meid cothrom.
+(v)	San áireamh sna costais dáileacháin tá táltas €2,650 ar richíosanna paitinne.
+(vi)	Déan soláthar d’ús bintiúir dlite, ioncam infheistíochta dlite, táillí iniúchóra €8,500 agus cáin chorparáide €87,000.
+
+larrtar ort:
+(a) An cuntas brabúis agus caillteanais foillsithe a ullmhú don bhliain dar críoch 31/12/2023 de réir Acht na gCuideachtaí agus Caillteanais Foilsithe Lyne Cpt don bhliain dar críoch 31/12/2023 a leanas:
+1. Nóta ar bheartais chuntasaíochta faoi shócmhainní seasta inláimhsithe agus stoc
+2. Brabús oibriúcháin
+3. Díbhinní
+4. Sócmhainní Seasta inláimhsithe.
+
+(b) (i) An téarma mir eisceachtúil a mhíniú agus tagairt agat do chuntais Uí Laighin cpt.
+(ii) Cad iad na rialacháin nach mór do Chuntasóirí a chomhlíonadh nuair a bhíonn ráiteas airgeadais á n-ullmhú acu lena bhfoilsiú?
+","```
+Ceist 2 Cuntais Fhoilsithe
+(a)Cuntais Brabúis & Caillteanais Foilsithe Lyne Cpt don bhliain dar críoch 31/12/2023
+Láimhdeachas	2,150,000 [2]
+Costas Díolacháin	1,479,500 [4]
+Brabús Comhlán	670,500
+Costais Dáileacháin	330,400 [5]
+Speansais riaracháin	199,250 [4]
+Ioncam Oibriúcháin	140,850
+Ioncam Oibriúcháin Eile	101,650 [3]
+Brabús Oibriúcháin	242,500
+Brabús ar dhíol talún	60,000 [1]
+Ioncam Infheistíochta	4,200 [3]
+306,700
+Ús Bintiúir	30,400 [3]
+Brabús ó ghnáthghníomhaíochtaí roimh cáin	276,300
+Cáin Chorparáide	87,000 [2]
+Brabús ó ghnáthghníomhaíochtaí i ndiaidh cánach	189,300
+Díbhinn Ioctha	35,000 [2]
+Tuilleamh coimeádta	154,300
+Iarmhéid Brabúis agus Caillteanais 1/1/23	43,000 [2]
+Iarmhéid Brabúis Caillteanais 31/12/23	197,300 [3]
+Cuirtear pionóis i bhfeidhm i gcás ina mbíonn na hiontrálacha san ord mícheart
+
+1. Costas Díolacháin: 57,000 + 1,500,000 + 7,500 + 85,000 -	1,479,500
+2. Costais Dáileacháin: 232,000 + 4,500 + 2,650 + 88,000 + 3,250	330,400
+3. Speansais Riaracháin: 146,000 + 35,000 + 8,500 + 9,750	199,250
+4. Ioncam Oibriúcháin Eile: 85,000 +14,000 + 2,650	101,650
+5. Ioncam Infheistíochta: 140,000 x 3%	4,200
+6. Ús Bintiúir 380,000 x 8%	30,400
+Nóta: Dímheas - Foirgnimh 2% de 650,000 = 13,000	3,250
+Dáileadh: 25% de 13,000	9,750
+Riaracháin: 75% de 13,000
+```"
+"Tá scairchaipiteal údaraithe de €850,000 ag Ó Laighin cpt roinnte ina 650,000 gnáthscair ar €1 an ceann agus 200,000 scair tosaíochta 4% ar €1 an ceann. Baineadh an comhardú trialach seo a leanas as na leabhair ar an 31/12/2023.
+Baineann na h-eolas seo a leanas:
+(vi) Déan soláthar d’ús bintiúir dlite, ioncam infheistíochta dlite, táillí iniúchóra €8,500 agus cáin chorparáide €87,000.
+
+larrtar ort:
+(a) An cuntas brabúis agus caillteanais foillsithe a ullmhú don bhliain dar críoch 31/12/2023 de réir Acht na gCuideachtaí agus Caillteanais Foilsithe Lyne Cpt don bhliain dar críoch 31/12/2023 a leanas:
+4. Sócmhainní Seasta inláimhsithe.
+","```
+4 Sócmhainní Seasta Inláimhsithe [7]
+Nótaí ar Bheartas Cuntasaíochta [4]
+1	Nótaí ar Bheartas Cuntasaíochta [4]
+Rinneadh athluacháil ar fhoirgnimh ag deireadh 2023 agus tá siad curtha san áireamh san chuntais ag a méid athluachála.
+Taispeántar feithiclí ag costas.
+Ríomhtar an dímheas chun luach nó costas na sócmhainní seasta inláimhsithe a dhíscríobh thar a saolré eacnamaíoch fhointeach, mar a leanas:
+Foirgnimh	2% de chostas in aghaidh na bliana de réir meid cothrom
+Feithiclí	Dímheas athchóirithe 20% de chostas in aghaidh na bliana de réir meid cothrom
+Déantar stoc a luacháil ar bhonn ‘is ísce costas, is túisce amach’ ag an gcostas nó an glanluach inréadaithe, cibé acu is ísle.
+
+2	Brabús Oibriúcháin [4]
+Tagtar ar an mbrabús oibriúcháin i ndiaidh na gearrtha
+Dímheas ar shócmhainní seasta inláimhsithe	101,000
+Paitinn amúchta	7,500
+Luach saothair na stiúrthóra	35,000
+Táillí iniúchóra	8,500
+
+3	Díbhinní [2]
+Gnáthdhíbhinní
+Íocadh 5.8 cent in aghaidh na scaire 29,000
+Díbhinn Tosaíochta
+Íocadh 4.0 cent in aghaidh na scaire 6,000
+
+4	Sócmhainní Seasta Inláimhsithe [7]
+
+	Talamh agus
+Foirgnimh	Feithiclí	Iomlán
+Costas/Luach ag 01/01/2023	1,060,000	440,000	1,500,000
+Diúscairt	(210,000)	(210,000)
+Barrachas Athluachála	100,000	100,000
+Costas/Luach ag 31/12/2023	950,000	440,000	1,390,000
+Dímheas Cuntais 01/01/2023	55,000	55,000	130,000
+Muirear dímheasa don bhliain	13,000	88,000	101,000
+Aistriú ar Athluacháil	(68,000)
+Dímheas Cuntais 31/12/2023	-	163,000	163,000
+Luach glan de réir na leabhar 01/01/2023	1,005,000	365,000	1,370,000
+Luach glan de réir na leabhar 31/12/2023	950,000	277,000	1,227,000
+```"
+"3. Cuntais Feirme
+Ar na sócmhainní agus na dliteanais atá ag E. Pleimeann a bhfuil gnó beag feirmeoireachta measta ar siúl aige, ar an 01/01/2023, tá:
+talamh agus foirgnimh ar a gcostas €410,000; feithiclí agus innealra ar a gcostas €168,000; leictreachas dlite €250; cógais réamhtíochta €330; luach eallaigh €88,000; luach caorach €35,600; seic bainne dlite €6,900; stoc breosla €370; ús infheistíochta dhá mhí dlite €400.
+
+Baineann dímheas carntha 3 bliana leis na sócmhainní seasta go léir ar an 01/01/2023.
+
+Seo thíos achoimre a tógadh as an leabhair íocaíochtaí seic agus lóisteálacha don bhliain dar críoch 31/12/2023:
+
+|Lóisteálacha|€|Íocaíochtaí Seic|€|
+|---|---|---|---|
+|Iarmhéid 01/01/2023|51,500|Leasachán|35,600|
+|Bainne|100,000|Speansais ghinearálta feirme|21,610|
+|Caoirigh|15,400|Pá uachtarlainne|5,200|
+|Eallach|14,900|Caoirigh|8,900|
+|Uain|8,700|Eallach|11,200|
+|Laonna|10,800|Solas, teas, breosla|46,850|
+|Íocaíocht aonair – caoirigh|6,600|Innealra|15,000|
+|Íocaíocht aonair – eallach|3,385|Deisiúcháin|5,750|
+|Olann|800|Táillí tréidliachta agus cógais|4,120|
+|Ús ó bhanna infheistíochta 2%|1,400|Aisiocaíocht iasachta bainc móide ús 18 mí de réir 5% sa bhliain ar an 31/08/2023||32,250|
+|Scéim comhshaoil AE GLAS|5,600||32,605|
+||219,085|Iarmhéid 31/12/2023||
+||| |219,085|
+
+Tá an t-eolas agus na treoracha seo a leanas le cur san áireamh:
+(i) Ba é luach an bheostoic ar an 31/12/2023 ná:
+
+Eallach €94,000
+Caoirigh €51,000
+
+(ii) Tairgí feirme a d’ósaid Pléimeann le linn na bliana – bainne €550; uaineoil €770.
+(iii) Cuimsítear sna táillí tréidliachta agus cógais seic dárachas sláinte príobháideach de €1,700.
+(iv) Tá speansais ghinearálta feirme, leasachán, táillí tréidliachta agus cógais le cionroinnt 70% ar 'eallach agus bainne' agus 30% ar 'caoirigh'.
+(v) Tá na speansais agus na costais eile go léir le cionroinnt 90% ar an bhfeirm go ginearálta agus 10% ar an teaghlach.
+(vi) Tá dímheas le déanamh ar fheiticlí agus ar innealra ar ráta 10% dá gcostas in aghaidh na bliana agus ar fhoirgnimh ar ráta 2% dá gcostas in aghaidh na bliana. (€200,000 a bhí ar an talamh ar a chostas.)
+(vii) Ar an 31/12/2023 bhí seic bainne €6,950 dlite, bhí €750 dlite do chreidiúnaithe ar leasachán agus b'hiú €450 an stoc breosla.
+
+Iarrtar ort:
+(a) Ráiteas Caipitil Phléimeann ar 01/01/2023 a ullmhú.
+(b) Cuntas anailíse fiontair do ‘eallach agus bainne’ agus ‘caoirigh’ don bhliain dar críoch 31/12/2023 a ullmhú.
+(c) Cuntas ginearálta brabúis agus caillteanais Phléimeann don bhliain dar críoch 31/12/2023 a ullmhú.
+(d) Tá Pléimeann ag smaoineamh ar uasghrádú a dhéanamh ar an bhfeirm agus ag iarraidh treoir a sholáthairt ar chostas €100,000 infheistíochta tar éis deontas. Tá measta aige go ndéanfadh sé sin laghdú 40% ar chostais fuinnimh.
+
+D’iarr Pléimeann ort comhairle a chur air maidir leis na himpleachtaí airgeadais a bhaineadh le granphainéil a shuiteáil. Bunaithe ar na cuntais atá ullmhaithe agat, cén chomhairle a chuirfeá air?
+",
+"Ráiteas Caipitil 01/01/2023
+|Sócmhainní|  |
+|---|---|
+|Talamh agus Foirgnimh|410,000 [1]|
+|Dímheas - Talamh agus Foirgnimh|(12,600) [1]|397,400|
+|Mótarfheithiclí|168,000[1]|
+|Dímheas - Mótarfheithiclí|(50,400)[1]|117,600|
+|Cógais réamhtiochta|330 [1]|
+|Luach an eallaigh|88,000 [1]|
+|Luach na gCaorach|35,600 [1]|
+|Seic an bhainne dlite|6,900 [1]|
+|Stoc breosla|370 [1]|
+|Ioncam infheistíochta dlite|400 [1]|
+|Infheistíochtai|120,000 [2]|
+|Banc|51,500 [1]|
+||818,100|
+|Dliteanais||
+|ESB dlite|250 [1]|
+|Iasacht|30,000 [2]|
+|Ús iasachta dlite|1,250 [2]|31,500|
+|Caipiteal amhail 01/01/2023|786,600 [2]|",
+"3. Cuntais Feirme
+Ar na sócmhainní agus na dliteanais atá ag E. Pleimeann a bhfuil gnó beag feirmeoireachta measta ar siúl aige, ar an 01/01/2023, tá:
+talamh agus foirgnimh ar a gcostas €410,000; feithiclí agus innealra ar a gcostas €168,000; leictreachas dlite €250; cógais réamhtíochta €330; luach eallaigh €88,000; luach caorach €35,600; seic bainne dlite €6,900; stoc breosla €370; ús infheistíochta dhá mhí dlite €400.
+
+Baineann dímheas carntha 3 bliana leis na sócmhainní seasta go léir ar an 01/01/2023.
+
+Seo thíos achoimre a tógadh as an leabhair íocaíochtaí seic agus lóisteálacha don bhliain dar críoch 31/12/2023:
+
+|Lóisteálacha|€|Íocaíochtaí Seic|€|
+|---|---|---|---|
+|Iarmhéid 01/01/2023|51,500|Leasachán|35,600|
+|Bainne|100,000|Speansais ghinearálta feirme|21,610|
+|Caoirigh|15,400|Pá uachtarlainne|5,200|
+|Eallach|14,900|Caoirigh|8,900|
+|Uain|8,700|Eallach|11,200|
+|Laonna|10,800|Solas, teas, breosla|46,850|
+|Íocaíocht aonair – caoirigh|6,600|Innealra|15,000|
+|Íocaíocht aonair – eallach|3,385|Deisiúcháin|5,750|
+|Olann|800|Táillí tréidliachta agus cógais|4,120|
+|Ús ó bhanna infheistíochta 2%|1,400|Aisiocaíocht iasachta bainc móide ús 18 mí de réir 5% sa bhliain ar an 31/08/2023||32,250|
+|Scéim comhshaoil AE GLAS|5,600||32,605|
+||219,085|Iarmhéid 31/12/2023||
+||| |219,085|
+
+Tá an t-eolas agus na treoracha seo a leanas le cur san áireamh:
+(i) Ba é luach an bheostoic ar an 31/12/2023 ná:
+
+Eallach €94,000
+Caoirigh €51,000
+
+(ii) Tairgí feirme a d’ósaid Pléimeann le linn na bliana – bainne €550; uaineoil €770.
+(iii) Cuimsítear sna táillí tréidliachta agus cógais seic dárachas sláinte príobháideach de €1,700.
+(iv) Tá speansais ghinearálta feirme, leasachán, táillí tréidliachta agus cógais le cionroinnt 70% ar 'eallach agus bainne' agus 30% ar 'caoirigh'.
+(v) Tá na speansais agus na costais eile go léir le cionroinnt 90% ar an bhfeirm go ginearálta agus 10% ar an teaghlach.
+(vi) Tá dímheas le déanamh ar fheiticlí agus ar innealra ar ráta 10% dá gcostas in aghaidh na bliana agus ar fhoirgnimh ar ráta 2% dá gcostas in aghaidh na bliana. (€200,000 a bhí ar an talamh ar a chostas.)
+(vii) Ar an 31/12/2023 bhí seic bainne €6,950 dlite, bhí €750 dlite do chreidiúnaithe ar leasachán agus b'hiú €450 an stoc breosla.
+
+Iarrtar ort:
+(a) Ráiteas Caipitil Phléimeann ar 01/01/2023 a ullmhú.
+(b) Cuntas anailíse fiontair do ‘eallach agus bainne’ agus ‘caoirigh’ don bhliain dar críoch 31/12/2023 a ullmhú.
+(c) Cuntas ginearálta brabúis agus caillteanais Phléimeann don bhliain dar críoch 31/12/2023 a ullmhú.
+(d) Tá Pléimeann ag smaoineamh ar uasghrádú a dhéanamh ar an bhfeirm agus ag iarraidh treoir a sholáthairt ar chostas €100,000 infheistíochta tar éis deontas. Tá measta aige go ndéanfadh sé sin laghdú 40% ar chostais fuinnimh.
+
+D’iarr Pléimeann ort comhairle a chur air maidir leis na himpleachtaí airgeadais a bhaineadh le granphainéil a shuiteáil. Bunaithe ar na cuntais atá ullmhaithe agat, cén chomhairle a chuirfeá air?
+",
+"Cuntas Anailíse Fiontair - Eallach agus Bainne
+|Ioncam||
+|---|---|
+|Bainne|100,050 [1]|
+|Eallaigh agus Laonna|25,700 [1]|
+|Tarraingtí|550 [1]|
+|Méadú ar luach an eallaigh|6,000 [1]|
+|Íocaíocht aonair – eallach|3,385 [1]|
+||135,685|
+|Caiteachas||
+|Pá Uachtarlainne|5,200 [1]|
+|Leasachán|25,445 [1]|
+|Speansais ghinearálta Feirme|15,127 [1]|
+|Eallach|11,200 [1]|
+|Táillí tréidlia agus cógais|1,923 [2]|58,897|
+|Brabús Comhlán - Eallach agus Bainne|76,788|",
+"3. Cuntais Feirme
+Ar na sócmhainní agus na dliteanais atá ag E. Pleimeann a bhfuil gnó beag feirmeoireachta measta ar siúl aige, ar an 01/01/2023, tá:
+talamh agus foirgnimh ar a gcostas €410,000; feithiclí agus innealra ar a gcostas €168,000; leictreachas dlite €250; cógais réamhtíochta €330; luach eallaigh €88,000; luach caorach €35,600; seic bainne dlite €6,900; stoc breosla €370; ús infheistíochta dhá mhí dlite €400.
+
+Baineann dímheas carntha 3 bliana leis na sócmhainní seasta go léir ar an 01/01/2023.
+
+Seo thíos achoimre a tógadh as an leabhair íocaíochtaí seic agus lóisteálacha don bhliain dar críoch 31/12/2023:
+
+|Lóisteálacha|€|Íocaíochtaí Seic|€|
+|---|---|---|---|
+|Iarmhéid 01/01/2023|51,500|Leasachán|35,600|
+|Bainne|100,000|Speansais ghinearálta feirme|21,610|
+|Caoirigh|15,400|Pá uachtarlainne|5,200|
+|Eallach|14,900|Caoirigh|8,900|
+|Uain|8,700|Eallach|11,200|
+|Laonna|10,800|Solas, teas, breosla|46,850|
+|Íocaíocht aonair – caoirigh|6,600|Innealra|15,000|
+|Íocaíocht aonair – eallach|3,385|Deisiúcháin|5,750|
+|Olann|800|Táillí tréidliachta agus cógais|4,120|
+|Ús ó bhanna infheistíochta 2%|1,400|Aisiocaíocht iasachta bainc móide ús 18 mí de réir 5% sa bhliain ar an 31/08/2023||32,250|
+|Scéim comhshaoil AE GLAS|5,600||32,605|
+||219,085|Iarmhéid 31/12/2023||
+||| |219,085|
+
+Tá an t-eolas agus na treoracha seo a leanas le cur san áireamh:
+(i) Ba é luach an bheostoic ar an 31/12/2023 ná:
+
+Eallach €94,000
+Caoirigh €51,000
+
+(ii) Tairgí feirme a d’ósaid Pléimeann le linn na bliana – bainne €550; uaineoil €770.
+(iii) Cuimsítear sna táillí tréidliachta agus cógais seic dárachas sláinte príobháideach de €1,700.
+(iv) Tá speansais ghinearálta feirme, leasachán, táillí tréidliachta agus cógais le cionroinnt 70% ar 'eallach agus bainne' agus 30% ar 'caoirigh'.
+(v) Tá na speansais agus na costais eile go léir le cionroinnt 90% ar an bhfeirm go ginearálta agus 10% ar an teaghlach.
+(vi) Tá dímheas le déanamh ar fheiticlí agus ar innealra ar ráta 10% dá gcostas in aghaidh na bliana agus ar fhoirgnimh ar ráta 2% dá gcostas in aghaidh na bliana. (€200,000 a bhí ar an talamh ar a chostas.)
+(vii) Ar an 31/12/2023 bhí seic bainne €6,950 dlite, bhí €750 dlite do chreidiúnaithe ar leasachán agus b'hiú €450 an stoc breosla.
+
+Iarrtar ort:
+(a) Ráiteas Caipitil Phléimeann ar 01/01/2023 a ullmhú.
+(b) Cuntas anailíse fiontair do ‘eallach agus bainne’ agus ‘caoirigh’ don bhliain dar críoch 31/12/2023 a ullmhú.
+(c) Cuntas ginearálta brabúis agus caillteanais Phléimeann don bhliain dar críoch 31/12/2023 a ullmhú.
+(d) Tá Pléimeann ag smaoineamh ar uasghrádú a dhéanamh ar an bhfeirm agus ag iarraidh treoir a sholáthairt ar chostas €100,000 infheistíochta tar éis deontas. Tá measta aige go ndéanfadh sé sin laghdú 40% ar chostais fuinnimh.
+
+D’iarr Pléimeann ort comhairle a chur air maidir leis na himpleachtaí airgeadais a bhaineadh le granphainéil a shuiteáil. Bunaithe ar na cuntais atá ullmhaithe agat, cén chomhairle a chuirfeá air?
+",
+"Cuntas Anailíse Fiontair - Caoirigh
+|Ioncam||
+|---|---|
+|Caoirigh agus Uain|24,100 [1]|
+|Íocaíocht aonair – caoirigh|6,600 [1]|
+|Olann|800 [1]|
+|Tarraingtí|770 [1]|
+|Méadú ar luach na gcaorach|15,400 [1]|
+||47,670|
+|Caiteachas||
+|Leasachán|10,905 [1]|
+|Speansais ghinearálta Feirme|6,483 [1]|
+|Caoirigh|8,900 [1]|
+|Táillí tréidlia agus cógais|825 [1]|27,113|
+|Brabús ar Chaoirigh|20,557|",
+"3. Cuntais Feirme
+Ar na sócmhainní agus na dliteanais atá ag E. Pleimeann a bhfuil gnó beag feirmeoireachta measta ar siúl aige, ar an 01/01/2023, tá:
+talamh agus foirgnimh ar a gcostas €410,000; feithiclí agus innealra ar a gcostas €168,000; leictreachas dlite €250; cógais réamhtíochta €330; luach eallaigh €88,000; luach caorach €35,600; seic bainne dlite €6,900; stoc breosla €370; ús infheistíochta dhá mhí dlite €400.
+
+Baineann dímheas carntha 3 bliana leis na sócmhainní seasta go léir ar an 01/01/2023.
+
+Seo thíos achoimre a tógadh as an leabhair íocaíochtaí seic agus lóisteálacha don bhliain dar críoch 31/12/2023:
+
+|Lóisteálacha|€|Íocaíochtaí Seic|€|
+|---|---|---|---|
+|Iarmhéid 01/01/2023|51,500|Leasachán|35,600|
+|Bainne|100,000|Speansais ghinearálta feirme|21,610|
+|Caoirigh|15,400|Pá uachtarlainne|5,200|
+|Eallach|14,900|Caoirigh|8,900|
+|Uain|8,700|Eallach|11,200|
+|Laonna|10,800|Solas, teas, breosla|46,850|
+|Íocaíocht aonair – caoirigh|6,600|Innealra|15,000|
+|Íocaíocht aonair – eallach|3,385|Deisiúcháin|5,750|
+|Olann|800|Táillí tréidliachta agus cógais|4,120|
+|Ús ó bhanna infheistíochta 2%|1,400|Aisiocaíocht iasachta bainc móide ús 18 mí de réir 5% sa bhliain ar an 31/08/2023||32,250|
+|Scéim comhshaoil AE GLAS|5,600||32,605|
+||219,085|Iarmhéid 31/12/2023||
+||| |219,085|
+
+Tá an t-eolas agus na treoracha seo a leanas le cur san áireamh:
+(i) Ba é luach an bheostoic ar an 31/12/2023 ná:
+
+Eallach €94,000
+Caoirigh €51,000
+
+(ii) Tairgí feirme a d’ósaid Pléimeann le linn na bliana – bainne €550; uaineoil €770.
+(iii) Cuimsítear sna táillí tréidliachta agus cógais seic dárachas sláinte príobháideach de €1,700.
+(iv) Tá speansais ghinearálta feirme, leasachán, táillí tréidliachta agus cógais le cionroinnt 70% ar 'eallach agus bainne' agus 30% ar 'caoirigh'.
+(v) Tá na speansais agus na costais eile go léir le cionroinnt 90% ar an bhfeirm go ginearálta agus 10% ar an teaghlach.
+(vi) Tá dímheas le déanamh ar fheiticlí agus ar innealra ar ráta 10% dá gcostas in aghaidh na bliana agus ar fhoirgnimh ar ráta 2% dá gcostas in aghaidh na bliana. (€200,000 a bhí ar an talamh ar a chostas.)
+(vii) Ar an 31/12/2023 bhí seic bainne €6,950 dlite, bhí €750 dlite do chreidiúnaithe ar leasachán agus b'hiú €450 an stoc breosla.
+
+Iarrtar ort:
+(a) Ráiteas Caipitil Phléimeann ar 01/01/2023 a ullmhú.
+(b) Cuntas anailíse fiontair do ‘eallach agus bainne’ agus ‘caoirigh’ don bhliain dar críoch 31/12/2023 a ullmhú.
+(c) Cuntas ginearálta brabúis agus caillteanais Phléimeann don bhliain dar críoch 31/12/2023 a ullmhú.
+(d) Tá Pléimeann ag smaoineamh ar uasghrádú a dhéanamh ar an bhfeirm agus ag iarraidh treoir a sholáthairt ar chostas €100,000 infheistíochta tar éis deontas. Tá measta aige go ndéanfadh sé sin laghdú 40% ar chostais fuinnimh.
+
+D’iarr Pléimeann ort comhairle a chur air maidir leis na himpleachtaí airgeadais a bhaineadh le granphainéil a shuiteáil. Bunaithe ar na cuntais atá ullmhaithe agat, cén chomhairle a chuirfeá air?
+",
+"Cuntas Ginearálta Brabúis agus Caillteanais don bhliain dar críoch 31/12/23
+|Brabús Comhlán - Eallach|76,788|
+|Brabús Comhlán - Caoirigh|20,557|
+|Ús Infheistíochta|2,400 [1]|
+|Scéim Glas an AE|5,600 [1]|
+||105,345|
+|Luide Speansais||
+|Solas, Teas agus Breosla|41,868 [4]|
+|Deisiúcháin|5,175 [1]|
+|Dímheas - Innealra|16,470 [1]|
+|Dímheas - Foirgnimh|3,780 [1]|
+|Ús|900 [1]|68,193|
+|Glanbhrabús|37,152 [2]|",
+"Dímheas ar Shócmhainní Seasta
+Ullmhaíon Trucaill Cobra Teo. a gcuntais deiridh go dtí 31 Nollaig gach bliain. Is é polasaí na cuideachta a gcuid trucailí a dhímheas de réir méid cothrom thar 5 bliana.
+Meastar an dramhluach ag 10% de chostas tosaigh trucaille.
+Gearrtar dímheas ón dáta ceannaigh go dtí an dáta díúscartha.
+
+Ar an 01/01/2022 bhí na trucailí seo a leanas ag Trucaill Cobra Teo.:
+
+Trucaill Uimh. 1 a ceannaíodh ar an 01/05/2018 ar €55,000.
+Trucaill Uimh. 2 a ceannaíodh ar an 01/04/2019 ar €68,000.
+Trucaill Uimh. 3 a ceannaíodh ar an 01/06/2021 ar €72,000.
+
+Ar an 01/09/2022, trádáladh trucaill uimh.1 isteach ar €20,000 in aghaidh trucail eile a chosain €82,000. Feistíodh aonad cuisnithe i dtrucaill uimh.1 ar an 01/09/2019. Bhí costas €22,000 ar an aonad cuisnithe agus costas €2,000 eile ar an bhfeistiú.
+Nóta: Déantar aonad cuisnithe a dhímheas ar ráta 20% dá gcostas don chéad dá bhliain agus ar ráta 10% dá gcostas gach bliain ina dhiaidh sin go dtí go mbeidh sé díscríofa go hiomlán.
+
+Ar an 1/04/2023, tuairteáladh trucaill uimh.3 agus trádáladh isteach í in aghaidh trucail nua a chosain €88,000. Fuair an chuideachta cúiteamh ón gcuideachta árachais dar luach €26,000 agus íocadh seic €65,000 ar an bhfeithicil nua.
+
+larrtar ort iad seo thíos, mar aon leis an oibriú amach, a thaispeáint do gach ceann den dá bhliain 2022 agus 2023:
+
+(a) Cuntas na dTrucailí.
+(b) An Cuntas Soláthair in aghaidh Dímheasa.
+(c) An Cuntas Diúscartha Trucailí.
+(d) (i) Cén fáth a ngearrann cuideachta dímheas agus brabúis á ríomh aici?
+(ii) Mínigh an téarma 'saolré eacnamaíoch fhónta' mar a bhaineann le sócmhainní seasta.","```
+(a)
+Ceist 4 Dímheas ar Shócmhainní Seasta
+Cuntas na dTrucailí 6
+01/01/2022 larmhéid t/a [1] 219,000 01/09/2022 Diúscairt [1] 79,000
+01/09/2022 Banc [1] 82,000 31/12/2022 larmhéid t/s [1] 222,000
+301,000 301,000
+01/01/2023 larmhéid t/a 222,000 01/04/2023 Diúscairt [1] 72,000
+01/04/2023 Banc [1] 88,000 31/12/2023 larmhéid t/s 238,000
+310,000 310,000
+01/01/2024 larmhéid t/a 238,000
+
+(b) 32
+An Cuntas Soláthair in aghaidh Dímheasa
+01/09/2022 Diúscairt [4] 54,900 01/01/2022 larmhéid t/a [6] 87,920
+31/12/2022 larmhéid t/s 71,340 31/12/2022 Brabús & Caillteanas [8] 38,320
+126,240 126,240
+01/04/2023 Diúscairt [4] 23,760 01/01/2023 larmhéid t/a 71,340
+31/12/2023 larmhéid t/s [3] 89,700 31/12/2023 Brabús & Caillteanas [7] 42,120
+113,460 113,460
+01/01/2024 larmhéid t/a 89,700
+
+(c) 14
+Diúscairt Chuntas na dTrucailí
+01/09/2022 Costas [1] 79,000 01/09/2022 Trádáil Isteach [2] 20,000
+Soláthar in aghaidh Dímheasa [2] 54,900
+-
+31/12/2022 Brabús & Caillteanas [1] 4,100
+79,000 79,000
+01/04/2023 Costas [1] 72,000 01/04/2023 Trádáil Isteach [2] 23,000
+31/12/2023 Brabús & Caillteanas [1] 760 Cúiteamh [2] 26,000
+- Soláthar in aghaidh Dímheasa [2] 23,760
+72,760 72,760
+```"
+"Dímheas ar Shócmhainní Seasta
+Ullmhaíon Trucaill Cobra Teo. a gcuntais deiridh go dtí 31 Nollaig gach bliain. Is é polasaí na cuideachta a gcuid trucailí a dhímheas de réir méid cothrom thar 5 bliana.
+Meastar an dramhluach ag 10% de chostas tosaigh trucaille.
+Gearrtar dímheas ón dáta ceannaigh go dtí an dáta díúscartha.
+
+Ar an 01/01/2022 bhí na trucailí seo a leanas ag Trucaill Cobra Teo.:
+
+Trucaill Uimh. 1 a ceannaíodh ar an 01/05/2018 ar €55,000.
+Trucaill Uimh. 2 a ceannaíodh ar an 01/04/2019 ar €68,000.
+Trucaill Uimh. 3 a ceannaíodh ar an 01/06/2021 ar €72,000.
+
+Ar an 01/09/2022, trádáladh trucaill uimh.1 isteach ar €20,000 in aghaidh trucail eile a chosain €82,000. Feistíodh aonad cuisnithe i dtrucaill uimh.1 ar an 01/09/2019. Bhí costas €22,000 ar an aonad cuisnithe agus costas €2,000 eile ar an bhfeistiú.
+Nóta: Déantar aonad cuisnithe a dhímheas ar ráta 20% dá gcostas don chéad dá bhliain agus ar ráta 10% dá gcostas gach bliain ina dhiaidh sin go dtí go mbeidh sé díscríofa go hiomlán.
+
+Ar an 1/04/2023, tuairteáladh trucaill uimh.3 agus trádáladh isteach í in aghaidh trucail nua a chosain €88,000. Fuair an chuideachta cúiteamh ón gcuideachta árachais dar luach €26,000 agus íocadh seic €65,000 ar an bhfeithicil nua.
+
+larrtar ort iad seo thíos, mar aon leis an oibriú amach, a thaispeáint do gach ceann den dá bhliain 2022 agus 2023:
+
+(d) (i) Cén fáth a ngearrann cuideachta dímheas agus brabúis á ríomh aici?","```
+(d) 8
+(i)
+Gearrtar dímheas chun costas/luach sócmhainní seasta a dhíscríobh thar a saolré fhiúntach. Is
+speansas é dímheas sa Chuntas Brabúis agus Caillteanais. Mura gcuirtear dímheas sna cuntais
+deiridh d’fhéadfai áibhéil a dhéanamh faoin mbrabús agus d’fhéadfai áibhéil a dhéanamh faoin
+nglanfhiúchas. Ní thaispeánfadh an ráitis airgeadais léargas fíor agus cothrom ar an ngnólacht.
+```"
+"Dímheas ar Shócmhainní Seasta
+Ullmhaíon Trucaill Cobra Teo. a gcuntais deiridh go dtí 31 Nollaig gach bliain. Is é polasaí na cuideachta a gcuid trucailí a dhímheas de réir méid cothrom thar 5 bliana.
+Meastar an dramhluach ag 10% de chostas tosaigh trucaille.
+Gearrtar dímheas ón dáta ceannaigh go dtí an dáta díúscartha.
+
+Ar an 01/01/2022 bhí na trucailí seo a leanas ag Trucaill Cobra Teo.:
+
+Trucaill Uimh. 1 a ceannaíodh ar an 01/05/2018 ar €55,000.
+Trucaill Uimh. 2 a ceannaíodh ar an 01/04/2019 ar €68,000.
+Trucaill Uimh. 3 a ceannaíodh ar an 01/06/2021 ar €72,000.
+
+Ar an 01/09/2022, trádáladh trucaill uimh.1 isteach ar €20,000 in aghaidh trucail eile a chosain €82,000. Feistíodh aonad cuisnithe i dtrucaill uimh.1 ar an 01/09/2019. Bhí costas €22,000 ar an aonad cuisnithe agus costas €2,000 eile ar an bhfeistiú.
+Nóta: Déantar aonad cuisnithe a dhímheas ar ráta 20% dá gcostas don chéad dá bhliain agus ar ráta 10% dá gcostas gach bliain ina dhiaidh sin go dtí go mbeidh sé díscríofa go hiomlán.
+
+Ar an 1/04/2023, tuairteáladh trucaill uimh.3 agus trádáladh isteach í in aghaidh trucail nua a chosain €88,000. Fuair an chuideachta cúiteamh ón gcuideachta árachais dar luach €26,000 agus íocadh seic €65,000 ar an bhfeithicil nua.
+
+larrtar ort iad seo thíos, mar aon leis an oibriú amach, a thaispeáint do gach ceann den dá bhliain 2022 agus 2023:
+(d) (ii) Mínigh an téarma 'saolré eacnamaíoch fhónta' mar a bhaineann le sócmhainní seasta.","```
+(d) 60 marc
+(ii)
+Is éard is saolré eacnamaíoch fhiúntach ann ná an tréimhse ama a bhfuitear/úsáidear an tsúil leis go
+bhfanfaidh sócmhainn sheasta tairbheach/úsáideach don ghnólacht. Is éard atá ann go bunúsach
+ná cé chomh fada agus a bhfuil ag súil go gcuirfidh an tsócmhainn sheasta le giniúint ioncaim sula
+n-úsáidfidh sí de féin/imíonn sé as/nó nach bhfuil sé cost-éifeachtach í a úsáid a thuilleadh. Ní mór a dhéantar
+dímheas ar shócmhainn go dtí nach bhfuil a luach díscríofa don ghnólacht a thuiscint, deirimid, go
+bhfuil sí imithe thar a saolré eacnamaíoch. Mar shampla, ceannaíonn gnólacht Mótarfheithicil ar
+féidir í a úsáid ar feadh 5 bliana ach ní bheidh aon luach dramhbhairr airithe ag deireadh na 5 bliana.
+Déanfaidh an chuideachta í a dhímheas faoi 20% in aghaidh na bliana thar tréimhse 5 bliana.
+```"
+"Léirmhíniú Cuntas
+Based on the information provided, explain what each of the following ratios indicates in relation to Ó Ceallaigh cpt.
+(i) An stoc deiridh más é 10 ráta láimhdeachais a dhéanamh ar stoic, bunaithe ar an meánstoc.","Is é 605,500 x 2 = 121,000
+$\frac{605,000}{10}$
+121,000 - 65,000 = 56,000"
+"Léirmhíniú Cuntas
+Based on the information provided, explain what each of the following ratios indicates in relation to Ó Ceallaigh cpt.
+(ii) An toradh ar chaipiteal in úsáid","Toradh ar an gCaipiteal arna Úsáid = $\frac{Brabús Oibriúcháin}{Caipiteal in Úsáid}$ x 100
+$\frac{110,000 + 12,000}{705,000}$ x 100 = 17.3%"
+"Léirmhíniú Cuntas
+Based on the information provided, explain what each of the following ratios indicates in relation to Ó Ceallaigh cpt.
+(iii) An cóimheas idir praghas agus tuilleamh","Cóimheas Praghas/Tuilleadh = $\frac{Praghas an Mhargaidh}{EPS}$
+$\frac{125c}{27.1c}$ = 4.61 bliain
+EPS = $\frac{110,000 - 1,600}{400,000}$ = 27.1c"
+"Léirmhíniú Cuntas
+Based on the information provided, explain what each of the following ratios indicates in relation to Ó Ceallaigh cpt.
+(iv) Giaráil.","Giaráil = $\frac{Fiachas Úis Sheasta}{Caipiteal in Úsáid}$ x 100
+$\frac{190,000}{705,000}$ x 100 = 26.95%"
+"Léirmhíniú Cuntas
+Based on the information provided, explain what each of the following ratios indicates in relation to Ó Ceallaigh cpt.
+(v) Toradh Dibhínne","Toradh Dibhínne = $\frac{DPS}{MP}$ x 100
+$\frac{4.6c}{125c}$ x 100 = 3.68%
+DPS = $\frac{20,000 - 1,600}{400,000}$ = 4.6cent"
+"Comhairle a chur ar an mbainisteoir ó bainc cé acu ba chóir nó nár chóir iasacht €200,000, ar a ngearrfar ráta 9%, a thabhairt do Ó Ceallaigh cpt.
+Iasacht is ea í chun uasghrádú ar threalamh déantúsaíochta a mhaoiniú.
+Úsáid cóimheasa agus céatadáin ábhartha chomh maith le heolas eile chun tacú le do fhreagra.","(B) Dhéanfadh an bainisteoir an Banc anailís ar an bhfeidhmíocht, ar an staid ghnóthaí agus ar ionchais na cuideachta faoi na ceannteidil seo a leanas:
+Cuspóir[2]
+Bheadh an bainisteoir bainc ag iarraidh an chúis atá leis an iasacht a fháil amach atá faoi choinne an trealamh déantúsaíochta a uasghrádú. Is cosúil gur cúis mhaith í sin chun an iasacht a dheonú toisc go bhfeabhsófar éifeachtúlacht an ghnólachta, beidh costais níos ísle in aghaidh an aonaid agus méadófar brabúsacht fhadtéarmach.
+
+Feidhmíocht
+Brabúsacht [7]
+*   Is cuideachta bhrabúsach í Ó Ceallaigh cpt.
+*   Is é 17.3% an toradh ar chaipiteal a tuairiscíodh in 2023.
+*   Tá feabhas tagtha ar bhrabúsacht i gcomparáid le 2022 nuair b'ionann an toradh agus 15%.
+*   Tá sé sin i bhfad níos airde ná an toradh is infheistíochtaí saor ó riosca de 0.25% - 3.75% agus costais na hiasachta de 8%, an 9% ar an iasacht nua.
+*   Léiríonn sé sin úsáid éifeachtach a cuid acmhainní i mbliana.
+*   Tá méadú tagtha ar an tuilleamh in aghaidh na scaire ó 15 cent in 2022 go 27.1 cent in 2023.
+*   Is treocht dhearfach é sin agus shásódh sé bainisteoir an bainc.
+
+Beartas Dibhínne [4]
+*   In 2023 is é 5.89 uair an clúdach dibhinne. (loctar 16.98% de na brabúis leis na gnáthscairealbóirí).
+*   In 2022 is é 2.5 uair an clúdach dibhinne. (loctar 40% de na brabúis leis na gnáth-scairealbóirí). Is treocht dhearfach é sin.
+*   Bheadh bainisteoir an Bhainc sásta go bhfuil Ó Ceallaigh Teo. ag coinneáil brabúis chun leanúint agus le haghaidh aisíocaíochtaí amach anseo ar iasachtaí agus úis.
+
+Staid Ghnóthaí
+
+Leachtacht [5]
+*   Is é 1.37:1 an cóimheas fiarthála/Mearthála in 2023.
+*   Ciallaíonn sin go bhfuil €1.37 i sócmhainní leachtacha ag an ngnólacht in aghaidh gach €1 d’fiachas gearrthéarmach chun an fiachas sin a chlúdach.
+*   Ba é 1.20:1 an Cóimheas Fiorthála in 2022. Is treocht í sin atá ag feabhsú agus tá an chuideachta leachtach.
+*   Tá an cóimheas os cionn an cóimheasa idéalaigh 1:1
+*   Níor cheart go mbeadh aon fhadhb ann maidir le haisíocaíochtaí úis.
+
+Giaráil
+*   Is é 26.95% an cóimheas giarála in 2023 (Fiachas/Caipiteal in Úsáid)/36.89% (Fiachas/Cothromas)
+*   Tá an chuideachta giaráilte go híseal mar go bhfuil sé sin faoi bhun 50%/100% (Fiachas/Cothromas).
+*   Ciallaíonn sin go bhfuil sí a mhaoiniú níos mó le cothromas mar a tá sí le fiachas agus nach bhfuil sí ag brath ar infheisteoirí seachtracha.
+*   Ba é 15% an giaráil in 2022, tá an treocht ag dul in olcas. Tá Goodwin cpt ag brath níos mó ar fhiachas ach tá an chuideachta fós giaráilte go han-íseal.
+*   Dé mheasúnú ar iasacht nua mhéadóidh an giaráil go 43.1% (Fiachas/Caipiteal in Úsáid) nó 75.73% (Fiachas/Cothromas). Bheadh an chuideachta fós giaráilte go híseal mar sin nill ann aon chúis imní ann.
+*   Is é an clúdach úis in 2023 ná 10.17 uair.
+*   Léiríonn sé seo go bhfuil dóthain brabúis ag an gcuideachta chun íocaíochtaí úis a íoc.
+*   Ba 5 huaire an clúdach úis in 2022, mar sin is treocht í atá ag feabhsú.
+*   Leis an iasacht nua, thiocfadh laghdú ar an gclúdach úis go dtí 4.06 uair, clúdach atá fós an-fhonta óga léireodh sé go mbeadh na híoicaíochtaí úis ar an iasacht nua clúdaithe go leordhóthanach ó bhrabúis.
+
+Slándáil [3]
+*   €150,000 atá sna bintiúir, agus tá siad uirraithe agus le haisíoc in 2027.
+*   Tá na sócmhainní seasta inláimhsithe luacháilte ag €480,000/€630,000/€730,000.
+*   Tá dóthain urrúis ann chun an bintiúr a reatha a chlúdach, ach ba mhaith le bainisteoir an bhainc polasai dímeas a ghnólachta a cheistiú chun fiúrluach ar na sócmhainní seasta a fháil amach.
+*   D’fhéadfai na Sócmhainní Seasta Inláimhsithe atá ann cheana, má tá siad luacháilte i gceart, a úsáid freisin mar urrús don iasacht nua (480,000 – 150,000 = 330,000) agus le d’fhéadfaí urrús leordhóthanach) ar fáil, clúdaítear an iasacht nua de €200,000 go leordhóthanach.
+*   Tá infheistíochtaí ag Ó Ceallaigh cpt freisin a chosain €100,000 agus ar fiú €120,000 anois iad. Thabharfadh sé sin leis go bhfuil cinnte maife infheistíochta déanta ag an lucht bainistíochta.
+
+Ionchais
+
+Earnáil [5]
+*   Feidhmíonn an chuideachta san earnáil fuinnimh in-athnuaite. Tá na hionchais ghearrthéarmacha go maith toisc go bhfuil an tionscal fuinnimh in-athnuaite ina thionscal atá ag fás de réir mar atá daoine ag cur níos mó suim faoi an gcaomhnú - is féidir le teaghlaigh deontais a fháil chun painéil gréine a shuiteáil agus ní ghearrfar CBL ar shuiteáil na bpainéal sin. Tá na hionchais fhadtéarmacha spreagúla toisc go bhfuil daoine ag iarraidh bogadh ar shiúl ó bheith ag brath ar bhreoslaí iontaise agus go bhfuil fuinneamh níos airde mar gheall ar dhálaí eacnamaíocha luaineacha.
+
+Conclúidí: [1]
+*   Ba cheart do bainisteoir an Bhainc an iasacht a dheonú toisc go bhfuil an chuideachta brabúsach, leachtach agus go bhfuil sí giaráilte go híseal."
+"Tá sé sé scraithe aig cara leat €20,000 a infheistiú i scaireanna in Ó Ceallaigh cpt agus d’iarr do chara comhairle ort. Tá sé de rogha aige/aici
+- gnáthscaireanna a cheannach ar luach an mhargaidh (€1.25) nó
+- scaireanna tosaíochta 4% a cheannach ar a luach ainmniúil €1 an ceann.
+Déan idirdhealú idir gnáthscaireanna agus scaireanna tosaíochta.","Tá ráta na Dibhínní socraithe do scaireanna Tosaíochta. Níl aon ráta seasta dibhinne ann do ghnáthscaireanna.
+Níl aon cearta vótála ag scairshealbhóirí tosaíochta maidir le cinntí ríthábhachtacha a dhéanamh a bhaineann leis an gcuideachta. Tá cearta vótála ag gnáth-scairshealbhóirí.
+Tugtar tús áite do scairshealbhóirí tosaíochta maidir le dibhinne a íoc. Ioctar dibhinn le Gnáth-scairshealbhóirí má tá dóthain brabúis ag an gcuideachta chun an íocaíocht a chlúdach."
+"Dá gceannófaí Gnáthscaireanna dar luach €20,000 in Ó Ceallaigh cpt, thabharfaí 16,000 gnathscair don infheisteoir sa chuideachta. Ar an DPS reatha gheobhadh an t-infheisteoir €736/3.68% de dibhinn. Gheobhadh sé €960 anuraidh. D’fhéadfadh sé sin méadú nó laghdú in aon bhliain eile. D’fhéadfadh luach na scaire méadú nó laghdú freisin.
+Dá gceannófai luach €20,000 de scaireanna Tosaíochta thabharfaí dibhinn ráthaithe de €800/4%. Mar sin féin níl aon cheart ag an infheisteoir maidir le conas a reáchtáiltear an chuideachta.
+Molfaíonn do chara na scaireanna tosaíochta a cheannach más mian leo toradh ráthaithe a fháil ar a gcuid airgid ach má tá siad sásta dul san fhiontar, d’fhéadfadh siad toradh níos fearr a fháil ar a n-infheistíocht má cheannaíonn siad gnáthscaireanna.","Dá gceannófai Gnáthscaireanna dar luach €20,000 in Ó Ceallaigh cpt, thabharfaí 16,000 gnathscair don infheisteoir sa chuideachta. Ar an DPS reatha gheobhadh an t-infheisteoir €736/3.68% de dibhinn. Gheobhadh sé €960 anuraidh. D’fhéadfadh sé sin méadú nó laghdú in aon bhliain eile. D’fhéadfadh luach na scaire méadú nó laghdú freisin.
+Dá gceannófai luach €20,000 de scaireanna Tosaíochta thabharfaí dibhinn ráthaithe de €800/4%. Mar sin féin níl aon cheart ag an infheisteoir maidir le conas a reáchtáiltear an chuideachta.
+Molfaíonn do chara na scaireanna tosaíochta a cheannach más mian leo toradh ráthaithe a fháil ar a gcuid airgid ach má tá siad sásta dul san fhiontar, d’fhéadfadh siad toradh níos fearr a fháil ar a n-infheistíocht má cheannaíonn siad gnáthscaireanna."
+"Ráiteas faoi Shreabhadh Airgid
+Is iad seo a leanas na cláir chomhardaithe ag Simpson cpt mar a bhí ar 31/12/2023 agus 31/12/2022:
+Cuntas brabúis agus caillteanais giorraithe a ullmhú chun an brabús oibriúcháin don bhliain dar críoch 31/12/2023 a fháil.","```
+Cuntas Brabúis & Caillteanais Giorraithe don bhliain dar críoch 31/12/2023
+                                                                              20
+Brabús Oibriúcháin
+Ioncam Infheistíochta
+Ús bintiúir
+Brabús roimh cháin
+Táisce
+Brabúis i ndiaidh cánach
+Lúide díbhinn lochta
+Tuilleamh coimeádta
+Iarmhéid Brabúis agus Caillteanais 01/01/2023
+Iarmhéid Brabúis agus Caillteanais 31/12/2023
+                                         
+92,000 [2]
+1,050 [3]
+93,050
+(9,200) [3]
+83,850
+(45,000) [3]
+38,850
+(25,000) [3]
+13,850
+74,550 [3]
+88,400 [3]
+```"
+"Ráiteas faoi Shreabhadh Airgid
+Is iad seo a leanas na cláir chomhardaithe ag Simpson cpt mar a bhí ar 31/12/2023 agus 31/12/2022:
+Ráiteas ar shreabhadh airgid Simpson cpt a ullmhú don bhliain dar críoch 31/12/2023, ráitis imréitigh san áireamh.","```
+An brabús oibriúcháin a réiteach leis an nglansreabhadh airgid isteach ó ghníomhaíochtaí
+oibriúcháin                                                                            19
+Brabús Oibriúcháin
+Suimigh Dímheas
+Caillteanas ar Dhíolachán Sócmhainne Seasta
+Paitinní díscríofa
+Méadú ar stoc
+Méadú ar Fhéichiúnaithe
+Méadú ar Soláthar in aghaidh Drochfhéich
+Méadú ar Chreidiúnaithe
+Airgead Glan Isteach ó Ghníomhaíochtaí Oibriúcháin
+                                         
+92,000 [2]
+48,000 [3]
+500 [2]
+13,000 [2]
+(10,300) [2]
+(2,000) [2]
+50 [2]
+14,000 [2]
+155,260 [2]
+```"
+"Ráiteas faoi Shreabhadh Airgid
+Is iad seo a leanas na cláir chomhardaithe ag Simpson cpt mar a bhí ar 31/12/2023 agus 31/12/2022:
+Breac-chuntas a thabhairt ar conas a bhaineann Simpson cpt tairbhe as ráiteas ar shreabhadh airgid a ullmhú.",N/A (No answer for this part in the marking scheme).
+"Ráiteas faoi Shreabhadh Airgid
+Is iad seo a leanas na cláir chomhardaithe ag Simpson cpt mar a bhí ar 31/12/2023 agus 31/12/2022:
+Nuair a thuilltear brabús, cén fáth i gcónaí a bhíonn ardfhreagrach san iarmhéid airgid. Bain úsáid as figiúirí ón gceist chun tacú le do fhreagra.",N/A (No answer for this part in the marking scheme).
+"Ráiteas faoi Shreabhadh Airgid
+Is iad seo a leanas na cláir chomhardaithe ag Simpson cpt mar a bhí ar 31/12/2023 agus 31/12/2022:
+Ráiteas faoi shreabhadh airgid Simpson cpt don bhliain dar críoch 31/12/2023
+Airgead glan isteach ó ghníomhaíochtaí oibriúcháin
+Toradh ar Infheistíochtaí Faighte as Sheirbhísiú Airgeadais
+Ús Bintiúir lochta
+Cánachas
+Caitteas Caipitil Agus Infheistíochtí Airgeadais
+Fáltais ó dhíolachán Sócmhainní Seasta
+Íocaíochtaí chun Sócmhainní Seasta a fháil
+Díbhinní Cothromais íoctha
+Glan-eis-sreabhadh Airgid roimh shócmhainní Leachtacha agus Maoiniú
+Bainistíocht Acmhainní Leachtacha
+Ceannach urrús Rialtais
+Maoiniú
+Bintiúir a Eisiúint
+Fáltais ó Eisiúint Gnáthscaireanna
+Scairbhiseach
+Méadú ar Airgead","```
+(ii) Ráiteas faoi shreabhadh airgid Simpson cpt don bhliain dar críoch 31/12/2023
+                                                                              46
+Airgead glan isteach ó ghníomhaíochtaí oibriúcháin [1]                              155,260 [2]
+
+Toradh ar Infheistíochtaí Faighte as Sheirbhísiú Airgeadais [1]
+Ioncam Infheistíochta Faighte                              550[4]
+Ús Bintiúir lochta                                                 (7,800)[4] (7250)
+Cánachas[1]
+Cáin lochta                                                                 (43,200) [4]
+
+Caitteas Caipitil Agus Infheistíochtí Airgeadais [1]
+Fáltais ó dhíolachán Sócmhainní Seasta                                       8,500 [2]
+Íocaíochtaí chun Sócmhainní Seasta a fháil                                  (150,000) [5]  (141,500)
+
+Díbhinní Cothromais íoctha[1]                                                         (25,000) [2]
+Glan-eis-sreabhadh Airgid roimh shócmhainní Leachtacha agus Maoiniú                         (61,690) [1]
+
+Bainistíocht Acmhainní Leachtacha [1]
+Ceannach urrús Rialtais                                                                 (8,000) [2]
+Maoiniú [1]
+Bintiúir a Eisiúint                                                                      10,000 [3]
+Fáltais ó Eisiúint Gnáthscaireanna                                                50,000 [3]
+Scairbhiseach                                                                           15,000 [3] 75,000
+
+Méadú ar Airgead                                                                            5,310 [3]
+```"
+"Ráiteas faoi Shreabhadh Airgid
+Is iad seo a leanas na cláir chomhardaithe ag Simpson cpt mar a bhí ar 31/12/2023 agus 31/12/2022:
+An Glanairgead a réiteach leis an athrú ar Glanfhiachas
+Méadú ar Airgead
+Airgead tirim a úsáideadh chun Urrúis Rialtais a Cheannach
+Ceannach Bintiúir
+Athrú ar Glanfhiachas
+Glanfhiachas 1/1/2023
+Glanfhiachas 31/12/2023","```
+An Glanairgead a réiteach leis an athrú ar Glanfhiachas                                5
+€
+Méadú ar Airgead                                                                     5,310 [1]
+Airgead tirim a úsáideadh chun Urrúis Rialtais a Cheannach             8,000 [1]
+Ceannach Bintiúir                                                                 (10,000) [1] (2,000)
+Athrú ar Glanfhiachas                                                                   3,310
+Glanfhiachas 1/1/2023                                                                 (110,630) [1]
+Glanfhiachas 31/12/2023                                                               (107,320) [1]
+```"
+"Ceartú Earráidí agus Cuntas Fionraí
+Níor réitigh comhardú trialach F. de Grae, mórdhíoltóir earraí leictreacha, ar an 31/12/2023.
+Iontráladh an difríocht i gcuntas fionraí agus ullmhaíodh an clár comhardaithe seo a leanas.:
+Clár Comhardaithe mar a bhí ar an 31/12/2023
+
+[Table containing financial data]
+
+Nuair a seiceáladh na leabhair, thángthas ar na hearráidí agus ar na heasnaimh seo a leanas:
+(i)  Fuarthas íocaíocht €900 ó V. Ó. Maolagáin, féichiúnaí, a ndearnadh a fhiach a dhíscríobh roimhe sin agus ar mian leis tráthdáil le de Grae arís. Is ionann seo agus 80% den bhunfhiach agus tá sé geallta ag an bhféichiúnaí go n-íocfaidh sé an chuid eile den fhiach faoi mhí Eanáir 2024. Ní dhearnadh aon iontráil sna leabhair
+(ii)  Díoladh veain seachadta a chosain €20,000 agus dar luach €12,000 de réir na leabhar ar €10,000 in airgead tirim. Iontráladh é sin mar €2,000 ar thaobh an dochair de chuntas na bhféichiúnaithe agus €1,200 ar thaobh an tsochair den chuntas díolacháin. Ní dhearnadh aon iontrála eile sna leabhair
+(iii) Níor taifeadadh sna leabhair fógraíocht dlite €900 ná cíos €1,200 réamhíoctha ag de Grae.
+(iv)  Díol F. de Grae earraí ar cairde le CD Leictreach Teo., ar €4,000 móide CBL @ 23% Ní raibh d’iontrálaíche taifeadta sna cuntais ach gur breacadh an figiúr le CBL san áireamh ar thaobh an tsochair den chuntas trealaimh agus gur breacadh an figiúr gan CBL ar thaobh an dochair de chuntas CD Leictreach Teo.
+(v)  Chuir F. de Grae gléasanna leictreacha a ceannaíodh ar cairde ó sholáthraí ar €8,000 ar ais roimhe seo agus iontráladh an beart seo go hearráideach sna cuntais fhionraíochta chuí mar €2,200. Tháinig nóta sochair ina dhiaidh sin ón soláthraí, áfach, ar a mbíodh bille mhístoileá €200 chun costas an tsochair a chlúdach. Ba é t-aon iontráil a rinneadh maidir leis an nóta sochair seo ná iontráil sochair €7,800 i gcuntas na gcreidiúnaithe.
+
+Iarrtar ort:
+(a)  Na ceartúcháin riachtanacha a iontráil sa leabhar cunta. (50)
+(b)  I gCuntas Fionraí a ullmhú. (10)
+(c)  An clár comhardaithe ceartaithe a ullmhú. (20)",
+"Ceist 7 Earráidí a cheartú.
+(a) Dialann Ghinearálta
+
+[Table containing journal entries, including calculations]
+(b) Cuntas Fionraí
+
+[Table containing entries for Suspense account]
+(c) Ráiteas ar Ghlanbhrabús Ceart
+
+[Table containing calculations for adjusted net profit]
+(d) Clár Comhardaithe mar a bhí ar an 31/12/2023
+
+[Table containing financial data]
+
+TÁ an dá iomlán ceart *.
+",
+[Solutions for journal entries as shown in the table in the extracted image],
+[Solution for Suspense account as shown in the table in the extracted image],
+[Solution for adjusted net profit as shown in the table in the extracted image],
+[Solution for Clár Comhardaithe as shown in the table in the extracted image],
+"Buiséid Sholúbtha agus Costáil Tairgí
+
+Déanann Royston Teo. comhpháirt do thionscal na ríomhaireachta. Tá na buiséid sholúbtha seo a leanas ullmhaithe le haghaidh 50%, 75% agus 95% d’acmhainneacht na monarchan.
+
+| Leibhéil Aschuir | 50% | 75% | 95% |
+|---|---|---|---|
+| Aonaid | 20,000 | 30,000 | 38,000 |
+| Costais | € | € | € |
+| Ábhair dhíreacha | 90,000 | 135,000 | 171,000 |
+| Pá díreach | 300,000 | 450,000 | 570,000 |
+| Forchostais táirgthe | 110,000 | 155,000 | 191,000 |
+| Forchostais eile | 171,000 | 249,000 | 311,400 |
+| Forchostais riaracháin | 80,600 | 80,600 | 80,600 |
+|  | 751,600 | 1,069,600 | 1,324,000 |
+
+Tá an an brabús buiséadaithe le bheith cothrom le 20% de na díolacháin.
+Díoltar gach aonad a tháirgtear.
+
+Larrtar ort:
+(i) Na forchostais táirgthe a roinnt ina n- eilimintí seasta agus athraitheacha.
+(ii) Na forchostais eile a roinnt ina n-eilimintí seasta agus athraitheacha.
+(iii) Buiséad solúbtha a ullmhú do leibhéal gníomhaíochta 85%. Bain úsáid as prionsabail na costála imeallaí agus léirigh an cion tairbhe.
+","(a) Buiséid Sholúbtha
+
+(i) Forchostais Táirgthe Aonaid:
+
+|  | Aonaid | € |
+|---|---|---|
+| Ard | 38,000 | 191,000 |
+| Iseal | 20,000 | 110,000 |
+| Difríocht | 18,000 | 81,000 |
+
+Costas Athraitheach:
+81,000 / 18,000 = €4.50 in aghaidh an aonaid [6]
+
+Costas Seasta:
+@ 38,000 aonad 191,000 – (38,000 x 4.50) = €20,000 [5]
+@20,000 aonad 110,000 – (20,000 x 4.50) = €20,000
+
+(ii) Forchostais Eile Aonaid:
+
+|  | Aonaid | € |
+|---|---|---|
+| Ard | 38,000 | 311,400 |
+| Iseal | 20,000 | 171,000 |
+| Difríocht | 18,000 | 140,400 |
+
+Costas Athraitheach:
+140,400 / 18,000 = €7.80 in aghaidh an aonaid [6]
+
+Costas Seasta:
+@ 38,000 aonad 311,400 – (38,000 x 7.80) = €15,000 [5]
+@20,000 aonad 171,000 – (20,000 x 7.80) = €15,000
+
+(iii) Buiséad Solúbtha ag Leibhéal Gníomhaíochta 85%
+
+|  | € | € |
+|---|---|---|
+| Díolacháin (34,000 aonad) |  | 1,496,000 [1] €44 p.u. |
+| Lúide Costais Athraitheacha: |  |  |
+| Ábhair (34,000 x 4.50) | 153,000 [1] |  |
+| Saothar (34,000 x 15) | 510,000 [1] |  |
+| Forchostais Táirgthe (34,000 x €4.50) | 153,000 [1] |  |
+| Forchostais Eile (34,000 x 7.80) | 265,200 [1] |  |
+|  |  | (1,081,200) €31.80p.u. |
+| Ranníocaíocht |  | 414,800 [3] €12.20p.u. |
+| Lúide Costais Sheasta |  |  |
+| Forchostais Táirgthe | 20,000 [1] |  |
+| Forchostais Eile | 15,000 [1] |  |
+| Riaracháin | 80,600 [1] | (115,600) |
+| Brabús |  | 299,200 [2] |
+
+Obair:
+1,081,200 + 115,600 = 1,196,800= 80%
+1,196,800/ 80 x 100 = 1,496,000"
+"Is stoc miotalóireachta é Tuathaigh Teo, a cheannaíonn sampla a dhíolann aon earra amháin. Baineann an t-eolas seo thíos le ceannacháin agus díolacháin ar ghnólachta don bhliain 2023.
+
+| Tréimhse | Ceannacháin ar Cairde | Díolacháin ar Cairde | Díolacháin ar Airgead |
+|---|---|---|---|
+| 01/01/2023 - 31/03/2023 | 6,500 @ €9 an ceann | 1,900 @ €12 an ceann | 200 @ €11 an ceann |
+| 01/04/2023 - 30/06/2023 | 3,700 @ €9.50 an ceann | 1,700 @ €13 an ceann | 1,900 @ €12 an ceann |
+| 01/07/2023 - 30/09/2023 | 2,600 @ €9.75 an ceann | 2,900 @ €14 an ceann | 2,800 @ €13 an ceann |
+| 01/10/2023 - 31/12/2023 | 1,200 @ €10 an ceann | 700 @ €15 an ceann | 1,600 @ €14 an ceann |
+
+Ar 01/01/2023 bhí stoc tosaigh de 5,000 aonad ann @ €8 an ceann.
+
+Larrtar ort:
+(i) Luach an stoic deiridh ag 31/12/2023 a ríomh agus an modh FIFO á úsáid agat. (Taispeáin do chuid oibre).
+(ii) Cuntas trádála a ullmhú don bhliain dar críoch 31/12/2023.
+(iii) Modh FIFO (FEOI) do luacháil stoic a mhíniú agus modh amháin eile chun stoc a luacháil a ainmniú.
+","(b) Luacháil Stoic
+
+(i) Ceannacháin:
+
+| Aonaid | Praghas | Costas |
+|---|---|---|
+| 6,500 | 9.00 | 58,500 |
+| 3,700 | 9.50 | 35,150 |
+| 2,600 | 9.75 | 25,350 |
+| 1,200 | 10.00 | 12,000 |
+| 14,000 |  | 131,000 |
+
+Díolacháin:
+
+|  | Aonaid | Praghas | Ioncam | Aonaid | Praghas | Ioncam | Ioncam Iomlán |
+|---|---|---|---|---|---|---|---|
+| Díolacháin chreidmheasa |  |  |  | Díolacháin ar Airgead |  |  |  |
+|  | € | € |  | € | € |  | € |
+|  | 1,900 | 12 | 22,800 | 200 | 11 | 2,200 | 25,000 |
+|  | 1,700 | 13 | 22,100 | 1,900 | 12 | 22,800 | 44,900 |
+|  | 2,900 | 14 | 40,600 | 2,800 | 13 | 36,400 | 77,000 |
+|  | 700 | 15 | 10,500 | 1,600 | 14 | 22,400 | 32,900 |
+|  | 7,200 |  | 96,000 | 6,500 |  | 83,800 | 179,800 |
+
+Luach an Stoic Deiridh:
+Stoc Tosaigh 5,000 [1]
+Ceannacháin 14,000 [1]
+Díolacháin ar Cairde (7,200) [1]
+Díolacháin ar Airgead (6,500) [1]
+Stoc Deiridh 5,300 [1]
+
+Luach an Stoic Deiridh:
+1,200 @ 10 12,000 [2]
+2,600 @ 9.75 25,350 [2]
+1,500 @ 9.50 14,250 [2]
+5,300  51,600 [2]
+
+(b) (ii) Cuntas Trádála Touhy Teo don bhliain dar críoch 31/12/2023.
+
+|  | € |
+|---|---|
+| Díolacháin | 179,800 [3] |
+| Lúide Costais Díolacháin |  |
+| Stoc Tosaigh | 40,000 [2] |
+| Ceannacháin | 131,000 [3] |
+|  | (51,600) [2] (119,400) |
+| Stoc Deiridh | 60,400[3] |
+| Brabús Comhlán |  |"
+"9. Buiséad
+Tá sé i gceist ag Ó Néill Teo. gnólacht a bhunú ar an 01/07/2024 agus rinne sé an réamhaisnéis seo a leanas do na chéad sé mhí trádála:
+
+(i) Coinnítear stoc earraí críochnaithe ag 40% de riachtanais na ndíolachán don mhí dár gcionn.
+
+(ii) Teastaíonn 5 kg d'ábhar X, a bhfuil costas €4 an kg air, do gach aonad.
+
+(iii) Coinnítear stoc amhábhar ag deireadh gach míosa, ar leor iad le haghaidh 10% de riachtanais na míosa dár gcionn i gcileagraim.
+
+(iv) Meastar go mbeidh an patrún bailithe airgid ó dhíolacháin mar seo a leanas:
+
+Cúisiméirí Airgid
+Íní ar gcuid sios ó thiocfadh 30% d'ioncam ó dhíolacháin agus ceadófar lascaine 5% ar airgead sios.
+Cúisiméirí Creidmheasa
+Tiocfaidh 70% don ioncam díolacháin ó chustaiméirí creidmheasa.
+Íocfaidh na feichiúnaithe sin a gcuid billí sa mhí i ndiaidh na ndíolachán.
+
+(v) Faightear creidmheas dhá mhí ar sholáthraithe.
+
+(vi) Déanfar speansais an ghnólachta a réiteach mar seo a leanas:
+
+Costais lonchais
+Pá €24,000 móide 10% d'ioncam ó dhíolacháin in aghaidh na míosa, inioctha de réir mar a thabhaítear iad.
+Forchostais athraitheacha €15 an t-aonad, inioctha de réir mar a thabhaítear iad.
+
+Costais Chaitiptil
+Forchostais sheasta (dímeas san áireamh) €15,000 in aghaidh na míosa, inioctha de réir mar a thabhaítear iad. Ceannaófar trealamh ar an 01/07/2024 ar chostas €60,000 a mbeidh saolré fhoiréiteach de 4 bliana aige.
+Mar chabhair do mhaoiniú an cheannaigh sin, gheofar iasacht €48,000 a chuirfear faoi ús tris ísi in aghaidh na bliana.
+Beidh an tsuim chéanna le haisíoc mar íocaíocht caipitil bliana i dtráthchomhartha comhnán míosúla ag tosú ar an 01/08/2024.
+Beidh an t-ús do gach mí le hioc ar an lá deiridh den mhí, bunaithe ar an méid den iasacht a bheidh gan íoc ar an dáta sin ag tosú ar an 31/07/2024.
+
+Iarrtar ort:
+(a) Buiséad táirgthe do Ó Néill Teo. a ullmhú do na ceithre mhí Iúil go Deireadh Fómhair 2024.
+(b) Buiséad ceannacháin amhábhair (in kg agus €) a ullmhú do Ó Néill Teo. do na ceithre mhí Iúil go Deireadh Fómhair 2024.
+(c) Buiséad Airgid do Ó Néill Teo. a ullmhú do na ceithre mhí Iúil go Deireadh Fómhair 2024.
+(d) Cuntas Trádála, Brabúis agus Caillteanais buiséadaithe do Ó Néill Teo. a ullmhú do na ceithre mhí dar críoch 31/10/2024 (más é €30 an costas buiséadaithe d'aonad earraí críochnaithe).
+(e) (i) Mínigh cad is brí le hanailís athraithe.
+(ii) Tabhair sampla sonrach d'athraitheas fabhrach a d'fhéadfadh tarlú do Ó Néill Teo..","**(a) Buiséad Táirgthe**
+[See image ""Ceist 9 Buiséadú"" for answer to problem 1 (a)]
+
+**(b) Buiséad Ceannachán Amhábhair**
+[See image ""Ceist 9 Buiséadú"" for answer to problem 1 (b)]
+
+**(c) Buiséad Airgid**
+[See image ""Ceist 9 Buiséadú"" for answer to problem 1 (c)]
+
+**(d) Cuntas Trádála, Brabúis agus Caillteanais**
+[See image ""Ceist 9 Buiséadú"" for answer to problem 1 (d)]"

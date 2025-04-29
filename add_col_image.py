@@ -2,7 +2,7 @@ import pandas as pd
 import os
 
 # Path to the CSV file
-csv_path = os.path.join(os.getcwd(), "csv_dataset", "irish_physics_and_chemistry.csv")
+csv_path = os.path.join(os.getcwd(), "csv_dataset", "english_accounting.csv")
 # output_path = os.path.join(os.getcwd(), "csv_dataset", "english_chemistry_with_images.csv")
 
 try:
@@ -11,10 +11,19 @@ try:
     
     # Add empty columns for images in the desired order
     new_df = pd.DataFrame()
+
     new_df['problem'] = df['problem']
     new_df['image_problem'] = ""  # Empty column for problem images
     new_df['answer'] = df['answer']
     new_df['image_answer'] = ""   # Empty column for answer images
+
+    # new_df['problem'] = df['problem']
+    # new_df['image_problem'] = df['image_problem']  # Empty column for problem images
+    # new_df['image2_problem'] = ""
+    # new_df['answer'] = df['answer']
+    # new_df['image_answer'] = df['image_answer']   # Empty column for answer images
+    # new_df['image2_answer'] = ""
+
     
     # Save to a new CSV file
     new_df.to_csv(csv_path, index=False, quoting=1)  # quoting=1 means QUOTE_ALL
