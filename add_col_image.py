@@ -2,7 +2,7 @@ import pandas as pd
 import os
 
 # Path to the CSV file
-csv_path = os.path.join(os.getcwd(), "csv_dataset", "irish_accounting.csv")
+csv_path = os.path.join(os.getcwd(), "csv_dataset", "irish_politics_and_society.csv")
 # output_path = os.path.join(os.getcwd(), "csv_dataset", "english_chemistry_with_images.csv")
 
 try:
