@@ -1,5 +1,5 @@
-"problem","image_problem","image2_problem","answer","image_answer","image2_answer"
-"(A) Company Final Accounts Yeats Ltd, has an authorised capital of €1,600,000 divided into 1,000,000 ordinary shares of €1 each and 600,000 4% preference shares of €1 each. The following trial balance was extracted from its books at 31/12/2023:
+problem,answer,problem_image_1,problem_image_2,answer_image_1,answer_image_2
+"Company Final Accounts Yeats Ltd, has an authorised capital of €1,600,000 divided into 1,000,000 ordinary shares of €1 each and 600,000 4% preference shares of €1 each. The following trial balance was extracted from its books at 31/12/2023:
 The following information and instructions are to be taken into consideration:
 (i) Stock at cost on 31/12/2023 was €56,900. This figure includes damaged stock
 which cost €3,800 but which now has a net realisable value of 60% of cost.
@@ -35,8 +35,8 @@ interest due.
 3. A transfer of €20,000 should be made from profit to the capital reserve. 
 
 Required:
-(a) Prepare a trading and profit and loss account for the year ended 31/12/2023","images/accounting/problem/1a.png","","","/images/accounting/answer/1a_a.png",""
-"(A) Company Final Accounts Yeats Ltd, has an authorised capital of €1,600,000 divided into 1,000,000 ordinary shares of €1 each and 600,000 4% preference shares of €1 each. The following trial balance was extracted from its books at 31/12/2023:
+Prepare a trading and profit and loss account for the year ended 31/12/2023",,1a.png,,1a_a.png,
+"Company Final Accounts Yeats Ltd, has an authorised capital of €1,600,000 divided into 1,000,000 ordinary shares of €1 each and 600,000 4% preference shares of €1 each. The following trial balance was extracted from its books at 31/12/2023:
 The following information and instructions are to be taken into consideration:
 (i) Stock at cost on 31/12/2023 was €56,900. This figure includes damaged stock
 which cost €3,800 but which now has a net realisable value of 60% of cost.
@@ -72,7 +72,7 @@ interest due.
 3. A transfer of €20,000 should be made from profit to the capital reserve. 
 
 Required:
-(b) Prepare a balance sheet as at 31/12/2023. ","./images/accounting/problem/1a.png","","","images/accounting/answer/1a_b.png",""
+Prepare a balance sheet as at 31/12/2023. ",,1a.png,,1a_b.png,
 "Company Final Accounts including a Manufacturing Account
 Sexton Ltd has an authorised capital of €1,500,000 divided into 1,100,000 ordinary shares of
 €1 each and 400,000 4% preference shares of €1 each. The following trial balance was
@@ -116,8 +116,8 @@ This has not been recorded in the books.
 2. The creation of a provision for bad debts equal to 6% of debtors.
 3. A transfer of €20,000 should be made from profit to the capital reserve.
 Required:
-(a) Prepare a manufacturing, trading and profit and loss account for the year ended
-31/12/2023. (75)","images/accounting/problem/1b.png","","","images/accounting/answer/1b_a_1.png","images/accounting/answer/1b_a_2.png"
+Prepare a manufacturing, trading and profit and loss account for the year ended
+31/12/2023. (75)",,1b.png,,1b_a_1.png,1b_a_2.png
 "Company Final Accounts including a Manufacturing Account
 Sexton Ltd has an authorised capital of €1,500,000 divided into 1,100,000 ordinary shares of
 €1 each and 400,000 4% preference shares of €1 each. The following trial balance was
@@ -161,7 +161,7 @@ This has not been recorded in the books.
 2. The creation of a provision for bad debts equal to 6% of debtors.
 3. A transfer of €20,000 should be made from profit to the capital reserve.
 Required:
-(b) Prepare a balance sheet as at 31/12/2023","images/accounting/problem/1b.png","","","images/accounting/answer/1b_b_1.png","images/accounting/answer/1b_b_2.png"
+Prepare a balance sheet as at 31/12/2023",,1b.png,,1b_b_1.png,1b_b_2.png
 "Published Accounts
 Lyne plc has an authorised share capital of €850,000 divided into 650,000 ordinary shares
 of €1 each and 200,000 4% preference shares of €1 each. The following trial balance was
@@ -182,13 +182,13 @@ company wishes to reflect this value in the accounts.
 (vi) Provide for debenture interest due, investment income due, auditor’s fees €8,500 and
 corporation tax €87,000
 Required:
-(a) Prepare the published profit and loss account for the year ended 31/12/2023 in
+Prepare the published profit and loss account for the year ended 31/12/2023 in
 accordance with the Companies Act and appropriate accounting standards showing the
 following notes:
 1. Accounting policy note for tangible fixed assets and stock
 2. Operating profit
 3. Dividends
-4. Tangible fixed assets.","images/accounting/problem/2.png","","Notes to the Accounts
+4. Tangible fixed assets.","Notes to the Accounts
 1 Accounting Policy Notes [4]
  Tangible Fixed Assets
 Buildings were re-valued at the end of 2023 and have been included in the
@@ -211,7 +211,7 @@ realisable value
  Paid 5.8 cent per share 29,000
  Preference Dividends
  Paid 4.0 cent per share 6,000
-4 Tangible Fixed Assets [7]","images/accounting/answer/2a_1.png","images/accounting/answer/2a_2.png"
+4 Tangible Fixed Assets [7]",2.png,,2a_1.png,2a_2.png
 "Published Accounts
 Lyne plc has an authorised share capital of €850,000 divided into 650,000 ordinary shares
 of €1 each and 200,000 4% preference shares of €1 each. The following trial balance was
@@ -232,16 +232,16 @@ company wishes to reflect this value in the accounts.
 (vi) Provide for debenture interest due, investment income due, auditor’s fees €8,500 and
 corporation tax €87,000
 Required:
-(b) (i) Explain the term exceptional item with reference to the accounts of Lyne plc.
+(i) Explain the term exceptional item with reference to the accounts of Lyne plc.
  (ii) What regulations must accountants observe when preparing financial statements
-for publication? ","images/accounting/problem/2.png","","(i) An exceptional item is a material item of significant size. It is a profit or loss and must be
+for publication? ","(i) An exceptional item is a material item of significant size. It is a profit or loss and must be
 shown separately in the profit and loss account because of its size. In Lyne Plc the profit on
 the sale of land of €60,000 is an example of an exceptional item.
 (ii) Accountants must comply with the following regulations:
 The Government – Legislation
 The European Union – Directives
 Accounting Standards Board-FRS’s and SSAP’s.
-The Stock Exchange-Listing Rules","",""
+The Stock Exchange-Listing Rules",2.png,,,
 "Farm Accounts
 Among the assets and liabilities of E. Fleming, who carries on a small mixed farming
 business, on 01/01/2023 are:
@@ -266,7 +266,7 @@ and buildings at 2% of cost per annum. (Land at cost was €200,000.)
 (vii) On 31/12/2023 there was a milk cheque due €6,950, creditors for fertiliser amounted
 to €750 and stock of fuel was €450.
 Required:
-(a) Prepare Fleming’s statement of capital on 01/01/2023.","images/accounting/problem/3.png","","","images/accounting/answer/3a.png",""
+Prepare Fleming’s statement of capital on 01/01/2023.",,3.png,,3a.png,
 "Farm Accounts
 Among the assets and liabilities of E. Fleming, who carries on a small mixed farming
 business, on 01/01/2023 are:
@@ -291,8 +291,8 @@ and buildings at 2% of cost per annum. (Land at cost was €200,000.)
 (vii) On 31/12/2023 there was a milk cheque due €6,950, creditors for fertiliser amounted
 to €750 and stock of fuel was €450.
 Required:
-(b) Prepare an enterprise analysis account for ‘cattle and milk’ and ‘sheep’ for the year
- ended 31/12/2023. ","images/accounting/problem/3.png","","","images/accounting/answer/3b_1.png","images/accounting/answer/3b_1.png"
+Prepare an enterprise analysis account for ‘cattle and milk’ and ‘sheep’ for the year
+ ended 31/12/2023. ",,3.png,,3b_1.png,3b_1.png
 "Farm Accounts
 Among the assets and liabilities of E. Fleming, who carries on a small mixed farming
 business, on 01/01/2023 are:
@@ -317,7 +317,7 @@ and buildings at 2% of cost per annum. (Land at cost was €200,000.)
 (vii) On 31/12/2023 there was a milk cheque due €6,950, creditors for fertiliser amounted
 to €750 and stock of fuel was €450.
 Required:
-(c) Prepare Fleming’s general profit & loss account for the year ended 31/12/2023. ","images/accounting/problem/3.png","","","images/accounting/answer/3c.png",""
+Prepare Fleming’s general profit & loss account for the year ended 31/12/2023. ",,3.png,,3c.png,
 "Farm Accounts
 Among the assets and liabilities of E. Fleming, who carries on a small mixed farming
 business, on 01/01/2023 are:
@@ -342,15 +342,15 @@ and buildings at 2% of cost per annum. (Land at cost was €200,000.)
 (vii) On 31/12/2023 there was a milk cheque due €6,950, creditors for fertiliser amounted
 to €750 and stock of fuel was €450.
 Required:
-(d) Fleming is considering upgrading the farm with the installation of solar panels at a cost
+Fleming is considering upgrading the farm with the installation of solar panels at a cost
 of €100,000(net of grants). He has estimated that this would reduce energy costs by 40%.
 Fleming has asked you to advise him on the financial implications of the installation of
-solar panels. Based on the accounts you have prepared what advice would you give?","images/accounting/problem/3.png","","I would recommend that Fleming install the Solar Panels
+solar panels. Based on the accounts you have prepared what advice would you give?","I would recommend that Fleming install the Solar Panels
 The light and heat bill would be reduced by €16,747/€18,608 per annum.
 As a result profit would increase and the business would recover the investment of €100,000 in
 approximately 6 years.
 The farm business can easily afford to finance the €100,000 as it has €32,605 in the bank and
-€120,000 in investments and has just repaid a loan of €30,000","images/accounting/answer/3d.png",""
+€120,000 in investments and has just repaid a loan of €30,000",3.png,,3d.png,
 "4. Depreciation of Fixed Assets
 Cobra Trucking Ltd prepares its final accounts to 31 December each year. The
 company’s policy is to depreciate its trucks on a straight line basis over 5 years.
@@ -369,7 +369,7 @@ On 01/04/2023, truck no. 3 was crashed and traded in against a new truck costing
 €88,000. The company received compensation from the insurance company to the
 value of €26,000 and the cheque paid for the new vehicle was €65,000.
 You are required to show, with workings, for each of the two years 2022 and 2023:
-(a) The Truck Account.","","","","images/accounting/answer/4a.png",""
+The Truck Account.",,,,4a.png,
 "4. Depreciation of Fixed Assets
 Cobra Trucking Ltd prepares its final accounts to 31 December each year. The
 company’s policy is to depreciate its trucks on a straight line basis over 5 years.
@@ -388,7 +388,7 @@ On 01/04/2023, truck no. 3 was crashed and traded in against a new truck costing
 €88,000. The company received compensation from the insurance company to the
 value of €26,000 and the cheque paid for the new vehicle was €65,000.
 You are required to show, with workings, for each of the two years 2022 and 2023:
-(b) The Provision for Depreciation Account.","","","","images/accounting/answer/4b.png",""
+The Provision for Depreciation Account.",,,,4b.png,
 "4. Depreciation of Fixed Assets
 Cobra Trucking Ltd prepares its final accounts to 31 December each year. The
 company’s policy is to depreciate its trucks on a straight line basis over 5 years.
@@ -407,7 +407,7 @@ On 01/04/2023, truck no. 3 was crashed and traded in against a new truck costing
 €88,000. The company received compensation from the insurance company to the
 value of €26,000 and the cheque paid for the new vehicle was €65,000.
 You are required to show, with workings, for each of the two years 2022 and 2023:
-(c) The Truck Disposal Account","","","","images/accounting/answer/4c_1.png","images/accounting/answer/4c_2.png"
+The Truck Disposal Account",,,,4c_1.png,4c_2.png
 "4. Depreciation of Fixed Assets
 Cobra Trucking Ltd prepares its final accounts to 31 December each year. The
 company’s policy is to depreciate its trucks on a straight line basis over 5 years.
@@ -426,8 +426,8 @@ On 01/04/2023, truck no. 3 was crashed and traded in against a new truck costing
 €88,000. The company received compensation from the insurance company to the
 value of €26,000 and the cheque paid for the new vehicle was €65,000.
 You are required to show, with workings, for each of the two years 2022 and 2023:
-(d) (i) Why does a company charge depreciation in calculating profit?
-(ii) Explain the term ‘useful economic life’ in relation to fixed assets","","","(i)
+(i) Why does a company charge depreciation in calculating profit?
+(ii) Explain the term ‘useful economic life’ in relation to fixed assets","(i)
 Depreciation is charged so as to write off the cost/value of fixed assets over their estimated
 useful economic life. Depreciation is an expense in the Profit and Loss Account. Failure to
 include depreciation in the final accounts causes the profit to be overstated and the net
@@ -440,7 +440,7 @@ contribute to generating income before it becomes obsolete or is no longer cost-
 use. When an asset depreciates to the point that it is no longer useful to the business, then
 it is said to be past its economic life. For example, a business purchases a Motor Vehicle
 which can be used for 5 years but has no scrap value at the end of the 5 years. The company
-will depreciate it by 20% a year over the 5 year period. ","",""
+will depreciate it by 20% a year over the 5 year period. ",,,,
 "Interpretation of Accounts
 The following figures have been taken from the final accounts of Kelly plc, a company in the
 renewable energy sector, for the year ended 31/12/2023. The company has an authorised
@@ -453,7 +453,7 @@ You are required to calculate the following for 2023:
 (ii) Return on capital employed
 (iii) Price earnings ratio
 (iv) Gearing
-(v) Dividend yield","images/accounting/problem/5_1.png","images/accounting/problem/5_2.png","(i) 605,000 = 60,500 x 2 = 121,000
+(v) Dividend yield","(i) 605,000 = 60,500 x 2 = 121,000
  10
  121,000 - 65,000 = 56,000 (10)
 (ii) Return on Capital Employed = Operating Profit x 100
@@ -480,7 +480,7 @@ arrive at an answer of 36.89% for full marks.
  4.6c x 100 = 3.68% (10)
  125c
  DPS = 20,000 - 1,600 = 4.6cent
- 400,000 ","",""
+ 400,000 ",5_1.png,5_2.png,,
 "Interpretation of Accounts
 The following figures have been taken from the final accounts of Kelly plc, a company in the
 renewable energy sector, for the year ended 31/12/2023. The company has an authorised
@@ -490,7 +490,7 @@ shares.
 Advise the bank manager if a loan of €200,000, on which a rate of 9% would be charged,
 should be granted to Kelly plc.
 The loan is to finance the upgrade of manufacturing equipment.
-Use relevant ratios, percentages and other information to support your answer.","images/accounting/problem/5_1.png","images/accounting/problem/5_2.png","The Bank manager would analyse the performance, state of affairs and prospects of the
+Use relevant ratios, percentages and other information to support your answer.","The Bank manager would analyse the performance, state of affairs and prospects of the
 company under the following headings:
 Purpose[2]
 The bank manager would want to know the reason for the loan which is for upgrading the
@@ -562,7 +562,7 @@ encouraging as people try to move away from reliance on fossil fuels and from hi
 energy bills due to volatile economic conditions.
 Conclusion: [1]
 • The bank manager should grant the loan as the company is profitable, liquid and has
-low gearing","",""
+low gearing",5_1.png,5_2.png,,
 "Interpretation of Accounts
 The following figures have been taken from the final accounts of Kelly plc, a company in the
 renewable energy sector, for the year ended 31/12/2023. The company has an authorised
@@ -574,7 +574,7 @@ They have the option of purchasing either
 - ordinary shares at market value (€1.25) or
 - 4% preference shares at their nominal value of €1 each.
 (i) Distinguish between ordinary shares and preference shares.
-(ii) Based on your analysis of the accounts of Kelly plc what advice would you give?","images/accounting/problem/5_1.png","images/accounting/problem/5_2.png"," (i)
+(ii) Based on your analysis of the accounts of Kelly plc what advice would you give?"," (i)
 The rate of Dividend is fixed for Preference shares. There is no fixed rate of dividend for
 ordinary shares.
 Preference shareholders do not have any voting rights for taking crucial decisions
@@ -592,7 +592,7 @@ Purchasing €20,000 worth of Preference shares would give a guaranteed dividend
 €800/4%. However the investor has no say in how the company is run.
 I would recommend for my friend to buy the preference shares if they would like a
 guaranteed return on their money but if they are prepared to take a risk, buying
-ordinary shares could give them a better return on their investment. ","",""
+ordinary shares could give them a better return on their investment. ",5_1.png,5_2.png,,
 "Cash Flow Statement
 The following are the balance sheets of Simpson plc as at 31/12/2023 and 31/12/2022: 
 The following information is also available:
@@ -604,10 +604,10 @@ provided, were sold during the year ending 31/12/2023 for €8,500.
 (v) Corporation tax charged on profits for 2023 was €45,000.
 (vi) The patent is being written off over a six-year period, which commenced in 2022.
 Required:
-(a) (i) Prepare an abridged profit and loss account to ascertain the operating profit
+(i) Prepare an abridged profit and loss account to ascertain the operating profit
 for the year ended 31/12/2023.
 (ii) Prepare the cash flow statement of Simpson plc for the year ended 31/12/2023
-including reconciliation statements. ","images/accounting/problem/6.png",""," (i)
+including reconciliation statements. "," (i)
  Abridged Profit & Loss A/C for year ended 31/12/2023
 Operating Profit 92,000 [2]
 Investment Income 1,050 [3]
@@ -667,7 +667,7 @@ Cash used to Purchase Government Securities 8,000 [1]
 Purchase of Debentures (10,000) [1] (2,000)
 Change in Net Debt 3,310
 Net Debt 1/1/2023 (110,630) [1]
-Net Debt 31/12/2023 (107,320) [1]","",""
+Net Debt 31/12/2023 (107,320) [1]",6.png,,,
 "Cash Flow Statement
 The following are the balance sheets of Simpson plc as at 31/12/2023 and 31/12/2022: 
 The following information is also available:
@@ -679,9 +679,9 @@ provided, were sold during the year ending 31/12/2023 for €8,500.
 (v) Corporation tax charged on profits for 2023 was €45,000.
 (vi) The patent is being written off over a six-year period, which commenced in 2022.
 Required:
-(b) (i) Outline how Simpson plc can benefit from the preparation of a cashflow statement.
+(i) Outline how Simpson plc can benefit from the preparation of a cashflow statement.
 (ii) Explain why earning profit may not always result in a corresponding increase in cash
-balances. Use figures from this question to support your answer.","images/accounting/problem/6.png",""," (i) Profit shows the financial performance of a business but cash flow highlights a firm’s
+balances. Use figures from this question to support your answer."," (i) Profit shows the financial performance of a business but cash flow highlights a firm’s
 ability to pay its bills etc.
  A cashflow statement is beneficial for a business for the following reasons:
 • It helps a business to manage its cash flow/liquidity better.
@@ -712,7 +712,7 @@ on profit. New shares were issued for €65,000.
 Receipts from Issue of Debenture affects cash but has no immediate effect on profit.
 €10,000 was received from the issue of Debentures.
 Purchase of government securities affects cash but has no immediate effect on
-profit. €8,000 was spent on government securities. ","",""
+profit. €8,000 was spent on government securities. ",6.png,,,
 "Correction of Errors and Suspense Account
 The trial balance of F. Grey, an electrical wholesaler, failed to agree on 31/12/2023. The
 difference was entered in a suspense account and the following balance sheet was prepared: 
@@ -736,7 +736,7 @@ for €8,000 and entered this transaction in the relevant ledger accounts incorr
 restocking charge of €200 to cover the cost of the return. The only entry made in respect
 of this credit note was a credit entry of €7,800 in the creditors account.
 Required: 
-(a) Journalise the necessary corrections.","images/accounting/problem/7.png","","","images/accounting/answer/7a.png",""
+Journalise the necessary corrections.",,7.png,,7a.png,
 "Correction of Errors and Suspense Account
 The trial balance of F. Grey, an electrical wholesaler, failed to agree on 31/12/2023. The
 difference was entered in a suspense account and the following balance sheet was prepared: 
@@ -760,8 +760,8 @@ for €8,000 and entered this transaction in the relevant ledger accounts incorr
 restocking charge of €200 to cover the cost of the return. The only entry made in respect
 of this credit note was a credit entry of €7,800 in the creditors account.
 Required: 
-(b) (i) Prepare the suspense account
-(ii) Explain why there is no closing balance on the suspense account. ","images/accounting/problem/7.png","","Suspense Account
+(i) Prepare the suspense account
+(ii) Explain why there is no closing balance on the suspense account. ","Suspense Account
 Suspense Account
  Original difference 7,920 [2] Equipment/Debtors 920 [2]
 Sales/Debtors 800 [2] Creditors/Purchases 7,800 [2]
@@ -771,7 +771,7 @@ Sales/Debtors 800 [2] Creditors/Purchases 7,800 [2]
 The closing balance on the suspense account is always zero. This is because the
 suspense account is a temporary account which holds some errors which prevent the
 trial balance from balancing. Once these errors have been corrected through the
-suspense account, the account should be clear. [2]","",""
+suspense account, the account should be clear. [2]",7.png,,,
 "Correction of Errors and Suspense Account
 The trial balance of F. Grey, an electrical wholesaler, failed to agree on 31/12/2023. The
 difference was entered in a suspense account and the following balance sheet was prepared: 
@@ -795,7 +795,7 @@ for €8,000 and entered this transaction in the relevant ledger accounts incorr
 restocking charge of €200 to cover the cost of the return. The only entry made in respect
 of this credit note was a credit entry of €7,800 in the creditors account.
 Required: 
-(c) Prepare the statement of corrected net profit ","images/accounting/problem/7.png","","","images/accounting/answer/7c.png",""
+Prepare the statement of corrected net profit ",,7.png,,7c.png,
 "Correction of Errors and Suspense Account
 The trial balance of F. Grey, an electrical wholesaler, failed to agree on 31/12/2023. The
 difference was entered in a suspense account and the following balance sheet was prepared: 
@@ -819,7 +819,7 @@ for €8,000 and entered this transaction in the relevant ledger accounts incorr
 restocking charge of €200 to cover the cost of the return. The only entry made in respect
 of this credit note was a credit entry of €7,800 in the creditors account.
 Required: 
-(d) Prepare the corrected balance sheet.","images/accounting/problem/7.png","","","images/accounting/answer/7d.png",""
+Prepare the corrected balance sheet.",,7.png,,7d.png,
 "Correction of Errors and Suspense Account
 The trial balance of F. Grey, an electrical wholesaler, failed to agree on 31/12/2023. The
 difference was entered in a suspense account and the following balance sheet was prepared: 
@@ -843,12 +843,12 @@ for €8,000 and entered this transaction in the relevant ledger accounts incorr
 restocking charge of €200 to cover the cost of the return. The only entry made in respect
 of this credit note was a credit entry of €7,800 in the creditors account.
 Required: 
-(e) Explain with an example what is meant by error of principle.","images/accounting/problem/7.png","","An error of principle arises when an item is posted to the correct side of the incorrect class of
+Explain with an example what is meant by error of principle.","An error of principle arises when an item is posted to the correct side of the incorrect class of
 account. For example an electrical wholesaler purchased a Motor Vehicle to be used for
 delivering goods bought online, but includes the van in the Purchases account rather than the
-Motor Vehicles account.","",""
+Motor Vehicles account.",7.png,,,
 "Flexible Budgets and Stock Valuation
-(a) Flexible Budgets
+Flexible Budgets
 Royston Ltd manufactures a component for the computer industry. The following
 flexible budgets have been prepared for 50%, 75% and 95% of the plant’s capacity: 
 Profit is budgeted to be 20% of sales. All units produced are sold.
@@ -859,7 +859,7 @@ Required:
 and show the contribution.
 (iv) Based on your calculations in part (iii) calculate the breakeven point and the
 margin of safety at 85% activity level for Royston.
-(v) Explain with an example the term ‘controllable cost’. ","images/accounting/problem/8a.png","","(a) Flexible Budgets
+(v) Explain with an example the term ‘controllable cost’. ","Flexible Budgets
 (i) Production Overheads
 Units €
 
@@ -910,7 +910,7 @@ The manager will make the decision about the amount of the cost or if the cost
 should be incurred and can be held responsible for variances in these costs. e.g. all
 variable costs are controllable. Commission to sales personnel can be controlled by
 the sales manager. [4]
-","",""
+",8a.png,,,
 "Stock Valuation
  Touhy Ltd is a retail store that buys and sells one product. The following information
 relates to the purchases and sales of the firm for the year 2023: On 01/01/2023 there was an opening stock of 5,000 units @ €8 each
@@ -919,7 +919,7 @@ Required:
  (Show your workings).
 (ii) Prepare a trading account for the year ended 31/12/2023.
 (iii) Explain the FIFO method of stock valuation and name one other method of
-valuing stock.","images/accounting/problem/8b.png","","Closing stock in units
+valuing stock.","Closing stock in units
 Opening Stock 5,000 [1]
 Purchases 14,000 [1]
 Credit Sales (7,200) [1]
@@ -930,7 +930,7 @@ Value of Closing Stock: €
 2,600 @ 9.75 25,350 [2]
 1,500 @ 9.50 14,250 [2]
 5,300 51,600 [2]
-(b) (ii) Trading Account for Touhy Ltd for year ended 31/12/2023
+(ii) Trading Account for Touhy Ltd for year ended 31/12/2023
  € €
 Sales 179,800 [3]
 Less Cost of Sales
@@ -947,7 +947,7 @@ Alternative method –
 • LIFO
 • Average Cost
 • Weighted Average
-• Standard Cost","images/accounting/answer/8b_1.png","images/accounting/answer/8b_2.png"
+• Standard Cost",8b.png,,8b_1.png,8b_2.png
 "Budgeting
 O’Neill Ltd is planning to set up a business on 01/07/2024 and has made the following forecast
 for the first six months of trading: 
@@ -978,7 +978,7 @@ The interest for each month is to be paid on the last day of the
 month based on the amount of the loan outstanding at that date
 commencing on 31/07/2024.
 Required:
-(a) Prepare a production budget for O’Neill Ltd for the four months July to October 2024. ","images/accounting/problem/9.png","","","images/accounting/answer/9a.png",""
+Prepare a production budget for O’Neill Ltd for the four months July to October 2024. ",,9.png,,9a.png,
 "Budgeting
 O’Neill Ltd is planning to set up a business on 01/07/2024 and has made the following forecast
 for the first six months of trading: 
@@ -1009,8 +1009,8 @@ The interest for each month is to be paid on the last day of the
 month based on the amount of the loan outstanding at that date
 commencing on 31/07/2024.
 Required:
-(b) Prepare a raw materials purchases budget (in kg and €) for O’Neill Ltd for the four
-months July to October 2024","images/accounting/problem/9.png","","","images/accounting/answer/9b.png",""
+Prepare a raw materials purchases budget (in kg and €) for O’Neill Ltd for the four
+months July to October 2024",,9.png,,9b.png,
 "Budgeting
 O’Neill Ltd is planning to set up a business on 01/07/2024 and has made the following forecast
 for the first six months of trading: 
@@ -1041,7 +1041,7 @@ The interest for each month is to be paid on the last day of the
 month based on the amount of the loan outstanding at that date
 commencing on 31/07/2024.
 Required:
-(c) Prepare a cash budget for O’Neill Ltd for the four months July to October 2024.","images/accounting/problem/9.png","","","images/accounting/answer/9c.png",""
+Prepare a cash budget for O’Neill Ltd for the four months July to October 2024.",,9.png,,9c.png,
 "Budgeting
 O’Neill Ltd is planning to set up a business on 01/07/2024 and has made the following forecast
 for the first six months of trading: 
@@ -1072,8 +1072,8 @@ The interest for each month is to be paid on the last day of the
 month based on the amount of the loan outstanding at that date
 commencing on 31/07/2024.
 Required:
-(d) Prepare a budgeted trading and profit and loss account for O’Neill Ltd for the four
-months ending 31/10/2024 (if the budgeted cost of a unit of finished goods is €30).","images/accounting/problem/9.png","","","images/accounting/answer/9d.png",""
+Prepare a budgeted trading and profit and loss account for O’Neill Ltd for the four
+months ending 31/10/2024 (if the budgeted cost of a unit of finished goods is €30).",,9.png,,9d.png,
 "Budgeting
 O’Neill Ltd is planning to set up a business on 01/07/2024 and has made the following forecast
 for the first six months of trading: 
@@ -1104,12 +1104,12 @@ The interest for each month is to be paid on the last day of the
 month based on the amount of the loan outstanding at that date
 commencing on 31/07/2024.
 Required:
-(e) (i) Explain what is meant by variance analysis.
-(ii) Give a specific example of a favourable variance that may arise for O’Neill Ltd. ","images/accounting/problem/9.png","","Variance analysis is a technique used in cost and management accounting to compare
+(i) Explain what is meant by variance analysis.
+(ii) Give a specific example of a favourable variance that may arise for O’Neill Ltd. ","Variance analysis is a technique used in cost and management accounting to compare
 the actual results achieved with the budgeted figures. It's a quantitative method that
 helps to maintain control over a business.
 A favourable variance arises when actual expenses are less than budgeted expenses or
 actual revenue is above the budgeted revenue figure. For example O’Neill may
 negotiate a better deal from suppliers and purchase the raw materials for less than €4.
 O’Neill may end up paying his employees a commission of less than 10% sales revenue
-per month.","",""
+per month.",9.png,,,

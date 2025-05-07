@@ -1,6 +1,5 @@
-"problem","image_problem","answer"
-"Ceist 1
-(a) Scríobh breac-chuntas ar phríomhdhifríocht amháin idir cearta dearfacha agus diúltacha.","","(a) Scríobh breac-chuntas ar phríomhdhifríocht amháin idir cearta dearfacha agus diúltacha 3 mharc + 2 mharc
+problem,answer,problem_image_1,problem_image_2,answer_image_1,answer_image_2
+"Scríobh breac-chuntas ar phríomhdhifríocht amháin idir cearta dearfacha agus diúltacha.","Scríobh breac-chuntas ar phríomhdhifríocht amháin idir cearta dearfacha agus diúltacha 3 mharc + 2 mharc
 D’fhéadfaí freagraí tagairt a dhéanamh do:
 •	Is ionann ceart diúltach agus saoirse ó rud éigin, agus is ionann ceart dearfach agus rud éigin a dhéanamh.
 •	Mar shampla, is cearta diúltacha iad na cearta chun saoirse cainte agus tionóil, mar gheall go gcuireann siad teorainn ar dhaoine eile do chuid saoirse a chur ar cheall
@@ -9,9 +8,8 @@ Cur síos an-mhaith 3M	Cur síos maith 2M
 Cur síos maith 2M	Cur síos réasúnta 1M
 Cur síos réasúnta 1M
 
-Nóta: Má thugtar 2M nó níos lú ar an gcéad phointe, marcáil an dara pointe as 3M"
-"Ceist 1
-(b) Mínigh an ról atá ag an gCeann Comhairle i nDáil Éireann.","","(b) Mínigh an ról atá ag an gCeann Comhairle i nDáil Éireann. 5 mharc
+Nóta: Má thugtar 2M nó níos lú ar an gcéad phointe, marcáil an dara pointe as 3M",,,,
+"Mínigh an ról atá ag an gCeann Comhairle i nDáil Éireann.","Mínigh an ról atá ag an gCeann Comhairle i nDáil Éireann. 5 mharc
 D’fhéadfaí le freagraí tagairt a dhéanamh do:
 •	Cathaoirleach a dhéanamh ar dhíospóireachtaí na Dála
 •	Maoirseacht a dhéanamh ar vótái agus torthaí a fhógairt
@@ -19,24 +17,24 @@ D’fhéadfaí le freagraí tagairt a dhéanamh do:
 
 Míniú an-mhaith 4 - 5M
 Míniú maith 2 - 3M
-Míniú réasúnta 0 - 1M"
-"Ceist 1
-(c) Mhol an smaointeoir tábhachtach Andre Gunder-Frank Teoiric an Spleáchais mar iarracht le míniú a thabhairt ar an gcúis a bhfanann roinnt tíortha tearcfhorbartha.
-Mínigh go hachomair an teoiric seo.","","(c) Molann an príomh-smaointeoir Andre Gunder-Frank Teoiric an Spleáchais mar iarracht le míniú a thabhairt ar an gcúis a bhfanann roinnt tíortha tearcfhorbartha. Mínigh go hachomair an teoiric seo. 5 mharc
+Míniú réasúnta 0 - 1M",,,,
+"
+Mhol an smaointeoir tábhachtach Andre Gunder-Frank Teoiric an Spleáchais mar iarracht le míniú a thabhairt ar an gcúis a bhfanann roinnt tíortha tearcfhorbartha.
+Mínigh go hachomair an teoiric seo.","Molann an príomh-smaointeoir Andre Gunder-Frank Teoiric an Spleáchais mar iarracht le míniú a thabhairt ar an gcúis a bhfanann roinnt tíortha tearcfhorbartha. Mínigh go hachomair an teoiric seo. 5 mharc
 Míniú an-mhaith 4 - 5M
 Míniú maith 2 - 3M
-Míniú réasúnta 0 - 1M"
-"(d) Scríobh anailís chriticiúil an bhfás atá ar iriseoireacht saoránach i saol an lae inniu.","","(d) Scríobh anailís chriticiúil an bhfás atá ar iriseoireacht saoránach i saol an lae inniu. 5 mharc
+Míniú réasúnta 0 - 1M",,,,
+Scríobh anailís chriticiúil an bhfás atá ar iriseoireacht saoránach i saol an lae inniu.,"Scríobh anailís chriticiúil an bhfás atá ar iriseoireacht saoránach i saol an lae inniu. 5 mharc
 Anailís chriticiúil an-mhaith 4-5M
 Anailís chriticiúil maith 2-3M
-Anailís chriticiúil réasúnta 0-1M"
-"(e) An spreagtar daoine óga chun cearta daoine eile a chosaint agus a chur chun cinn nuair a fhoghlaimíonn siad faoi chearta daonna in ábhair amhail an Pholaitíocht agus an tSochaí?
-Mínigh do fhreagra.","","(e) An spreagtar daoine óga chun cearta daoine eile a chosaint agus a chur chun cinn nuair a fhoghlaimíonn siad faoi chearta daonna in ábhair amhail an Pholaitíocht agus an tSochaí?
+Anailís chriticiúil réasúnta 0-1M",,,,
+"An spreagtar daoine óga chun cearta daoine eile a chosaint agus a chur chun cinn nuair a fhoghlaimíonn siad faoi chearta daonna in ábhair amhail an Pholaitíocht agus an tSochaí?
+Mínigh do fhreagra.","An spreagtar daoine óga chun cearta daoine eile a chosaint agus a chur chun cinn nuair a fhoghlaimíonn siad faoi chearta daonna in ábhair amhail an Pholaitíocht agus an tSochaí?
 Mínigh do fhreagra. 5 mharc
 Míniú an-mhaith 4 - 5M
 Míniú maith 2 - 3M
-Míniú réasúnta 0 - 1M"
-"(f) Déan trácht ar an teachtaireacht san íomhá seo i gcomhthéacs cearta leanaí i saol an lae inniu.","images/politics_and_society/problem/ir_1f.png","(f) Déan trácht ar an teachtaireacht san íomhá seo i gcomhthéacs cearta leanaí i saol an lae inniu. 5 mharc
+Míniú réasúnta 0 - 1M",,,,
+Déan trácht ar an teachtaireacht san íomhá seo i gcomhthéacs cearta leanaí i saol an lae inniu.,"Déan trácht ar an teachtaireacht san íomhá seo i gcomhthéacs cearta leanaí i saol an lae inniu. 5 mharc
 D’fhéadfaí le freagraí tagairt a dhéanamh do:
 •	Coinbhinsiún na Náisiún Aontaithe um Chearta an Linbh / Dearbhú Uilechoiteann Chearta an Duine
 •	An ceart chun oideachais
@@ -44,19 +42,19 @@ D’fhéadfaí le freagraí tagairt a dhéanamh do:
 
 Trácht an-mhaith 4 - 5M
 Trácht maith 2 - 3M
-Trácht réasúnta 0 - 1M"
-"Déan cur síos ar an fheidhm atá le forógra sa pholaitíocht pháirtí.","","(g) Déan cur síos ar an fheidhm atá le forógra sa pholaitíocht pháirtí.
+Trácht réasúnta 0 - 1M",ir_1f.png,,,
+Déan cur síos ar an fheidhm atá le forógra sa pholaitíocht pháirtí.,"Déan cur síos ar an fheidhm atá le forógra sa pholaitíocht pháirtí.
 D’fhéadfaí le freagraí tagairt a dhéanamh do:
 •	Fís nó rún don rialtas a leagan amach
 •	Chun polasaithe páirtithe a mhíniú
 Cur síos an-mhaith 4 - 5M
 Cur síos maith 2 - 3M
-Cur síos measartha 0 - 1M"
-"Déan trácht ar chur i láthair na teachtaireachta san íomhá seo i gcomhthéacs na géarchéime aeráide.","images/politics_and_society/problem/ir_1h.png","(h) Déan trácht ar chur i láthair i láthair na teachtaireachta san íomhá seo i gcomhthéacs na géarchéime aeráide.
+Cur síos measartha 0 - 1M",,,,
+Déan trácht ar chur i láthair na teachtaireachta san íomhá seo i gcomhthéacs na géarchéime aeráide.,"Déan trácht ar chur i láthair i láthair na teachtaireachta san íomhá seo i gcomhthéacs na géarchéime aeráide.
 Tráchtaireacht an-mhaith 4 - 5M
 Tráchtaireacht mhaith 2 - 3M
-Tráchtaireacht réasúnta 0 - 1M"
-"Déan cur síos ar dhá ghné a bhaineann le stát daonlathach.","","(i) Déan cur síos ar dhá ghné a bhaineann le stát daonlathach.
+Tráchtaireacht réasúnta 0 - 1M",ir_1h.png,,,
+Déan cur síos ar dhá ghné a bhaineann le stát daonlathach.,"Déan cur síos ar dhá ghné a bhaineann le stát daonlathach.
 D’fhéadfaí le freagraí tagairt a dhéanamh do:
 •	Freagrach as bunchearta daonna
 •	Ceart chun vótála
@@ -72,8 +70,8 @@ Cur síos réasúnta 1M
 Cur síos maith 2M
 Cur síos réasúnta 1M
 
-Nóta: Má thugtar 2M nó níos lú ar an gcéad phointe, marcáil an dara pointe as 3M"
-"Tabhair dhá shampla den tslí a dtreisionn córas oideachais na hÉireann féiniúlacht Éireannach.","","(j) Tabhair dhá shampla den tslí a dtreisionn córas oideachais na hÉireann féiniúlacht Éireannach.
+Nóta: Má thugtar 2M nó níos lú ar an gcéad phointe, marcáil an dara pointe as 3M",,,,
+Tabhair dhá shampla den tslí a dtreisionn córas oideachais na hÉireann féiniúlacht Éireannach.,"(j) Tabhair dhá shampla den tslí a dtreisionn córas oideachais na hÉireann féiniúlacht Éireannach.
 D’fhéadfaí le freagraí tagairt a dhéanamh do:
 •	Ábhar m.sh. an Ghaeilge, Stair, Ceol, Corpoideachas
 •	Tábhacht an chreidimh i scoileanna
@@ -86,8 +84,8 @@ Sampla 2
 Sampla maith 2M
 Sampla measartha 1M
 
-Nóta: Má thugtar 2M nó níos lú ar an gcéad phointe, marcáil an dara pointe as 3M"
-"Déan cur síos ar dhá bhealach a bhféadfadh duine a bheith ina S(h)eanadóir i Seanad Éireann.","","(k) Déan cur síos ar dhá bhealach a bhféadfadh duine a bheith ina S(h)eanadóir i Seanad Éireann.
+Nóta: Má thugtar 2M nó níos lú ar an gcéad phointe, marcáil an dara pointe as 3M",,,,
+Déan cur síos ar dhá bhealach a bhféadfadh duine a bheith ina S(h)eanadóir i Seanad Éireann.,"(k) Déan cur síos ar dhá bhealach a bhféadfadh duine a bheith ina S(h)eanadóir i Seanad Éireann.
 D’fhéadfaí le freagraí tagairt a dhéanamh do:
 •	11 ainmnithe ag an Taoiseach
 •	6 roghnaithe ag céimithe Ollscoile na hÉireann agus Choláiste na Tríonóide
@@ -101,21 +99,21 @@ Sampla 2
 Cur síos maith 2M
 Cur síos réasúnta 1M
 
-Nóta: Má thugtar 2M nó níos lú ar an gcéad phointe, marcáil an dara pointe as 3M"
-"Cad iad na príomhchonclúidí i dtaca leis na meáin is féidir leat a bhaint as na staitisticí thíos?","images/politics_and_society/problem/ir_1l.png","(l) Cad iad na príomhchonclúidí i dtaca leis na meáin is féidir leat a bhaint as na staitisticí thíos?
+Nóta: Má thugtar 2M nó níos lú ar an gcéad phointe, marcáil an dara pointe as 3M",,,,
+Cad iad na príomhchonclúidí i dtaca leis na meáin is féidir leat a bhaint as na staitisticí thíos?,"(l) Cad iad na príomhchonclúidí i dtaca leis na meáin is féidir leat a bhaint as na staitisticí thíos?
 Conclúid an-mhaith 3M
 Conclúid maith 2M
 Conclúid mheasartha 1M
 Conclúid mhaith 2M
 Conclúid mheasartha 1M
 
-Nóta: Má thugtar 2M nó níos lú ar an gcéad phointe, marcáil an dara pointe as 3M"
-"Scríobh breac-chuntas achomair ar an gcaidreamh atá idir impiriúlachas an larthair agus teoiric an Oirthearachais a cheap Edward Said.","","(m) Scríobh breac-chuntas achomair ar an gcaidreamh atá idir impiriúlachas an larthair agus teoiric an Oirthearachais a cheap Edward Said.
+Nóta: Má thugtar 2M nó níos lú ar an gcéad phointe, marcáil an dara pointe as 3M",ir_1l.png,,,
+Scríobh breac-chuntas achomair ar an gcaidreamh atá idir impiriúlachas an larthair agus teoiric an Oirthearachais a cheap Edward Said.,"(m) Scríobh breac-chuntas achomair ar an gcaidreamh atá idir impiriúlachas an larthair agus teoiric an Oirthearachais a cheap Edward Said.
 Imlíne an-mhaith 4 - 5M
 Imlíne maith 2 - 3M
-Imlíne réasúnta 0 - 1M"
+Imlíne réasúnta 0 - 1M",,,,
 "D’eisigh an Phríomh-Oifig Staidrimh (CSO) torthaí i mí Feabhra 2023 ón Suirbhé ar Ioncam agus Dálaí Maireachtála (SILC), 2022. Fuarthas amach ann go bhfuil ceithre oiread d’ioncam ag an 20% is saibhre in Éirinn ná mar atá d’ioncam ag an 20% is boichte.
-Cad a thugann an staitistic seo le tuiscint faoin tsochaí in Éirinn sa lá atá inniu ann?","","(n) D’eisigh an Phríomh-Oifig Staidrimh (CSO) torthaí i mí Feabhra 2023 ón Suirbhé ar Ioncam agus Dálaí Maireachtála (SILC), 2022. Fuarthas amach ann go bhfuil ceithre oiread d’ioncam ag an 20% is saibhre in Éirinn ná mar atá d’ioncam ag an 20% is boichte.
+Cad a thugann an staitistic seo le tuiscint faoin tsochaí in Éirinn sa lá atá inniu ann?","(n) D’eisigh an Phríomh-Oifig Staidrimh (CSO) torthaí i mí Feabhra 2023 ón Suirbhé ar Ioncam agus Dálaí Maireachtála (SILC), 2022. Fuarthas amach ann go bhfuil ceithre oiread d’ioncam ag an 20% is saibhre in Éirinn ná mar atá d’ioncam ag an 20% is boichte.
 Cad a thugann an staitistic seo le tuiscint faoin tsochaí in Éirinn sa lá atá inniu ann?
 D’fhéadfaí le freagraí tagairt a dhéanamh do:
 •	Neamhionannas eacnamaíoch sa tsochaí
@@ -125,11 +123,11 @@ D’fhéadfaí le freagraí tagairt a dhéanamh do:
 
 Míniú an-mhaith 4 - 5M
 Míniú maith 2 - 3M
-Míniú réasúnta 0 - 1M"
-"Déan cur síos achomair ar a bhfuil i gceist le dearcadh polaitiúil ar an eite chlé nó ar an eite dheis a bheith ag duine.","","(o) Déan cur síos achomair ar a bhfuil i gceist le dearcadh polaitiúil ar an eite chlé nó ar an eite dheis a bheith ag duine.
+Míniú réasúnta 0 - 1M",,,,
+Déan cur síos achomair ar a bhfuil i gceist le dearcadh polaitiúil ar an eite chlé nó ar an eite dheis a bheith ag duine.,"(o) Déan cur síos achomair ar a bhfuil i gceist le dearcadh polaitiúil ar an eite chlé nó ar an eite dheis a bheith ag duine.
 Cur síos an-mhaith 4 - 5M
 Cur síos maith 2 - 3M
-Cur síos réasúnta 0 - 1M"
+Cur síos réasúnta 0 - 1M",,,,
 "Doiciméad A: Breithniú ar Ionadaíocht na mBan sa Pholaitíocht ar fud na hEorpa – Staidéar le 
 Brúghrúpa Mhná na hEorpa, Márta 2023.
 Rinne Brúghrúpa Mhná na hEorpa (EWL) an taighde seo le tacaíocht ó Wilson
@@ -194,10 +192,10 @@ bhfeidhm faoi láthair do Thoghcháin Áitiúla (áit a dtosaíonn go leor polai
 polaitíochta), ná don Seanad.Spreagann ceist na gcuótaí sa pholaitíocht neart plé – ní maith le daoine
 áirithe cuótaí, ach is maith linne an méid a bhaintear amach leo, is é sin, preab ghearr, ghéar a
 bhaint as an gcóras polaitíochta a spreagann athruithe tapa. 
-(a)   Cad iad na láidreachtaí agus na teorainneacha a bhaineann leis an modheolaíocht
- a úsáideadh chun sonraí a bhai","mages/politics_and_society/problem/ir_b.png","Cur síos an-mhaith 8 - 10M
+Cad iad na láidreachtaí agus na teorainneacha a bhaineann leis an modheolaíocht
+ a úsáideadh chun sonraí a bhai","Cur síos an-mhaith 8 - 10M
 Cur síos maith 4 - 7M
-Cur síos réasúnta 0 - 3M "
+Cur síos réasúnta 0 - 3M ",ir_b.png,,,
 "Doiciméad A: Breithniú ar Ionadaíocht na mBan sa Pholaitíocht ar fud na hEorpa – Staidéar le 
 Brúghrúpa Mhná na hEorpa, Márta 2023.
 Rinne Brúghrúpa Mhná na hEorpa (EWL) an taighde seo le tacaíocht ó Wilson
@@ -262,9 +260,9 @@ bhfeidhm faoi láthair do Thoghcháin Áitiúla (áit a dtosaíonn go leor polai
 polaitíochta), ná don Seanad.Spreagann ceist na gcuótaí sa pholaitíocht neart plé – ní maith le daoine
 áirithe cuótaí, ach is maith linne an méid a bhaintear amach leo, is é sin, preab ghearr, ghéar a
 bhaint as an gcóras polaitíochta a spreagann athruithe tapa. 
-(b) Déan trácht ar chur i láthair na sonraí i nDoiciméad B.","mages/politics_and_society/problem/ir_b.png","Tráchtaireacht an-mhaith 8 - 10M
+Déan trácht ar chur i láthair na sonraí i nDoiciméad B.","Tráchtaireacht an-mhaith 8 - 10M
 Tráchtaireacht mhaith 4 - 7M
-Tráchtaireacht réasúnta 0 - 3M"
+Tráchtaireacht réasúnta 0 - 3M",ir_b.png,,,
 "Doiciméad A: Breithniú ar Ionadaíocht na mBan sa Pholaitíocht ar fud na hEorpa – Staidéar le 
 Brúghrúpa Mhná na hEorpa, Márta 2023.
 Rinne Brúghrúpa Mhná na hEorpa (EWL) an taighde seo le tacaíocht ó Wilson
@@ -329,10 +327,10 @@ bhfeidhm faoi láthair do Thoghcháin Áitiúla (áit a dtosaíonn go leor polai
 polaitíochta), ná don Seanad.Spreagann ceist na gcuótaí sa pholaitíocht neart plé – ní maith le daoine
 áirithe cuótaí, ach is maith linne an méid a bhaintear amach leo, is é sin, preab ghearr, ghéar a
 bhaint as an gcóras polaitíochta a spreagann athruithe tapa.
-(c) Déan trácht arionadaíochtreatha namban sa pholaitíochtmar a leagtar amach ísa dá dhoiciméad","mages/politics_and_society/problem/ir_b.png","Tráchtaireacht an-mhaith 16 - 20M trácht neamhspleách, léirsteanach le húsáid a bhaint as an dá dhoiciméad
+Déan trácht arionadaíochtreatha namban sa pholaitíochtmar a leagtar amach ísa dá dhoiciméad","Tráchtaireacht an-mhaith 16 - 20M trácht neamhspleách, léirsteanach le húsáid a bhaint as an dá dhoiciméad
 Tráchtaireacht mhaith 11 - 15M trácht ábhartha ach gan léargas, gan tagairt ach do dhoiciméad amháin
 Tráchtaireacht réasúnta 6 - 10M teoranta, easpa soiléireachta
-Trácht lag 0 - 5M frithráiteach nó mearaithe"
+Trácht lag 0 - 5M frithráiteach nó mearaithe",ir_b.png,,,
 "Doiciméad A: Breithniú ar Ionadaíocht na mBan sa Pholaitíocht ar fud na hEorpa – Staidéar le 
 Brúghrúpa Mhná na hEorpa, Márta 2023.
 Rinne Brúghrúpa Mhná na hEorpa (EWL) an taighde seo le tacaíocht ó Wilson
@@ -397,12 +395,12 @@ bhfeidhm faoi láthair do Thoghcháin Áitiúla (áit a dtosaíonn go leor polai
 polaitíochta), ná don Seanad.Spreagann ceist na gcuótaí sa pholaitíocht neart plé – ní maith le daoine
 áirithe cuótaí, ach is maith linne an méid a bhaintear amach leo, is é sin, preab ghearr, ghéar a
 bhaint as an gcóras polaitíochta a spreagann athruithe tapa.
-(d) De réir an dá dhoiciméad, cén tábhacht a bhainfeadh leis na cuótaí a leathnú go dơ na
- toghcháin áiƟúla?","mages/politics_and_society/problem/ir_b.png","An mhaith 16 - 20M trácht neamhspleách, léirsteanach le húsáid a bhaint as an dá
+De réir an dá dhoiciméad, cén tábhacht a bhainfeadh leis na cuótaí a leathnú go dơ na
+ toghcháin áiƟúla?","An mhaith 16 - 20M trácht neamhspleách, léirsteanach le húsáid a bhaint as an dá
 dhoiciméad
 Maith 11 - 15M trácht ábhartha ach gan léargas, gan tagairt ach do dhoiciméad amháin
 Réasúnta 6 - 10M teoranta, easpa soiléireachta
-Lag 0 - 5M frithráiteach nó mearaithe"
+Lag 0 - 5M frithráiteach nó mearaithe",ir_b.png,,,
 "Doiciméad A: Breithniú ar Ionadaíocht na mBan sa Pholaitíocht ar fud na hEorpa – Staidéar le 
 Brúghrúpa Mhná na hEorpa, Márta 2023.
 Rinne Brúghrúpa Mhná na hEorpa (EWL) an taighde seo le tacaíocht ó Wilson
@@ -467,11 +465,11 @@ bhfeidhm faoi láthair do Thoghcháin Áitiúla (áit a dtosaíonn go leor polai
 polaitíochta), ná don Seanad.Spreagann ceist na gcuótaí sa pholaitíocht neart plé – ní maith le daoine
 áirithe cuótaí, ach is maith linne an méid a bhaintear amach leo, is é sin, preab ghearr, ghéar a
 bhaint as an gcóras polaitíochta a spreagann athruithe tapa.
-(e)      Déan measúnú ar thábhacht na sonraí sa dá dhoiciméad i dtaca le cinnteoirí agus lucht
-déanta polasaithe.","mages/politics_and_society/problem/ir_b.png","Freagra an-mhaith 16 - 20M meastóireacht shoiléir, chruinn, léirsteanach
+     Déan measúnú ar thábhacht na sonraí sa dá dhoiciméad i dtaca le cinnteoirí agus lucht
+déanta polasaithe.","Freagra an-mhaith 16 - 20M meastóireacht shoiléir, chruinn, léirsteanach
 Freagra maith 11 - 15M ábhartha ach gan léargas
 Freagra réasúnta 6 - 10M teoranta, easpa soiléireachta
-Freagra lag 0 - 5M meastóireacht fhrithráiteach nó mhearaithe"
+Freagra lag 0 - 5M meastóireacht fhrithráiteach nó mhearaithe",ir_b.png,,,
 "Doiciméad A: Breithniú ar Ionadaíocht na mBan sa Pholaitíocht ar fud na hEorpa – Staidéar le 
 Brúghrúpa Mhná na hEorpa, Márta 2023.
 Rinne Brúghrúpa Mhná na hEorpa (EWL) an taighde seo le tacaíocht ó Wilson
@@ -536,12 +534,12 @@ bhfeidhm faoi láthair do Thoghcháin Áitiúla (áit a dtosaíonn go leor polai
 polaitíochta), ná don Seanad.Spreagann ceist na gcuótaí sa pholaitíocht neart plé – ní maith le daoine
 áirithe cuótaí, ach is maith linne an méid a bhaintear amach leo, is é sin, preab ghearr, ghéar a
 bhaint as an gcóras polaitíochta a spreagann athruithe tapa.
-(f) Agus úsáid á baint agat as an dá dhoiciméad, déan plé ar na bacainní agus ar na dúshláin atá
+Agus úsáid á baint agat as an dá dhoiciméad, déan plé ar na bacainní agus ar na dúshláin atá
 roimh mhná ar mhaith leo dul leis an bpolaiơocht mar ghairm agus ionadaíocht a dhéanamh
-ar son a bpobal ar leibhéal áiƟúil, náisiúnta nó Eorpach.","mages/politics_and_society/problem/ir_b.png","Freagra an-mhaith 16 - 20M plé neamhspleách, léirsteanach le húsáid a bhaint as an dá dhoiciméad
+ar son a bpobal ar leibhéal áiƟúil, náisiúnta nó Eorpach.","Freagra an-mhaith 16 - 20M plé neamhspleách, léirsteanach le húsáid a bhaint as an dá dhoiciméad
 Freagra maith 11 - 15M plé ábhartha, ach easpa léargais le húsáid a bhaint as an dá dhoiciméad
 Freagra réasúnta 6 - 10M teoranta, easpa soiléireachta, úsáid teoranta an dá dhoiciméad
-Freagra lag 0 - 5M frithráiteach nó mearaithe, úsáid teoranta an dá dhoiciméad"
+Freagra lag 0 - 5M frithráiteach nó mearaithe, úsáid teoranta an dá dhoiciméad",ir_b.png,,,
 "Doiciméad A: Breithniú ar Ionadaíocht na mBan sa Pholaitíocht ar fud na hEorpa – Staidéar le 
 Brúghrúpa Mhná na hEorpa, Márta 2023.
 Rinne Brúghrúpa Mhná na hEorpa (EWL) an taighde seo le tacaíocht ó Wilson
@@ -606,12 +604,12 @@ bhfeidhm faoi láthair do Thoghcháin Áitiúla (áit a dtosaíonn go leor polai
 polaitíochta), ná don Seanad.Spreagann ceist na gcuótaí sa pholaitíocht neart plé – ní maith le daoine
 áirithe cuótaí, ach is maith linne an méid a bhaintear amach leo, is é sin, preab ghearr, ghéar a
 bhaint as an gcóras polaitíochta a spreagann athruithe tapa.
-(g) Agus úsáid á baint agat as an eolas sa dá dhoiciméad agus as an ráiteas thíos ó Dhoiciméad B,
+Agus úsáid á baint agat as an eolas sa dá dhoiciméad agus as an ráiteas thíos ó Dhoiciméad B,
 déan anailís chriticiúil ar úsáid cuótaí chun dul i ngleic leis an éagrothroime inscne i gcóras
 polaitíochta na hÉireann
 Spreagann ceist na gcuótaí sa pholaitíocht neart plé – ní maith le daoine áírithe cuótaí, ach
 is maith linne an méid a bhaintear amach leo, is é sin, preab ghearr, ghéar a bhaint as an
-gcóras polaitíochta a spreagann athruithe tapa.","mages/politics_and_society/problem/ir_b.png","Critíc (30 marc)
+gcóras polaitíochta a spreagann athruithe tapa.","Critíc (30 marc)
 An-Mhaith 24 - 30M fócasaithe, léargasach
 Maith 17 - 23M comhleanúnach, ábhartha
 Réasúnta 9 - 16M teoranta, lochtach
@@ -620,15 +618,15 @@ Lag 0 - 8M mearaithe, míchruinn.
 An-Mhaith 16 - 20M úsáid chuimsitheach as doiciméid
 Maith 11 - 15M úsáid bhunúsach as doiciméid
 Réasúnta 6 - 10M úsáid theoranta as doiciméid
-Lag 0 - 5M tá úsáid na ndoiciméad doiléir nó míchruinn."
+Lag 0 - 5M tá úsáid na ndoiciméad doiléir nó míchruinn.",ir_b.png,,,
 "Pléigh tionchar an domhandaithe ar an náisiúnachas agus/nó ar an bhféiniúlacht chultúrtha, 
 agus tagairt agat do theoiricí an smaointeora thábhachtaigh Thomas Hylland Eriksen. 
 [Ba cheart samplaí agus fianaise chomhaimseartha ó chomhthéacs náisiúnta agus/nó domhanda
-a bheith i do fhreagra chun tacú le d’argóint.]","","Aiste dhioscúrsach a mharcáil:
+a bheith i do fhreagra chun tacú le d’argóint.]","Aiste dhioscúrsach a mharcáil:
 1. Léigh an aiste go léir gan aon mharcanna a bhronnadh.
 2. Marcáil an aiste ag baint úsáid as an gcritéir marcála agus cur na marcanna le chéile.
 3. Déan athbhreithniú ar an marc iomlán a bhronntar ag baint úsáid as na tuairiscíní banda gráid.
-4. Chun an t-athbhreithniú mairc iomláin a chur i gcrích arís ag baint úsáid as an gcritéir."
+4. Chun an t-athbhreithniú mairc iomláin a chur i gcrích arís ag baint úsáid as an gcritéir.",,,,
 "Is léiriú ar an dán ‘Home’ le Warsan Shire
 í an íomhá seo.
 Mínítear sa dán nach bhfágfadh roinnt
@@ -639,31 +637,31 @@ Déan plé ar ghéarchéim na ndídeanaithe sa domhan sa lá atá inniu ann i gc
 daonna. 
 [Ba cheart samplaí agus fianaise chomhaimseartha ó chomhthéacs náisiúnta agus/nó domhanda a
 bheith i do fhreagra chun tacú le d’argóint. Ba cheart duit tagairt a dhéanamh freisin do smaointe
-bheirt teoiricithe, agus ní mór duine amháin acu a bheith ainmnithe ar do chúrsa.] ","images/politics_and_society/problem/ir_3b.png","Aiste dhioscúrsach a mharcáil:
+bheirt teoiricithe, agus ní mór duine amháin acu a bheith ainmnithe ar do chúrsa.] ","Aiste dhioscúrsach a mharcáil:
 1. Léigh an aiste go léir gan aon mharcanna a bhronnadh.
 2. Marcáil an aiste ag baint úsáid as an gcritéir marcála agus cur na marcanna le chéile.
 3. Déan athbhreithniú ar an marc iomlán a bhronntar ag baint úsáid as na tuairiscíní banda gráid.
-4. Chun an t-athbhreithniú mairc iomláin a chur i gcrích arís ag baint úsáid as an gcritéir."
+4. Chun an t-athbhreithniú mairc iomláin a chur i gcrích arís ag baint úsáid as an gcritéir.",ir_3b.png,,,
 "Ar cheart go mbeadh cead ag rialtais smacht a ghabháil ar na meáin shóisialta le linn tréimhsí 
 corraíola sóisialta nó polaitiúla? 
 [Ba cheart samplaí agus fianaise chomhaimseartha ó chomhthéacs áitiúil agus/nó domhanda a
 bheith i do fhreagra chun tacú le d’argóint. Ba cheart duit tagairt a dhéanamh freisin do smaointe
-bheirt teoiricithe, agus ní mór duine amháin acu a bheith ainmnithe ar do chúrsa.] ","","Aiste dhioscúrsach a mharcáil:
+bheirt teoiricithe, agus ní mór duine amháin acu a bheith ainmnithe ar do chúrsa.] ","Aiste dhioscúrsach a mharcáil:
 1. Léigh an aiste go léir gan aon mharcanna a bhronnadh.
 2. Marcáil an aiste ag baint úsáid as an gcritéir marcála agus cur na marcanna le chéile.
 3. Déan athbhreithniú ar an marc iomlán a bhronntar ag baint úsáid as na tuairiscíní banda gráid.
-4. Chun an t-athbhreithniú mairc iomláin a chur i gcrích arís ag baint úsáid as an gcritéir."
+4. Chun an t-athbhreithniú mairc iomláin a chur i gcrích arís ag baint úsáid as an gcritéir.",,,,
 "Breis is 50 bliain ó shin, dúirt iarArd-Rúnaí na Náisiún Aontaithe Dag Hammarskjöld, ‘Níor
 bunaíodh na Náisiúin Aontaithe sa chaoi go rachaimis chun na bhflaitheas, ach sa chaoi nach
 rachaimis go hifreann.’
 An bhfuil na Náisiúin Aontaithe fós oiriúnach don fheidhm sa lá atá inniu ann? 
 [Ba cheart samplaí agus fianaise chomhaimseartha ó chomhthéacs áitiúil agus/nó domhanda a
 bheith i do fhreagra chun tacú le d’argóint. Ba cheart duit tagairt a dhéanamh freisin do thuairimí
-ar a laghad teoiricí amháin atá ainmnithe ar do chúrsa.] ","","Aiste dhioscúrsach a mharcáil:
+ar a laghad teoiricí amháin atá ainmnithe ar do chúrsa.] ","Aiste dhioscúrsach a mharcáil:
 1. Léigh an aiste go léir gan aon mharcanna a bhronnadh.
 2. Marcáil an aiste ag baint úsáid as an gcritéir marcála agus cur na marcanna le chéile.
 3. Déan athbhreithniú ar an marc iomlán a bhronntar ag baint úsáid as na tuairiscíní banda gráid.
-4. Chun an t-athbhreithniú mairc iomláin a chur i gcrích arís ag baint úsáid as an gcritéir."
+4. Chun an t-athbhreithniú mairc iomláin a chur i gcrích arís ag baint úsáid as an gcritéir.",,,,
 "Níl 42% de phobal na hÉireann sásta leis an an tslí
 a n-oibríonn an daonlathas in Éirinn.
 hƩps://europa.eu/eurobarometer/surveys/detail/2966
@@ -671,11 +669,11 @@ Déan measúnú ar an toradh seo ó shuirbhé de chuid Eurobarometer, a rinneadh
 Choimisiúin Eorpaigh agus a foilsíodh i mí na Nollag 2023.
 [Ba cheart samplaí agus fianaise chomhaimseartha a bheith i do fhreagra chun tacú le d’argóint. Ba
 cheart duit tagairt a dhéanamh freisin do smaointe bheirt teoiricithe, agus ní mór duine amháin
-acu a bheith ainmnithe ar do chúrsa.] ","","Aiste dhioscúrsach a mharcáil:
+acu a bheith ainmnithe ar do chúrsa.] ","Aiste dhioscúrsach a mharcáil:
 1. Léigh an aiste go léir gan aon mharcanna a bhronnadh.
 2. Marcáil an aiste ag baint úsáid as an gcritéir marcála agus cur na marcanna le chéile.
 3. Déan athbhreithniú ar an marc iomlán a bhronntar ag baint úsáid as na tuairiscíní banda gráid.
-4. Chun an t-athbhreithniú mairc iomláin a chur i gcrích arís ag baint úsáid as an gcritéir."
+4. Chun an t-athbhreithniú mairc iomláin a chur i gcrích arís ag baint úsáid as an gcritéir.",,,,
 "Ní fiú comhaontú mura gcuirtear i bhfeidhm é. Níl sa chomhréiteach stairiúil seo
  ach tús an aistir.
 H.E. Dr. Sultan Ahmed Al Jaber, Uachtarán, COP28 UAE.
@@ -686,8 +684,8 @@ Déan measúnú criticiúil ar an ról atá ag comhaontuithe idirnáisiúnta chu
 a bhaint amach. 
 [Ba cheart samplaí agus fianaise chomhaimseartha a bheith i do fhreagra chun tacú le d’argóint. Ba
 cheart duit tagairt a dhéanamh freisin do smaointe ar a laghad teoiricí amháin atá ainmnithe ar do
-chúrsa.] ","","Aiste dhioscúrsach a mharcáil:
+chúrsa.] ","Aiste dhioscúrsach a mharcáil:
 1. Léigh an aiste go léir gan aon mharcanna a bhronnadh.
 2. Marcáil an aiste ag baint úsáid as an gcritéir marcála agus cur na marcanna le chéile.
 3. Déan athbhreithniú ar an marc iomlán a bhronntar ag baint úsáid as na tuairiscíní banda gráid.
-4. Chun an t-athbhreithniú mairc iomláin a chur i gcrích arís ag baint úsáid as an gcritéir."
+4. Chun an t-athbhreithniú mairc iomláin a chur i gcrích arís ag baint úsáid as an gcritéir.",,,,

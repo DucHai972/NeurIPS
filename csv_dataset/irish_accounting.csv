@@ -1,5 +1,5 @@
-"problem","image_problem","image2_problem","answer","image_answer","image2_answer"
-"(A) Cuntais Deiridh Cuideachta
+problem,answer,problem_image_1,problem_image_2,answer_image_1,answer_image_2
+"Cuntais Deiridh Cuideachta
  Tá caipiteal údaraithe de €1,600,000 ag Yeats Teo. roinnte ina 1,000,000 gnáthscair ar €1 an
 ceann agus 600,000 scair thosaíochta 4% ar €1 an ceann. Baineadh an comhardú trialach seo
 a leanas as na leabhair ar an 31/12/2023: 
@@ -39,8 +39,8 @@ aghaidh na míosa ag tosú ar 01/06/2023.
 2. Go ndéanfaí soláthar in aghaidh drochfhiach a choigeartú go 4% d’fhéichiúnaithe.
  3. Gur cheart €20,000 a aistriú ó bhrabús go dtí an cúlchiste caipitil.
 Iarrtar ort:
-(a) Cuntas trádála, brabúis agus caillteanais a ullmhú don bhliain dar críoch 31/12/2023","images/accounting/problem/ir_1a.png","","","images/accounting/answer/ir_1a_a.png",""
-"(A) Cuntais Deiridh Cuideachta
+Cuntas trádála, brabúis agus caillteanais a ullmhú don bhliain dar críoch 31/12/2023",,ir_1a.png,,ir_1a_a.png,
+"Cuntais Deiridh Cuideachta
  Tá caipiteal údaraithe de €1,600,000 ag Yeats Teo. roinnte ina 1,000,000 gnáthscair ar €1 an
 ceann agus 600,000 scair thosaíochta 4% ar €1 an ceann. Baineadh an comhardú trialach seo
 a leanas as na leabhair ar an 31/12/2023: 
@@ -80,8 +80,8 @@ aghaidh na míosa ag tosú ar 01/06/2023.
 2. Go ndéanfaí soláthar in aghaidh drochfhiach a choigeartú go 4% d’fhéichiúnaithe.
  3. Gur cheart €20,000 a aistriú ó bhrabús go dtí an cúlchiste caipitil.
 Iarrtar ort:
-(b) Clár comhardaithe a ullmhú mar a bhí ar 31/12/2023. ","images/accounting/problem/ir_1a.png","","","images/accounting/answer/ir_1a_b_1.png","images/accounting/answer/ir_1a_b_2.png"
-"(B) Cuntais Deiridh Cuideachta agus Cuntas Déantúsaíochta san áireamh
+Clár comhardaithe a ullmhú mar a bhí ar 31/12/2023. ",,ir_1a.png,,ir_1a_b_1.png,ir_1a_b_2.png
+"Cuntais Deiridh Cuideachta agus Cuntas Déantúsaíochta san áireamh
 Tá caipiteal údaraithe de €1,500,000 ag Ó Seasnáin Teo. roinnte ina 1,100,000 gnáthscair ar
 €1 an ceann agus 400,000 scair thosaíochta 4% ar €1 an ceann. Baineadh an comhardú
 trialach seo a leanas as na leabhair ar 31/12/2023:
@@ -127,9 +127,9 @@ leabhair.
 féichiúnaithe.
 3. €20,000 a aistriú ó bhrabús chuig an gcúlchiste caipitil.
 Iarrtar ort:
-(a) Cuntas déantúsaíochta, trádála, brabúis agus caillteanais a ullmhú don bhliain dar
- críoch 3","images/accounting/problem/ir_1b.png","","","images/accounting/answer/ir_1b_a_1.png","images/accounting/answer/ir_1b_a_2.png"
-"(B) Cuntais Deiridh Cuideachta agus Cuntas Déantúsaíochta san áireamh
+Cuntas déantúsaíochta, trádála, brabúis agus caillteanais a ullmhú don bhliain dar
+ críoch 3",,ir_1b.png,,ir_1b_a_1.png,ir_1b_a_2.png
+"Cuntais Deiridh Cuideachta agus Cuntas Déantúsaíochta san áireamh
 Tá caipiteal údaraithe de €1,500,000 ag Ó Seasnáin Teo. roinnte ina 1,100,000 gnáthscair ar
 €1 an ceann agus 400,000 scair thosaíochta 4% ar €1 an ceann. Baineadh an comhardú
 trialach seo a leanas as na leabhair ar 31/12/2023:
@@ -175,7 +175,7 @@ leabhair.
 féichiúnaithe.
 3. €20,000 a aistriú ó bhrabús chuig an gcúlchiste caipitil.
 Iarrtar ort:
-(b) Clár comhardaithe a ullmhú mar a bhí ar an 31/12/2023. ","images/accounting/problem/ir_1b.png","","","images/accounting/answer/ir_1b_b_1.png","images/accounting/answer/ir_1b_b_2.png"
+Clár comhardaithe a ullmhú mar a bhí ar an 31/12/2023. ",,ir_1b.png,,ir_1b_b_1.png,ir_1b_b_2.png
 "2. Cuntais Fhoilsithe
 Tá scairchaipiteal údaraithe de €850,000 ag Ó Laighin cpt roinnte ina 650,000 gnáthscair ar €1
 an ceann agus 200,000 scair thosaíochta 4% ar €1 an ceann. Baineadh an comhardú trialach seo
@@ -198,13 +198,13 @@ cothrom.
 (vi) Déan soláthar d’ús bintiúir dlite, ioncam infheistíochta dlite, táillí iniúchóra €8,500 agus
 cáin chorparáide €87,000.
  Iarrtar ort:
- (a) An cuntas brabúis agus caillteanais foilsithe a ullmhú don bhliain dar críoch 31/12/2023 de
+ An cuntas brabúis agus caillteanais foilsithe a ullmhú don bhliain dar críoch 31/12/2023 de
 réir Acht na gCuideachtaí agus na gcaighdeán cuntasaíochta cuí, a thaispeánann na nótaí
 seo a leanas:
 1. Nóta ar bheartas cuntasaíochta faoi shócmhainní seasta inláimhsithe agus stoc
 2. Brabús oibriúcháin
 3. Díbhinní
-4. Sócmhainní seasta inláimhsithe. ","images/accounting/problem/ir_2.png","","Nótaí leis na Cuntais
+4. Sócmhainní seasta inláimhsithe. ","Nótaí leis na Cuntais
 1 Nótaí ar Bheartas Cuntasaíochta [4]
  Sócmhainní Seasta Inláimhsithe
 Rinneadh athluacháil ar fhoirgnimh ag deireadh 2023 agus tá siad curtha san
@@ -227,7 +227,7 @@ ag an gcostas nó an glanluach inréadaithe, cibé acu is ísle.
  Íocadh 5.8 cent in aghaidh na scaire 29,000
  Díbhinní Tosaíochta
  Íocadh 4.0 cent in aghaidh na scaire 6,000
-4 Sócmhainní Seasta Inláimhsithe [7]","images/accounting/answer/ir_2a_1.png","images/accounting/answer/ir_2a_2.png"
+4 Sócmhainní Seasta Inláimhsithe [7]",ir_2.png,,ir_2a_1.png,ir_2a_2.png
 "2. Cuntais Fhoilsithe
 Tá scairchaipiteal údaraithe de €850,000 ag Ó Laighin cpt roinnte ina 650,000 gnáthscair ar €1
 an ceann agus 200,000 scair thosaíochta 4% ar €1 an ceann. Baineadh an comhardú trialach seo
@@ -250,9 +250,9 @@ cothrom.
 (vi) Déan soláthar d’ús bintiúir dlite, ioncam infheistíochta dlite, táillí iniúchóra €8,500 agus
 cáin chorparáide €87,000.
  Iarrtar ort:
- (b) (i) An téarma mír eisceachtúil a mhíniú agus tagairt agat do chuntais Uí Laighin cpt.
+ (i) An téarma mír eisceachtúil a mhíniú agus tagairt agat do chuntais Uí Laighin cpt.
 (ii) Cad iad na rialacháin nach mór de Chuntasóirí a chomhlíonadh nuair a bhíonn
-ráiteas airgeadais a n-ullmhú acu lena bhfoilsiú? ","images/accounting/problem/ir_2.png","","(i) Is éard is mír ábhartha de mhéid suntasach ann ná mír eisceachtúil. Is brabús nó caillteanas
+ráiteas airgeadais a n-ullmhú acu lena bhfoilsiú? ","(i) Is éard is mír ábhartha de mhéid suntasach ann ná mír eisceachtúil. Is brabús nó caillteanas
 é agus ní mór é a thaispeáint ar leithligh sa chuntas brabúis agus caillteanais mar gheall ar
 a mhéid. In Lyne Cpt is sampla de mhír eisceachtúil é an brabús ar dhíolachán talún de
 €60,000.
@@ -261,7 +261,7 @@ An Rialtas – Reachtaíocht
 An tAontas Eorpach – Treoracha
 Boird na gCaighdeán Cuntasaíochta-FRS agus SSAPanna.
 An Stocmhalartán-Rialaithe Liostaithe 
-","",""
+",ir_2.png,,,
 "Cuntais Feirme
 Ar na sócmhainní agus na dliteanais atá ag E. Pléimeann a bhfuil gnó beag feirmeoireachta
 measctha ar siúl aige, ar an 01/01/2023, tá:
@@ -286,7 +286,7 @@ bhí ar an talamh ar a chostas.)
 (vii) Ar an 31/12/2023 bhí seic bainne €6,950 dlite, bhí €750 dlite do chreidiúnaithe ar
 leasachán agus b’fhiú €450 an stoc breosla.
 Iarrtar ort:
-(a) Ráiteas caipitil Phléimeann ar 01/01/2023 a ullmhú","images/accounting/problem/ir_3.png","","","images/accounting/answer/ir_3a.png",""
+Ráiteas caipitil Phléimeann ar 01/01/2023 a ullmhú",,ir_3.png,,ir_3a.png,
 "Cuntais Feirme
 Ar na sócmhainní agus na dliteanais atá ag E. Pléimeann a bhfuil gnó beag feirmeoireachta
 measctha ar siúl aige, ar an 01/01/2023, tá:
@@ -311,8 +311,8 @@ bhí ar an talamh ar a chostas.)
 (vii) Ar an 31/12/2023 bhí seic bainne €6,950 dlite, bhí €750 dlite do chreidiúnaithe ar
 leasachán agus b’fhiú €450 an stoc breosla.
 Iarrtar ort:
-(b) Cuntas anailíse fiontair do ‘eallach agus bainne’ agus ‘caoirigh’ don bhliain dar críoch
-31/12/2023 a ullmhú.","images/accounting/problem/ir_3.png","","","images/accounting/answer/ir_3b_1.png","images/accounting/answer/ir_3b_2.png"
+Cuntas anailíse fiontair do ‘eallach agus bainne’ agus ‘caoirigh’ don bhliain dar críoch
+31/12/2023 a ullmhú.",,ir_3.png,,ir_3b_1.png,ir_3b_2.png
 "Cuntais Feirme
 Ar na sócmhainní agus na dliteanais atá ag E. Pléimeann a bhfuil gnó beag feirmeoireachta
 measctha ar siúl aige, ar an 01/01/2023, tá:
@@ -337,8 +337,8 @@ bhí ar an talamh ar a chostas.)
 (vii) Ar an 31/12/2023 bhí seic bainne €6,950 dlite, bhí €750 dlite do chreidiúnaithe ar
 leasachán agus b’fhiú €450 an stoc breosla.
 Iarrtar ort:
-(c) Cuntas ginearálta brabúis agus caillteanais Phléimeann don bhliain dar críoch 31/12/2023
-a ullmhú. ","images/accounting/problem/ir_3.png","","","images/accounting/answer/ir_3c.png",""
+Cuntas ginearálta brabúis agus caillteanais Phléimeann don bhliain dar críoch 31/12/2023
+a ullmhú. ",,ir_3.png,,ir_3c.png,
 "Cuntais Feirme
 Ar na sócmhainní agus na dliteanais atá ag E. Pléimeann a bhfuil gnó beag feirmeoireachta
 measctha ar siúl aige, ar an 01/01/2023, tá:
@@ -363,17 +363,17 @@ bhí ar an talamh ar a chostas.)
 (vii) Ar an 31/12/2023 bhí seic bainne €6,950 dlite, bhí €750 dlite do chreidiúnaithe ar
 leasachán agus b’fhiú €450 an stoc breosla.
 Iarrtar ort:
-(d) Tá Pléimeann ag smaoineamh ar uasghrádú a dhéanamh ar an bhfeirm
+Tá Pléimeann ag smaoineamh ar uasghrádú a dhéanamh ar an bhfeirm
 agus grianphainéil a shuiteáil ar chostas €100,000 (glanchostas tar éis
 deontas). Tá measta aige go ndéanfadh sé sin laghdú 40% ar chostais fuinnimh.
 D’iarr Pléimeann ort comhairle a chur air maidir leis na himpleachtaí airgeadais a
 bhainfeadh le grianphainéil a shuiteáil. Bunaithe ar na cuntais atá ullmhaithe agat,
-cén chomhairle a chuirfeá air? ","images/accounting/problem/ir_3.png","","Mholfainn do Fleming na Painéil Gréine a shuiteáil
+cén chomhairle a chuirfeá air? ","Mholfainn do Fleming na Painéil Gréine a shuiteáil
 Dhéanfaí laghdú €16,747/€18,608 in aghaidh na bliana ar an mbille solais agus teasa.
 Mar thoradh air sin, mhéadódh an brabús agus ghnóthódh an gnólacht infheistíocht de
 €100,000 in thart ar 6 bliana.
 Tá neart airgid ag an ngnólacht feirme chun an €100,000 a mhaoiniú mar go bhfuil €32,605 sa
-bhanc agus €120,000 in infheistíochtaí aige agus tá sé díreach i ndiaidh €30,000 a aisíoc.","images/accounting/answer/ir_3d.png",""
+bhanc agus €120,000 in infheistíochtaí aige agus tá sé díreach i ndiaidh €30,000 a aisíoc.",ir_3.png,,ir_3d.png,
 "Dímheas ar Shócmhainní Seasta
 Ullmhaíonn Trucailí Cobra Teo. a gcuntais deiridh go dtí 31 Nollaig gach bliain. Is é polasaí
 na cuideachta a gcuid trucailí a dhímheas de réir méid cothrom thar 5 bliana.
@@ -394,7 +394,7 @@ a chosain €88,000. Fuair an chuideachta cúiteamh ón gcuideachta árachais da
 €26,000 agus íocadh seic €65,000 ar an bhfeithicil nua.
 Iarrtar ort iad seo thíos, mar aon leis an oibriú amach, a thaispeáint do gach ceann den dá
 bhliain 2022 agus 2023:
-(a) Cuntas na dTrucailí.","","","","images/accounting/answer/ir_4a.png",""
+Cuntas na dTrucailí.",,,,ir_4a.png,
 "Dímheas ar Shócmhainní Seasta
 Ullmhaíonn Trucailí Cobra Teo. a gcuntais deiridh go dtí 31 Nollaig gach bliain. Is é polasaí
 na cuideachta a gcuid trucailí a dhímheas de réir méid cothrom thar 5 bliana.
@@ -415,7 +415,7 @@ a chosain €88,000. Fuair an chuideachta cúiteamh ón gcuideachta árachais da
 €26,000 agus íocadh seic €65,000 ar an bhfeithicil nua.
 Iarrtar ort iad seo thíos, mar aon leis an oibriú amach, a thaispeáint do gach ceann den dá
 bhliain 2022 agus 2023:
-(b) An Cuntas Soláthair in aghaidh Dímheasa.","","","","images/accounting/answer/ir_4b.png",""
+An Cuntas Soláthair in aghaidh Dímheasa.",,,,ir_4b.png,
 "Dímheas ar Shócmhainní Seasta
 Ullmhaíonn Trucailí Cobra Teo. a gcuntais deiridh go dtí 31 Nollaig gach bliain. Is é polasaí
 na cuideachta a gcuid trucailí a dhímheas de réir méid cothrom thar 5 bliana.
@@ -436,7 +436,7 @@ a chosain €88,000. Fuair an chuideachta cúiteamh ón gcuideachta árachais da
 €26,000 agus íocadh seic €65,000 ar an bhfeithicil nua.
 Iarrtar ort iad seo thíos, mar aon leis an oibriú amach, a thaispeáint do gach ceann den dá
 bhliain 2022 agus 2023:
-(c) An Cuntas Diúscartha Trucailí.","","","","images/accounting/answer/ir_4c_1.png","images/accounting/answer/ir_4c_2.png"
+An Cuntas Diúscartha Trucailí.",,,,ir_4c_1.png,ir_4c_2.png
 "Dímheas ar Shócmhainní Seasta
 Ullmhaíonn Trucailí Cobra Teo. a gcuntais deiridh go dtí 31 Nollaig gach bliain. Is é polasaí
 na cuideachta a gcuid trucailí a dhímheas de réir méid cothrom thar 5 bliana.
@@ -457,9 +457,9 @@ a chosain €88,000. Fuair an chuideachta cúiteamh ón gcuideachta árachais da
 €26,000 agus íocadh seic €65,000 ar an bhfeithicil nua.
 Iarrtar ort iad seo thíos, mar aon leis an oibriú amach, a thaispeáint do gach ceann den dá
 bhliain 2022 agus 2023:
-(d) (i) Cén fáth a ngearrann cuideachta dímheas agus brabúis á ríomh aici?
+(i) Cén fáth a ngearrann cuideachta dímheas agus brabúis á ríomh aici?
 (ii) Mínigh an téarma ‘saolré eacnamaíoch fhónta’ mar a bhaineann le sócmhainní
-seasta.","","","(i)
+seasta.","(i)
 Gearrtar dímheas chun costas/luach sócmhainní seasta a dhíscríobh thar a saolré fhiúntach. Is
 speansas é dímheas sa Chuntas Brabúis agus Caillteanais. Mura gcuirtear dímheas sna cuntais
 deiridh d’fhéadfaí áibhéil a dhéanamh faoin mbrabús agus d’fhéadfaí áibhéil a dhéanamh faoin
@@ -472,34 +472,34 @@ n-imeoidh sí as feidhm nó nach mbeidh sé costéifeachtach í a úsáid a thui
 dímheas ar shócmhainn go dtí nach bhfuil sí úsáideach don ghnólacht a thuilleadh, deirtear go
 bhfuil sí imithe thar a saolré eacnamaíoch. Mar shampla, ceannaíonn gnólacht Mótarfheithicil ar
 féidir í a úsáid ar feadh 5 bliana ach ní bheidh aon luach dramhábhair uirthi ag deireadh na 5 bliana.
-Déanfaidh an chuideachta í a dhímheas faoi 20% in aghaidh na bliana thar an tréimhse 5 bliana.","",""
+Déanfaidh an chuideachta í a dhímheas faoi 20% in aghaidh na bliana thar an tréimhse 5 bliana.",,,,
 "5. Léirmhíniú Cuntas
 Baineadh na figiúirí thíos as cuntais deiridh Uí Ceallaigh cpt, cuideachta in earnáil an fhuinnimh inathnuaite, don bhliain dar críoch 31/12/2023. Tá caipiteal údaraithe €800,000 ag an gcuideachta atá
 comhdhéanta de 600,000 gnáthscair ar €1 an ceann agus 200,000 scair thosaíochta 4% ar €1 an ceann.
 Tá 400,000 gnáthscair agus 40,000 scair thosaíochta 4% eisithe ag an gcuideachta cheana féin.
-(a) Iarrtar ort iad seo a leanas a ríomh do 2023:
+Iarrtar ort iad seo a leanas a ríomh do 2023:
 (ba chóir an t-áireamh a dhéanamh go dtí dhá ionad dheachúlacha nuair is cuí).
 
 (i) An stoc deiridh más é 10 ráta láimhdeachais an stoic, bunaithe ar an meánstoc.
 (ii) An toradh ar chaipiteal in úsáid
 (iii) An cóimheas idir praghas agus tuilleamh
 (iv) Giaráil.
-(v) Toradh díbhinne.","images/accounting/problem/ir_5_1.png","images/accounting/problem/ir_5_2.png","(c) Tá sé socraithe ag cara leat €20,000 a infheistiú i scaireanna in Ó Ceallaigh cpt agus d’iarr
+(v) Toradh díbhinne.","Tá sé socraithe ag cara leat €20,000 a infheistiú i scaireanna in Ó Ceallaigh cpt agus d’iarr
 do chara comhairle ort. Tá sé de rogha aige/aici
 - gnáthscaireanna a cheannach ar luach an mhargaidh (€1.25) nó
 - scaireanna tosaíochta 4% a cheannach ar a luach ainmniúil €1 an ceann.
 (i) Déan idirdhealú idir gnáthscaireanna agus scaireanna tosaíochta.
 (ii) Bunaithe ar an anailís a rinne tú ar chuntais Uí Cheallaigh cpt, cén chomhairle a
-thabharfá?","",""
+thabharfá?",ir_5_1.png,ir_5_2.png,,
 "5. Léirmhíniú Cuntas
 Baineadh na figiúirí thíos as cuntais deiridh Uí Ceallaigh cpt, cuideachta in earnáil an fhuinnimh inathnuaite, don bhliain dar críoch 31/12/2023. Tá caipiteal údaraithe €800,000 ag an gcuideachta atá
 comhdhéanta de 600,000 gnáthscair ar €1 an ceann agus 200,000 scair thosaíochta 4% ar €1 an ceann.
 Tá 400,000 gnáthscair agus 40,000 scair thosaíochta 4% eisithe ag an gcuideachta cheana féin.
-(b) Comhairle a chur ar an mbainisteoir bainc cé acu ba chóir nó nár chóir iasacht €200,000,
+Comhairle a chur ar an mbainisteoir bainc cé acu ba chóir nó nár chóir iasacht €200,000,
 ar a ngearrfaí ráta 9%, a thabhairt do Ó Ceallaigh cpt.
 Iasacht is ea í chun uasghrádú ar threalamh déantúsaíochta a mhaoiniú.
 Úsáid cóimheasa agus céatadáin ábhartha chomh maith le heolas eile chun tacú le do
-fhreagra. ","images/accounting/problem/ir_5_1.png","images/accounting/problem/ir_5_2.png","Dhéanfadh bainisteoir an Bhainc anailís ar an bhfeidhmíocht, ar an staid gnóthaí agus ar ionchais na
+fhreagra. ","Dhéanfadh bainisteoir an Bhainc anailís ar an bhfeidhmíocht, ar an staid gnóthaí agus ar ionchais na
 cuideachta faoi na ceannteidil seo a leanas:
 Cuspóir[2]
 Bheadh an bainisteoir bainc ag iarraidh an chúis atá leis an iasacht a fháil amach atá faoi choinne an
@@ -574,25 +574,25 @@ bogadh ar shiúl ó bheith ag brath ar bhreoslaí iontaise agus ó bhillí fuinn
 gheall ar dhálaí eacnamaíocha luaineacha.
 Conclúid: [1]
 • Ba cheart do bhainisteoir an bhainc an iasacht a dheonú toisc go bhfuil an chuideachta
-brabúsach, leachtach agus go bhfuil sí giaráilte go híseal.","",""
+brabúsach, leachtach agus go bhfuil sí giaráilte go híseal.",ir_5_1.png,ir_5_2.png,,
 "5. Léirmhíniú Cuntas
 Baineadh na figiúirí thíos as cuntais deiridh Uí Ceallaigh cpt, cuideachta in earnáil an fhuinnimh inathnuaite, don bhliain dar críoch 31/12/2023. Tá caipiteal údaraithe €800,000 ag an gcuideachta atá
 comhdhéanta de 600,000 gnáthscair ar €1 an ceann agus 200,000 scair thosaíochta 4% ar €1 an ceann.
 Tá 400,000 gnáthscair agus 40,000 scair thosaíochta 4% eisithe ag an gcuideachta cheana féin.
-(c) Tá sé socraithe ag cara leat €20,000 a infheistiú i scaireanna in Ó Ceallaigh cpt agus d’iarr
+Tá sé socraithe ag cara leat €20,000 a infheistiú i scaireanna in Ó Ceallaigh cpt agus d’iarr
 do chara comhairle ort. Tá sé de rogha aige/aici
 - gnáthscaireanna a cheannach ar luach an mhargaidh (€1.25) nó
 - scaireanna tosaíochta 4% a cheannach ar a luach ainmniúil €1 an ceann.
 (i) Déan idirdhealú idir gnáthscaireanna agus scaireanna tosaíochta.
 (ii) Bunaithe ar an anailís a rinne tú ar chuntais Uí Cheallaigh cpt, cén chomhairle a
-thabharfá?","images/accounting/problem/ir_5_1.png","images/accounting/problem/ir_5_2.png","(c) (i)
+thabharfá?","(i)
 Tá ráta na Díbhinní socraithe do scaireanna Tosaíochta. Níl aon ráta seasta díbhinne ann
 do ghnáthscaireanna.
 Níl aon chearta vótála ag scairshealbhóirí tosaíochta maidir le cinntí ríthábhachtacha a
 dhéanamh a bhaineann leis an gcuideachta. Tá cearta vótála ag gnáth-scairshealbhóirí.
 Tugtar tús áite do scairshealbhóirí tosaíochta maidir le díbhinn a íoc. Íoctar díbhinn le
 Gnáth-scairshealbhóirí má tá dóthain brabúis ag an gcuideachta chun an íocaíocht a chlúdach.
-(c) (ii)
+(ii)
 
 Dá gceannófaí Gnáthscaireanna dar luach €20,000 in Ó Ceallaigh cpt, thabharfaí 16,000
 gnáthscair don infheisteoir sa chuideachta. Ar an DPS reatha gheobhadh an t-infheisteoir
@@ -603,7 +603,7 @@ Dá gceannófaí luach €20,000 de scaireanna Tosaíochta thabharfaí díbhinn 
 chuideachta.
 Mholfainn do mo chara na scaireanna tosaíochta a cheannach más mian leo toradh ráthaithe
 a fháil ar a gcuid airgid ach má tá siad sásta dul san fhiontar, d’fhéadfadh siad toradh níos
-fearr a fháil ar a n-infheistíocht má cheannaíonn siad gnáthscaireanna. ","",""
+fearr a fháil ar a n-infheistíocht má cheannaíonn siad gnáthscaireanna. ",ir_5_1.png,ir_5_2.png,,
 "6. Ráiteas faoi Shreabhadh Airgid
 Is iad seo a leanas na cláir chomhardaithe ag Simpson cpt mar a bhí ar an 31/12/2023 agus
 31/12/2022: 
@@ -617,10 +617,10 @@ ann ar an 31/12/2023.
 (v) Gearradh cáin chorparáide €45,000 ar bhrabúis do 2023.
 (vi) Tá an phaitinn á díscríobh thar thréimhse sé bliana a thosaigh in 2022.
 Iarrtar ort:
-(a) (i) Cuntas brabúis agus caillteanais giorraithe a ullmhú chun an brabús oibriúcháin don
+(i) Cuntas brabúis agus caillteanais giorraithe a ullmhú chun an brabús oibriúcháin don
 bhliain dar críoch 31/12/2023 a fháil.
 (ii) Ráiteas ar shreabhadh airgid Simpson cpt a ullmhú don bhliain dar críoch 31/12/2023,
- ráitis imréitigh","images/accounting/problem/ir_6.png","","(a) (i)
+ ráitis imréitigh","(i)
  Cuntas Brabúis & Caillteanais Giorraithe don bhliain dar críoch 31/12/2023
 
 Brabús Oibriúcháin 92,000 [2]
@@ -681,7 +681,7 @@ Airgead tirim a úsáideadh chun Urrúis Rialtais a Cheannach 8,000 [1]
 Ceannach Bintiúr (10,000) [1] (2,000)
 Athrú ar Ghlanfhiachas 3,310
 Glanfhiachas 1/1/2023 (110,630) [1]
-Glanfhiachas 31/12/2023 (107,320) [1]","",""
+Glanfhiachas 31/12/2023 (107,320) [1]",ir_6.png,,,
 "6. Ráiteas faoi Shreabhadh Airgid
 Is iad seo a leanas na cláir chomhardaithe ag Simpson cpt mar a bhí ar an 31/12/2023 agus
 31/12/2022: 
@@ -695,10 +695,10 @@ ann ar an 31/12/2023.
 (v) Gearradh cáin chorparáide €45,000 ar bhrabúis do 2023.
 (vi) Tá an phaitinn á díscríobh thar thréimhse sé bliana a thosaigh in 2022.
 Iarrtar ort:
-(b) (i) Breac-chuntas a thabhairt ar conas a bhaineann Simpson cpt tairbhe as ráiteas ar
+(i) Breac-chuntas a thabhairt ar conas a bhaineann Simpson cpt tairbhe as ráiteas ar
 shreabhadh airgid a ullmhú.
 (ii) Nuair a thuilltear brabús, cén fáth nach i gcónaí a bhíonn ardú comfhreagrach san
-iarmhéid airgid. Bain úsáid as figiúirí ón gceist chun tacú le do fhreagra. ","images/accounting/problem/ir_6.png","","(b)
+iarmhéid airgid. Bain úsáid as figiúirí ón gceist chun tacú le do fhreagra. ","(b)
  (i) Léiríonn brabús feidhmíocht airgeadais gnólachta ach léiríonn sreabhadh airgid thirim
 cumas gnólachta a chuid billí a íoc srl.
  Tá ráiteas ar shreabhadh airgid thirim tairbheach do ghnólacht ar na cúiseanna seo a leanas:
@@ -736,7 +736,7 @@ Bíonn tionchar ag fáltais ó Eisiúint Bintiúr ar airgead tirim ach ní bhío
 láithreach aige ar bhrabús. Fuarthas €10,000 ó eisiúint Bintiúr.
 Bíonn tionchar ag ceannach urrús rialtais ar airgead tirim ach ní bhíonn éifeacht láithreach
 aige ar bhrabús. Caitheadh €8,000 ar urrúis rialtais. 
-","",""
+",ir_6.png,,,
 "7. Ceartú Earráidí agus Cuntas Fionraí
 Níor réitigh comhardú trialach F. de Grae, mórdhíoltóir earraí leictreacha, ar an 31/12/2023.
 Iontráladh an difríocht i gcuntas fionraí agus ullmhaíodh an clár comhardaithe seo a leanas.:
@@ -762,7 +762,7 @@ thaobh an dochair de chuntas CD Leictreach Teo.
  athstocála de €200 chun costas an aischuir a chlúdach. Ba é an t-aon iontráil a rinneadh
  maidir leis an nóta sochair seo ná iontráil sochair €7,800 i gcuntas na gcreidiúnaithe.
 Iarrtar ort:
-(a) Na ceartúcháin riachtanacha a iontráil sa leabhar cúnta","images/accounting/problem/ir_7.png","","","images/accounting/answer/ir_7a.png",""
+Na ceartúcháin riachtanacha a iontráil sa leabhar cúnta",,ir_7.png,,ir_7a.png,
 "7. Ceartú Earráidí agus Cuntas Fionraí
 Níor réitigh comhardú trialach F. de Grae, mórdhíoltóir earraí leictreacha, ar an 31/12/2023.
 Iontráladh an difríocht i gcuntas fionraí agus ullmhaíodh an clár comhardaithe seo a leanas.:
@@ -788,11 +788,11 @@ thaobh an dochair de chuntas CD Leictreach Teo.
  athstocála de €200 chun costas an aischuir a chlúdach. Ba é an t-aon iontráil a rinneadh
  maidir leis an nóta sochair seo ná iontráil sochair €7,800 i gcuntas na gcreidiúnaithe.
 Iarrtar ort:
-(b) (i) An Cuntas Fionraí a ullmhú.
-(ii) An fáth nach bhfuil iarmhéid deiridh ar an gcuntas fionraí a mhíniú.","images/accounting/problem/ir_7.png","","Is é nialas an t-iarmhéid deiridh ar an gcuntas fionraí i gcónaí. Is í an chúis leis sin gur
+(i) An Cuntas Fionraí a ullmhú.
+(ii) An fáth nach bhfuil iarmhéid deiridh ar an gcuntas fionraí a mhíniú.","Is é nialas an t-iarmhéid deiridh ar an gcuntas fionraí i gcónaí. Is í an chúis leis sin gur
 cuntas sealadach é an cuntas fionraí ina bhfuil roinnt earráidí a chuireann cosc ar
 chothromaíocht an chomhardaithe trialach. Nuair a dhéantar na hearráidí sin a cheartú
-tríd an gcuntas fionraí, ba cheart go mbeadh an cuntas glan. [2]","images/accounting/answer/ir_7b.png",""
+tríd an gcuntas fionraí, ba cheart go mbeadh an cuntas glan. [2]",ir_7.png,,ir_7b.png,
 "7. Ceartú Earráidí agus Cuntas Fionraí
 Níor réitigh comhardú trialach F. de Grae, mórdhíoltóir earraí leictreacha, ar an 31/12/2023.
 Iontráladh an difríocht i gcuntas fionraí agus ullmhaíodh an clár comhardaithe seo a leanas.:
@@ -818,7 +818,7 @@ thaobh an dochair de chuntas CD Leictreach Teo.
  athstocála de €200 chun costas an aischuir a chlúdach. Ba é an t-aon iontráil a rinneadh
  maidir leis an nóta sochair seo ná iontráil sochair €7,800 i gcuntas na gcreidiúnaithe.
 Iarrtar ort:
-(c) An ráiteas ar Ghlanbhrabús ceartaithe a ullmhú. ","images/accounting/problem/ir_7.png","","","images/accounting/answer/ir_7c.png",""
+An ráiteas ar Ghlanbhrabús ceartaithe a ullmhú. ",,ir_7.png,,ir_7c.png,
 "7. Ceartú Earráidí agus Cuntas Fionraí
 Níor réitigh comhardú trialach F. de Grae, mórdhíoltóir earraí leictreacha, ar an 31/12/2023.
 Iontráladh an difríocht i gcuntas fionraí agus ullmhaíodh an clár comhardaithe seo a leanas.:
@@ -844,7 +844,7 @@ thaobh an dochair de chuntas CD Leictreach Teo.
  athstocála de €200 chun costas an aischuir a chlúdach. Ba é an t-aon iontráil a rinneadh
  maidir leis an nóta sochair seo ná iontráil sochair €7,800 i gcuntas na gcreidiúnaithe.
 Iarrtar ort:
-(d) An clár comhardaithe ceartaithe a ullmhú ","images/accounting/problem/ir_7.png","","","images/accounting/answer/ir_7d.png",""
+An clár comhardaithe ceartaithe a ullmhú ",,ir_7.png,,ir_7d.png,
 "7. Ceartú Earráidí agus Cuntas Fionraí
 Níor réitigh comhardú trialach F. de Grae, mórdhíoltóir earraí leictreacha, ar an 31/12/2023.
 Iontráladh an difríocht i gcuntas fionraí agus ullmhaíodh an clár comhardaithe seo a leanas.:
@@ -870,12 +870,12 @@ thaobh an dochair de chuntas CD Leictreach Teo.
  athstocála de €200 chun costas an aischuir a chlúdach. Ba é an t-aon iontráil a rinneadh
  maidir leis an nóta sochair seo ná iontráil sochair €7,800 i gcuntas na gcreidiúnaithe.
 Iarrtar ort:
-(e) Mínigh le sampla an bhrí atá le hearráid phrionsabail","images/accounting/problem/ir_7.png",""," Tarlaíonn earráid phrionsabail nuair a thaifeadtar mír ar an taobh ceart den aicme mhícheart
+Mínigh le sampla an bhrí atá le hearráid phrionsabail"," Tarlaíonn earráid phrionsabail nuair a thaifeadtar mír ar an taobh ceart den aicme mhícheart
 chuntais. Mar shampla, cheannaigh mórdhíoltóir leictreach Mótarfheithicil lena húsáid chun
 earraí a cheannaítear ar líne a sheachadadh, ach cuimsítear an veain sa chuntas Ceannachán
-seachas sa chuntas Mótarfheithiclí.","",""
+seachas sa chuntas Mótarfheithiclí.",ir_7.png,,,
 "Buiséid Sholúbtha agus Costáil Táirgí
-(a) Buiséid Sholúbtha
+Buiséid Sholúbtha
 Déanann Royston Teo. comhpháirt do thionscal na ríomhaireachta. Tá na buiséid
 sholúbtha seo a leanas ullmhaithe cheana féin do 50%, 75% agus 95% d’acmhainneacht
 na monarchan. 
@@ -888,7 +888,7 @@ Iarrtar ort:
 costála imeallaí agus léirigh an cion tairbhe.
 (iv) Bunaithe ar do chuid áireamh i gcuid (iii) déan an pointe cóimheá agus an lamháil
 sábháilteachta ag leibhéal gníomhaíochta 85% a ríomh do Royston.
-(v) An téarma ‘costas inrialaithe’ a mhíniú agus sampla a thabhairt. ","images/accounting/problem/ir_8a.png","","(a) Buiséid Sholúbtha
+(v) An téarma ‘costas inrialaithe’ a mhíniú agus sampla a thabhairt. ","Buiséid Sholúbtha
 (i) Forchostais Táirgthe
 Aonaid €
 
@@ -938,8 +938,8 @@ Obair:
 maoirseacht a dhéanamh orthu. Is é an bainisteoir a dhéanfaidh an cinneadh faoi mhéid
 an chostais nó ar cheart an costas a thabhú agus féadfar an fhreagracht a chur air as
 athraithis sna costais sin. m.sh. tá gach costas athraitheach inrialaithe. Is féidir leis an
-mbainisteoir coimisiúin don phearsanra díolacháin a rialú. [4]","",""
-"(b) Luacháil Stoic
+mbainisteoir coimisiúin don phearsanra díolacháin a rialú. [4]",ir_8a.png,,,
+"Luacháil Stoic
 Is siopa miondíola é Ó Tuathaigh Teo. a cheannaíonn agus a dhíolann aon earra amháin.
 Baineann an t-eolas seo thíos le ceannacháin agus díolacháin an ghnólachta don bhliain 2023. 
 Ar 01/01/2023 bhí stoc tosaigh de 5,000 aonad ann @ €8 an ceann.
@@ -948,7 +948,7 @@ Iarrtar ort:
 (Taispeáin do chuid oibre).
 (ii) Cuntas trádála a ullmhú don bhliain dar críoch 31/12/2023.
 (iii) Modh TITA (FIFO) do luacháil stoic a mhíniú agus modh amháin eile chun stoc a
-luacháil a ainmniú.","images/accounting/problem/ir_8b.png","","Luach an Stoic Deiridh:
+luacháil a ainmniú.","Luach an Stoic Deiridh:
 Stoc Tosaigh 5,000 [1]
 Ceannacháin 14,000 [1]
 Díolacháin ar Cairde (7,200) [1]
@@ -959,7 +959,7 @@ Luach an Stoic Deiridh: €
 2,600 @ 9.75 25,350 [2]
 1,500 @ 9.50 14,250 [2]
 5,300 51,600 [2]
-(b) (ii)
+(ii)
 Cuntas Trádála Touhy Teo don bhliain dar críoch 31/12/2023.
  € €
 Díolacháin 179,800 [3]
@@ -978,7 +978,7 @@ Modh malartach –
 • LIFO
 • Meánchostas
 • Meán Ualaithe
-• Costas Caighdeánach","images/accounting/answer/ir_8b_1.png","images/accounting/answer/ir_8b_2.png"
+• Costas Caighdeánach",ir_8b.png,,ir_8b_1.png,ir_8b_2.png
 "9. Buiséadú
 Tá sé i gceist ag Ó Néill Teo. gnólacht a bhunú ar an 01/07/2024 agus rinne sé an réamhaisnéis
 seo a leanas do na chéad sé mhí trádála:
@@ -1012,7 +1012,7 @@ Beidh an t-ús do gach mí le híoc ar an lá deiridh den mhí,
 bunaithe ar an méid den iasacht a bheidh gan íoc ar an dáta sin
 ag tosú ar an 31/07/2024.
 Iarrtar ort:
-(a) Buiséad táirgthe do Ó Néill Teo. a ullmhú do na ceithre mhí Iúil go Deireadh Fómhair 2024.","images/accounting/problem/ir_9.png","","","images/accounting/answer/ir_9a.png",""
+Buiséad táirgthe do Ó Néill Teo. a ullmhú do na ceithre mhí Iúil go Deireadh Fómhair 2024.",,ir_9.png,,ir_9a.png,
 "9. Buiséadú
 Tá sé i gceist ag Ó Néill Teo. gnólacht a bhunú ar an 01/07/2024 agus rinne sé an réamhaisnéis
 seo a leanas do na chéad sé mhí trádála:
@@ -1046,8 +1046,8 @@ Beidh an t-ús do gach mí le híoc ar an lá deiridh den mhí,
 bunaithe ar an méid den iasacht a bheidh gan íoc ar an dáta sin
 ag tosú ar an 31/07/2024.
 Iarrtar ort:
-(b) Buiséad ceannacháin amhábhar (in kg agus €) a ullmhú do Ó Néill Teo. do na ceithre mhí
-Iúil go Deireadh Fómhair 2024","images/accounting/problem/ir_9.png","","","images/accounting/answer/ir_9b.png",""
+Buiséad ceannacháin amhábhar (in kg agus €) a ullmhú do Ó Néill Teo. do na ceithre mhí
+Iúil go Deireadh Fómhair 2024",,ir_9.png,,ir_9b.png,
 "9. Buiséadú
 Tá sé i gceist ag Ó Néill Teo. gnólacht a bhunú ar an 01/07/2024 agus rinne sé an réamhaisnéis
 seo a leanas do na chéad sé mhí trádála:
@@ -1081,7 +1081,7 @@ Beidh an t-ús do gach mí le híoc ar an lá deiridh den mhí,
 bunaithe ar an méid den iasacht a bheidh gan íoc ar an dáta sin
 ag tosú ar an 31/07/2024.
 Iarrtar ort:
-(c) Buiséad airgid do Ó Néill Teo. a ullmhú do na ceithre mhí Iúil go Deireadh Fómhair 2024","images/accounting/problem/ir_9.png","","","images/accounting/answer/ir_9c.png",""
+Buiséad airgid do Ó Néill Teo. a ullmhú do na ceithre mhí Iúil go Deireadh Fómhair 2024",,ir_9.png,,ir_9c.png,
 "9. Buiséadú
 Tá sé i gceist ag Ó Néill Teo. gnólacht a bhunú ar an 01/07/2024 agus rinne sé an réamhaisnéis
 seo a leanas do na chéad sé mhí trádála:
@@ -1115,9 +1115,9 @@ Beidh an t-ús do gach mí le híoc ar an lá deiridh den mhí,
 bunaithe ar an méid den iasacht a bheidh gan íoc ar an dáta sin
 ag tosú ar an 31/07/2024.
 Iarrtar ort:
-(d) Cuntas trádála, brabúis agus caillteanais buiséadaithe do Ó Néill Teo. a ullmhú do na
+Cuntas trádála, brabúis agus caillteanais buiséadaithe do Ó Néill Teo. a ullmhú do na
 ceithre mhí dar críoch 31/10/2024 (más é €30 an costas buiséadaithe d’aonad earraí
-críochnaithe). ","images/accounting/problem/ir_9.png","","","images/accounting/answer/ir_9d.png",""
+críochnaithe). ",,ir_9.png,,ir_9d.png,
 "9. Buiséadú
 Tá sé i gceist ag Ó Néill Teo. gnólacht a bhunú ar an 01/07/2024 agus rinne sé an réamhaisnéis
 seo a leanas do na chéad sé mhí trádála:
@@ -1151,12 +1151,12 @@ Beidh an t-ús do gach mí le híoc ar an lá deiridh den mhí,
 bunaithe ar an méid den iasacht a bheidh gan íoc ar an dáta sin
 ag tosú ar an 31/07/2024.
 Iarrtar ort:
-(e) (i) Mínigh cad is brí le hanailís athraithis.
-(ii) Tabhair sampla sonrach d’athraitheas fabhrach a d’fhéadfadh tarlú do Ó Néill Teo..","images/accounting/problem/ir_9.png","","Teicníc is ea anailís athraithis a úsáidtear i gcuntasaíocht chostála agus bhainistíochta
+(i) Mínigh cad is brí le hanailís athraithis.
+(ii) Tabhair sampla sonrach d’athraitheas fabhrach a d’fhéadfadh tarlú do Ó Néill Teo..","Teicníc is ea anailís athraithis a úsáidtear i gcuntasaíocht chostála agus bhainistíochta
 chun na torthaí iarbhír a baineadh amach a chur i gcomparáid leis na figiúirí buiséadaithe.
 Is modh cainníochtúil é a chuidíonn le smacht a choinneáil ar ghnólacht.
 Eascraíonn éagsúlacht fhabhrach i gcás ina mbíonn na speansais iarbhír níos lú ná speansais
 bhuiséadaithe nó ina mbíonn an t-ioncam iarbhír os cionn an fhigiúir ioncaim buiséadaithe.
 Mar shampla, d’fhéadfadh Ó Néill margadh níos fearr ó sholáthróirí a idirbheartú agus na
 hamhábhair a cheannach ar níos lú ná €4. D’fhéadfadh sé go n-íocfadh Ó Néill coimisiún
-de níos lú ná 10% d’ioncam díolacháin in aghaidh na míosa lena fhostaithe. ","",""
+de níos lú ná 10% d’ioncam díolacháin in aghaidh na míosa lena fhostaithe. ",ir_9.png,,,

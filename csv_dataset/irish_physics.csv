@@ -1,4 +1,4 @@
-problem,answer
+problem,answer,problem_image_1,problem_image_2,answer_image_1,answer_image_2
 "Rinne scoláire turgnamh saotharlainne chun fiosrú dheańamh ar an gcoibhneas idir luasghéarú a coirp agus an fórsa $F$ a fheidhmítear air. Le linn an fhiosraithe, thaifead an scoláire luachanna don fhórsa agus thomhais sé an luasghéarú a bhain leo.
 Taifeadadh na sonraí seo a leanas.
 
@@ -6,29 +6,9 @@ Taifeadadh na sonraí seo a leanas.
 | ------- | ----- | ----- | ----- | ----- | ----- | ----- |
 | a (m s$^{-2}$) | 0.280 | 0.422 | 0.554 | 0.702 | 0.837 | 0.982 |
 
-(i) Tarraing léaráid lípeadaithe de leagan amach an ghairis sa turgnamh seo.","tralaí [4]
-an fórsa a cuireadh air [3]
-amadóir ticeála/geataí solais [3]"
-"Rinne scoláire turgnamh saotharlainne chun fiosrú dheańamh ar an gcoibhneas idir luasghéarú a coirp agus an fórsa $F$ a fheidhmítear air. Le linn an fhiosraithe, thaifead an scoláire luachanna don fhórsa agus thomhais sé an luasghéarú a bhain leo.
-Taifeadadh na sonraí seo a leanas.
-
-| F (N)   | 0.2   | 0.3   | 0.4   | 0.5   | 0.6   | 0.7   |
-| ------- | ----- | ----- | ----- | ----- | ----- | ----- |
-| a (m s$^{-2}$) | 0.280 | 0.422 | 0.554 | 0.702 | 0.837 | 0.982 |
-
-(ii) Déan cur síos ar an gcaoi ar aimsigh an mac léinn luasghéarú an choirp.","an treoluas tosaigh agus an treoluas deiridh a ríomh [3]
-fad/eatramh ama idir treoluasanna a thomhas [3]
-foirmlle ábhartha a úsáid [3]"
-"Rinne scoláire turgnamh saotharlainne chun fiosrú dheańamh ar an gcoibhneas idir luasghéarú a coirp agus an fórsa $F$ a fheidhmítear air. Le linn an fhiosraithe, thaifead an scoláire luachanna don fhórsa agus thomhais sé an luasghéarú a bhain leo.
-Taifeadadh na sonraí seo a leanas.
-
-| F (N)   | 0.2   | 0.3   | 0.4   | 0.5   | 0.6   | 0.7   |
-| ------- | ----- | ----- | ----- | ----- | ----- | ----- |
-| a (m s$^{-2}$) | 0.280 | 0.422 | 0.554 | 0.702 | 0.837 | 0.982 |
-
-(iii) Tarraing graf oiriúnach a thaispeánann an coibhneas idir $F$ agus $a$.","aiseanna lipéadaithe [3]
+Tarraing graf oiriúnach a thaispeánann an coibhneas idir $F$ agus $a$.","aiseanna lipéadaithe [3]
 pointí breactha [3]
-an líne is fearr oiriúint [3]"
+an líne is fearr oiriúint [3]",,,,
 "Rinne scoláire turgnamh saotharlainne chun fiosrú dheańamh ar an gcoibhneas idir luasghéarú a coirp agus an fórsa $F$ a fheidhmítear air. Le linn an fhiosraithe, thaifead an scoláire luachanna don fhórsa agus thomhais sé an luasghéarú a bhain leo.
 Taifeadadh na sonraí seo a leanas.
 
@@ -36,24 +16,8 @@ Taifeadadh na sonraí seo a leanas.
 | ------- | ----- | ----- | ----- | ----- | ----- | ----- |
 | a (m s$^{-2}$) | 0.280 | 0.422 | 0.554 | 0.702 | 0.837 | 0.982 |
 
-(iv) Mínigh conas a fhlóraíonn graf an coibhneas idir $F$ agus $a$.",léiríonn líne dhíreach tríd an mbunphointe go bhfuil $F$ i gcomhréir le $a$ [3]
-"Rinne scoláire turgnamh saotharlainne chun fiosrú dheańamh ar an gcoibhneas idir luasghéarú a coirp agus an fórsa $F$ a fheidhmítear air. Le linn an fhiosraithe, thaifead an scoláire luachanna don fhórsa agus thomhais sé an luasghéarú a bhain leo.
-Taifeadadh na sonraí seo a leanas.
-
-| F (N)   | 0.2   | 0.3   | 0.4   | 0.5   | 0.6   | 0.7   |
-| ------- | ----- | ----- | ----- | ----- | ----- | ----- |
-| a (m s$^{-2}$) | 0.280 | 0.422 | 0.554 | 0.702 | 0.837 | 0.982 |
-
-(v) Úsáid do ghraf chun ríomh a dhéanamh ar an mais a luasghéaraíodh.","foirmlle fána [3]
-$m$ = 0.71 kg [2]"
-"Rinne scoláire turgnamh saotharlainne chun fiosrú dheańamh ar an gcoibhneas idir luasghéarú a coirp agus an fórsa $F$ a fheidhmítear air. Le linn an fhiosraithe, thaifead an scoláire luachanna don fhórsa agus thomhais sé an luasghéarú a bhain leo.
-Taifeadadh na sonraí seo a leanas.
-
-| F (N)   | 0.2   | 0.3   | 0.4   | 0.5   | 0.6   | 0.7   |
-| ------- | ----- | ----- | ----- | ----- | ----- | ----- |
-| a (m s$^{-2}$) | 0.280 | 0.422 | 0.554 | 0.702 | 0.837 | 0.982 |
-
-(vi) Déan scéitsiú den ghraf a gheobhadh an scoláire mura gcuirfeadh sé san áireamh go raibh fórsa frithchuimilte tairiseach níos lú ná 0.2 N ann.","Léiríonn an líne dhíreach tríd an mbunús go bhfuil $F$ i gcomhréir le $a$ [4]"
+Úsáid do ghraf chun ríomh a dhéanamh ar an mais a luasghéaraíodh.","foirmlle fána [3]
+$m$ = 0.71 kg [2]",,,,
 "I dturgnamh chun fad fócasach $f$ ag lionsa inréimneach a thomhas, fuair scoláire garluach ar an bhfad fócasach ar dtús. Lean an scoláire ar aghaidh amach ansin agus thaifead sí an fad go dtí an íomhá $v$ le haghaidh luachanna difriúla den fhad go dtí an thríthe $u$.
 Taifeadadh na sonraí seo a leanas.
 
@@ -61,8 +25,8 @@ Taifeadadh na sonraí seo a leanas.
 | ------ | ----- | ----- | ----- | ----- |
 | v (cm) | 78.7  | 35.2  | 26.9  | 23.4  |
 
-(i) Déan cur síos ar an tslí a bhfuair an mac léinn garluach ar an bhfad fócasach.","an íomhá a fhócasú de read i bhfad ar scáileán [3]
-an fad idir an scáileán agus an lionsa a thomhas [3]"
+Déan cur síos ar an tslí a bhfuair an mac léinn garluach ar an bhfad fócasach.","an íomhá a fhócasú de read i bhfad ar scáileán [3]
+an fad idir an scáileán agus an lionsa a thomhas [3]",,,,
 "I dturgnamh chun fad fócasach $f$ ag lionsa inréimneach a thomhas, fuair scoláire garluach ar an bhfad fócasach ar dtús. Lean an scoláire ar aghaidh amach ansin agus thaifead sí an fad go dtí an íomhá $v$ le haghaidh luachanna difriúla den fhad go dtí an thríthe $u$.
 Taifeadadh na sonraí seo a leanas.
 
@@ -70,20 +34,9 @@ Taifeadadh na sonraí seo a leanas.
 | ------ | ----- | ----- | ----- | ----- |
 | v (cm) | 78.7  | 35.2  | 26.9  | 23.4  |
 
-(ii) Tarraing léaráid lípeadaithe den ghaireas sainaithín go soiléir na faid $u$ agus $v$.","lionsa [2]
-fríthe [2]
-scáileán [2]
-$u$ agus $v$ léirithe [3]"
-"I dturgnamh chun fad fócasach $f$ ag lionsa inréimneach a thomhas, fuair scoláire garluach ar an bhfad fócasach ar dtús. Lean an scoláire ar aghaidh amach ansin agus thaifead sí an fad go dtí an íomhá $v$ le haghaidh luachanna difriúla den fhad go dtí an thríthe $u$.
-Taifeadadh na sonraí seo a leanas.
-
-| u (cm) | 20.0  | 30.0  | 40.0  | 50.0  |
-| ------ | ----- | ----- | ----- | ----- |
-| v (cm) | 78.7  | 35.2  | 26.9  | 23.4  |
-
-(iii) Agus tagairt á déanamh agat do do léaráid, déan cur síos ar conas a aimsíodh agus a tomhaiseadh na luachanna ar $v$.","an fhríthe/lionsa/scáileán a bhogadh [3]
+Agus tagairt á déanamh agat do do léaráid, déan cur síos ar conas a aimsíodh agus a tomhaiseadh na luachanna ar $v$.","an fhríthe/lionsa/scáileán a bhogadh [3]
 go dtí go gcaitear íomhá ghéar [3]
-$v$ a thomhas le méadarslat [3]"
+$v$ a thomhas le méadarslat [3]",,,,
 "I dturgnamh chun fad fócasach $f$ ag lionsa inréimneach a thomhas, fuair scoláire garluach ar an bhfad fócasach ar dtús. Lean an scoláire ar aghaidh amach ansin agus thaifead sí an fad go dtí an íomhá $v$ le haghaidh luachanna difriúla den fhad go dtí an thríthe $u$.
 Taifeadadh na sonraí seo a leanas.
 
@@ -91,10 +44,10 @@ Taifeadadh na sonraí seo a leanas.
 | ------ | ----- | ----- | ----- | ----- |
 | v (cm) | 78.7  | 35.2  | 26.9  | 23.4  |
 
-(iv) Ríomh fad fócasach an lionsa agus na sonraí go léir sa tábla á n-úsáid agat.
+Ríomh fad fócasach an lionsa agus na sonraí go léir sa tábla á n-úsáid agat.
 $\frac{1}{u} + \frac{1}{v} = \frac{1}{f}$","an 1$^{\text{ríomh}}$ eile ar $f$ [3]
 trí ríomh eile ar $f$ [3]
-meán na ríomhanna ar $f$ [3]"
+meán na ríomhanna ar $f$ [3]",,,,
 "I dturgnamh chun fad fócasach $f$ ag lionsa inréimneach a thomhas, fuair scoláire garluach ar an bhfad fócasach ar dtús. Lean an scoláire ar aghaidh amach ansin agus thaifead sí an fad go dtí an íomhá $v$ le haghaidh luachanna difriúla den fhad go dtí an thríthe $u$.
 Taifeadadh na sonraí seo a leanas.
 
@@ -102,21 +55,8 @@ Taifeadadh na sonraí seo a leanas.
 | ------ | ----- | ----- | ----- | ----- |
 | v (cm) | 78.7  | 35.2  | 26.9  | 23.4  |
 
-(v) Chomh maith leis an scoláire turgnamh chun fad fócasach scátháin chuasaigh a thomhas freisin.
-Cén áit ar mblonn leagan amach éagsúil ar an ngaireas sa turgnamh seo?",frithchaitheamh solais [4]
-"Rinne mac léinn turgnamh chun sainteas folach leáite oighir a thomhas.
-
-| Mais an chalraiméadair copair:  |                                      | 83.2 g   |
-| ------------------------------- | ----------------------------------- | -------- |
-| Mais an chalraiméadair + uisce  | sular cuireadh isteach an t-oighear  | 132.9 g  |
-| Teocht an uisce                 | tar éis an t-oighear a chur isteach | 138.5 g  |
-|                                 | sular cuireadh isteach an t-oighear  | 26.8 °C |
-|                                 | tar éis an t-oighear a chur isteach  | 17.4 °C |
-
-(i) Tarraing léaráid lípeadaithe den ghaireas a úsáideadh sa turgnamh seo.","oighear [2]
-calraiméadar le huisce [2]
-cothromaíocht [2]
-teirmiméadar [2]"
+Chomh maith leis an scoláire turgnamh chun fad fócasach scátháin chuasaigh a thomhas freisin.
+Cén áit ar mblonn leagan amach éagsúil ar an ngaireas sa turgnamh seo?",frithchaitheamh solais [4],,,,
 "Rinne mac léinn turgnamh chun sainteas folach leáite oighir a thomhas.
 
 | Mais an chalraiméadair copair:  | sular cuireadh isteach an t-oighear | 83.2 g   |
@@ -126,8 +66,8 @@ teirmiméadar [2]"
 |                                 | tar éis an t-oighear a chur isteach  | 26.8 °C |
 |                                 | tar éis an t-oighear a chur isteach  | 17.4 °C |
 
-(ii) (a) Luaigh dhá chéim a lean an scoláire chun an t-oighear a thógadh ón reoiteoir a ullmhú.","an t-oighear a bhrú [3]
-an t-oighear a thriomú [3]"
+Luaigh dhá chéim a lean an scoláire chun an t-oighear a thógadh ón reoiteoir a ullmhú.","an t-oighear a bhrú [3]
+an t-oighear a thriomú [3]",,,,
 "Rinne mac léinn turgnamh chun sainteas folach leáite oighir a thomhas.
 
 | Mais an chalraiméadair copair:  | sular cuireadh isteach an t-oighear | 83.2 g   |
@@ -137,8 +77,8 @@ an t-oighear a thriomú [3]"
 |                                 | tar éis an t-oighear a chur isteach  | 26.8 °C |
 |                                 | tar éis an t-oighear a chur isteach  | 17.4 °C |
 
-(ii) (b) Déan cur síos ar thábhacht gach céime.","an t-oighear a bhrú: a chinntiú go raibh sé ag 0 °C / leáfadh sé níos tapúla [3]
-an t-oighear a thriomú: nior cuireadh aon uisce breise leis / níor cuireadh ach oighear leis [3]"
+Déan cur síos ar thábhacht gach céime.","an t-oighear a bhrú: a chinntiú go raibh sé ag 0 °C / leáfadh sé níos tapúla [3]
+an t-oighear a thriomú: nior cuireadh aon uisce breise leis / níor cuireadh ach oighear leis [3]",,,,
 "Rinne mac léinn turgnamh chun sainteas folach leáite oighir a thomhas.
 
 | Mais an chalraiméadair copair:  | sular cuireadh isteach an t-oighear | 83.2 g   |
@@ -148,9 +88,9 @@ an t-oighear a thriomú: nior cuireadh aon uisce breise leis / níor cuireadh ac
 |                                 | tar éis an t-oighear a chur isteach  | 26.8 °C |
 |                                 | tar éis an t-oighear a chur isteach  | 17.4 °C |
 
-(iii) Úsáid na sonraí sa tábla agus ríomh an fuinneamh a chaille an calraiméadar éis don oighear dul isteach.","$mc\Delta \theta$ [3]
+Úsáid na sonraí sa tábla agus ríomh an fuinneamh a chaille an calraiméadar éis don oighear dul isteach.","$mc\Delta \theta$ [3]
 $\Delta t_{\text{cal}} = 9.4$ (°C) [1]
-305 J [2]"
+305 J [2]",,,,
 "Rinne mac léinn turgnamh chun sainteas folach leáite oighir a thomhas.
 
 | Mais an chalraiméadair copair:  | sular cuireadh isteach an t-oighear | 83.2 g   |
@@ -160,10 +100,10 @@ $\Delta t_{\text{cal}} = 9.4$ (°C) [1]
 |                                 | tar éis an t-oighear a chur isteach  | 26.8 °C |
 |                                 | tar éis an t-oighear a chur isteach  | 17.4 °C |
 
-(iv) Uaidh sin, nó ar shlí eile, ríomh sainteas folach leáite oighir.","$m_{\text{uisce}} = 49.7$ (g); $m_{\text{oighear}} = 5.6$ (g); $\Delta \theta_{\text{ice}} = 17.4$ (°C) [1+1+1]
+Uaidh sin, nó ar shlí eile, ríomh sainteas folach leáite oighir.","$m_{\text{uisce}} = 49.7$ (g); $m_{\text{oighear}} = 5.6$ (g); $\Delta \theta_{\text{ice}} = 17.4$ (°C) [1+1+1]
 $ml$ [3]
 $(ml)_{\text{oighear}} + (mc\Delta \theta)_{\text{oighear leáite}} = (mc\Delta \theta)_{\text{cal}} + (mc\Delta \theta)_{\text{uisce}}$ [2]
-$l = 3.3 \times 10^{5}$ J kg$^{-1}$ [2]"
+$l = 3.3 \times 10^{5}$ J kg$^{-1}$ [2]",,,,
 "Rinne mac léinn turgnamh chun sainteas folach leáite oighir a thomhas.
 
 | Mais an chalraiméadair copair:  | sular cuireadh isteach an t-oighear | 83.2 g   |
@@ -173,7 +113,7 @@ $l = 3.3 \times 10^{5}$ J kg$^{-1}$ [2]"
 |                                 | tar éis an t-oighear a chur isteach  | 26.8 °C |
 |                                 | tar éis an t-oighear a chur isteach  | 17.4 °C |
 
-(v) Luaigh dhá áirí de theirmiméadar a chabhdródh le cruinneas an turgnaimh a fheabhsú.","toilleadh teasa íseal, imolbríonn sé go tapa, tomaiseann sé go 2 ionad de dheachúlacha ar a laghad [2+2]"
+Luaigh dhá áirí de theirmiméadar a chabhdródh le cruinneas an turgnaimh a fheabhsú.","toilleadh teasa íseal, imolbríonn sé go tapa, tomaiseann sé go 2 ionad de dheachúlacha ar a laghad [2+2]",,,,
 "Rinne scoláire fiosrú ar an dóigh chomhrathaigh minicíocht bhunúsach $f$ sreinge atá 70 cm ar fad i gcoibhneas lena teannas $T$. I rith an turgnaimh, coimeádadh fad na sreinge tairiseach, agus d'athraigh an scoláire an teannas.
 Taifeadadh na sonraí seo a leanas.
 
@@ -181,10 +121,7 @@ Taifeadadh na sonraí seo a leanas.
 | ------ | --- | --- | --- | ----- | --- | --- |
 | T (N)  | 29  | 44  | 51  | 79    | 100 | 115 |
 
-(i) Tarraing léaráid lípeadaithe de leagan amach an ghairis sa turgnamh seo.","sreang rite [2]
-méadar niútain / meáchan [2]
-gabhlóg thiúnála / gineadóir comhartha [2]
-méadarshlat / droichid / marcach páipéir [2+2]"
+Conas a fuair an scoláire amach go raibh athshondas i ndiaidh tarlú?",thit an marcach páipéir de / chonacthas dílárthriú uasta sreinge [3],,,,
 "Rinne scoláire fiosrú ar an dóigh chomhrathaigh minicíocht bhunúsach $f$ sreinge atá 70 cm ar fad i gcoibhneas lena teannas $T$. I rith an turgnaimh, coimeádadh fad na sreinge tairiseach, agus d'athraigh an scoláire an teannas.
 Taifeadadh na sonraí seo a leanas.
 
@@ -192,7 +129,8 @@ Taifeadadh na sonraí seo a leanas.
 | ------ | --- | --- | --- | ----- | --- | --- |
 | T (N)  | 29  | 44  | 51  | 79    | 100 | 115 |
 
-(ii) Conas a fuair an scoláire amach go raibh athshondas i ndiaidh tarlú?",thit an marcach páipéir de / chonacthas dílárthriú uasta sreinge [3]
+Déan cur síos ar an tslí ar aimsigh an scoláire
+an mhinicíocht $f$,",léamh ó ghabhlóg thiúnála / gineadóir comhartha [2],,,,
 "Rinne scoláire fiosrú ar an dóigh chomhrathaigh minicíocht bhunúsach $f$ sreinge atá 70 cm ar fad i gcoibhneas lena teannas $T$. I rith an turgnaimh, coimeádadh fad na sreinge tairiseach, agus d'athraigh an scoláire an teannas.
 Taifeadadh na sonraí seo a leanas.
 
@@ -200,8 +138,8 @@ Taifeadadh na sonraí seo a leanas.
 | ------ | --- | --- | --- | ----- | --- | --- |
 | T (N)  | 29  | 44  | 51  | 79    | 100 | 115 |
 
-(iii) Déan cur síos ar an tslí ar aimsigh an scoláire
-(a) an mhinicíocht $f$,",léamh ó ghabhlóg thiúnála / gineadóir comhartha [2]
+Déan cur síos ar an tslí ar aimsigh an scoláire
+an teannas $T$.",léamh ó mhéadar niútain/meáchain [2],,,,
 "Rinne scoláire fiosrú ar an dóigh chomhrathaigh minicíocht bhunúsach $f$ sreinge atá 70 cm ar fad i gcoibhneas lena teannas $T$. I rith an turgnaimh, coimeádadh fad na sreinge tairiseach, agus d'athraigh an scoláire an teannas.
 Taifeadadh na sonraí seo a leanas.
 
@@ -209,64 +147,7 @@ Taifeadadh na sonraí seo a leanas.
 | ------ | --- | --- | --- | ----- | --- | --- |
 | T (N)  | 29  | 44  | 51  | 79    | 100 | 115 |
 
-(iii) Déan cur síos ar an tslí ar aimsigh an scoláire
-(b) an teannas $T$.",léamh ó mhéadar niútain/meáchain [2]
-"Rinne scoláire fiosrú ar an dóigh chomhrathaigh minicíocht bhunúsach $f$ sreinge atá 70 cm ar fad i gcoibhneas lena teannas $T$. I rith an turgnaimh, coimeádadh fad na sreinge tairiseach, agus d'athraigh an scoláire an teannas.
-Taifeadadh na sonraí seo a leanas.
-
-| f (Hz) | 256 | 320 | 341 | 426.5 | 480 | 512 |
-| ------ | --- | --- | --- | ----- | --- | --- |
-| T (N)  | 29  | 44  | 51  | 79    | 100 | 115 |
-
-(iv) Tarraing graf oiriúnach chun an coibhneas idir $f$ agus $T$ a thaispeáint.","Luachanna ar $\sqrt{T}$ nó $f^2$
-| $f^2$ | 65536  | 102400  | 116281  | 181902  | 230400  | 262144  |
-| ------- | ------- | ------- | ------- | ------- | ------- | ------- |
-| $\sqrt{T}$ | 5.39 | 6.63 | 7.14 | 8.89 | 10.00 | 10.72 |
-aiseanna lipéadaithe [3]
-pointí cearta breactha [3]
-an líne is fearr oiriúint [3]"
-"Rinne scoláire fiosrú ar an dóigh chomhrathaigh minicíocht bhunúsach $f$ sreinge atá 70 cm ar fad i gcoibhneas lena teannas $T$. I rith an turgnaimh, coimeádadh fad na sreinge tairiseach, agus d'athraigh an scoláire an teannas.
-Taifeadadh na sonraí seo a leanas.
-
-| f (Hz) | 256 | 320 | 341 | 426.5 | 480 | 512 |
-| ------ | --- | --- | --- | ----- | --- | --- |
-| T (N)  | 29  | 44  | 51  | 79    | 100 | 115 |
-
-(v) Luaigh an coibhneas idir $f$ agus $T$.",tá an mhinicíocht i gcomhréir le fréamh chearnach an teannais [3]
-"Rinne scoláire fiosrú ar an dóigh chomhrathaigh minicíocht bhunúsach $f$ sreinge atá 70 cm ar fad i gcoibhneas lena teannas $T$. I rith an turgnaimh, coimeádadh fad na sreinge tairiseach, agus d'athraigh an scoláire an teannas.
-Taifeadadh na sonraí seo a leanas.
-
-| f (Hz) | 256 | 320 | 341 | 426.5 | 480 | 512 |
-| ------ | --- | --- | --- | ----- | --- | --- |
-| T (N)  | 29  | 44  | 51  | 79    | 100 | 115 |
-
-(vi) Úsáid do ghraf chun mais san aonad d'fad na sreinge a úsáideadh sa turgnamh seo a aimsíu.","foirmlle fána, $f = \frac{1}{2l}\sqrt{\frac{T}{\mu}}$ [3+2]
-$\mu = 2.2 \times 10^{-4}$ kg m$^{-1}$ [3]"
-"Rinneadh turgnamh chun an coibhneas idir sruth $I$ agus difríocht poitéinsil $V$ a fhiosrú i gcás sreang chopair agus rinneadh na sonraí seo a leanas a thaifeadadh.
-
-| V (V) | 1.0  | 2.0  | 3.0  | 4.0  | 5.0  | 6.0  |
-| ----- | ---- | ---- | ---- | ---- | ---- | ---- |
-| I (A) | 0.14 | 0.26 | 0.43 | 0.58 | 0.70 | 0.84 |
-
-(i) Tarraing léaráid de chiorcad don turgnamh seo.","soláthar cumhachta, aimpmhéadar, volltmhéadar agus sreang chopair i dtreo-cheangailte [3]
-rud éigin chun voltais a athrú [3]"
-"Rinneadh turgnamh chun an coibhneas idir sruth $I$ agus difríocht poitéinsil $V$ a fhiosrú i gcás sreang chopair agus rinneadh na sonraí seo a leanas a thaifeadadh.
-
-| V (V) | 1.0  | 2.0  | 3.0  | 4.0  | 5.0  | 6.0  |
-| ----- | ---- | ---- | ---- | ---- | ---- | ---- |
-| I (A) | 0.14 | 0.26 | 0.43 | 0.58 | 0.70 | 0.84 |
-
-(ii) Tarraing graf oiriúnach chun an coibhneas idir $I$ agus $V$ a thaispeáint.","aiseanna lipéadaithe [3]
-pointí cearta breactha [3]
-an líne is fearr oiriúint [3]"
-"Rinneadh turgnamh chun an coibhneas idir sruth $I$ agus difríocht poitéinsil $V$ a fhiosrú i gcás sreang chopair agus rinneadh na sonraí seo a leanas a thaifeadadh.
-
-| V (V) | 1.0  | 2.0  | 3.0  | 4.0  | 5.0  | 6.0  |
-| ----- | ---- | ---- | ---- | ---- | ---- | ---- |
-| I (A) | 0.14 | 0.26 | 0.43 | 0.58 | 0.70 | 0.84 |
-
-(iii) Úsáid do ghraf chun friotaíocht $R$ na sreinge copair a ríomh.","foirmlle fána [3]
-$R = 7.03 \Omega$ [2]"
+Luaigh an coibhneas idir $f$ agus $T$.",tá an mhinicíocht i gcomhréir le fréamh chearnach an teannais [3],,,,
 "Rinneadh turgnamh chun an coibhneas idir sruth $I$ agus difríocht poitéinsil $V$ a fhiosrú i gcás sreang chopair agus rinneadh na sonraí seo a leanas a thaifeadadh.
 
 | V (V) | 1.0  | 2.0  | 3.0  | 4.0  | 5.0  | 6.0  |
@@ -276,8 +157,8 @@ $R = 7.03 \Omega$ [2]"
 D’úsáid an scoláire a torthaí chun friotachas na sreinge copair a ríomh. Taifeadadh na sonraí breise seo a leanas: 
 fad na sreinge = 65 cm 
 trastomhas na sreinge = 0.32 mm
-(iv) Déan cur síos ar an tslí ar ndeárna an scoláire amach fad ag trasthomhas na sreinge copair","fad: méadarslat 
-trastomhas: micriméadar/cailpéir dhigiteacha [3+3]"
+Déan cur síos ar an tslí ar ndeárna an scoláire amach fad ag trasthomhas na sreinge copair","fad: méadarslat 
+trastomhas: micriméadar/cailpéir dhigiteacha [3+3]",,,,
 "Rinneadh turgnamh chun an coibhneas idir sruth $I$ agus difríocht poitéinsil $V$ a fhiosrú i gcás sreang chopair agus rinneadh na sonraí seo a leanas a thaifeadadh.
 
 | V (V) | 1.0  | 2.0  | 3.0  | 4.0  | 5.0  | 6.0  |
@@ -287,306 +168,261 @@ trastomhas: micriméadar/cailpéir dhigiteacha [3+3]"
 D’úsáid an scoláire a torthaí chun friotachas na sreinge copair a ríomh. Taifeadadh na sonraí breise seo a leanas: 
 fad na sreinge = 65 cm 
 trastomhas na sreinge = 0.32 mm
-(v) Ríomh friotaíocht na sreinge copair.","$\rho = \frac{RA}{l}$, $A = \pi r^2$ [3+2]
-$p = 8.7 \times 10^{-7} \Omega \text{ m}$ [3]"
-"Tá méadarshlat ar crochadh óna meáchanlár mar a thaispeántar sa léaráid.  Tá an mhéadarshlat i gcothromaíocht. Ríomh mais an úill.","$M = Fd$ [3], $W = mg$ [2], $m = 0.11$ kg [2]"
-"Mínigh cad is ciall le fithis gheochobhsaí agus luaigh úsáid a bhaintear as satailít atá i bhfithis gheochobhsaí.","fanann sé san áit chéanna os cionn na cruinne / tá tréimhse fhithiseach 24 uair an chloig aige"
-"Is é 1.24 s an peiriad atá ag luascadán simplí.  Ríomh fad an luascadáin.","$T = 2\pi \sqrt{\frac{l}{g}}$ [4], $l = 0.38$ m [3]"
-"Is modhanna trína n-aistrítear teas iad seoladh agus comhiompar.  Déan idirdhealú idir seoladh agus comhiompar.","is éard is seoladh ann ná teas a aistriú (trí chreathadh) ó cháithnín go cáithnín 
-is éard is comhiompar ann ná teas a aistriú trí shruthanna athfhillteacha"
-"Déan cur síos ar thurgnamh a léiríonn gur tonn atá i bhfuaim.","dhá fhoinse fuaime chomhleanúnacha 
+Ríomh friotaíocht na sreinge copair.","$\rho = \frac{RA}{l}$, $A = \pi r^2$ [3+2]
+$p = 8.7 \times 10^{-7} \Omega \text{ m}$ [3]",,,,
+Tá méadarshlat ar crochadh óna meáchanlár mar a thaispeántar sa léaráid.  Tá an mhéadarshlat i gcothromaíocht. Ríomh mais an úill.,"$M = Fd$ [3], $W = mg$ [2], $m = 0.11$ kg [2]",,,,
+Mínigh cad is ciall le fithis gheochobhsaí agus luaigh úsáid a bhaintear as satailít atá i bhfithis gheochobhsaí.,fanann sé san áit chéanna os cionn na cruinne / tá tréimhse fhithiseach 24 uair an chloig aige,,,,
+Is é 1.24 s an peiriad atá ag luascadán simplí.  Ríomh fad an luascadáin.,"$T = 2\pi \sqrt{\frac{l}{g}}$ [4], $l = 0.38$ m [3]",,,,
+Is modhanna trína n-aistrítear teas iad seoladh agus comhiompar.  Déan idirdhealú idir seoladh agus comhiompar.,"is éard is seoladh ann ná teas a aistriú (trí chreathadh) ó cháithnín go cáithnín 
+is éard is comhiompar ann ná teas a aistriú trí shruthanna athfhillteacha",,,,
+Déan cur síos ar thurgnamh a léiríonn gur tonn atá i bhfuaim.,"dhá fhoinse fuaime chomhleanúnacha 
 gluaiseacht i gcoibhneas leis na foinsí 
-tugtar trasnaíocht faoi deara"
-"Mínigh cad is brí le tonn chónaitheach.","dhá thonn a bhfuil an mhinicíocht agus aimplitiúid chéanna acu (forshuite ar a chéile) ní athraíonn an bhuaic-aimplitiúid ag gach pointe / níl glan-traschur fuinnimh i gceist"
-"Sainmhínigh uillinn chriticiúil.","uillinn an ionsaithe 
-uillinn athraonta 90°"
-"Is féidir seoltóir tintrí a chur ar bharr foirgneamh ard mar a thaispeántar.  Mínigh an dóigh a n-oibríonn seoltóir tintrí.","iarmhairt díluchtaithe pointe  
-lucht a thraschur go talamh"
-"Gabhann sruth 6 A thar phointe i gciorcad.  Ríomh an líon leictreon a ghabhann thar an bpointe sin gach nóiméad.","$q = It$ [3], $q = 360$ (C) [2], $2.25 \times 10^{21}$ (electrons) [2]"
-"Ríomh an fórsa leictreastatach idir dhá phrótón atá 5.6 x 10–15 m óna chéile i bhfolús","$F = \frac{1}{4\pi \epsilon_0} \frac{q_1q_2}{r^2}$ [4], 7.36 N [3]"
-"Mínítear dlí fhótaileictreach Einstein de réir na cothromóide hf = ɸ + ½mv2. Mínigh cad dó a seasann gach ceann de na siombailí sa chothromóid.","$h = \text{Planck constant}$ 
+tugtar trasnaíocht faoi deara",,,,
+Mínigh cad is brí le tonn chónaitheach.,dhá thonn a bhfuil an mhinicíocht agus aimplitiúid chéanna acu (forshuite ar a chéile) ní athraíonn an bhuaic-aimplitiúid ag gach pointe / níl glan-traschur fuinnimh i gceist,,,,
+Sainmhínigh uillinn chriticiúil.,"uillinn an ionsaithe 
+uillinn athraonta 90°",,,,
+Is féidir seoltóir tintrí a chur ar bharr foirgneamh ard mar a thaispeántar.  Mínigh an dóigh a n-oibríonn seoltóir tintrí.,"iarmhairt díluchtaithe pointe  
+lucht a thraschur go talamh",,,,
+Gabhann sruth 6 A thar phointe i gciorcad.  Ríomh an líon leictreon a ghabhann thar an bpointe sin gach nóiméad.,"$q = It$ [3], $q = 360$ (C) [2], $2.25 \times 10^{21}$ (electrons) [2]",,,,
+Ríomh an fórsa leictreastatach idir dhá phrótón atá 5.6 x 10–15 m óna chéile i bhfolús,"$F = \frac{1}{4\pi \epsilon_0} \frac{q_1q_2}{r^2}$ [4], 7.36 N [3]",,,,
+Mínítear dlí fhótaileictreach Einstein de réir na cothromóide hf = ɸ + ½mv2. Mínigh cad dó a seasann gach ceann de na siombailí sa chothromóid.,"$h = \text{Planck constant}$ 
 $f = \text{frequency}$
 $\phi = \text{work function}$
 $m = \text{mass}$
-$v = \text{velocity}$"
-"Bhuaigh Cockcroft agus Walton Duais Nobel dá dturgnamh inar tuargnaíodh núicléas litiam le prótón.  Luaigh dhá chúis a raibh a dturgnamh tábhachtach.","an chéad uair a scoilteadh núicléas go saorga, an chéad uair a rinneadh claochlú trí úsáid a bhaint as cáithníní a bhí luasghéaraithe go saorga, fíorú $E = mc^2$, céim mhór maidir le forbairt luasairí cáithníní"
-"Tarraing léaráid a thaispeánann conas is féidir galbhánaiméadar a thiontú ina voltmhéadar.","galbhánaiméadar i sraithcheangal le 
-friotóir/iolraitheoir (a thomhaiseann ardluachanna)"
+$v = \text{velocity}$",,,,
 "Is imeacht lúthchleasaíochta é caitheamh an oird ina rotlaíonn lúthchleasaithe liathróid mhiotail, atá ceangailte de shreang, i gciorcal sula scaoiltear léi.
 Díorthaigh an fhoirmle a thaispeánann an coibhneas idir ga, treoluas agus treoluas uilleach réada atá ag gluaiseacht le gluaisne chiorclach aonfhoirmeach.","$\theta = s/r$ or $v=s/t$ nó $\omega = \theta / t$ [3]
 teaglaim de dhá fhoirmle [3]
-$v = r\omega$ [3]"
+$v = r\omega$ [3]",,,,
 "Is imeacht lúthchleasaíochta é caitheamh an oird ina rotlaíonn lúthchleasaithe liathróid mhiotail, atá ceangailte de shreang, i gciorcal sula scaoiltear léi.
-Mínigh cad is brí le fórsa láraimsitheach.","fórsa i dtreo lár an chiorcail (a choimeádann) an fhrithne ag gluaiseacht timpeall i gciorcal"
+Mínigh cad is brí le fórsa láraimsitheach.",fórsa i dtreo lár an chiorcail (a choimeádann) an fhrithne ag gluaiseacht timpeall i gciorcal,,,,
 "Is imeacht lúthchleasaíochta é caitheamh an oird ina rotlaíonn lúthchleasaithe liathróid mhiotail, atá ceangailte de shreang, i gciorcal sula scaoiltear léi.
-Tarraing léaráid fórsaí chun na fórsaí atá ag gníomhú ar an liathróid díreach sula scaoiltear léi a thaispeáint.","meáchan (ag feidhmiú) síos teannas i dtreo an láir"
-"Rothlaíonn lúthchleasaí liathróid ar mais di 4 kg i gciorcal ar ga dó 1.25 m. Tá an liathróid ag gluaiseacht le treoluas uilleach 21.6 rad s–1 díreach sula scaoiltear léi.
-Ríomh an fórsa láraimsitheach atá ag gníomhú ar an liathróid díreach sula scaoiltear í.","$F=mr\omega^2$ [3]
-$F= 2332.8$ N [3]"
-"Rothlaíonn lúthchleasaí liathróid ar mais di 4 kg i gciorcal ar ga dó 1.25 m. Tá an liathróid ag gluaiseacht le treoluas uilleach 21.6 rad s–1 díreach sula scaoiltear léi.
-Ríomh méid threoluas na liathróide díreach agus í á scaoileadh.","$(v = r\omega =) 27$ m s$^{-1}$ [3]"
+Rothlaíonn lúthchleasaí liathróid ar mais di 4 kg i gciorcal ar ga dó 1.25 m. Tá an liathróid ag gluaiseacht le treoluas uilleach 21.6 rad s–1 díreach sula scaoiltear léi.",,,,,
+"Ríomh méid threoluas na liathróide díreach agus í á scaoileadh.""",$(v = r\omega =) 27$ m s$^{-1}$ [3],,,,
 "Agus í á scaoileadh, tá treoluas na liathróide ar uillinn 36° os cionn an chothromáin. Scaoiltear an liathróid ag airde 1.26 m os cionn na talún agus tuirlingíonn sí 3.79 s níos déanaí.
 Le cabhair léaráide lipéadaithe, díscaoil treoluas na liathróide ina chomhpháirteanna cothrománacha agus ceartingearacha.","léaráid ina dtaispeántar comhpháirteanna cothrománacha agus ceartingearacha
 $u_x = 27 \cos 36^\circ$ [3]
-$u_y = 27 \sin 36^\circ$ [3]"
+$u_y = 27 \sin 36^\circ$ [3]",,,,
 "Agus í á scaoileadh, tá treoluas na liathróide ar uillinn 36° os cionn an chothromáin. Scaoiltear an liathróid ag airde 1.26 m os cionn na talún agus tuirlingíonn sí 3.79 s níos déanaí.
 Ná cuir friotaíocht an aeir san áireamh agus, ríomh an uasairde os cionn na talún a shroicheann an liathróid","$v^2 = u^2 + 2as$ [3]
 $s_y= 12.85$ (m) [2]
-(above ground $= 12.85 + 1.26 =) 14.11$ m [2]"
+(above ground $= 12.85 + 1.26 =) 14.11$ m [2]",,,,
 "Agus í á scaoileadh, tá treoluas na liathróide ar uillinn 36° os cionn an chothromáin. Scaoiltear an liathróid ag airde 1.26 m os cionn na talún agus tuirlingíonn sí 3.79 s níos déanaí.
 Ná cuir friotaíocht an aeir san áireamh agus, íomh an fad cothrománach a thaistil an liathróid in 3.79 s.","$s=ut$ [3]
-$s_x = 82.79$ m [2]"
+$s_x = 82.79$ m [2]",,,,
 "Agus í á scaoileadh, tá treoluas na liathróide ar uillinn 36° os cionn an chothromáin. Scaoiltear an liathróid ag airde 1.26 m os cionn na talún agus tuirlingíonn sí 3.79 s níos déanaí.
-Cén tionchar a bheadh ag friotaíocht an aeir ar chonair na liathróide?","laghdú ar an bhfad cothrománach agus ar an bhfad ceartingearach a thaistealódh sí"
+Cén tionchar a bheadh ag friotaíocht an aeir ar chonair na liathróide?",laghdú ar an bhfad cothrománach agus ar an bhfad ceartingearach a thaistealódh sí,,,,
 "Tá callaire luailchorna bunaithe ar an bprionsabal go mbíonn fórsa á fheidhmiú ar sheoltóir a bhíonn ag iompar srutha i réimse maighnéadach.
-Luaigh dhá chainníocht a mbíonn tionchar acu ar mhéid an fhórsa a bhíonn á fheidhmiú ar sheoltóir a bhíonn ag iompar srutha i réimse maighnéadach.","floscdhlús maighnéadach, sruth, fad an seoltóra, uillinn"
+Luaigh dhá chainníocht a mbíonn tionchar acu ar mhéid an fhórsa a bhíonn á fheidhmiú ar sheoltóir a bhíonn ag iompar srutha i réimse maighnéadach.","floscdhlús maighnéadach, sruth, fad an seoltóra, uillinn",,,,
 "Tá callaire luailchorna bunaithe ar an bprionsabal go mbíonn fórsa á fheidhmiú ar sheoltóir a bhíonn ag iompar srutha i réimse maighnéadach.
 Déan cur síos ar thurgnamh saotharlainne a léiríonn go mbíonn fórsa á fheidhmiú ar sheoltóir a bhíonn ag iompar srutha i réimse maighnéadach.","trealamh [3] 
 modh [3] 
-breathnú"
-"Tá callaire luailchorna bunaithe ar an bprionsabal go mbíonn fórsa á fheidhmiú ar sheoltóir a bhíonn ag iompar srutha i réimse maighnéadach.
-Tarraing léaráid den réimse maighnéadach a dtáirgeann sruth é a bhíonn ag sreabhadh i sreang fhada dhíreach.","cruth, treo"
+breathnú",,,,
 "Tá callaire luailchorna bunaithe ar an bprionsabal go mbíonn fórsa á fheidhmiú ar sheoltóir a bhíonn ag iompar srutha i réimse maighnéadach.
 Nuair a chuirtear sreang 65 cm atá ag iompar sruth 3 A isteach i réimse maighnéadach, bíonn fórsa 7 mN ag feidhmiú uirthi.  Ríomh floscdhlús maighnéadach an réimse nuair a bhíonn an sruth ag sreabhadh ar dhronuillinn leis an réimse","$F = BIl$ [3]
-$B = 0.0036$ T [3]"
+$B = 0.0036$ T [3]",,,,
 "Trí phríomh-chomhpháirt a bhíonn i gcallaire, mar a thaispeántar sa léaráid: an maighnéad, an corna agus an cón.  De bharr creathanna an chóin, tarlaíonn comhathruithe brú san aer a tháirgeann tonnta fuaime de mhinicíocht 512 Hz.
-Cén cineál toinne í fuaim?","fadtonn / tonn mheicniúil"
+Cén cineál toinne í fuaim?",fadtonn / tonn mheicniúil,,,,
 "Trí phríomh-chomhpháirt a bhíonn i gcallaire, mar a thaispeántar sa léaráid: an maighnéad, an corna agus an cón.  De bharr creathanna an chóin, tarlaíonn comhathruithe brú san aer a tháirgeann tonnta fuaime de mhinicíocht 512 Hz.
-Ríomh tonnfhad na toinne fuaime a tháirgtear.","$c = f\lambda$, $\lambda = 0.66\ \text{m}$"
+Ríomh tonnfhad na toinne fuaime a tháirgtear.","$c = f\lambda$, $\lambda = 0.66\ \text{m}$",,,,
 "Braitheann aimplitiúid na toinne fuaime a tháirgtear ar aimplitiúid chreathanna an chóin.
-Cén saintréith cheoil a bhfuil aimplitiúid na toinne ina cionsiocair léi?","airde fuaime"
+Cén saintréith cheoil a bhfuil aimplitiúid na toinne ina cionsiocair léi?",airde fuaime,,,,
 "Tá cumhacht 80 mW ag callaire.
 Ríomh an fhuaimdhéine do dhuine atá ina sheasamh 7 m ón gcallaire.","$I = P/A$ [3]
 $A = 4\pi r^2$ [3]
-$I = 1.3 \times 10^{-4}$ W m$^{-2}$ [3]"
+$I = 1.3 \times 10^{-4}$ W m$^{-2}$ [3]",,,,
 "Tá cumhacht 80 mW ag callaire. 
 Laghdaítear an fhuaimdhéine faoina leath do dhuine nuair a sheasann sé fad d ón gcallaire. Ríomh d","$I \propto \frac{1}{r^2}$ / reference to $\sqrt{2}$ [3]
-9.9 m [2]"
+9.9 m [2]",,,,
 "Tá cumhacht 80 mW ag callaire.
 Ina dhiaidh sin, cuirtear callaire de chumhacht 20 mW in áit an challaire de chumhacht 80 mW.  Ríomh an laghdú i leibhéal na fuaimdhéine.","tagairt do 3 dB 
-6 dB"
-"(a) Braitheann friotaíocht leathsheoltóra ar ábhar ilchineál ghnéithe. Tá teocht ar cheann acu. Is leathsheoltóir atá i dteirmeastar a bhíonn ag brath ar the teocht.
+6 dB",,,,
+"Braitheann friotaíocht leathsheoltóra ar ábhar ilchineál ghnéithe. Tá teocht ar cheann acu. Is leathsheoltóir atá i dteirmeastar a bhíonn ag brath ar the teocht.
 Cad is leathsheoltóir ann?","ábhar ag a bhfuil friotachas
-atá idir friotachas dea-sheoltóra agus friotachas dea-inslitheora / ar a dtagann laghdú de réir mar a thagann ardú ar an teocht"
-"(a) Braitheann friotaíocht leathsheoltóra ar ábhar ilchineál ghnéithe. Tá teocht ar cheann acu. Is leathsheoltóir atá i dteirmeastar a bhíonn ag brath ar the teocht.
+atá idir friotachas dea-sheoltóra agus friotachas dea-inslitheora / ar a dtagann laghdú de réir mar a thagann ardú ar an teocht",,,,
+"Braitheann friotaíocht leathsheoltóra ar ábhar ilchineál ghnéithe. Tá teocht ar cheann acu. Is leathsheoltóir atá i dteirmeastar a bhíonn ag brath ar the teocht.
 Déan sceitse de ghraf chun an coibhneas idir an teocht agus an fhriotaíocht le haghaidh teirmeastair a thaispeáint.","aiseanna lipéadaithe
-cruth"
-"(a) Braitheann friotaíocht leathsheoltóra ar ábhar ilchineál ghnéithe. Tá teocht ar cheann acu. Is leathsheoltóir atá i dteirmeastar a bhíonn ag brath ar the teocht.
-Mínigh cruth an ghraif i dtéarmaí na n-iompróirí luchta i leathsheoltóirí.","tagann ardú ar líon na ndiseanna leictreoin is poill de réir mar a thagann ardú ar an teocht, tagann laghdú ar an bhfriotaíocht"
-"(a) Braitheann friotaíocht leathsheoltóra ar ábhar ilchineál ghnéithe. Tá teocht ar cheann acu. Is leathsheoltóir atá i dteirmeastar a bhíonn ag brath ar the teocht.
+cruth",,,,
+"Braitheann friotaíocht leathsheoltóra ar ábhar ilchineál ghnéithe. Tá teocht ar cheann acu. Is leathsheoltóir atá i dteirmeastar a bhíonn ag brath ar the teocht.
+Mínigh cruth an ghraif i dtéarmaí na n-iompróirí luchta i leathsheoltóirí.","tagann ardú ar líon na ndiseanna leictreoin is poill de réir mar a thagann ardú ar an teocht, tagann laghdú ar an bhfriotaíocht",,,,
+"Braitheann friotaíocht leathsheoltóra ar ábhar ilchineál ghnéithe. Tá teocht ar cheann acu. Is leathsheoltóir atá i dteirmeastar a bhíonn ag brath ar the teocht.
 Déan idirdhealú idir seoladh intreath agus seoladh eistreath i leathsheoltóirí.","intreath: ion // an líon céanna leictreon & poll // seoltacht iseal
-eistreath: dópáilte // níl líon na leictreon & na bpoill mar an gcéanna // seoltacht ard"
-"(b) Bíonn cruth S ag sreabhadh i ndruileire leictreach agus é nasctha leis an bpríomhlíonra. Scaiptear roinnt den fhuinneamh lonchuir mar theas.
+eistreath: dópáilte // níl líon na leictreon & na bpoill mar an gcéanna // seoltacht ard",,,,
+"Bíonn cruth S ag sreabhadh i ndruileire leictreach agus é nasctha leis an bpríomhlíonra. Scaiptear roinnt den fhuinneamh lonchuir mar theas.
 Luaigh dlí Joule.","tá cumhacht i gcomhréir leis // $P \propto I^2$
-an sruth cearnaithe leis an bhfriotaíocht // nodaireacht & tagairt do fhriotaíocht thairiseach"
-"(b) Bíonn cruth S ag sreabhadh i ndruileire leictreach agus é nasctha leis an bpríomhlíonra. Scaiptear roinnt den fhuinneamh lonchuir mar theas.
+an sruth cearnaithe leis an bhfriotaíocht // nodaireacht & tagairt do fhriotaíocht thairiseach",,,,
+"Bíonn cruth S ag sreabhadh i ndruileire leictreach agus é nasctha leis an bpríomhlíonra. Scaiptear roinnt den fhuinneamh lonchuir mar theas.
 Tá friotaíocht leictreach 22 $\Omega$ ag an druillire agus bíonn sé ar siúl ar feadh 30 s. Ríomh an fuinneamh teasa a thírgeann an druillire.","$W = P t$
-$W = 16 \space 500 J$"
-"(b) Bíonn cruth S ag sreabhadh i ndruileire leictreach agus é nasctha leis an bpríomhlíonra. Scaiptear roinnt den fhuinneamh lonchuir mar theas.
+$W = 16 \space 500 J$",,,,
+"Bíonn cruth S ag sreabhadh i ndruileire leictreach agus é nasctha leis an bpríomhlíonra. Scaiptear roinnt den fhuinneamh lonchuir mar theas.
 Ríomh an cumhacht lonchuir a sholáthraíonn an príomhlíonra 230 V don druillire.","$P = V I$
-$P = 1150 W$"
-"(b) Bíonn cruth S ag sreabhadh i ndruileire leictreach agus é nasctha leis an bpríomhlíonra. Scaiptear roinnt den fhuinneamh lonchuir mar theas.
+$P = 1150 W$",,,,
+"Bíonn cruth S ag sreabhadh i ndruileire leictreach agus é nasctha leis an bpríomhlíonra. Scaiptear roinnt den fhuinneamh lonchuir mar theas.
 Ríomh éifeachtúlacht chéatadánach an druillire.","$\frac{P_o}{P_i} * 100$ nó $P = W/t$
-$52.2 \%$"
-"(c) Ag 230 V a bhíonn ag leictreachas príomhshrutha chuig tithe. Tarchuirtear fuinneamh leictreach, áfach, ag úsáid voltais arda de thart ar 300 kV i línte cumhachta.
-Mínigh cén fáth a n-úsáidtear voltais arda i dtarchur fuinnimh leictrigh.",nuair a bhíonn an voltas ard bíonn an sruth íseal agus cailtear níos lú fuinnimh/teasa dá bharr sin
-"(c) Ag 230 V a bhíonn ag leictreachas príomhshrutha chuig tithe. Tarchuirtear fuinneamh leictreach, áfach, ag úsáid voltais arda de thart ar 300 kV i línte cumhachta.
-Ainmnigh gaireas a úsáidtear chun an voltas a ísliú ó 300 kV go dtí 230 V.",claochladán
+$52.2 \%$",,,,
+"Ag 230 V a bhíonn ag leictreachas príomhshrutha chuig tithe. Tarchuirtear fuinneamh leictreach, áfach, ag úsáid voltais arda de thart ar 300 kV i línte cumhachta.
+Mínigh cén fáth a n-úsáidtear voltais arda i dtarchur fuinnimh leictrigh.",nuair a bhíonn an voltas ard bíonn an sruth íseal agus cailtear níos lú fuinnimh/teasa dá bharr sin,,,,
+"Ag 230 V a bhíonn ag leictreachas príomhshrutha chuig tithe. Tarchuirtear fuinneamh leictreach, áfach, ag úsáid voltais arda de thart ar 300 kV i línte cumhachta.
+Ainmnigh gaireas a úsáidtear chun an voltas a ísliú ó 300 kV go dtí 230 V.",claochladán,,,,
 "Úsáidtear ionradaíocht bia chun moill a chur ar mhilleadh agus chun cosc a chur le tinneas de bharr miocrorgánach.  Is éard atá ann ná próiseas ina nochtar bia agus pacáistiú bia doradaíocht ianúcháin ar nós X-ghathanna agus gáma-ghathanna.
 Mínigh cad is brí le hianúchán.","caillteanas/fáil 
-leictreoin"
+leictreoin",,,,
 "Úsáidtear ionradaíocht bia chun moill a chur ar mhilleadh agus chun cosc a chur le tinneas de bharr miocrorgánach.  Is éard atá ann ná próiseas ina nochtar bia agus pacáistiú bia doradaíocht ianúcháin ar nós X-ghathanna agus gáma-ghathanna.
 Déan cur síos ar thurgnamh saotharlainne chun cumas ianúcháin na radaíochta núicléiche a léiriú.","trealamh 
 modh 
-breathnú"
+breathnú",,,,
 "Tá tonnfhad íosta de  $1.02 \times 10^{-11} \, \text{m}$ ag na X-ghathanna a úsáidtear le haghaidh ionradaíocht bia.
 Mínigh conas a tháirgtear na X-ghathanna.","leictreoin ardfhuinnimh  
-buaileann siad in aghaidh sprioc mhiotail"
+buaileann siad in aghaidh sprioc mhiotail",,,,
 "Tá tonnfhad íosta de  $1.02 \times 10^{-11} \, \text{m}$ ag na X-ghathanna a úsáidtear le haghaidh ionradaíocht bia.
 Ríomh an t-uasfhuinneamh le haghaidh X-ghathanna a úsáidtear le haghaidh ionradaíocht bia.","$c=f\lambda$ and $E=hf$ [3]
-$E = 1.95 \times 10^{-14}$ J [3]"
+$E = 1.95 \times 10^{-14}$ J [3]",,,,
 "Úsáidtear Cóbalt–60 go coitianta chun gáma-ghathanna a tháirgeadh le haghaidh ionradaíocht bia. Astaíonn Cóbalt-60 gáma-ghathanna a mbíonn meánfhuinneamh de 1.25 MeV acu.
-Mínigh cad is brí le gáma-ghathanna.","radaíocht leictreamaighnéadach ag a bhfuil an fuinneamh is airde / radaíocht leictreamaighnéadach mar thoradh ar mheath radaighníomhach núicléis"
+Mínigh cad is brí le gáma-ghathanna.",radaíocht leictreamaighnéadach ag a bhfuil an fuinneamh is airde / radaíocht leictreamaighnéadach mar thoradh ar mheath radaighníomhach núicléis,,,,
 "Úsáidtear Cóbalt–60 go coitianta chun gáma-ghathanna a tháirgeadh le haghaidh ionradaíocht bia. Astaíonn Cóbalt-60 gáma-ghathanna a mbíonn meánfhuinneamh de 1.25 MeV acu.
 Cé mhéad uair níos mó is atá meánfhuinneamh na ngáma-ghathanna ná uasfhuinneamh na X-ghathanna?","$1 \space eV = 1.6 \times 10^{-19} J$
-$10.28 \space uair$"
-"(b) Is iosatóip radaighníomhach é Cóbált-60. Táirgtear go saorga é in imoibreoirí eamhaithithe núicléach.
+$10.28 \space uair$",,,,
+"Is iosatóip radaighníomhach é Cóbált-60. Táirgtear go saorga é in imoibreoirí eamhaithithe núicléach.
 Cad is iosatóip ann?","uimhir adamhach chéanna
-maisuimhir dhifriúil"
-"(b) Is iosatóip radaighníomhach é Cóbált-60. Táirgtear go saorga é in imoibreoirí eamhaithithe núicléach.
+maisuimhir dhifriúil",,,,
+"Is iosatóip radaighníomhach é Cóbált-60. Táirgtear go saorga é in imoibreoirí eamhaithithe núicléach.
 Mínigh cad is brí le scoilteadh.
 ","núicléas mór a scoilteadh 
 ina dhá núicléas ar leith atá thart ar an méid céanna agus scaoiltear fuinneamh agus 
-neodróin mar thoradh ar an bpróiseas sin."
-"(b) Is iosatóip radaighníomhach é Cóbált-60. Táirgtear go saorga é in imoibreoirí eamhaithithe núicléach.
+neodróin mar thoradh ar an bpróiseas sin.",,,,
+"Is iosatóip radaighníomhach é Cóbált-60. Táirgtear go saorga é in imoibreoirí eamhaithithe núicléach.
 Déan idirdhealú idir an ról atá ag an maolaire agus ag na rialaimhídi in imoibreoir eamhaithithe núicléach","maolaire: cuireann sé moill ar na neodrón chun go dtarlóidh eamhnú
-rialaimhí: tógann siad neodrón isteach chun ráta an eamhnaithe a rialú"
+rialaimhí: tógann siad neodrón isteach chun ráta an eamhnaithe a rialú",,,,
 "Tugtar toilleoir ar ghléas ar deartha chun fuinneamh a stóráil a bhíonn ionann le a choinneáil aige.
 Sainmhínigh toilleas.","lucht  // foirmle 
-in aghaidh an aonaid voltais // nodaireacht"
+in aghaidh an aonaid voltais // nodaireacht",,,,
 "Tugtar toilleoir ar ghléas ar deartha chun fuinneamh a stóráil a bhíonn ionann le a choinneáil aige.
 Déan cur síos ar thurgnamh a léiríonn go mbraitheann toilleas ar achar comhónta na bplátaí i dtoilleoir plátaí comhthreomhara.","trealamh
 modh
-breathnú"
+breathnú",,,,
 "Tugtar toilleoir ar ghléas ar deartha chun fuinneamh a stóráil a bhíonn ionann le a choinneáil aige.
 Déan sceitse de ghraf oiriúnach chun an coibhneas idir toilleas $\textit{C}$ agus an t-achar comhónta $\textit{A}$ idir na plátaí i dtoilleoir plátaí comhthreomhara a thaispeáint.","aiseanna lipéadaithe
-cruth ceart"
+cruth ceart",,,,
 "Tugtar toilleoir ar ghléas ar deartha chun fuinneamh a stóráil a bhíonn ionann le a choinneáil aige.
 I dtoilleoir plátaí comhthreomhara tá plátaí miotail a bhfuil achar 0.0225 $m^2$ acu suite 2 mm ó chéile i bhfolús.
 Cuirtear voltas 3 kV ag feidhmiú ar na plátaí. Ríomh an t-uasfhuinneamh poitéinsiúil atá á stóráil sa toilleoir.","$C = \frac{\epsilon A}{d}$
 $W = \frac{1}{2}CV^2$
-$W = 1.12 \times 10^{-4} J$"
+$W = 1.12 \times 10^{-4} J$",,,,
 "Tugtar toilleoir ar ghléas ar deartha chun fuinneamh a stóráil a bhíonn ionann le a choinneáil aige.
-Ansin cuirtear ábhar ag a bhfuil ceadaíocht choibhneasta de 2 isteach chun spás idir plátaí an toilleora a líonadh go hiomlán. Cén tionchar a bhíonn aige seo ar an uasfhuinneamh poitéinsiúil a stórálann an toilleoir?","méadaíonn sé faoi 2"
+Ansin cuirtear ábhar ag a bhfuil ceadaíocht choibhneasta de 2 isteach chun spás idir plátaí an toilleora a líonadh go hiomlán. Cén tionchar a bhíonn aige seo ar an uasfhuinneamh poitéinsiúil a stórálann an toilleoir?",méadaíonn sé faoi 2,,,,
 "Tugtar toilleoir ar ghléas ar deartha chun fuinneamh a stóráil a bhíonn ionann le a choinneáil aige.
 Is féidir toilleoir agus friotóirí a chomh nascadh amaithe a chruthú, cosúil leis na ciorcaid a úsáidtear chun splanc i gceamara a chruthú. Sa learaíd chiorcaid thíos taispeántar friotóir agus toilleoir i sraithcheangal le soláthar cumhachta 30 V. Is é an sruth a bhíonn ag sreabhadh sa chiorcad ag meandar ar leith ná 0.3 mA.
 Ríomh an difríocht poitéinsil trasna an fhriotóra ag an meandar sin.","$V = IR$
-$V = 7.5 V$"
+$V = 7.5 V$",,,,
 "Tugtar toilleoir ar ghléas ar deartha chun fuinneamh a stóráil a bhíonn ionann le a choinneáil aige.
 Ríomh an lucht atá á choimeád ag an toilleoir ag an meandar sin.","$V_{toilleoir} = 30 - 7.5 \space (22.5 \space V)$
 $C = q/V$
-$q = 1.91 \times 10^{-3} C$"
+$q = 1.91 \times 10^{-3} C$",,,,
 "Tugtar toilleoir ar ghléas ar deartha chun fuinneamh a stóráil a bhíonn ionann le a choinneáil aige.
 Tarraing learaíd léiriúch de réir plátaí an toilleora luchtaithe a thaispeáint.","cruth
-treo"
-"(a) Ní mór damhna agus don fhuinneamh go léir sa chruinne nó léi ceann amháin nó níos mó de na ceithre fórsa bhunúsacha a nádúir.
-Cé acu ceann de na ceithre fórsa is laige?",fórsa imtharraingthe
-"(a) Ní mór damhna agus don fhuinneamh go léir sa chruinne nó léi ceann amháin nó níos mó de na ceithre fórsa bhunúsacha a nádúir.
-Cé acu fórsa atá freagrach as núicléas a cheangal?",fórsa láidir
-"(a) Ní mór damhna agus don fhuinneamh go léir sa chruinne nó léi ceann amháin nó níos mó de na ceithre fórsa bhunúsacha a nádúir.
-Luaigh an dá fórsa bhunúsacha den nádúr atá bunaithe ar dhlíthe an chearnfhadaigh inbhéartaigh.","fórsa imtharraingthe, fórsa leictreamaighnéadach"
-"(a) Ní mór damhna agus don fhuinneamh go léir sa chruinne nó léi ceann amháin nó níos mó de na ceithre fórsa bhunúsacha a nádúir.
-Ainmnigh an fórsa bunúsach a ligeann do bhéite-mheath tarlú.","fórsa lag"
+treo",,,,
+"Ní mór damhna agus don fhuinneamh go léir sa chruinne nó léi ceann amháin nó níos mó de na ceithre fórsa bhunúsacha a nádúir.
+Cé acu ceann de na ceithre fórsa is laige?",fórsa imtharraingthe,,,,
+"Ní mór damhna agus don fhuinneamh go léir sa chruinne nó léi ceann amháin nó níos mó de na ceithre fórsa bhunúsacha a nádúir.
+Cé acu fórsa atá freagrach as núicléas a cheangal?",fórsa láidir,,,,
+"Ní mór damhna agus don fhuinneamh go léir sa chruinne nó léi ceann amháin nó níos mó de na ceithre fórsa bhunúsacha a nádúir.
+Luaigh an dá fórsa bhunúsacha den nádúr atá bunaithe ar dhlíthe an chearnfhadaigh inbhéartaigh.","fórsa imtharraingthe, fórsa leictreamaighnéadach",,,,
+"Ní mór damhna agus don fhuinneamh go léir sa chruinne nó léi ceann amháin nó níos mó de na ceithre fórsa bhunúsacha a nádúir.
+Ainmnigh an fórsa bunúsach a ligeann do bhéite-mheath tarlú.",fórsa lag,,,,
 "Nuair a tugadh faoi deara gur cosúil nach raibh móiminteam á imchoimeádadh le linn béite mheatha, mhol Wolfgang Pauli go gcaithfidh go n-astaítear cáithnín breise chun an móiminteam agus an fuinneamh a bhí in easnamh a thabhairt leis. Scríobh Pauli, “Rinne mé drochrud amach inniu nuair a mhol mé cáithnín nach féidir a bhrath; is rud é sin nár chóir do theoiricí ar bith a dhéanamh choíche”.
-Sainaithin an cáithnín a mhol Pauli.","neoidríonó"
+Sainaithin an cáithnín a mhol Pauli.",neoidríonó,,,,
 "Nuair a tugadh faoi deara gur cosúil nach raibh móiminteam á imchoimeádadh le linn béite mheatha, mhol Wolfgang Pauli go gcaithfidh go n-astaítear cáithnín breise chun an móiminteam agus an fuinneamh a bhí in easnamh a thabhairt leis. Scríobh Pauli, “Rinne mé drochrud amach inniu nuair a mhol mé cáithnín nach féidir a bhrath; is rud é sin nár chóir do theoiricí ar bith a dhéanamh choíche”.
-Mínigh cén fáth a bhfuil sé deacair an cáithnín seo a bhrath.","mais an-bheag, gan lucht ar bith"
+Mínigh cén fáth a bhfuil sé deacair an cáithnín seo a bhrath.","mais an-bheag, gan lucht ar bith",,,,
 "Nuair a tugadh faoi deara gur cosúil nach raibh móiminteam á imchoimeádadh le linn béite mheatha, mhol Wolfgang Pauli go gcaithfidh go n-astaítear cáithnín breise chun an móiminteam agus an fuinneamh a bhí in easnamh a thabhairt leis. Scríobh Pauli, “Rinne mé drochrud amach inniu nuair a mhol mé cáithnín nach féidir a bhrath; is rud é sin nár chóir do theoiricí ar bith a dhéanamh choíche”.
-Scríobh cothromóid a léiríonn meath neodróin $n^1_0$ trí bhéite-mheath.","$^1_0n \rightarrow ^1_1p + ^0_{-1}e + \overline{v}$"
+Scríobh cothromóid a léiríonn meath neodróin $n^1_0$ trí bhéite-mheath.",$^1_0n \rightarrow ^1_1p + ^0_{-1}e + \overline{v}$,,,,
 "Nuair a tugadh faoi deara gur cosúil nach raibh móiminteam á imchoimeádadh le linn béite mheatha, mhol Wolfgang Pauli go gcaithfidh go n-astaítear cáithnín breise chun an móiminteam agus an fuinneamh a bhí in easnamh a thabhairt leis. Scríobh Pauli, “Rinne mé drochrud amach inniu nuair a mhol mé cáithnín nach féidir a bhrath; is rud é sin nár chóir do theoiricí ar bith a dhéanamh choíche”.
 Ríomh an fuinneamh a scaoiltear le linn an bhéite-mheatha sin.","$E = mc^2$
 athrú ar mais = $1.395 \times 10^{-30} (kg)$
-$E = 1.25 \times 10^{-13} J$"
+$E = 1.25 \times 10^{-13} J$",,,,
 "Mar bharóin a rangaítear na neodróin a bhíonn páirteach i mbéite-mheath. Mar leaptóin a rangaítear leictreoin agus posatróin
-Luaigh difríocht amháin idir baróin agus leaptóin.","Tá baróin comhdhéanta as cáithníní beaga ach is cáithníní bunúsacha iad leaptóin / baineann an brú láidir le baróin ach ní bhaineann an brú láidir le leaptóin"
-"Mar bharóin a rangaítear na neodróin a bhíonn páirteach i mbéite-mheath. Mar leaptóin a rangaítear leictreoin agus posatróin
-Is baróin neodracha iad na neodróin.  Taispeáin an chaoi a mínítear é sin leis an gcuarcshamhail é seo.","neodrón = udd  
-$\frac{2}{3} - \frac{1}{3} - \frac{1}{3} = 0$"
+Luaigh difríocht amháin idir baróin agus leaptóin.",Tá baróin comhdhéanta as cáithníní beaga ach is cáithníní bunúsacha iad leaptóin / baineann an brú láidir le baróin ach ní bhaineann an brú láidir le leaptóin,,,,
 "Mar bharóin a rangaítear na neodróin a bhíonn páirteach i mbéite-mheath. Mar leaptóin a rangaítear leictreoin agus posatróin
 Tarlaíonn díothú díse nuair a bhuaileann leictreon agus posatrón le chéile.  Scríobh cothromóid a léiríonn an próiseas seo.","$^0_{-1}e \rightarrow ^0_{+1}e \rightarrow 2 \gamma$
-// $2mc^2 = 2hf$"
+// $2mc^2 = 2hf$",,,,
 "Is s.a. é an soláthar príomhlíonra cumhachta in Éirinn agus feidhmíonn sé ar mhinicíocht 50 Hz. Bíodh sin mar atá, is é s.d. a bhíonn ag teastáil le go leor gléasanna leictreacha sa teach a úsáid.
 Idirdhealaigh idir s.a. agus s.d..","athraíonn s.a. a threo 
-sreabhann s.d. in aon treo amháin "
-"Is s.a. é an soláthar príomhlíonra cumhachta in Éirinn agus feidhmíonn sé ar mhinicíocht 50 Hz. Bíodh sin mar atá, is é s.d. a bhíonn ag teastáil le go leor gléasanna leictreacha sa teach a úsáid.
-Tarraing graf voltais is ama le haghaidh soláthar s.a. agus le haghaidh soláthar s.d..","aiseanna lipéadaithe 
- s.a. léirithe 
- s.d. léirithe"
-"Is s.a. é an soláthar príomhlíonra cumhachta in Éirinn agus feidhmíonn sé ar mhinicíocht 50 Hz. Bíodh sin mar atá, is é s.d. a bhíonn ag teastáil le go leor gléasanna leictreacha sa teach a úsáid.
-Tarraing léaráid chiorcaid de choigearthóir leath-thonnaigh is féidir a úsáid chun s.a. a thiontú ina s.d..","dé-óid 
-voltas ionchuir agus voltas aschuir lipéadaithe 
-leagan amach"
-"Is s.a. é an soláthar príomhlíonra cumhachta in Éirinn agus feidhmíonn sé ar mhinicíocht 50 Hz. Bíodh sin mar atá, is é s.d. a bhíonn ag teastáil le go leor gléasanna leictreacha sa teach a úsáid.
-Déan sceitse den ghraf de voltas aschuir an chiorcaid seo.","cruth"
-"Is féidir inbhéartóir voltais a úsáid chun s.d. a thiontú ina s.a..  Is féidir trasraitheoir a úsáid chun geata NOT a thógáil i gciorcad inbhéartóra voltais.
-Tarraing léaráid lipéadaithe den struchtúr atá ag trasraitheoir dépholach.","n (tiomsaitheoir), p (bun), n (astaíre) "
-"Is féidir inbhéartóir voltais a úsáid chun s.d. a thiontú ina s.a..  Is féidir trasraitheoir a úsáid chun geata NOT a thógáil i gciorcad inbhéartóra voltais.
-Tarraing tábla fírinne le haghaidh geata NOT.","ionchur 1 : aschur 0 
-ionchur 0 : aschur 1"
-"Is é an Dr Nicolas Callan a cheap an corna ionduchtúcháin sa bhliain 1836.
-Tarraing learáid lipéadaithe a thaispeánfaidh na príomhchodanna de chorna ionduchtúcháin.","corna agus soláthar cumhachta s.d. i gciorcad príomhúil 
-níos mó lúb sa chorna sa chiorcad tánaisteach 
-meicníocht iamh is oscailt agus croíleacán iarainn lipéadaithe"
+sreabhann s.d. in aon treo amháin ",,,,
 "Is é an Dr Nicolas Callan a cheap an corna ionduchtúcháin sa bhliain 1836.
 Déan cur síos ar conas is féidir corna ionduchtúcháin a úsáid chun voltas s.d. mór a tháirgeadh.","lascann an corna príomhúil as 
 réimse maighnéadach athraitheach a théann tríd an gcorna tánaisteach 
-flg ionduchtaithe sa chorna tánaisteach"
+flg ionduchtaithe sa chorna tánaisteach",,,,
 "Tá John Tyndall ar dhuine de na heolaithe agus de na hoideachasóirí is rathúla a tháinig as Éirinn.  Bhain sé amach buaic eolaíochta an 19ú haois agus i measc na gcairde agus na gcomhoibrithe aige, bhí go leor na heolaithe is mó le rá san aois sin.  Bhí feiniméin teasa, fuaime, solais agus timpeallachta ar na hábhair spéis aige. I measc an iliomad gaiscí a bhain sé amach, b’fhéidir gur fearr aithne air mar gheall ar an míniú a thug sé ar an gcúis a bhfuil an spéir gorm – an solas á scaipeadh ag cáithníní beaga atá ar crochadh san atmaisféar.  Scaiptear an solas gorm níos mó ná dathanna eile toisc go dtaistealaíonn sé ag tonnfhaid níos gaire.  Gorm Tyndall a thugtar ar an dath seo. An príomhábhar spéise eolaíochta a bhí aige ná an staidéar ar idirghníomhú an tsolais leis an damhna, le gáis go háirithe. Rinne sé staidéar ar ionsú na radaíochta infridheirge ag gáis a fhaightear san atmaisfear.  Is é a rinne na chéad staidéir ar thruailliú atmaisféarach i Londain. Arna chóiriú as: ‘The Ascent of John Tyndall: Victorian Scientist, Mountaineer, and Public Intellectual’ (Roland Jackson) Oxford University Press 2018
 Is dath príomhúil de chuid an tsolais é gorm
-Ainmnigh an dá dhath phríomhúla solais eile.","dearg, glas"
+Ainmnigh an dá dhath phríomhúla solais eile.","dearg, glas",,,,
 "Tá John Tyndall ar dhuine de na heolaithe agus de na hoideachasóirí is rathúla a tháinig as Éirinn.  Bhain sé amach buaic eolaíochta an 19ú haois agus i measc na gcairde agus na gcomhoibrithe aige, bhí go leor na heolaithe is mó le rá san aois sin.  Bhí feiniméin teasa, fuaime, solais agus timpeallachta ar na hábhair spéis aige. I measc an iliomad gaiscí a bhain sé amach, b’fhéidir gur fearr aithne air mar gheall ar an míniú a thug sé ar an gcúis a bhfuil an spéir gorm – an solas á scaipeadh ag cáithníní beaga atá ar crochadh san atmaisféar.  Scaiptear an solas gorm níos mó ná dathanna eile toisc go dtaistealaíonn sé ag tonnfhaid níos gaire.  Gorm Tyndall a thugtar ar an dath seo. An príomhábhar spéise eolaíochta a bhí aige ná an staidéar ar idirghníomhú an tsolais leis an damhna, le gáis go háirithe. Rinne sé staidéar ar ionsú na radaíochta infridheirge ag gáis a fhaightear san atmaisfear.  Is é a rinne na chéad staidéir ar thruailliú atmaisféarach i Londain. Arna chóiriú as: ‘The Ascent of John Tyndall: Victorian Scientist, Mountaineer, and Public Intellectual’ (Roland Jackson) Oxford University Press 2018
 Is dath príomhúil de chuid an tsolais é gorm
-Ainmnigh an dath tánaisteach a tháirgtear leis an dá dhath phríomhúla sin.","buí"
+Ainmnigh an dath tánaisteach a tháirgtear leis an dá dhath phríomhúla sin.",buí,,,,
 "Tá John Tyndall ar dhuine de na heolaithe agus de na hoideachasóirí is rathúla a tháinig as Éirinn.  Bhain sé amach buaic eolaíochta an 19ú haois agus i measc na gcairde agus na gcomhoibrithe aige, bhí go leor na heolaithe is mó le rá san aois sin.  Bhí feiniméin teasa, fuaime, solais agus timpeallachta ar na hábhair spéis aige. I measc an iliomad gaiscí a bhain sé amach, b’fhéidir gur fearr aithne air mar gheall ar an míniú a thug sé ar an gcúis a bhfuil an spéir gorm – an solas á scaipeadh ag cáithníní beaga atá ar crochadh san atmaisféar.  Scaiptear an solas gorm níos mó ná dathanna eile toisc go dtaistealaíonn sé ag tonnfhaid níos gaire.  Gorm Tyndall a thugtar ar an dath seo. An príomhábhar spéise eolaíochta a bhí aige ná an staidéar ar idirghníomhú an tsolais leis an damhna, le gáis go háirithe. Rinne sé staidéar ar ionsú na radaíochta infridheirge ag gáis a fhaightear san atmaisfear.  Is é a rinne na chéad staidéir ar thruailliú atmaisféarach i Londain. Arna chóiriú as: ‘The Ascent of John Tyndall: Victorian Scientist, Mountaineer, and Public Intellectual’ (Roland Jackson) Oxford University Press 2018
 Cad is brí le spré solais?","solas a bhriseadh
- ina dhathanna éagsúla"
+ ina dhathanna éagsúla",,,,
 "Tá John Tyndall ar dhuine de na heolaithe agus de na hoideachasóirí is rathúla a tháinig as Éirinn.  Bhain sé amach buaic eolaíochta an 19ú haois agus i measc na gcairde agus na gcomhoibrithe aige, bhí go leor na heolaithe is mó le rá san aois sin.  Bhí feiniméin teasa, fuaime, solais agus timpeallachta ar na hábhair spéis aige. I measc an iliomad gaiscí a bhain sé amach, b’fhéidir gur fearr aithne air mar gheall ar an míniú a thug sé ar an gcúis a bhfuil an spéir gorm – an solas á scaipeadh ag cáithníní beaga atá ar crochadh san atmaisféar.  Scaiptear an solas gorm níos mó ná dathanna eile toisc go dtaistealaíonn sé ag tonnfhaid níos gaire.  Gorm Tyndall a thugtar ar an dath seo. An príomhábhar spéise eolaíochta a bhí aige ná an staidéar ar idirghníomhú an tsolais leis an damhna, le gáis go háirithe. Rinne sé staidéar ar ionsú na radaíochta infridheirge ag gáis a fhaightear san atmaisfear.  Is é a rinne na chéad staidéir ar thruailliú atmaisféarach i Londain. Arna chóiriú as: ‘The Ascent of John Tyndall: Victorian Scientist, Mountaineer, and Public Intellectual’ (Roland Jackson) Oxford University Press 2018
-Ainmnigh dhá earra eile is féidir a úsáid chun solas a spré.","dhá rud"
+Ainmnigh dhá earra eile is féidir a úsáid chun solas a spré.",dhá rud,,,,
 "Tá John Tyndall ar dhuine de na heolaithe agus de na hoideachasóirí is rathúla a tháinig as Éirinn.  Bhain sé amach buaic eolaíochta an 19ú haois agus i measc na gcairde agus na gcomhoibrithe aige, bhí go leor na heolaithe is mó le rá san aois sin.  Bhí feiniméin teasa, fuaime, solais agus timpeallachta ar na hábhair spéis aige. I measc an iliomad gaiscí a bhain sé amach, b’fhéidir gur fearr aithne air mar gheall ar an míniú a thug sé ar an gcúis a bhfuil an spéir gorm – an solas á scaipeadh ag cáithníní beaga atá ar crochadh san atmaisféar.  Scaiptear an solas gorm níos mó ná dathanna eile toisc go dtaistealaíonn sé ag tonnfhaid níos gaire.  Gorm Tyndall a thugtar ar an dath seo. An príomhábhar spéise eolaíochta a bhí aige ná an staidéar ar idirghníomhú an tsolais leis an damhna, le gáis go háirithe. Rinne sé staidéar ar ionsú na radaíochta infridheirge ag gáis a fhaightear san atmaisfear.  Is é a rinne na chéad staidéir ar thruailliú atmaisféarach i Londain. Arna chóiriú as: ‘The Ascent of John Tyndall: Victorian Scientist, Mountaineer, and Public Intellectual’ (Roland Jackson) Oxford University Press 2018
 Comhathraíonn an chomhéifeacht athraonta atá ag meán le haghaidh tonnfhaid solais dhifriúla.  Dá bhrí sin, gluaiseann dathanna difriúla ag luasanna difriúla agus castar iad trí uillinneacha difriúla
 Mínigh cad is brí le comhéifeacht athraonta.","an cóimheas idir síneas na huillinne ionsaithe  // foirmle [3] 
-agus síneas na huillinne athraonta  // nodaireacht "
+agus síneas na huillinne athraonta  // nodaireacht ",,,,
 "Tá John Tyndall ar dhuine de na heolaithe agus de na hoideachasóirí is rathúla a tháinig as Éirinn.  Bhain sé amach buaic eolaíochta an 19ú haois agus i measc na gcairde agus na gcomhoibrithe aige, bhí go leor na heolaithe is mó le rá san aois sin.  Bhí feiniméin teasa, fuaime, solais agus timpeallachta ar na hábhair spéis aige. I measc an iliomad gaiscí a bhain sé amach, b’fhéidir gur fearr aithne air mar gheall ar an míniú a thug sé ar an gcúis a bhfuil an spéir gorm – an solas á scaipeadh ag cáithníní beaga atá ar crochadh san atmaisféar.  Scaiptear an solas gorm níos mó ná dathanna eile toisc go dtaistealaíonn sé ag tonnfhaid níos gaire.  Gorm Tyndall a thugtar ar an dath seo. An príomhábhar spéise eolaíochta a bhí aige ná an staidéar ar idirghníomhú an tsolais leis an damhna, le gáis go háirithe. Rinne sé staidéar ar ionsú na radaíochta infridheirge ag gáis a fhaightear san atmaisfear.  Is é a rinne na chéad staidéir ar thruailliú atmaisféarach i Londain. Arna chóiriú as: ‘The Ascent of John Tyndall: Victorian Scientist, Mountaineer, and Public Intellectual’ (Roland Jackson) Oxford University Press 2018
 Comhathraíonn an chomhéifeacht athraonta atá ag meán le haghaidh tonnfhaid solais dhifriúla.  Dá bhrí sin, gluaiseann dathanna difriúla ag luasanna difriúla agus castar iad trí uillinneacha difriúla
 Is é an chomhéifeacht athraonta atá ag bloc gloine le haghaidh solas dearg ná 1.51, agus 1.53 le haghaidh solas vialait.  Ríomh an difríocht idir luas an tsolais dheirg agus luas an tsolais vialait agus iad ag taisteal tríd an mbloc gloine.","$n = \frac{c_1}{c_2}$ [3]
 $c_{dearg} = 1.985 \times 10^8$ (m s$^{-1}$), $c_{vialait} = 1.959 \times 10^8$ (m s$^{-1}$) [2+1]
-difríocht $= 2.6 \times 10^6$ m s$^{-1}$ [2]"
+difríocht $= 2.6 \times 10^6$ m s$^{-1}$ [2]",,,,
 "Tá John Tyndall ar dhuine de na heolaithe agus de na hoideachasóirí is rathúla a tháinig as Éirinn.  Bhain sé amach buaic eolaíochta an 19ú haois agus i measc na gcairde agus na gcomhoibrithe aige, bhí go leor na heolaithe is mó le rá san aois sin.  Bhí feiniméin teasa, fuaime, solais agus timpeallachta ar na hábhair spéis aige. I measc an iliomad gaiscí a bhain sé amach, b’fhéidir gur fearr aithne air mar gheall ar an míniú a thug sé ar an gcúis a bhfuil an spéir gorm – an solas á scaipeadh ag cáithníní beaga atá ar crochadh san atmaisféar.  Scaiptear an solas gorm níos mó ná dathanna eile toisc go dtaistealaíonn sé ag tonnfhaid níos gaire.  Gorm Tyndall a thugtar ar an dath seo. An príomhábhar spéise eolaíochta a bhí aige ná an staidéar ar idirghníomhú an tsolais leis an damhna, le gáis go háirithe. Rinne sé staidéar ar ionsú na radaíochta infridheirge ag gáis a fhaightear san atmaisfear.  Is é a rinne na chéad staidéir ar thruailliú atmaisféarach i Londain. Arna chóiriú as: ‘The Ascent of John Tyndall: Victorian Scientist, Mountaineer, and Public Intellectual’ (Roland Jackson) Oxford University Press 2018
 Rinne Tyndall obair i réimse na speictreascópachta freisin.  Táirgtear fótón de sholas gorm, de mhinicíocht 6.54 × 1014 Hz i línespeictream astaithe.  Tarlaíonn sé sin nuair a thiteann leictreon ó leibhéal fuinnimh 6 x 10–19 J go dtí leibhéal fuinnimh níos ísle.
 Ríomh fuinneamh an leibéil fuinnimh níos ísle.","$E_2 - E_1 = h f$
-$1.67 \times 10^{-19} \, \text{J}$"
+$1.67 \times 10^{-19} \, \text{J}$",,,,
 "Tá John Tyndall ar dhuine de na heolaithe agus de na hoideachasóirí is rathúla a tháinig as Éirinn.  Bhain sé amach buaic eolaíochta an 19ú haois agus i measc na gcairde agus na gcomhoibrithe aige, bhí go leor na heolaithe is mó le rá san aois sin.  Bhí feiniméin teasa, fuaime, solais agus timpeallachta ar na hábhair spéis aige. I measc an iliomad gaiscí a bhain sé amach, b’fhéidir gur fearr aithne air mar gheall ar an míniú a thug sé ar an gcúis a bhfuil an spéir gorm – an solas á scaipeadh ag cáithníní beaga atá ar crochadh san atmaisféar.  Scaiptear an solas gorm níos mó ná dathanna eile toisc go dtaistealaíonn sé ag tonnfhaid níos gaire.  Gorm Tyndall a thugtar ar an dath seo. An príomhábhar spéise eolaíochta a bhí aige ná an staidéar ar idirghníomhú an tsolais leis an damhna, le gáis go háirithe. Rinne sé staidéar ar ionsú na radaíochta infridheirge ag gáis a fhaightear san atmaisfear.  Is é a rinne na chéad staidéir ar thruailliú atmaisféarach i Londain. Arna chóiriú as: ‘The Ascent of John Tyndall: Victorian Scientist, Mountaineer, and Public Intellectual’ (Roland Jackson) Oxford University Press 2018
 Rinne Tyndall obair i réimse na speictreascópachta freisin.  Táirgtear fótón de sholas gorm, de mhinicíocht 6.54 × 1014 Hz i línespeictream astaithe.  Tarlaíonn sé sin nuair a thiteann leictreon ó leibhéal fuinnimh 6 x 10–19 J go dtí leibhéal fuinnimh níos ísle.
 Idirdhealaigh idir línespeictream astaithe agus speictream astaithe leanúnach.","línespeictrim: bíonn bearnaí iontu / bíonn tonnfhaid ar leith iontu ach i gcás 
-speictrim leanúnacha: ní bhíonn bearnaí iontu / bíonn na tonnfhaid go léir iontu"
+speictrim leanúnacha: ní bhíonn bearnaí iontu / bíonn na tonnfhaid go léir iontu",,,,
 "Tá John Tyndall ar dhuine de na heolaithe agus de na hoideachasóirí is rathúla a tháinig as Éirinn.  Bhain sé amach buaic eolaíochta an 19ú haois agus i measc na gcairde agus na gcomhoibrithe aige, bhí go leor na heolaithe is mó le rá san aois sin.  Bhí feiniméin teasa, fuaime, solais agus timpeallachta ar na hábhair spéis aige. I measc an iliomad gaiscí a bhain sé amach, b’fhéidir gur fearr aithne air mar gheall ar an míniú a thug sé ar an gcúis a bhfuil an spéir gorm – an solas á scaipeadh ag cáithníní beaga atá ar crochadh san atmaisféar.  Scaiptear an solas gorm níos mó ná dathanna eile toisc go dtaistealaíonn sé ag tonnfhaid níos gaire.  Gorm Tyndall a thugtar ar an dath seo. An príomhábhar spéise eolaíochta a bhí aige ná an staidéar ar idirghníomhú an tsolais leis an damhna, le gáis go háirithe. Rinne sé staidéar ar ionsú na radaíochta infridheirge ag gáis a fhaightear san atmaisfear.  Is é a rinne na chéad staidéir ar thruailliú atmaisféarach i Londain. Arna chóiriú as: ‘The Ascent of John Tyndall: Victorian Scientist, Mountaineer, and Public Intellectual’ (Roland Jackson) Oxford University Press 2018
 Rinne Tyndall obair i réimse na speictreascópachta freisin.  Táirgtear fótón de sholas gorm, de mhinicíocht 6.54 × 1014 Hz i línespeictream astaithe.  Tarlaíonn sé sin nuair a thiteann leictreon ó leibhéal fuinnimh 6 x 10–19 J go dtí leibhéal fuinnimh níos ísle.
-Luaigh úsáid amháin a bhaintear as an speictreascópacht mar uirlis san eolaíocht.","úsáid amháin"
+Luaigh úsáid amháin a bhaintear as an speictreascópacht mar uirlis san eolaíocht.",úsáid amháin,,,,
 "Tá John Tyndall ar dhuine de na heolaithe agus de na hoideachasóirí is rathúla a tháinig as Éirinn.  Bhain sé amach buaic eolaíochta an 19ú haois agus i measc na gcairde agus na gcomhoibrithe aige, bhí go leor na heolaithe is mó le rá san aois sin.  Bhí feiniméin teasa, fuaime, solais agus timpeallachta ar na hábhair spéis aige. I measc an iliomad gaiscí a bhain sé amach, b’fhéidir gur fearr aithne air mar gheall ar an míniú a thug sé ar an gcúis a bhfuil an spéir gorm – an solas á scaipeadh ag cáithníní beaga atá ar crochadh san atmaisféar.  Scaiptear an solas gorm níos mó ná dathanna eile toisc go dtaistealaíonn sé ag tonnfhaid níos gaire.  Gorm Tyndall a thugtar ar an dath seo. An príomhábhar spéise eolaíochta a bhí aige ná an staidéar ar idirghníomhú an tsolais leis an damhna, le gáis go háirithe. Rinne sé staidéar ar ionsú na radaíochta infridheirge ag gáis a fhaightear san atmaisfear.  Is é a rinne na chéad staidéir ar thruailliú atmaisféarach i Londain. Arna chóiriú as: ‘The Ascent of John Tyndall: Victorian Scientist, Mountaineer, and Public Intellectual’ (Roland Jackson) Oxford University Press 2018
-Is cuid den speictream leictreamaighnéadach í an radaíocht infridhearg.  Liostaigh ceithre chuid eile ar bith den speictream leictreamaighnéadach in ord méadaitheach a minicíochta.","4 cinn ar bith ainmnithe ord"
+Is cuid den speictream leictreamaighnéadach í an radaíocht infridhearg.  Liostaigh ceithre chuid eile ar bith den speictream leictreamaighnéadach in ord méadaitheach a minicíochta.",4 cinn ar bith ainmnithe ord,,,,
 "Is comórtas é Ireland’s Fittest Family ina dtéann teaghlaigh in iomaíocht thar raon de dhúshláin aclaíochta éagsúla.  Sna dúshláin seo léirítear go leor de chuid phrionsabail na fisice ag obair.
-Luaigh dlí imchoimeád an fhuinnimh. ","ní féidir fuinneamh a chruthú ná a scriosadh"
+Luaigh dlí imchoimeád an fhuinnimh. ",ní féidir fuinneamh a chruthú ná a scriosadh,,,,
 "Tá fear in iomaíocht i rás ina bhfuil ar na hiomaitheoirí sleamhnú ó ardán cothrománach anuas sleamhnán atá 2.4 m ar fad.  Tá an sleamhnán ar uillinn 32° leis an gcothromán ón ardán.  Tá bun an tsleamhnáin fad ceartingearach 90 cm os cionn an uisce
 Ríomh airde an ardáin os cionn dhromchla an uisce.","airde an tsleamhnáin = 2.4 sin 32° (= 1.27 m)
-airde iomlán = 1.27 + 0.9 = 2.17 m"
+airde iomlán = 1.27 + 0.9 = 2.17 m",,,,
 "Tá fear in iomaíocht i rás ina bhfuil ar na hiomaitheoirí sleamhnú ó ardán cothrománach anuas sleamhnán atá 2.4 m ar fad.  Tá an sleamhnán ar uillinn 32° leis an gcothromán ón ardán.  Tá bun an tsleamhnáin fad ceartingearach 90 cm os cionn an uisce
 Tosaíonn an fear ó fhos.  Ríomh a threoluas agus é ag dul isteach san uisce. Glac leis nach bhfuil frithchuimilt ar bith ar an sleamhnán.","$mgh = \frac{1}{2}mv^2$ [3]
-$v = 6.52$ m s$^{-1}$ [3]"
-"Tá fear in iomaíocht i rás ina bhfuil ar na hiomaitheoirí sleamhnú ó ardán cothrománach anuas sleamhnán atá 2.4 m ar fad.  Tá an sleamhnán ar uillinn 32° leis an gcothromán ón ardán.  Tá bun an tsleamhnáin fad ceartingearach 90 cm os cionn an uisce
-Tarraing léaráid fórsaí don fhear 
-agus é ag sleamhnú anuas an sleamhnán,","meáchan (ag feidhmiú) síos
- frithghníomhú normalach ingearach leis an dromchla"
-"Tá fear in iomaíocht i rás ina bhfuil ar na hiomaitheoirí sleamhnú ó ardán cothrománach anuas sleamhnán atá 2.4 m ar fad.  Tá an sleamhnán ar uillinn 32° leis an gcothromán ón ardán.  Tá bun an tsleamhnáin fad ceartingearach 90 cm os cionn an uisce
-Tarraing léaráid fórsaí don fhear 
-agus é ar snámh san uisce. ","meáchan (ag feidhmiú) síos 
-fórsa aníos atá comhionann leis "
+$v = 6.52$ m s$^{-1}$ [3]",,,,
 "Is núicléas éagobhsaí é Ra–224 de chuid raidiam.
-Meathann Ra–224 trí alfa-cháithnín a scaoileadh.  Scríobh cothromóid núicléach le haghaidh an mheatha seo.","$_{88}^{224}Ra \rightarrow _{2}^{4}He + _{86}^{220}Rn$"
+Meathann Ra–224 trí alfa-cháithnín a scaoileadh.  Scríobh cothromóid núicléach le haghaidh an mheatha seo.",$_{88}^{224}Ra \rightarrow _{2}^{4}He + _{86}^{220}Rn$,,,,
 "Is núicléas éagobhsaí é Ra–224 de chuid raidiam.
 Meathann sampla de Ra–224 agus foirmítear Pb–208 uaidh, ar iseatóip de chuid luaidhe é. 
-Cé mhéad alfa-cháithnín a scaoiltear? ","4"
+Cé mhéad alfa-cháithnín a scaoiltear? ",4,,,,
 "Is núicléas éagobhsaí é Ra–224 de chuid raidiam.
 Meathann sampla de Ra–224 agus foirmítear Pb–208 uaidh, ar iseatóip de chuid luaidhe é. 
-Cé mhéad béite-cháithnín a scaoiltear? ","2"
+Cé mhéad béite-cháithnín a scaoiltear? ",2,,,,
 "Is núicléas éagobhsaí é Ra–224 de chuid raidiam.
 Tá leathré 3.6 lá ag Ra–224
 Mínigh cad is brí le leathré","an méid ama a thógann sé
- chun meath a theacht ar leath de na núicléis "
+ chun meath a theacht ar leath de na núicléis ",,,,
 "Is núicléas éagobhsaí é Ra–224 de chuid raidiam.
 Tá leathré 3.6 lá ag Ra–224
 Ríomh an líon iomlán alfa-cháithníní sa tsoicind a astaíonn sampla de Ra–224 ina bhfuil 4.7 × 10$^{14}$ adamh","$T_{\frac{1}{2}} = \frac{ln2}{\lambda}$ [3]
 $A = \lambda N$ [3]
-$A = 1.05 \times 10^{9}$ (Bq) [3]"
-"Cad is brí le hastú teirmianach?","astú leictreon 
-as dromchla miotail the"
-"Tarraing léaráid lipéadaithe d’fheadán ga-chatóideach.","corna téimh 
-an voltas idir an chatóid agus an anóid 
-folús lipéadaithe 
-sonra amháin eile"
+$A = 1.05 \times 10^{9}$ (Bq) [3]",,,,
+Cad is brí le hastú teirmianach?,"astú leictreon 
+as dromchla miotail the",,,,
 "Nuair a bhuaileann leictreon ardluais scáileán ascalascóip, táirgtear an solas glas a fheictear.
 Ríomh an voltas is ísle atá ag teastáil trasna an fheadáin chun go mbeidh treoluas 2.7 × 10$^7$ m s$^{-1}$ ag leictreon","$E_k = \frac{1}{2}mv^2$ or $W = qV$ [3]
 $qV = \frac{1}{2}mv^2$ [3]
-$V = 2072$ V [3]"
+$V = 2072$ V [3]",,,,
 "Nuair a bhuaileann leictreon ardluais scáileán ascalascóip, táirgtear an solas glas a fheictear.
-Cén difríocht atá idir an iarmhairt fhótaileictreach agus astú teirmianach?","(tá gá le fuinneamh) solais le haghaidh scaoileadh an leictreoin"
-"Is féidir speictriméadar a úsáid chun tonnfhad an tsolais a thomhas.
-Tarraing léaráid lipéadaithe de speictriméadar.","comhlínitheoir, bord, teileascóp, sonra eile lipéadaithe"
+Cén difríocht atá idir an iarmhairt fhótaileictreach agus astú teirmianach?",(tá gá le fuinneamh) solais le haghaidh scaoileadh an leictreoin,,,,
 "Seoltar solas glas arb é 530 nm a thonnfhad trí ghríl díraonta ar a bhfuil 400 líne in aghaidh an mm.
 Ríomh uillinn na deighilte idir na híomhánna den dara hord.","$d = \frac{1}{number\ of\ lines\ per\ metre}$ [3]
 $n\lambda = d\sin i$ [3]
 $\theta = 25.1$ [3]
-angle of separation $= 50.2^\circ$ [3]"
+angle of separation $= 50.2^\circ$ [3]",,,,
 "Seoltar solas glas arb é 530 nm a thonnfhad trí ghríl díraonta ar a bhfuil 400 líne in aghaidh an mm.
-Ainmnigh dath difriúil solais a d'fhéadfaí a úsáid chun go mbeadh an uillinn deighilte níos mó.","dearg / oráiste / buí"
+Ainmnigh dath difriúil solais a d'fhéadfaí a úsáid chun go mbeadh an uillinn deighilte níos mó.",dearg / oráiste / buí,,,,
 "Seoltar solas glas arb é 530 nm a thonnfhad trí ghríl díraonta ar a bhfuil 400 líne in aghaidh an mm.
-Mínigh conas a bhíonn tionchar ag an líon línte in aghaidh an mm ar an ngríl díraonta ar uillinn na deighilte.","bíonn an uillinn níos mó nuair a bhíonn níos mó línte ann in aghaidh an mm"
+Mínigh conas a bhíonn tionchar ag an líon línte in aghaidh an mm ar an ngríl díraonta ar uillinn na deighilte.",bíonn an uillinn níos mó nuair a bhíonn níos mó línte ann in aghaidh an mm,,,,

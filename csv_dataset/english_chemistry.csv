@@ -1,68 +1,66 @@
-"problem","image_problem","answer","image_answer"
+problem,answer,problem_image_1,problem_image_2,answer_image_1,answer_image_2
 "A student carried out an experiment to determine the concentration of ethanoic acid in vinegar. A 10.0 $\text{cm}^3$ portion of the vinegar was first diluted to exactly 50.0 $\text{cm}^3$. The diluted vinegar solution was titrated against a 0.09 M sodium hydroxide solution in a conical flask. On average, 12.4 $\text{cm}^3$ of the diluted vinegar were required to neutralise 25.0 $\text{cm}^3$ of the NaOH solution. The titration reaction is described by the following balanced chemical equation:
 $CH_3COOH + NaOH \rightarrow CH_3COONa + H_2O$
-(i) Name the piece of apparatus used to measure accurately the 10.0 $\text{cm}^3$ portion of the original vinegar.","","pipette / burette",""
+Name the piece of apparatus used to measure accurately the 10.0 $\text{cm}^3$ portion of the original vinegar.",pipette / burette,,,,
 "A student carried out an experiment to determine the concentration of ethanoic acid in vinegar. A 10.0 $\text{cm}^3$ portion of the vinegar was first diluted to exactly 50.0 $\text{cm}^3$. The diluted vinegar solution was titrated against a 0.09 M sodium hydroxide solution in a conical flask. On average, 12.4 $\text{cm}^3$ of the diluted vinegar were required to neutralise 25.0 $\text{cm}^3$ of the NaOH solution. The titration reaction is described by the following balanced chemical equation:
 $CH_3COOH + NaOH \rightarrow CH_3COONa + H_2O$
-(ii) Describe how this piece of apparatus was rinsed before use.","","with deionised water / with vinegar",""
+Describe how this piece of apparatus was rinsed before use.",with deionised water / with vinegar,,,,
 "A student carried out an experiment to determine the concentration of ethanoic acid in vinegar. A 10.0 $\text{cm}^3$ portion of the vinegar was first diluted to exactly 50.0 $\text{cm}^3$. The diluted vinegar solution was titrated against a 0.09 M sodium hydroxide solution in a conical flask. On average, 12.4 $\text{cm}^3$ of the diluted vinegar were required to neutralise 25.0 $\text{cm}^3$ of the NaOH solution. The titration reaction is described by the following balanced chemical equation:
 $CH_3COOH + NaOH \rightarrow CH_3COONa + H_2O$
-(iii) Describe a suitable method to dilute the 10.0 $\text{cm}^3$ portion of the original vinegar to exactly 50.0 $\text{cm}^3$.","","add (10.0 $\text{cm}^3$ of original) vinegar to (50 $\text{cm}^3$) volumetric flask / to mark with deionised water / (add water to) bring bottom of meniscus to mark",""
+(iii) Describe a suitable method to dilute the 10.0 $\text{cm}^3$ portion of the original vinegar to exactly 50.0 $\text{cm}^3$.",add (10.0 $\text{cm}^3$ of original) vinegar to (50 $\text{cm}^3$) volumetric flask / to mark with deionised water / (add water to) bring bottom of meniscus to mark,,,,
 "A student carried out an experiment to determine the concentration of ethanoic acid in vinegar. A 10.0 $\text{cm}^3$ portion of the vinegar was first diluted to exactly 50.0 $\text{cm}^3$. The diluted vinegar solution was titrated against a 0.09 M sodium hydroxide solution in a conical flask. On average, 12.4 $\text{cm}^3$ of the diluted vinegar were required to neutralise 25.0 $\text{cm}^3$ of the NaOH solution. The titration reaction is described by the following balanced chemical equation:
 $CH_3COOH + NaOH \rightarrow CH_3COONa + H_2O$
-(i) Calculate the volume of undiluted vinegar which would be required to neutralise 25.0 $\text{cm}^3$ of the 0.09 M NaOH solution.","","reference to a factor of 5 / 12.4 ÷ 5 = 2.48 ($\text{cm}^3$)",""
+Calculate the volume of undiluted vinegar which would be required to neutralise 25.0 $\text{cm}^3$ of the 0.09 M NaOH solution.",reference to a factor of 5 / 12.4 ÷ 5 = 2.48 ($\text{cm}^3$),,,,
 "A student carried out an experiment to determine the concentration of ethanoic acid in vinegar. A 10.0 $\text{cm}^3$ portion of the vinegar was first diluted to exactly 50.0 $\text{cm}^3$. The diluted vinegar solution was titrated against a 0.09 M sodium hydroxide solution in a conical flask. On average, 12.4 $\text{cm}^3$ of the diluted vinegar were required to neutralise 25.0 $\text{cm}^3$ of the NaOH solution. The titration reaction is described by the following balanced chemical equation:
 $CH_3COOH + NaOH \rightarrow CH_3COONa + H_2O$
-(ii) Outline an advantage of diluting the vinegar before carrying out the titration.","","smaller (%) error / more accurate (volume) / less (concentrated) NaOH",""
+Outline an advantage of diluting the vinegar before carrying out the titration.",smaller (%) error / more accurate (volume) / less (concentrated) NaOH,,,,
 "A student carried out an experiment to determine the concentration of ethanoic acid in vinegar. A 10.0 $\text{cm}^3$ portion of the vinegar was first diluted to exactly 50.0 $\text{cm}^3$. The diluted vinegar solution was titrated against a 0.09 M sodium hydroxide solution in a conical flask. On average, 12.4 $\text{cm}^3$ of the diluted vinegar were required to neutralise 25.0 $\text{cm}^3$ of the NaOH solution. The titration reaction is described by the following balanced chemical equation:
 $CH_3COOH + NaOH \rightarrow CH_3COONa + H_2O$
-(i) Name a suitable indicator for this titration.","","phenolphthalein",""
+Name a suitable indicator for this titration.",phenolphthalein,,,,
 "A student carried out an experiment to determine the concentration of ethanoic acid in vinegar. A 10.0 $\text{cm}^3$ portion of the vinegar was first diluted to exactly 50.0 $\text{cm}^3$. The diluted vinegar solution was titrated against a 0.09 M sodium hydroxide solution in a conical flask. On average, 12.4 $\text{cm}^3$ of the diluted vinegar were required to neutralise 25.0 $\text{cm}^3$ of the NaOH solution. The titration reaction is described by the following balanced chemical equation:
 $CH_3COOH + NaOH \rightarrow CH_3COONa + H_2O$
-(ii) State the colour change observed at the end point.","","pink [do not accept purple]
-to colourless [do not accept clear]",""
+State the colour change observed at the end point.","pink [do not accept purple]
+to colourless [do not accept clear]",,,,
 "A student carried out an experiment to determine the concentration of ethanoic acid in vinegar. A 10.0 $\text{cm}^3$ portion of the vinegar was first diluted to exactly 50.0 $\text{cm}^3$. The diluted vinegar solution was titrated against a 0.09 M sodium hydroxide solution in a conical flask. On average, 12.4 $\text{cm}^3$ of the diluted vinegar were required to neutralise 25.0 $\text{cm}^3$ of the NaOH solution. The titration reaction is described by the following balanced chemical equation:
 $CH_3COOH + NaOH \rightarrow CH_3COONa + H_2O$
-(i) Calculate the number of moles of sodium hydroxide in each 25.0 $\text{cm}^3$ portion.","","$\frac{0.09 \times 25.0}{1000} = 0.00225 \text{ (moles)}$",""
+Calculate the number of moles of sodium hydroxide in each 25.0 $\text{cm}^3$ portion.",$\frac{0.09 \times 25.0}{1000} = 0.00225 \text{ (moles)}$,,,,
 "A student carried out an experiment to determine the concentration of ethanoic acid in vinegar. A 10.0 $\text{cm}^3$ portion of the vinegar was first diluted to exactly 50.0 $\text{cm}^3$. The diluted vinegar solution was titrated against a 0.09 M sodium hydroxide solution in a conical flask. On average, 12.4 $\text{cm}^3$ of the diluted vinegar were required to neutralise 25.0 $\text{cm}^3$ of the NaOH solution. The titration reaction is described by the following balanced chemical equation:
 $CH_3COOH + NaOH \rightarrow CH_3COONa + H_2O$
-(ii) Calculate the number of moles of ethanoic acid in each $\text{cm}^3$ of the diluted vinegar.","","$\frac{0.00225 \div 12.4 = 0.00018 \text{ (moles)}}{}$",""
+Calculate the number of moles of ethanoic acid in each $\text{cm}^3$ of the diluted vinegar.",$\frac{0.00225 \div 12.4 = 0.00018 \text{ (moles)}}{}$,,,,
 "A student carried out an experiment to determine the concentration of ethanoic acid in vinegar. A 10.0 $\text{cm}^3$ portion of the vinegar was first diluted to exactly 50.0 $\text{cm}^3$. The diluted vinegar solution was titrated against a 0.09 M sodium hydroxide solution in a conical flask. On average, 12.4 $\text{cm}^3$ of the diluted vinegar were required to neutralise 25.0 $\text{cm}^3$ of the NaOH solution. The titration reaction is described by the following balanced chemical equation:
 $CH_3COOH + NaOH \rightarrow CH_3COONa + H_2O$
-(iii) Calculate the concentration of ethanoic acid in the original vinegar in moles per litre.","","$\frac{0.00018 \times 1000}{2.  = 0.91 \text{ (M)}}$",""
+(iii) Calculate the concentration of ethanoic acid in the original vinegar in moles per litre.",$\frac{0.00018 \times 1000}{2.  = 0.91 \text{ (M)}}$,,,,
 "A student carried out an experiment to determine the concentration of ethanoic acid in vinegar. A 10.0 $\text{cm}^3$ portion of the vinegar was first diluted to exactly 50.0 $\text{cm}^3$. The diluted vinegar solution was titrated against a 0.09 M sodium hydroxide solution in a conical flask. On average, 12.4 $\text{cm}^3$ of the diluted vinegar were required to neutralise 25.0 $\text{cm}^3$ of the NaOH solution. The titration reaction is described by the following balanced chemical equation:
 $CH_3COOH + NaOH \rightarrow CH_3COONa + H_2O$
-(iv) Calculate the concentration of ethanoic acid in the original vinegar in % (w/v).","","$M_r = 60$ / $\frac{0.91 \times 60}{10} = 5.44 (\%)$",""
+Calculate the concentration of ethanoic acid in the original vinegar in % (w/v).",$M_r = 60$ / $\frac{0.91 \times 60}{10} = 5.44 (\%)$,,,,
 "A student carried out an experiment to purify benzoic acid by recrystallisation, using water as the solvent.
-Explain why water is a suitable solvent for carrying out this recrystallisation.","","(benzoic acid has) low solubility in cold water / 
-(benzoic acid has) high solubility in hot water",""
+Explain why water is a suitable solvent for carrying out this recrystallisation.","(benzoic acid has) low solubility in cold water / 
+(benzoic acid has) high solubility in hot water",,,,
 "A student carried out an experiment to purify benzoic acid by recrystallisation, using water as the solvent.
-Explain the purpose of the first (hot) filtration.","","to remove insoluble impurities",""
+Explain the purpose of the first (hot) filtration.",to remove insoluble impurities,,,,
 "A student carried out an experiment to purify benzoic acid by recrystallisation, using water as the solvent.
-Fluted filter paper in a warm funnel, as shown on the right, is used in the hot filtration. Explain why this arrangement is suitable for hot filtration.","","increased surface area / faster filtration / keeps solution warm / 
-avoids benzoic acid coming out of solution / increases yield",""
+Fluted filter paper in a warm funnel, as shown on the right, is used in the hot filtration. Explain why this arrangement is suitable for hot filtration.","increased surface area / faster filtration / keeps solution warm / 
+avoids benzoic acid coming out of solution / increases yield",,,,
 "A student carried out an experiment to purify benzoic acid by recrystallisation, using water as the solvent.
-Explain why the second filtration is only carried out after a sufficient period of cooling.","","to maximise the yield / to allow crystallisation",""
+Explain why the second filtration is only carried out after a sufficient period of cooling.",to maximise the yield / to allow crystallisation,,,,
 "A student carried out an experiment to purify benzoic acid by recrystallisation, using water as the solvent.
-What observation would the student make that shows that the recrystallised benzoic acid was pure?","","melting point
-over a narrow range / sharp / close to correct value",""
+What observation would the student make that shows that the recrystallised benzoic acid was pure?","melting point
+over a narrow range / sharp / close to correct value",,,,
 "A second student carried out a test to show that ethanal is easily oxidised. 
-Identify the reagent(s) which the student could have used. ","","acidified KMnO4 (solution) // Fehling’s (A and B) // Tollen’s (reagent)",""
+Identify the reagent(s) which the student could have used. ",acidified KMnO4 (solution) // Fehling’s (A and B) // Tollen’s (reagent),,,,
 "A second student carried out a test to show that ethanal is easily oxidised. 
-State the colour change observed for the reagent(s) you have identified.","","pink/purple // blue // colourless
-to colourless // to red // to silver",""
+State the colour change observed for the reagent(s) you have identified.","pink/purple // blue // colourless
+to colourless // to red // to silver",,,,
 "A second student carried out a test to show that ethanal is easily oxidised. 
-Identify the organic substance produced in this test.","","ethanoic acid",""
+Identify the organic substance produced in this test.",ethanoic acid,,,,
 "A second student carried out a test to show that ethanal is easily oxidised. 
-Write a half equation for the reduction of the inorganic reagent used in this test.","","$\text{Mn}^{7+} \rightarrow \text{Mn}^{2+}$
+Write a half equation for the reduction of the inorganic reagent used in this test.","$\text{Mn}^{7+} \rightarrow \text{Mn}^{2+}$
 $\text{Cu}^{2+} \rightarrow \text{Cu}^{+}$
-$\text{Ag}^{+} \rightarrow \text{Ag}$",""
+$\text{Ag}^{+} \rightarrow \text{Ag}$",,,,
 "A third student prepared soap in the laboratory. 
-Identify the reactants used in the preparation of soap.","","fat / lard / oil / triglyceride / e.g. glyceryl tristearate / stearin / tristearin sodium hydroxide / potassium hydroxide",""
+Identify the reactants used in the preparation of soap.",fat / lard / oil / triglyceride / e.g. glyceryl tristearate / stearin / tristearin sodium hydroxide / potassium hydroxide,,,,
 "A third student prepared soap in the laboratory. 
-Identify the solvent used in the preparation of soap.","","ethanol",""
-"A third student prepared soap in the laboratory. 
-Name the co-product formed when soap is prepared in this way. Draw the molecular structure of this co-product, including all atoms and bonds.","","propan-1,2,3-triol / glycerol","images/chemistry/answer/2c_iii.png"
+Identify the solvent used in the preparation of soap.",ethanol,,,,
 "The reaction of sodium thiosulfate with hydrochloric acid is described by the following balanced chemical equation: $Na_2S_2O_3 + 2HCl \rightarrow 2NaCl + SO_2 + S + H_2O$
 To Investigate the effect of concentration on the rate of this reaction, the experiment was carried out for a number of different concentrations of sodium thiosulfate solution. For each run, a stopwatch was started when 100 $\text{cm}^3$ of $Na_2S_2O_3$ was mixed with 10 $\text{cm}^3$ of 1M HCl. For each run, the reaction was carried out at room temperature, and the time taken for the same mass of sulfur to precipitate was measured. The inverse of that time was taken as a measure of the initial rate of reaction.
 The results are shown in the table below.
@@ -71,7 +69,7 @@ The results are shown in the table below.
 |Time (s)| 50 | 56 | 63 | 72 | 84 | 100 | 125 | 168 |
 |Rate = $\frac{1}{Time} (s^{-1})$| 0.020 | 0.018 |  |  |  |  |  |  |
 
-(i) Describe a method that could be used to know when the same mass of sulfur had been precipitated in each run.","","X placed under flask time (measured until) X not visible /  light-meter (time measured until) same value",""
+Describe a method that could be used to know when the same mass of sulfur had been precipitated in each run.",X placed under flask time (measured until) X not visible /  light-meter (time measured until) same value,,,,
 "The reaction of sodium thiosulfate with hydrochloric acid is described by the following balanced chemical equation: $Na_2S_2O_3 + 2HCl \rightarrow 2NaCl + SO_2 + S + H_2O$
 To Investigate the effect of concentration on the rate of this reaction, the experiment was carried out for a number of different concentrations of sodium thiosulfate solution. For each run, a stopwatch was started when 100 $\text{cm}^3$ of $Na_2S_2O_3$ was mixed with 10 $\text{cm}^3$ of 1M HCl. For each run, the reaction was carried out at room temperature, and the time taken for the same mass of sulfur to precipitate was measured. The inverse of that time was taken as a measure of the initial rate of reaction.
 The results are shown in the table below.
@@ -80,7 +78,7 @@ The results are shown in the table below.
 |Time (s)| 50 | 56 | 63 | 72 | 84 | 100 | 125 | 168 |
 |Rate = $\frac{1}{Time} (s^{-1})$| 0.020 | 0.018 |  |  |  |  |  |  |
 
-(ii) Describe how a 0.10 M solution of $Na_2S_2O_3$ could be used to prepare a 100 $\text{cm}^3$ portion of 0.09 M $Na_2S_2O_3$ solution.","","90 $\text{cm}^3$ of (0.10 M) solution made up (to 100 $\text{cm}^3$) with water",""
+Describe how a 0.10 M solution of $Na_2S_2O_3$ could be used to prepare a 100 $\text{cm}^3$ portion of 0.09 M $Na_2S_2O_3$ solution.",90 $\text{cm}^3$ of (0.10 M) solution made up (to 100 $\text{cm}^3$) with water,,,,
 "The reaction of sodium thiosulfate with hydrochloric acid is described by the following balanced chemical equation: $Na_2S_2O_3 + 2HCl \rightarrow 2NaCl + SO_2 + S + H_2O$
 To Investigate the effect of concentration on the rate of this reaction, the experiment was carried out for a number of different concentrations of sodium thiosulfate solution. For each run, a stopwatch was started when 100 $\text{cm}^3$ of $Na_2S_2O_3$ was mixed with 10 $\text{cm}^3$ of 1M HCl. For each run, the reaction was carried out at room temperature, and the time taken for the same mass of sulfur to precipitate was measured. The inverse of that time was taken as a measure of the initial rate of reaction.
 The results are shown in the table below.
@@ -89,7 +87,7 @@ The results are shown in the table below.
 |Time (s)| 50 | 56 | 63 | 72 | 84 | 100 | 125 | 168 |
 |Rate = $\frac{1}{Time} (s^{-1})$| 0.020 | 0.018 |  |  |  |  |  |  |
 
-(i) Copy and complete the third row of the table into your answerbook by filling in the missing rate values, correct to three decimal places.","","0.016, 0.014, 0.012, 0.010, 0.008, 0.006",""
+Copy and complete the third row of the table into your answerbook by filling in the missing rate values, correct to three decimal places.","0.016, 0.014, 0.012, 0.010, 0.008, 0.006",,,,
 "The reaction of sodium thiosulfate with hydrochloric acid is described by the following balanced chemical equation: $Na_2S_2O_3 + 2HCl \rightarrow 2NaCl + SO_2 + S + H_2O$
 To Investigate the effect of concentration on the rate of this reaction, the experiment was carried out for a number of different concentrations of sodium thiosulfate solution. For each run, a stopwatch was started when 100 $\text{cm}^3$ of $Na_2S_2O_3$ was mixed with 10 $\text{cm}^3$ of 1M HCl. For each run, the reaction was carried out at room temperature, and the time taken for the same mass of sulfur to precipitate was measured. The inverse of that time was taken as a measure of the initial rate of reaction.
 The results are shown in the table below.
@@ -98,7 +96,7 @@ The results are shown in the table below.
 |Time (s)| 50 | 56 | 63 | 72 | 84 | 100 | 125 | 168 |
 |Rate = $\frac{1}{Time} (s^{-1})$| 0.020 | 0.018 |  |  |  |  |  |  |
 
-Draw a graph on graph paper to show how the rate of the reaction varies with the concentration of sodium thiosulfate solution","","axes labelled, points plotted, line of best fit","images/chemistry/answer/3b_ii.png"
+What can be concluded from your graph?",rate proportional to concentration / time inversely proportional to concentration ,,,,
 "The reaction of sodium thiosulfate with hydrochloric acid is described by the following balanced chemical equation: $Na_2S_2O_3 + 2HCl \rightarrow 2NaCl + SO_2 + S + H_2O$
 To Investigate the effect of concentration on the rate of this reaction, the experiment was carried out for a number of different concentrations of sodium thiosulfate solution. For each run, a stopwatch was started when 100 $\text{cm}^3$ of $Na_2S_2O_3$ was mixed with 10 $\text{cm}^3$ of 1M HCl. For each run, the reaction was carried out at room temperature, and the time taken for the same mass of sulfur to precipitate was measured. The inverse of that time was taken as a measure of the initial rate of reaction.
 The results are shown in the table below.
@@ -107,7 +105,7 @@ The results are shown in the table below.
 |Time (s)| 50 | 56 | 63 | 72 | 84 | 100 | 125 | 168 |
 |Rate = $\frac{1}{Time} (s^{-1})$| 0.020 | 0.018 |  |  |  |  |  |  |
 
-What can be concluded from your graph?","","rate proportional to concentration / time inversely proportional to concentration ",""
+Use your graph to estimate the rate of reaction if 100 cm3 of 0.015 M Na2S2O3 solution had been used.","$\approx 0.003 \, (\text{s}^{-1})$",,,,
 "The reaction of sodium thiosulfate with hydrochloric acid is described by the following balanced chemical equation: $Na_2S_2O_3 + 2HCl \rightarrow 2NaCl + SO_2 + S + H_2O$
 To Investigate the effect of concentration on the rate of this reaction, the experiment was carried out for a number of different concentrations of sodium thiosulfate solution. For each run, a stopwatch was started when 100 $\text{cm}^3$ of $Na_2S_2O_3$ was mixed with 10 $\text{cm}^3$ of 1M HCl. For each run, the reaction was carried out at room temperature, and the time taken for the same mass of sulfur to precipitate was measured. The inverse of that time was taken as a measure of the initial rate of reaction.
 The results are shown in the table below.
@@ -116,16 +114,7 @@ The results are shown in the table below.
 |Time (s)| 50 | 56 | 63 | 72 | 84 | 100 | 125 | 168 |
 |Rate = $\frac{1}{Time} (s^{-1})$| 0.020 | 0.018 |  |  |  |  |  |  |
 
-Use your graph to estimate the rate of reaction if 100 cm3 of 0.015 M Na2S2O3 solution had been used.","","$\approx 0.003 \, (\text{s}^{-1})$",""
-"The reaction of sodium thiosulfate with hydrochloric acid is described by the following balanced chemical equation: $Na_2S_2O_3 + 2HCl \rightarrow 2NaCl + SO_2 + S + H_2O$
-To Investigate the effect of concentration on the rate of this reaction, the experiment was carried out for a number of different concentrations of sodium thiosulfate solution. For each run, a stopwatch was started when 100 $\text{cm}^3$ of $Na_2S_2O_3$ was mixed with 10 $\text{cm}^3$ of 1M HCl. For each run, the reaction was carried out at room temperature, and the time taken for the same mass of sulfur to precipitate was measured. The inverse of that time was taken as a measure of the initial rate of reaction.
-The results are shown in the table below.
-|Concentration of $Na_2S_2O_3$ (M)| 0.10 | 0.09 | 0.08 | 0.07 | 0.06 | 0.05 | 0.04 | 0.03 |
-|---|---|---|---|---|---|---|---|---|
-|Time (s)| 50 | 56 | 63 | 72 | 84 | 100 | 125 | 168 |
-|Rate = $\frac{1}{Time} (s^{-1})$| 0.020 | 0.018 |  |  |  |  |  |  |
-
-Calculate the time taken for the sulfur to precipitate in this case.","","$\frac{1}{0.003} = 333 \, (\text{s})$",""
+Calculate the time taken for the sulfur to precipitate in this case.","$\frac{1}{0.003} = 333 \, (\text{s})$",,,,
 "The reaction of sodium thiosulfate with hydrochloric acid is described by the following balanced chemical equation: $Na_2S_2O_3 + 2HCl \rightarrow 2NaCl + SO_2 + S + H_2O$
 To Investigate the effect of concentration on the rate of this reaction, the experiment was carried out for a number of different concentrations of sodium thiosulfate solution. For each run, a stopwatch was started when 100 $\text{cm}^3$ of $Na_2S_2O_3$ was mixed with 10 $\text{cm}^3$ of 1M HCl. For each run, the reaction was carried out at room temperature, and the time taken for the same mass of sulfur to precipitate was measured. The inverse of that time was taken as a measure of the initial rate of reaction.
 The results are shown in the table below.
@@ -139,8 +128,8 @@ To investigate the effect of temperature on the rate of this reaction, the time 
 |---|---|---|---|
 |Time (s)| 40 | 10 | 25 |
 
-Describe a suitable method for heating the reactants and measuring the reaction temperature.  A labelled diagram may help your answer.","","heat source / water bath / hotplate / Bunsen burner
-thermometer",""
+Describe a suitable method for heating the reactants and measuring the reaction temperature.  A labelled diagram may help your answer.","heat source / water bath / hotplate / Bunsen burner
+thermometer",,,,
 "The reaction of sodium thiosulfate with hydrochloric acid is described by the following balanced chemical equation: $Na_2S_2O_3 + 2HCl \rightarrow 2NaCl + SO_2 + S + H_2O$
 To Investigate the effect of concentration on the rate of this reaction, the experiment was carried out for a number of different concentrations of sodium thiosulfate solution. For each run, a stopwatch was started when 100 $\text{cm}^3$ of $Na_2S_2O_3$ was mixed with 10 $\text{cm}^3$ of 1M HCl. For each run, the reaction was carried out at room temperature, and the time taken for the same mass of sulfur to precipitate was measured. The inverse of that time was taken as a measure of the initial rate of reaction.
 The results are shown in the table below.
@@ -154,269 +143,250 @@ To investigate the effect of temperature on the rate of this reaction, the time 
 |---|---|---|---|
 |Time (s)| 40 | 10 | 25 |
 
-Which temperature (T1, T2 or T3) was the highest?  Justify your answer.","","T2 greatest rate / least time",""
-"How many (i) protons, (ii) neutrons, are there in a nucleus of helium–3?","","(i) 2 (ii) 1 ",""
-"Identify two reagents needed to test for the presence of phosphate ions in aqueous solution.","","ammonium molybdate, nitric acid",""
-"State two reasons why real gases deviate from ideal behaviour.","","particles have volume / intermolecular forces / collisions not elastic [any two]",""
-"The diagram on the right shows two identical flasks, one filled with helium gas and the other filled with oxygen gas.  The flasks are kept at the same temperature and pressure.  There are 2.4 g of gas in the flask of oxygen.  Calculate the mass of helium present.","","reference to masses of 4 and 32 / ratio of 1:8 
-$\frac{2.4 \times 4}{32} = 0.3 \, \si{\gram}$",""
-"State the standard units of first ionisation energy","","$\text{kJ mol}^{-1} / \text{J mol}^{-1}$",""
-"State the standard units of biochemical oxygen demand (BOD). ","","parts per million / ppm / $\text{mg L}^{-1} \text{g m}^{-3}$",""
-"Name three homologous series of organic compounds that contain a carbonyl group. ","","aldehyde / ketone / carboxylic acid / ester [any three] ",""
+Which temperature (T1, T2 or T3) was the highest?  Justify your answer.",T2 greatest rate / least time,,,,
+"How many (i) protons, (ii) neutrons, are there in a nucleus of helium–3?",(i) 2 (ii) 1 ,,,,
+Identify two reagents needed to test for the presence of phosphate ions in aqueous solution.,"ammonium molybdate, nitric acid",,,,
+State two reasons why real gases deviate from ideal behaviour.,particles have volume / intermolecular forces / collisions not elastic [any two],,,,
+"The diagram on the right shows two identical flasks, one filled with helium gas and the other filled with oxygen gas.  The flasks are kept at the same temperature and pressure.  There are 2.4 g of gas in the flask of oxygen.  Calculate the mass of helium present.","reference to masses of 4 and 32 / ratio of 1:8 
+$\frac{2.4 \times 4}{32} = 0.3 \, \si{\gram}$",,,,
+State the standard units of first ionisation energy,$\text{kJ mol}^{-1} / \text{J mol}^{-1}$,,,,
+State the standard units of biochemical oxygen demand (BOD). ,parts per million / ppm / $\text{mg L}^{-1} \text{g m}^{-3}$,,,,
+Name three homologous series of organic compounds that contain a carbonyl group. ,aldehyde / ketone / carboxylic acid / ester [any three] ,,,,
 "Oxygenates are often added to petrol.
-Explain why oxygenates are often added to petrol.","","increase octane number / reduce auto-ignition / smoother combustion","'"
+Explain why oxygenates are often added to petrol.",increase octane number / reduce auto-ignition / smoother combustion,,,,
 "Oxygenates are often added to petrol.
-Identify an oxygenate suitable for this purpose.","","alcohol / any named alcohol, e.g. ethanol / ether / any named ether e.g. MTBE",""
+Identify an oxygenate suitable for this purpose.","alcohol / any named alcohol, e.g. ethanol / ether / any named ether e.g. MTBE",,,,
 "What is the specific purpose of adding aluminium sulfate:
-during water treatment,","","flocculation",""
+during water treatment,",flocculation,,,,
 "What is the specific purpose of adding aluminium sulfate:
-during the tertiary stage of sewage treatment?","","to remove phosphates",""
-"Write a balanced chemical half equation for the reaction that occurs at the cathode when an electric current is passed through an aqueous solution of sodium sulfate.","","$2\text{H}_2\text{O} + 2\text{e}^- \rightarrow \text{H}_2 + 2\text{OH}^-$ [1] //
-$\text{H}_2\text{O} + \text{e}^- \rightarrow \frac{1}{2}\text{H}_2 + \text{OH}^-$",""
-"Explain the fundamental principle of chromatography. ","","mobile phase and stationary phase 
-(substances have) selective adsorption / different affinities for either phase",""
-"The structure of the painkiller benzocaine is shown on the right.  Calculate the percentage yield of a reaction in which 2412.3 g of pure benzocaine was obtained when the theoretical yield was 21.5 moles.","","$M_r = 165$ [1], 
-$\frac{2412.3}{21.5 \times 165} = 0.68$, i.e., $68 \, (\%)$",""
-"Identify three chemical species formed when carbon dioxide gas dissolves in pure water. ","","$H_2CO_3 / HCO_3^- / CO_3^{2-} / H^+$ [any three]",""
+during the tertiary stage of sewage treatment?",to remove phosphates,,,,
+Write a balanced chemical half equation for the reaction that occurs at the cathode when an electric current is passed through an aqueous solution of sodium sulfate.,"$2\text{H}_2\text{O} + 2\text{e}^- \rightarrow \text{H}_2 + 2\text{OH}^-$ [1] //
+$\text{H}_2\text{O} + \text{e}^- \rightarrow \frac{1}{2}\text{H}_2 + \text{OH}^-$",,,,
+Explain the fundamental principle of chromatography. ,"mobile phase and stationary phase 
+(substances have) selective adsorption / different affinities for either phase",,,,
+The structure of the painkiller benzocaine is shown on the right.  Calculate the percentage yield of a reaction in which 2412.3 g of pure benzocaine was obtained when the theoretical yield was 21.5 moles.,"$M_r = 165$ [1], 
+$\frac{2412.3}{21.5 \times 165} = 0.68$, i.e., $68 \, (\%)$",,,,
+Identify three chemical species formed when carbon dioxide gas dissolves in pure water. ,$H_2CO_3 / HCO_3^- / CO_3^{2-} / H^+$ [any three],,,,
 "Outline the contributions of each of the following to crystallography:
-Lawrence Bragg","","developed X-ray (crystallography) technique",""
+Lawrence Bragg",developed X-ray (crystallography) technique,,,,
 "Outline the contributions of each of the following to crystallography:
-Dorothy Hodgkin ","","the structure of (bio)molecules",""
+Dorothy Hodgkin ",the structure of (bio)molecules,,,,
 "In 1885 the Swiss mathematician Johann Balmer wrote a mathematical formula to describe the wavelengths of the visible line spectrum of atomic hydrogen, which is now named after him. However there was no explanation for the existence of these lines until 1913. In 1913 Bohr’s model of the hydrogen atom was shown to be consistent with the Balmer series. Bohr’s model was therefore supported by experimental evidence.
-Bohr proposed that the electrons in an atom occupy energy levels. Explain what is meant by the term energy level.","","fixed energy / quantised energy / energy in an orbit / energy in a shell of an electron (in an atom)",""
+Bohr proposed that the electrons in an atom occupy energy levels. Explain what is meant by the term energy level.",fixed energy / quantised energy / energy in an orbit / energy in a shell of an electron (in an atom),,,,
 "In 1885 the Swiss mathematician Johann Balmer wrote a mathematical formula to describe the wavelengths of the visible line spectrum of atomic hydrogen, which is now named after him. However there was no explanation for the existence of these lines until 1913. In 1913 Bohr’s model of the hydrogen atom was shown to be consistent with the Balmer series. Bohr’s model was therefore supported by experimental evidence.
-Distinguish between the ground state and the excited states of the electron in a hydrogen atom.","","ground state: lowest energy / n = 1 / stable / in 1s // 
-excited states: greater energy / n > 1 / unstable / not in 1s",""
+Distinguish between the ground state and the excited states of the electron in a hydrogen atom.","ground state: lowest energy / n = 1 / stable / in 1s // 
+excited states: greater energy / n > 1 / unstable / not in 1s",,,,
 "In 1885 the Swiss mathematician Johann Balmer wrote a mathematical formula to describe the wavelengths of the visible line spectrum of atomic hydrogen, which is now named after him. However there was no explanation for the existence of these lines until 1913. In 1913 Bohr’s model of the hydrogen atom was shown to be consistent with the Balmer series. Bohr’s model was therefore supported by experimental evidence.
-Explain what happens when an electron moves from an excited state to its ground state.","","energy is released as a photon / as light / as em radiation / at a specific frequency / $E_m - E_n = h f$",""
+Explain what happens when an electron moves from an excited state to its ground state.",energy is released as a photon / as light / as em radiation / at a specific frequency / $E_m - E_n = h f$,,,,
 "In 1885 the Swiss mathematician Johann Balmer wrote a mathematical formula to describe the wavelengths of the visible line spectrum of atomic hydrogen, which is now named after him. However there was no explanation for the existence of these lines until 1913. In 1913 Bohr’s model of the hydrogen atom was shown to be consistent with the Balmer series. Bohr’s model was therefore supported by experimental evidence.
-Name the instrument used to examine the line spectrum of an element. ","","spectrometer / spectroscope",""
+Name the instrument used to examine the line spectrum of an element. ",spectrometer / spectroscope,,,,
 "In time, Bohr’s model was shown to be an over-simplification of the structure of multi-electron atoms.  Furthermore, modern atomic theory takes into account the wave nature of the electron and the Heisenberg uncertainty principle, which were not understood in 1913.
-Explain how the Heisenberg uncertainty principle applies to an electron in an atom. ","","not possible to (accurately) measure certain pairs of physical properties (e.g. position and momentum/velocity) (3) at the same time",""
+Explain how the Heisenberg uncertainty principle applies to an electron in an atom. ",not possible to (accurately) measure certain pairs of physical properties (e.g. position and momentum/velocity) (3) at the same time,,,,
 "In time, Bohr’s model was shown to be an over-simplification of the structure of multi-electron atoms.  Furthermore, modern atomic theory takes into account the wave nature of the electron and the Heisenberg uncertainty principle, which were not understood in 1913.
-Write the full s, p electron configuration for an atom of neon (Ne) in its ground state, including the number of electrons in each atomic orbital.","","$1s^22s^2$
-2p_{x}^22p_{y}^22p_{z}^2",""
+Write the full s, p electron configuration for an atom of neon (Ne) in its ground state, including the number of electrons in each atomic orbital.","$1s^22s^2$
+2p_{x}^22p_{y}^22p_{z}^2",,,,
 "In time, Bohr’s model was shown to be an over-simplification of the structure of multi-electron atoms.  Furthermore, modern atomic theory takes into account the wave nature of the electron and the Heisenberg uncertainty principle, which were not understood in 1913.
-By reference to the electron configuration for neon, distinguish between an energy sublevel and an atomic orbital.","","sublevel: 2p // (Ne has) 3 // can be > 2 e–
-orbital: e.g. 2px // (Ne has) 5 // =2 e-" 
+By reference to the electron configuration for neon, distinguish between an energy sublevel and an atomic orbital.","sublevel: 2p // (Ne has) 3 // can be > 2 e–
+orbital: e.g. 2px // (Ne has) 5 // =2 e- ",,,,
 "In time, Bohr’s model was shown to be an over-simplification of the structure of multi-electron atoms.  Furthermore, modern atomic theory takes into account the wave nature of the electron and the Heisenberg uncertainty principle, which were not understood in 1913.
-Neon is chemically unreactive.  Explain this property by reference to its electron configuration.","","full outer energy level / full p sublevel / satisfies octet rule ",""
+Neon is chemically unreactive.  Explain this property by reference to its electron configuration.",full outer energy level / full p sublevel / satisfies octet rule ,,,,
 "In time, Bohr’s model was shown to be an over-simplification of the structure of multi-electron atoms.  Furthermore, modern atomic theory takes into account the wave nature of the electron and the Heisenberg uncertainty principle, which were not understood in 1913.
-Explain how the successive ionisation energy values of neon provide evidence supporting the existence of energy levels.","","ninth (ionisation energy) significantly greater (than the eighth) ",""
-"In time, Bohr’s model was shown to be an over-simplification of the structure of multi-electron atoms.  Furthermore, modern atomic theory takes into account the wave nature of the electron and the Heisenberg uncertainty principle, which were not understood in 1913.
-Draw the shape of a p orbital. ","","correct dumb-bell shape ","images/chemistry/answer/5b_vi.png"
+Explain how the successive ionisation energy values of neon provide evidence supporting the existence of energy levels.",ninth (ionisation energy) significantly greater (than the eighth) ,,,,
 "Hydrocarbon A may be converted to hydrocarbon B, as shown below.
 Hydrocarbon A is obtained in the naphtha fraction when crude oil is fractionally distilled during oil refining.
-Describe one property which hydrocarbon A has in common with the other hydrocarbons in the naphtha fraction.","images/chemistry/problem/6.png","boiling point (range) / mass / size / number of atoms",""
+Describe one property which hydrocarbon A has in common with the other hydrocarbons in the naphtha fraction.",boiling point (range) / mass / size / number of atoms,6.png,,,
 "Hydrocarbon A may be converted to hydrocarbon B, as shown below.
 Hydrocarbon A is obtained in the naphtha fraction when crude oil is fractionally distilled during oil refining.
-State the systematic IUPAC names of compounds A and B","images/chemistry/problem/6.png","A: octane B: 2, 2, 4-trimethylpentane",""
+State the systematic IUPAC names of compounds A and B","A: octane B: 2, 2, 4-trimethylpentane",6.png,,,
 "Hydrocarbon A may be converted to hydrocarbon B, as shown below.
 Hydrocarbon A is obtained in the naphtha fraction when crude oil is fractionally distilled during oil refining.
-Explain why compounds A and B are referred to as saturated alkanes. ","images/chemistry/problem/6.png","only single bonds / no addition reactions possible / maximum H present ",""
+Explain why compounds A and B are referred to as saturated alkanes. ",only single bonds / no addition reactions possible / maximum H present ,6.png,,,
 "Hydrocarbon A may be converted to hydrocarbon B, as shown below.
 The conversion of compound A to compound B occurs in a process that takes place in some oil refineries after fractional distillation.
-Name the process that can convert compound A to compound B. ","images/chemistry/problem/6.png","isomerisation",""
+Name the process that can convert compound A to compound B. ",isomerisation,6.png,,,
 "Hydrocarbon A may be converted to hydrocarbon B, as shown below.
 The conversion of compound A to compound B occurs in a process that takes place in some oil refineries after fractional distillation.
-Why is this conversion carried out? ","images/chemistry/problem/6.png","increase octane number / reduce auto-ignition / smoother combustion / increase branching",""
-"Hydrocarbon A may be converted to hydrocarbon B, as shown below.
-A molecule of compound A can undergo catalytic cracking to produce a molecule of methylpropane and a molecule of compound C.
-Draw the molecular structure of methylpropane, including all atoms and bonds.","images/chemistry/problem/6.png","","images/chemistry/answer/6c_i.png"
-"Hydrocarbon A may be converted to hydrocarbon B, as shown below.
-A molecule of compound A can undergo catalytic cracking to produce a molecule of methylpropane and a molecule of compound C.
-State the systematic IUPAC name of three of the possible isomers of compound C.  In each case, draw the molecular structure of the isomer, including all atoms and bonds.","images/chemistry/problem/6.png","but-1-ene // but-2-ene // methylpropene","images/chemistry/answer/6c_ii.png"
+Why is this conversion carried out? ",increase octane number / reduce auto-ignition / smoother combustion / increase branching,6.png,,,
 "Hydrocarbon A may be converted to hydrocarbon B, as shown below.
 A molecule of compound A can undergo catalytic cracking to produce a molecule of methylpropane and a molecule of compound C.
 The complete combustion of compound A may be described by the following balanced chemical equation: $\ce{CH3(CH2)6CH3(l) + 12O2(g) -> 8CO2(g) + 9H2O(l)}$
-The heat of formation of compound A is –250.3 kJ mol^{-1}.  The heats of formation of carbon dioxide and water are –393.5 kJ mol^{-1} and –285.8 kJ mol^{-1} respectively. Calculate the heat of combustion of compound A.","images/chemistry/problem/6.png","8(–393.5) [= –3148] (2 [multiplicative factor] + 1 [sign]) + 9(–285.8) [= –2572.2] (2 [multiplicative factor] + 1 [sign]) – (–250.3) [= +250.3] (2 [multiplicative factor] + 1 [sign]) = –5469.9 (kJ mol^{-1})",""
+The heat of formation of compound A is –250.3 kJ mol^{-1}.  The heats of formation of carbon dioxide and water are –393.5 kJ mol^{-1} and –285.8 kJ mol^{-1} respectively. Calculate the heat of combustion of compound A.",8(–393.5) [= –3148] (2 [multiplicative factor] + 1 [sign]) + 9(–285.8) [= –2572.2] (2 [multiplicative factor] + 1 [sign]) – (–250.3) [= +250.3] (2 [multiplicative factor] + 1 [sign]) = –5469.9 (kJ mol^{-1}),6.png,,,
 "Hydrocarbon A may be converted to hydrocarbon B, as shown below.
 A molecule of compound A can undergo catalytic cracking to produce a molecule of methylpropane and a molecule of compound C.
 The complete combustion of compound A may be described by the following balanced chemical equation: $\ce{CH3(CH2)6CH3(l) + 12O2(g) -> 8CO2(g) + 9H2O(l)}$
-The heat of formation of compound B is –260.5 kJ mol^{-1}.  Calculate the heat of reaction for the conversion of compound A to compound B.","images/chemistry/problem/6.png","–260.5 – (–250.3) = –10.2 (kJ mol^{-1}) ",""
+The heat of formation of compound B is –260.5 kJ mol^{-1}.  Calculate the heat of reaction for the conversion of compound A to compound B.",–260.5 – (–250.3) = –10.2 (kJ mol^{-1}) ,6.png,,,
 "When 4.0 moles of steam and 1.0 moles of carbon monoxide were mixed together at temperature $T$ in a container of fixed volume $V$, they reacted to produce hydrogen and carbon dioxide.
 An equilibrium was established which is described by the following balanced chemical equation:
 $H_2O_{(g)} + CO_{(g)} \rightleftharpoons H_{2(g)} + CO_{2(g)}$   $\Delta H = -38.8 kJ \space mol^{-1}$
-Explain what is meant by chemical equilibrium.","","forward and reverse reactions have equal rates // concentrations are constant",""
+Explain what is meant by chemical equilibrium.",forward and reverse reactions have equal rates // concentrations are constant,,,,
 "When 4.0 moles of steam and 1.0 moles of carbon monoxide were mixed together at temperature $T$ in a container of fixed volume $V$, they reacted to produce hydrogen and carbon dioxide.
 An equilibrium was established which is described by the following balanced chemical equation:
 $H_2O_{(g)} + CO_{(g)} \rightleftharpoons H_{2(g)} + CO_{2(g)}$   $\Delta H = -38.8 kJ \space mol^{-1}$
-Write an expression for the equilibrium constant $K_c$ for this reaction.","","$\frac{[H_2][CO_2]}{[H_2O][CO]}$",""
+Write an expression for the equilibrium constant $K_c$ for this reaction.",$\frac{[H_2][CO_2]}{[H_2O][CO]}$,,,,
 "When 4.0 moles of steam and 1.0 moles of carbon monoxide were mixed together at temperature $T$ in a container of fixed volume $V$, they reacted to produce hydrogen and carbon dioxide.
 An equilibrium was established which is described by the following balanced chemical equation:
 $H_2O_{(g)} + CO_{(g)} \rightleftharpoons H_{2(g)} + CO_{2(g)}$   $\Delta H = -38.8 kJ \space mol^{-1}$
-At equilibrium at temperature $T$, there were 0.8 moles of hydrogen gas in the container. Calculate the value of $K_c$ for the equilibrium at this temperature.","","$\frac{[H_2O]}{V} = \frac{3.2}{V}$ // $\frac{[CO]}{V} = \frac{0.2}{V}$ // $\frac{[CO_2]}{V} = \frac{0.8}{V}$
+At equilibrium at temperature $T$, there were 0.8 moles of hydrogen gas in the container. Calculate the value of $K_c$ for the equilibrium at this temperature.","$\frac{[H_2O]}{V} = \frac{3.2}{V}$ // $\frac{[CO]}{V} = \frac{0.2}{V}$ // $\frac{[CO_2]}{V} = \frac{0.8}{V}$
 [accept expressions for concentrations with or without reference to V]
-$\frac{0.8 * 0.8}{3.2 * 0.2} = 1$",""
+$\frac{0.8 * 0.8}{3.2 * 0.2} = 1$",,,,
 "When 4.0 moles of steam and 1.0 moles of carbon monoxide were mixed together at temperature $T$ in a container of fixed volume $V$, they reacted to produce hydrogen and carbon dioxide.
 An equilibrium was established which is described by the following balanced chemical equation:
 $H_2O_{(g)} + CO_{(g)} \rightleftharpoons H_{2(g)} + CO_{2(g)}$   $\Delta H = -38.8 kJ \space mol^{-1}$
-If the same reaction had been carried out at the same temperature $T$ in the same container, but with an initial mixture of 2.5 moles of steam and 2.5 moles of carbon monoxide, explain why the value of $K_c$ would not change from the value calculated in (a)(iii) above. Explain why the value of $K_c$ would not change. ","","no change in temperature / $K_c$ is only affected by temperature",""
+If the same reaction had been carried out at the same temperature $T$ in the same container, but with an initial mixture of 2.5 moles of steam and 2.5 moles of carbon monoxide, explain why the value of $K_c$ would not change from the value calculated in above. Explain why the value of $K_c$ would not change. ",no change in temperature / $K_c$ is only affected by temperature,,,,
 "When 4.0 moles of steam and 1.0 moles of carbon monoxide were mixed together at temperature $T$ in a container of fixed volume $V$, they reacted to produce hydrogen and carbon dioxide.
 An equilibrium was established which is described by the following balanced chemical equation:
 $H_2O_{(g)} + CO_{(g)} \rightleftharpoons H_{2(g)} + CO_{2(g)}$   $\Delta H = -38.8 kJ \space mol^{-1}$
-If the same reaction had been carried out at the same temperature $T$ in the same container, but with an initial mixture of 2.5 moles of steam and 2.5 moles of carbon monoxide, calculate the mass of carbon dioxide present in the container at equilibrium in the case described in (b)(i).","","$H_2O_{(g)} + CO_{(g)} \rightleftharpoons H_{2(g)} + CO_{2(g)}$.
+If the same reaction had been carried out at the same temperature $T$ in the same container, but with an initial mixture of 2.5 moles of steam and 2.5 moles of carbon monoxide, calculate the mass of carbon dioxide present in the container at equilibrium in the case described in (i).","$H_2O_{(g)} + CO_{(g)} \rightleftharpoons H_{2(g)} + CO_{2(g)}$.
 initially 2.5 2.5 0 0
 equilibrium 2.5 - x 2.5 - x x x
 [accept expressions for concentrations with or without reference to V]
 $\frac{x^2}{(2.5 - x)^2} = 1$
 $x = 1.25 \space (moles)$
 $M_r = 44$
-mass = 55 g",""
+mass = 55 g",,,,
 "When 4.0 moles of steam and 1.0 moles of carbon monoxide were mixed together at temperature $T$ in a container of fixed volume $V$, they reacted to produce hydrogen and carbon dioxide.
 An equilibrium was established which is described by the following balanced chemical equation:
 $H_2O_{(g)} + CO_{(g)} \rightleftharpoons H_{2(g)} + CO_{2(g)}$   $\Delta H = -38.8 kJ \space mol^{-1}$
-State the effect, if any, of decreasing the pressure in the container on the percentage conversion of steam to hydrogen.  Justify your answer.","","no effect (3) 
-equal number of moles/molecules (of gas) on both sides",""
+State the effect, if any, of decreasing the pressure in the container on the percentage conversion of steam to hydrogen.  Justify your answer.","no effect (3) 
+equal number of moles/molecules (of gas) on both sides",,,,
 "When 4.0 moles of steam and 1.0 moles of carbon monoxide were mixed together at temperature $T$ in a container of fixed volume $V$, they reacted to produce hydrogen and carbon dioxide.
 An equilibrium was established which is described by the following balanced chemical equation:
 $H_2O_{(g)} + CO_{(g)} \rightleftharpoons H_{2(g)} + CO_{2(g)}$   $\Delta H = -38.8 kJ \space mol^{-1}$
-How could the value of $K_c$ be increased for this equilibrium reaction?  Justify your answer. ","","reduce temperature (3) 
-exothermic reaction favoured / (forward) reaction is exothermic ",""
+How could the value of $K_c$ be increased for this equilibrium reaction?  Justify your answer. ","reduce temperature (3) 
+exothermic reaction favoured / (forward) reaction is exothermic ",,,,
 "When 4.0 moles of steam and 1.0 moles of carbon monoxide were mixed together at temperature $T$ in a container of fixed volume $V$, they reacted to produce hydrogen and carbon dioxide.
 An equilibrium was established which is described by the following balanced chemical equation:
 $H_2O_{(g)} + CO_{(g)} \rightleftharpoons H_{2(g)} + CO_{2(g)}$   $\Delta H = -38.8 kJ \space mol^{-1}$
-In an industrial context, a catalyst is usually used to ensure that equilibrium is established as quickly as possible for this reaction.  State the effect of using a catalyst on the value of $K_c$ at temperature T.  Justify your answer.","","no effect (3) 
+In an industrial context, a catalyst is usually used to ensure that equilibrium is established as quickly as possible for this reaction.  State the effect of using a catalyst on the value of $K_c$ at temperature T.  Justify your answer.","no effect (3) 
 (rate of) forward and reverse reactions affected equally / only rate affected / 
-catalyst only affects time taken to reach equilibrium / $K_c$ is only affected by T ",""
+catalyst only affects time taken to reach equilibrium / $K_c$ is only affected by T ",,,,
 "Study the reaction scheme below and answer the questions that follow. 
-How does the geometry around the carbon atoms change during reaction A?","images/chemistry/problem/8.png","planar / trigonal / triangular / 120° 
-to tetrahedral / 109° ",""
-"Study the reaction scheme below and answer the questions that follow. 
-Reaction B takes place in the presence of chlorine (Cl2) gas and ultraviolet light. 
-Should reaction B be classified as an addition reaction, a substitution reaction or an elimination reaction?","images/chemistry/problem/8.png","substitution",""
+How does the geometry around the carbon atoms change during reaction A?","planar / trigonal / triangular / 120° 
+to tetrahedral / 109° ",8.png,,,
 "Study the reaction scheme below and answer the questions that follow. 
 Reaction B takes place in the presence of chlorine (Cl2) gas and ultraviolet light. 
-Describe the mechanism for reaction B.","images/chemistry/problem/8.png","(initiation/homolysis): $Cl_2 \rightarrow 2Cl^\bullet$ in the presence of uv/light,
+Should reaction B be classified as an addition reaction, a substitution reaction or an elimination reaction?",substitution,8.png,,,
+"Study the reaction scheme below and answer the questions that follow. 
+Reaction B takes place in the presence of chlorine (Cl2) gas and ultraviolet light. 
+Describe the mechanism for reaction B.","(initiation/homolysis): $Cl_2 \rightarrow 2Cl^\bullet$ in the presence of uv/light,
 (propagation): $C_2H_6 + Cl^\bullet \rightarrow ^\bullet C_2H_5 + HCl$,
 (propagation):$^\bullet C_2H_5 + Cl_2 \rightarrow C_2H_5Cl + Cl^\bullet$,
 (termination):e.g., $^\bullet C_2H_5 + Cl^\bullet \rightarrow C_2H_5Cl$
-[Note: $^\bullet$ is not needed on Cl but is needed on •C2H5]",""
+[Note: $^\bullet$ is not needed on Cl but is needed on •C2H5]",8.png,,,
 "Study the reaction scheme below and answer the questions that follow. 
 Reaction B takes place in the presence of chlorine (Cl2) gas and ultraviolet light. 
-A trace quantity of C4H10 is formed during reaction B.  Explain how the formation of C4H10 is evidence for the mechanism described.","images/chemistry/problem/8.png","shows existence of ethyl free radical / $2^\bullet C_2H_5 \rightarrow C_4H_10$",""
+A trace quantity of C4H10 is formed during reaction B.  Explain how the formation of C4H10 is evidence for the mechanism described.",shows existence of ethyl free radical / $2^\bullet C_2H_5 \rightarrow C_4H_10$,8.png,,,
 "Study the reaction scheme below and answer the questions that follow. 
 Reaction B takes place in the presence of chlorine (Cl2) gas and ultraviolet light. 
-Apart from the formation of C4H10, state one other piece of evidence for this mechanism.","images/chemistry/problem/8.png","reaction needs uv/light (to start) / multiple product molecules for each photon / free radical source increases reaction rate / $Cl_2 \rightarrow 2Cl^\bullet$ in the presence of uv/light",""
+Apart from the formation of C4H10, state one other piece of evidence for this mechanism.",reaction needs uv/light (to start) / multiple product molecules for each photon / free radical source increases reaction rate / $Cl_2 \rightarrow 2Cl^\bullet$ in the presence of uv/light,8.png,,,
 "Study the reaction scheme below and answer the questions that follow. 
 Polyvinylchloride (PVC) is synthesised in three steps from $C_2H_4$.  These steps are an addition reaction to form compound X, then an elimination reaction to form compound Y and finally the polymerisation of Y to form PVC, as outlined in the reaction scheme above.
-State the systematic IUPAC name for compound X.","images/chemistry/problem/8.png","1,2-dichloroethane ",""
+State the systematic IUPAC name for compound X.","1,2-dichloroethane ",8.png,,,
 "Study the reaction scheme below and answer the questions that follow. 
 Polyvinylchloride (PVC) is synthesised in three steps from $C_2H_4$.  These steps are an addition reaction to form compound X, then an elimination reaction to form compound Y and finally the polymerisation of Y to form PVC, as outlined in the reaction scheme above.
-Name the inorganic compound that is eliminated when X is converted to Y. ","images/chemistry/problem/8.png","hydrogen chloride ",""
-"Study the reaction scheme below and answer the questions that follow. 
-Polyvinylchloride (PVC) is synthesised in three steps from $C_2H_4$.  These steps are an addition reaction to form compound X, then an elimination reaction to form compound Y and finally the polymerisation of Y to form PVC, as outlined in the reaction scheme above.
-Draw the structure of a molecule of X showing all of its atoms and all of its bonds and indicate clearly which of its bonds are broken during the elimination reaction.","images/chemistry/problem/8.png","one C–Cl bond indicated and one C–H bond on the other carbon indicated","images/chemistry/answer/8c_iii.png"
-"Study the reaction scheme below and answer the questions that follow. 
-Polyvinylchloride (PVC) is synthesised in three steps from $C_2H_4$.  These steps are an addition reaction to form compound X, then an elimination reaction to form compound Y and finally the polymerisation of Y to form PVC, as outlined in the reaction scheme above.
-Draw the structure of a molecule of Y showing all of its atoms and all of its bonds and indicate clearly which of its bonds are formed during the elimination reaction.","images/chemistry/problem/8.png","(one bond of the) C=C double bond indicated","images/chemistry/answer/8c_iv.png"
-"Study the reaction scheme below and answer the questions that follow. 
-Polyvinylchloride (PVC) is synthesised in three steps from $C_2H_4$.  These steps are an addition reaction to form compound X, then an elimination reaction to form compound Y and finally the polymerisation of Y to form PVC, as outlined in the reaction scheme above.
-Draw two repeating units of the polymer PVC.","images/chemistry/problem/8.png","","images/chemistry/answer/8c_v.png"
-"Explain why ammonia (NH3) is considered to be a base according to the Brønsted-Lowry theory but is not considered to be a base according to the Arrhenius theory.","","it is a proton acceptor 
-it does not dissociate in water to produce OH– ",""
+Name the inorganic compound that is eliminated when X is converted to Y. ",hydrogen chloride ,8.png,,,
+Explain why ammonia (NH3) is considered to be a base according to the Brønsted-Lowry theory but is not considered to be a base according to the Arrhenius theory.,"it is a proton acceptor 
+it does not dissociate in water to produce OH– ",,,,
 "The self-ionisation of liquid ammonia is described by the following balanced chemical equation: $NH_3 + NH_3 \rightleftharpoons NH_4^+ + NH_2^-$
-Identify the conjugate acid of NH3 in this equilibrium. ","","$NH_4^+$",""
+Identify the conjugate acid of NH3 in this equilibrium. ",$NH_4^+$,,,,
 "The self-ionisation of liquid ammonia is described by the following balanced chemical equation: $NH_3 + NH_3 \rightleftharpoons NH_4^+ + NH_2^-$
-Identify the conjugate base of NH3 in this equilibrium. ","","$NH_2^-$",""
-"Define pH.","","$-\log_{10}$
-$[H^+]$",""
-"The pH of pure water is 7 at 25 °C.  Explain why the pH of pure water is not 7 at 50 °C.","","$K_w$ changes with $T$ / $[H^+]$ changes with $T$ / degree of dissociation changes with $T$",""
-"10 $\text{cm}^3$ sample of strong monobasic acid X was diluted by mixing it with deionized water until it had a new volume of 100 $\text{cm}^3$. What is the change in the pH?","","increases by 1",""
-"Weak monobasic acid Y has an acid dissociation constant $K_a = 1.8 \times 10^{-5}$. A sample of acid Y has a pH of 2.9. Calculate the concentration of the sample.","","$\text{pH} = -\log_{10}(\sqrt{K_a M_{\text{acid}}})$ / $[H^+] = \sqrt{K_a M_{\text{acid}}}$ / $[H^+] = 10^{-\text{pH}}$ / $\sqrt{K_a M_{\text{acid}}} = 0.00105 $K_a M_{\text{acid}} = 0.0000011$ / $[Y] = 0.061 \, \text{mol L}^{-1}$",""
+Identify the conjugate base of NH3 in this equilibrium. ",$NH_2^-$,,,,
+Define pH.,"$-\log_{10}$
+$[H^+]$",,,,
+The pH of pure water is 7 at 25 °C.  Explain why the pH of pure water is not 7 at 50 °C.,$K_w$ changes with $T$ / $[H^+]$ changes with $T$ / degree of dissociation changes with $T$,,,,
+10 $\text{cm}^3$ sample of strong monobasic acid X was diluted by mixing it with deionized water until it had a new volume of 100 $\text{cm}^3$. What is the change in the pH?,increases by 1,,,,
+Weak monobasic acid Y has an acid dissociation constant $K_a = 1.8 \times 10^{-5}$. A sample of acid Y has a pH of 2.9. Calculate the concentration of the sample.,"$\text{pH} = -\log_{10}(\sqrt{K_a M_{\text{acid}}})$ / $[H^+] = \sqrt{K_a M_{\text{acid}}}$ / $[H^+] = 10^{-\text{pH}}$ / $\sqrt{K_a M_{\text{acid}}} = 0.00105 $K_a M_{\text{acid}} = 0.0000011$ / $[Y] = 0.061 \, \text{mol L}^{-1}$",,,,
 "A certain water-soluble acid-base indicator can be represented as HIn.  Its dissociation in water is described by the following balanced chemical equation:
 \text{HIn} \rightleftharpoons \text{H}^+ + \text{In}^-
 blue green
 The undissociated HIn is blue. The In$^-$ ion is green.
-What colour change is observed when a few drops of a solution of HIn are added to 25 cm$^3$ of a 0.1 M solution of potassium hydroxide (KOH)? Justify your answer.","","blue to green / (turns) green
-[H^+] decreases / reaction moves to the right / system reacts to oppose stress",""
+What colour change is observed when a few drops of a solution of HIn are added to 25 cm$^3$ of a 0.1 M solution of potassium hydroxide (KOH)? Justify your answer.","blue to green / (turns) green
+[H^+] decreases / reaction moves to the right / system reacts to oppose stress",,,,
 "Acid Z is titrated against a solution of sodium carbonate (Na$_2$CO$_3$). The titration curve is shown in the diagram.
-What evidence is there that acid Z is a strong acid? ","images/chemistry/problem/9d.png","pH is close to 0 (when pure) / weak base and long vertical 
-[accept pH < 1 or pH is very low] ",""
+What evidence is there that acid Z is a strong acid? ","pH is close to 0 (when pure) / weak base and long vertical 
+[accept pH < 1 or pH is very low] ",9d.png,,,
 "Acid Z is titrated against a solution of sodium carbonate (Na$_2$CO$_3$). The titration curve is shown in the diagram.
 An indicator with pH range of 8 to 10 was used in this titration.
-Would you expect the indicator to change colour before the point of neutralisation, after the point of neutralisation, or coinciding with the point of neutralisation?  Justify your answer.","images/chemistry/problem/9d.png","after vertical part of the graph ends before 10",""
-"Define oxidation in terms of electron transfer.","","loss",""
-"State the oxidation number of phosphorus in P_4 and PO_4^{3-}.","","0, +5",""
-"State the oxidation number of nitrogen in NO_3^{-} and NO.","","+5, +2",""
+Would you expect the indicator to change colour before the point of neutralisation, after the point of neutralisation, or coinciding with the point of neutralisation?  Justify your answer.",after vertical part of the graph ends before 10,9d.png,,,
+Define oxidation in terms of electron transfer.,loss,,,,
+State the oxidation number of phosphorus in P_4 and PO_4^{3-}.,"0, +5",,,,
+State the oxidation number of nitrogen in NO_3^{-} and NO.,"+5, +2",,,,
 "Hence or otherwise, balance the chemical equation:
-P_4 + NO_3^{-} + H_2O \\rightarrow PO_4^{3-} + NO + H^{+}","","P: 5 [state/imply] [accept number consistent with (ii)] 
+P_4 + NO_3^{-} + H_2O \\rightarrow PO_4^{3-} + NO + H^{+}","P: 5 [state/imply] [accept number consistent with (ii)] 
 N: 3 [state/imply] [accept number consistent with (iii)]
-3P_4 + 20NO_3^{-} + 8H_2O \\rightarrow 12PO_4^{3-} + 20NO + 16H^{+}",""
-"Identify the reducing agent in the reaction above.","","P_4",""
+3P_4 + 20NO_3^{-} + 8H_2O \\rightarrow 12PO_4^{3-} + 20NO + 16H^{+}",,,,
+Identify the reducing agent in the reaction above.,P_4,,,,
 "The elements radium (Ra) and polonium (Po) were discovered on the basis of their radioactivity through the work of Marie and Pierre Curie. In 1902 they obtained 0.1 g of pure RaCl_2 from a tonne of pitchblende, the material remaining after uranium is extracted from its ore. In 1910 Marie Curie isolated pure radium. However she never succeeded in isolating pure polonium, in part because of its short half-life.
-(i) What is meant by radioactivity?","","(spontaneous) disintegration of a nucleus with the release of radiation",""
+What is meant by radioactivity?",(spontaneous) disintegration of a nucleus with the release of radiation,,,,
 "The elements radium (Ra) and polonium (Po) were discovered on the basis of their radioactivity through the work of Marie and Pierre Curie. In 1902 they obtained 0.1 g of pure RaCl_2 from a tonne of pitchblende, the material remaining after uranium is extracted from its ore. In 1910 Marie Curie isolated pure radium. However she never succeeded in isolating pure polonium, in part because of its short half-life.
-(ii) What is meant by the half-life of a radioisotope?","","time for half a sample to decay / time for activity to halve",""
+What is meant by the half-life of a radioisotope?",time for half a sample to decay / time for activity to halve,,,,
 "The nuclear equation below represents the alpha decay of polonium-210. \n^{210}_{84}Po \\rightarrow ^Y_Z + ^4_2\\alpha
-(iii) Identify the number X.","","206",""
+Identify the number X.",206,,,,
 "The nuclear equation below represents the alpha decay of polonium-210. \n^{210}_{84}Po \\rightarrow ^Y_Z + ^4_2\\alpha
-(iv) Identify the number Y.","","82",""
+Identify the number Y.",82,,,,
 "The nuclear equation below represents the alpha decay of polonium-210. \n^{210}_{84}Po \\rightarrow ^Y_Z + ^4_2\\alpha
-(v) Identify the element represented by Z.","","lead/Pb",""
+Identify the element represented by Z.",lead/Pb,,,,
 "The nuclear equation below represents the alpha decay of polonium-210. \n^{210}_{84}Po \\rightarrow ^Y_Z + ^4_2\\alpha
-(vi) Identify the two noble gas radioisotopes formed when a radium-226 nucleus undergoes alpha decay.","","radon/Rn, helium/He",""
+Identify the two noble gas radioisotopes formed when a radium-226 nucleus undergoes alpha decay.","radon/Rn, helium/He",,,,
 "The nuclear equation below represents the alpha decay of polonium-210. \n^{210}_{84}Po \\rightarrow ^Y_Z + ^4_2\\alpha
-(vii) Calculate the maximum mass of radium that could be isolated from 0.1 g of RaCl_2.","","\nM_r = 297 \n\\frac{226}{297} \\times 0.1 = 0.076 (g)",""
+Calculate the maximum mass of radium that could be isolated from 0.1 g of RaCl_2.",\nM_r = 297 \n\\frac{226}{297} \\times 0.1 = 0.076 (g),,,,
 "Rusting of iron involves several different reactions that take place in the presence of moist air. The mass of an iron object and its overall volume increase because of these rusting reactions occurring on the surface of the object. One of the reactions is described by the following balanced chemical equation: \n4Fe + 3O_2 \\rightarrow 2Fe_2O_3 \nThe mass of an iron object increased by 1.92 g as a result of this reaction.
-(i) Calculate the volume of oxygen gas, measured at s.t.p., that reacted with the iron.","","\nM_r = 32 \n\\frac{1.92}{32} = 0.06 (moles of O_2) \n0.06 \\times 22.4 = 1.34 L // \\frac{0.06 \\times 8.3 \\times 273}{101325} = 0.00134 m^3",""
+Calculate the volume of oxygen gas, measured at s.t.p., that reacted with the iron.",\nM_r = 32 \n\\frac{1.92}{32} = 0.06 (moles of O_2) \n0.06 \\times 22.4 = 1.34 L // \\frac{0.06 \\times 8.3 \\times 273}{101325} = 0.00134 m^3,,,,
 "Rusting of iron involves several different reactions that take place in the presence of moist air. The mass of an iron object and its overall volume increase because of these rusting reactions occurring on the surface of the object. One of the reactions is described by the following balanced chemical equation: \n4Fe + 3O_2 \\rightarrow 2Fe_2O_3 \nThe mass of an iron object increased by 1.92 g as a result of this reaction.
-(ii) Calculate the mass of Fe_2O_3 produced.","","\nM_r = 160 \n\\frac{0.06}{3} \\times 2 = 0.04 (moles of Fe_2O_3) \n0.04 \\times 160 = 6.4 (g) // \\frac{0.06}{3} \n4 \\times 0.08 (moles of Fe) \n// 0.08 \\times 56 = 4.48 (g of Fe) \n// 4.48 + 1.92 = 6.4 (g)",""
+Calculate the mass of Fe_2O_3 produced.",\nM_r = 160 \n\\frac{0.06}{3} \\times 2 = 0.04 (moles of Fe_2O_3) \n0.04 \\times 160 = 6.4 (g) // \\frac{0.06}{3} \n4 \\times 0.08 (moles of Fe) \n// 0.08 \\times 56 = 4.48 (g of Fe) \n// 4.48 + 1.92 = 6.4 (g),,,,
 "Rusting of iron involves several different reactions that take place in the presence of moist air. The mass of an iron object and its overall volume increase because of these rusting reactions occurring on the surface of the object. One of the reactions is described by the following balanced chemical equation: \n4Fe + 3O_2 \\rightarrow 2Fe_2O_3 \nThe mass of an iron object increased by 1.92 g as a result of this reaction.
-(iii) Calculate the number of iron atoms that reacted.","","\n0.08 (moles of Fe) \n0.08 \\times 6.0 \\times 10^{23} = 4.8 \\times 10^{22} (atoms)",""
+Calculate the number of iron atoms that reacted.",\n0.08 (moles of Fe) \n0.08 \\times 6.0 \\times 10^{23} = 4.8 \\times 10^{22} (atoms),,,,
 "Rusting of iron involves several different reactions that take place in the presence of moist air. The mass of an iron object and its overall volume increase because of these rusting reactions occurring on the surface of the object. One of the reactions is described by the following balanced chemical equation: \n4Fe + 3O_2 \\rightarrow 2Fe_2O_3 \nThe mass of an iron object increased by 1.92 g as a result of this reaction.
-(iv) Calculate the increase in the volume of the iron object, taking the density of Fe to be 7.86 g cm^{-3} and the density of Fe_2O_3 to be 5.25 g cm^{-3}. ","","\nFe: 0.08 \\times 56 = 4.48 (g) \n4.48 \\div 7.86 = 0.57 (cm^3) \nFe_2O_3: 6.4 \\div 5.25 = 1.22 (cm^3) \n\\Delta = 1.22 - 0.57 = 0.65 (cm^3)",""
+Calculate the increase in the volume of the iron object, taking the density of Fe to be 7.86 g cm^{-3} and the density of Fe_2O_3 to be 5.25 g cm^{-3}. ",\nFe: 0.08 \\times 56 = 4.48 (g) \n4.48 \\div 7.86 = 0.57 (cm^3) \nFe_2O_3: 6.4 \\div 5.25 = 1.22 (cm^3) \n\\Delta = 1.22 - 0.57 = 0.65 (cm^3),,,,
 "Boron trifluoride (BF_3) is a colourless gas with an unpleasant odour.
-(i) Draw a dot and cross diagram to show the arrangement of the valence electrons in a molecule of BF_3.","","","images/chemistry/answer/11a_j.png"
+Would you expect a B-F bond to be polar or non-polar? Justify your answer.",polar (large) electronegativity difference,,,,
 "Boron trifluoride (BF_3) is a colourless gas with an unpleasant odour.
-(ii) Would you expect a B-F bond to be polar or non-polar? Justify your answer.","","polar (large) electronegativity difference",""
+Would you expect a BF_3 molecule to be polar or non-polar? Justify your answer.",non-polar symmetry / no net dipole / +ve and -ve centres coincide / B has no lone pair,,,,
 "Boron trifluoride (BF_3) is a colourless gas with an unpleasant odour.
-(iii) Would you expect a BF_3 molecule to be polar or non-polar? Justify your answer.","","non-polar symmetry / no net dipole / +ve and -ve centres coincide / B has no lone pair",""
+Phosphane (PH_3) is a colourless, flammable, highly toxic gas used in the semiconductor industry. Predict the shape of a molecule of PH_3. Explain your prediction.",pyramidal / distorted tetrahedron / correct diagram drawn three bond pairs and one lone pair (on P),,,,
 "Boron trifluoride (BF_3) is a colourless gas with an unpleasant odour.
-(iv) Phosphane (PH_3) is a colourless, flammable, highly toxic gas used in the semiconductor industry. Predict the shape of a molecule of PH_3. Explain your prediction.","","pyramidal / distorted tetrahedron / correct diagram drawn three bond pairs and one lone pair (on P)",""
-"Boron trifluoride (BF_3) is a colourless gas with an unpleasant odour.
-(v) Neither BF_3 nor PH_3 is very soluble in water. Explain why.","","non-polar / little hydrogen bonding / little intermolecular forces",""
+Neither BF_3 nor PH_3 is very soluble in water. Explain why.",non-polar / little hydrogen bonding / little intermolecular forces,,,,
 "The table below shows compounds A to E, where R represents a CH_3 group and R' represents a C_2H_5 group.
-(i) State the systematic IUPAC names for compounds A, B, C, D and E.","images/chemistry/problem/11b.png","A: 2,2-dichlorobutane B: propan-2-ol C: butan-2-ol D: propanoic acid E: methyl ethanoate",""
+State the systematic IUPAC names for compounds A, B, C, D and E.","A: 2,2-dichlorobutane B: propan-2-ol C: butan-2-ol D: propanoic acid E: methyl ethanoate",11b.png,,,
 "The table below shows compounds A to E, where R represents a CH_3 group and R' represents a C_2H_5 group.
-(ii) Classify compound B as a primary alcohol or a secondary alcohol. Justify your answer.","images/chemistry/problem/11b.png","secondary OH is bonded to a carbon which is bonded to two other carbons",""
+Classify compound B as a primary alcohol or a secondary alcohol. Justify your answer.",secondary OH is bonded to a carbon which is bonded to two other carbons,11b.png,,,
 "The table below shows compounds A to E, where R represents a CH_3 group and R' represents a C_2H_5 group.
-(iii) Are compounds D and E structural isomers? Justify your answer.","images/chemistry/problem/11b.png","yes same number of atoms of each type / same molecular formula",""
+Are compounds D and E structural isomers? Justify your answer.",yes same number of atoms of each type / same molecular formula,11b.png,,,
 "Water hardness is caused by certain dissolved metal ions.
-(i) Write the chemical formulae for the two metal ions that most commonly cause hardness when dissolved in water.","","Ca^{2+}, Mg^{2+} [charges required]",""
+Write the chemical formulae for the two metal ions that most commonly cause hardness when dissolved in water.","Ca^{2+}, Mg^{2+} [charges required]",,,,
 "Water hardness is caused by certain dissolved metal ions.
-(ii) Identify an anion which is commonly dissolved in water with these metal ions when temporary hardness is involved.","","hydrogencarbonate / bicarbonate",""
+Identify an anion which is commonly dissolved in water with these metal ions when temporary hardness is involved.",hydrogencarbonate / bicarbonate,,,,
 "Water hardness is caused by certain dissolved metal ions.
-(iii) Identify an anion which is commonly dissolved in water with these metal ions when permanent hardness is involved.","","sulfate / chloride",""
+Identify an anion which is commonly dissolved in water with these metal ions when permanent hardness is involved.",sulfate / chloride,,,,
 "When hard water is boiled in a kettle, limescale deposits build up on the heating element.
-(iv) Write a balanced chemical equation to describe the formation of limescale when hard water is boiled.","","Ca(HCO_3)_2 \\rightarrow CaCO_3 + CO_2 + H_2O",""
+Write a balanced chemical equation to describe the formation of limescale when hard water is boiled.",Ca(HCO_3)_2 \\rightarrow CaCO_3 + CO_2 + H_2O,,,,
 "Hard water may be softened by deionising it.
-(v) Explain how water may be deionised using ion exchange resins.","","ions exchanged for H^+ and OH^-",""
+Explain how water may be deionised using ion exchange resins.",ions exchanged for H^+ and OH^-,,,,
 "Hard water may be softened by deionising it.
-(vi) Explain why deionised water is not as pure as distilled water.","","may contain dissolved gases / may contain non-ionic material / may contain organic compounds / may contain suspended material",""
+Explain why deionised water is not as pure as distilled water.",may contain dissolved gases / may contain non-ionic material / may contain organic compounds / may contain suspended material,,,,
 "Unlike many other environmental problems, stratospheric ozone depletion has been largely remedied by international agreement about the use of CFCs. The damaging effect of CFCs on the ozone layer was predicted by the Mexican chemist Mario Molina before the 'hole' in the ozone layer was observed.
-(i) What is ozone?","","O_3",""
+What is ozone?",O_3,,,,
 "Unlike many other environmental problems, stratospheric ozone depletion has been largely remedied by international agreement about the use of CFCs. The damaging effect of CFCs on the ozone layer was predicted by the Mexican chemist Mario Molina before the 'hole' in the ozone layer was observed.
-(ii) Explain how ozone is formed in the stratosphere.","","O_2 → 2O*
+Explain how ozone is formed in the stratosphere.","O_2 → 2O*
 O* + O_2 → O_3
-[Note: * is not needed on O]",""
+[Note: * is not needed on O]",,,,
 "Unlike many other environmental problems, stratospheric ozone depletion has been largely remedied by international agreement about the use of CFCs. The damaging effect of CFCs on the ozone layer was predicted by the Mexican chemist Mario Molina before the 'hole' in the ozone layer was observed.
-(iii) What are CFCs?","","chlorofluorocarbons",""
+What are CFCs?",chlorofluorocarbons,,,,
 "Unlike many other environmental problems, stratospheric ozone depletion has been largely remedied by international agreement about the use of CFCs. The damaging effect of CFCs on the ozone layer was predicted by the Mexican chemist Mario Molina before the 'hole' in the ozone layer was observed.
-(iv) State one main use of CFCs.","","refrigerant, aerosol/propellant, fire suppressant, blowing agent, solvent, chemical precursor",""
+State one main use of CFCs.","refrigerant, aerosol/propellant, fire suppressant, blowing agent, solvent, chemical precursor",,,,
 "Unlike many other environmental problems, stratospheric ozone depletion has been largely remedied by international agreement about the use of CFCs. The damaging effect of CFCs on the ozone layer was predicted by the Mexican chemist Mario Molina before the 'hole' in the ozone layer was observed.
-(v) Explain how CFCs in the stratosphere damage the ozone layer.","","source of free radicals / source of Cl (atoms)
-which cause ozone to become O_2",""
+Explain how CFCs in the stratosphere damage the ozone layer.","source of free radicals / source of Cl (atoms)
+which cause ozone to become O_2",,,,
 "Unlike many other environmental problems, stratospheric ozone depletion has been largely remedied by international agreement about the use of CFCs. The damaging effect of CFCs on the ozone layer was predicted by the Mexican chemist Mario Molina before the 'hole' in the ozone layer was observed.
-(vi) Identify one example of an ozone-friendly CFC replacement.","","HCFCs / HFCs",""
+Identify one example of an ozone-friendly CFC replacement.",HCFCs / HFCs,,,,
 "Iron metal is extracted from its ores by reduction in a blast furnace like that illustrated in the diagram on the right.
-(i) Identify the two solid materials that are continually added with the iron ore in the charge at the top of the furnace.","images/chemistry/problem/11d.png","coke / carbon
-limestone / calcium carbonate",""
+Identify the two solid materials that are continually added with the iron ore in the charge at the top of the furnace.","coke / carbon
+limestone / calcium carbonate",11d.png,,,
 "Iron metal is extracted from its ores by reduction in a blast furnace like that illustrated in the diagram on the right.
-(ii) Identify the hot gas that is blown into the furnace above the hearth during production.","images/chemistry/problem/11d.png","air / oxygen",""
+Identify the hot gas that is blown into the furnace above the hearth during production.",air / oxygen,11d.png,,,
 "Iron metal is extracted from its ores by reduction in a blast furnace like that illustrated in the diagram on the right.
-(iii) Identify by-product B that is removed at the bottom of the furnace.","images/chemistry/problem/11d.png","slag / CaSiO_3 / CaAl_2O_4",""
+Identify by-product B that is removed at the bottom of the furnace.",slag / CaSiO_3 / CaAl_2O_4,11d.png,,,
 "Carbon monoxide acts as a reducing agent in the blast furnace.
-(iv) Write a balanced chemical equation for the reaction of carbon monoxide with iron(III) oxide.","","Fe_2O_3 + 3CO \\rightarrow 2Fe + 3CO_2",""
+Write a balanced chemical equation for the reaction of carbon monoxide with iron(III) oxide.",Fe_2O_3 + 3CO \\rightarrow 2Fe + 3CO_2,,,,
 "Steel is an alloy of iron.
-(v) Name the main stages in the manufacture of steel using the electric arc process.","","charging, melting, refining, tapping, casting [any three]",""
+Name the main stages in the manufacture of steel using the electric arc process.","charging, melting, refining, tapping, casting [any three]",,,,

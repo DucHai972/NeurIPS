@@ -1,83 +1,81 @@
-"problem","image_problem","answer","image_answer"
+problem,answer,problem_image_1,problem_image_2,answer_image_1,answer_image_2
 "Rinne scoláire turgnamh i dtosach ag aidéid eatánóch i bhfínéagar ar aimsiú. Caoileadh cuid 10.0 $cm^3$ den fhínéagar i dtosach go dtí díreach 50.0 $cm^3$. Toirtmheasadh an tuaslagán den fhínéagar caolaithe le tuaslagán 0.09 M hiodrocsaíde sóidiam i bhfleascán cónúil. Ar an meán, bhí 12.4 $cm^3$ den fhínéagar caolaithe ag teastáil chun 25.0 $cm^3$ den tuaslagán NaOH a neodrú.
 Déantar cur síos ar imoibriú an toirtmheasctha seo chomh maith le cothromóid chothromaíochta cheimiceach seo:
 $CH_3COOH + NaOH \rightarrow CH_3COONa + H_2O$
-(a) (i) Ainmnigh an píosa fearais a úsáideadh chun an chuid 10.0 $cm^3$ den fhínéagar bunaidh a thomhas go cruinn.","","pípeád / buiréad [glac le sorcóir grádóite / steallaire]",""
+Ainmnigh an píosa fearais a úsáideadh chun an chuid 10.0 $cm^3$ den fhínéagar bunaidh a thomhas go cruinn.",pípeád / buiréad [glac le sorcóir grádóite / steallaire],,,,
 "Rinne scoláire turgnamh i dtosach ag aidéid eatánóch i bhfínéagar ar aimsiú. Caoileadh cuid 10.0 $cm^3$ den fhínéagar i dtosach go dtí díreach 50.0 $cm^3$. Toirtmheasadh an tuaslagán den fhínéagar caolaithe le tuaslagán 0.09 M hiodrocsaíde sóidiam i bhfleascán cónúil. Ar an meán, bhí 12.4 $cm^3$ den fhínéagar caolaithe ag teastáil chun 25.0 $cm^3$ den tuaslagán NaOH a neodrú.
 Déantar cur síos ar imoibriú an toirtmheasctha seo chomh maith le cothromóid chothromaíochta cheimiceach seo:
 $CH_3COOH + NaOH \rightarrow CH_3COONa + H_2O$
-(a) (ii) Déan cur síos ar an mbealach a sruthlaíodh an píosa fearais seo sular úsáideadh é.","","le huisce dí-ianaithe
-le fínéagar",""
+Déan cur síos ar an mbealach a sruthlaíodh an píosa fearais seo sular úsáideadh é.","le huisce dí-ianaithe
+le fínéagar",,,,
 "Rinne scoláire turgnamh i dtosach ag aidéid eatánóch i bhfínéagar ar aimsiú. Caoileadh cuid 10.0 $cm^3$ den fhínéagar i dtosach go dtí díreach 50.0 $cm^3$. Toirtmheasadh an tuaslagán den fhínéagar caolaithe le tuaslagán 0.09 M hiodrocsaíde sóidiam i bhfleascán cónúil. Ar an meán, bhí 12.4 $cm^3$ den fhínéagar caolaithe ag teastáil chun 25.0 $cm^3$ den tuaslagán NaOH a neodrú.
 Déantar cur síos ar imoibriú an toirtmheasctha seo chomh maith le cothromóid chothromaíochta cheimiceach seo:
 $CH_3COOH + NaOH \rightarrow CH_3COONa + H_2O$
-(a) (iii) Déan cur síos ar mhodh oiriúnach chun an chuid 10.0 $cm^3$ den fhínéagar bunaidh a chaolú go dtí 50.0 $cm^3$ go cruinn.","","cuir (10.0$cm^3$) den fhínéagar (bunaidh) sa fleascán toirtmhéadrach (50 $cm^3$) go dtí an marc le huisce dí-ianaithe / (cuir uisce) chun bun an mheiniscis ar an marc",""
+Déan cur síos ar mhodh oiriúnach chun an chuid 10.0 $cm^3$ den fhínéagar bunaidh a chaolú go dtí 50.0 $cm^3$ go cruinn.",cuir (10.0$cm^3$) den fhínéagar (bunaidh) sa fleascán toirtmhéadrach (50 $cm^3$) go dtí an marc le huisce dí-ianaithe / (cuir uisce) chun bun an mheiniscis ar an marc,,,,
 "Rinne scoláire turgnamh i dtosach ag aidéid eatánóch i bhfínéagar ar aimsiú. Caoileadh cuid 10.0 $cm^3$ den fhínéagar i dtosach go dtí díreach 50.0 $cm^3$. Toirtmheasadh an tuaslagán den fhínéagar caolaithe le tuaslagán 0.09 M hiodrocsaíde sóidiam i bhfleascán cónúil. Ar an meán, bhí 12.4 $cm^3$ den fhínéagar caolaithe ag teastáil chun 25.0 $cm^3$ den tuaslagán NaOH a neodrú.
 Déantar cur síos ar imoibriú an toirtmheasctha seo chomh maith le cothromóid chothromaíochta cheimiceach seo:
 $CH_3COOH + NaOH \rightarrow CH_3COONa + H_2O$
-(b) (i) Ríomh toirt an fhínéagar neamhchaolaithe a bheadh a theastáil chun 25.0 $cm^3$ den tuaslagán 0.09 M de NaOH a neodrú.","","tagairt d’fhachtóir de chuid 5 [luaite/intuigthe]
-$12.4 \div 5 = 2.48$ ($cm^3$) [glac le 2.5 ($cm^3$)]",""
+Ríomh toirt an fhínéagar neamhchaolaithe a bheadh a theastáil chun 25.0 $cm^3$ den tuaslagán 0.09 M de NaOH a neodrú.","tagairt d’fhachtóir de chuid 5 [luaite/intuigthe]
+$12.4 \div 5 = 2.48$ ($cm^3$) [glac le 2.5 ($cm^3$)]",,,,
 "Rinne scoláire turgnamh i dtosach ag aidéid eatánóch i bhfínéagar ar aimsiú. Caoileadh cuid 10.0 $cm^3$ den fhínéagar i dtosach go dtí díreach 50.0 $cm^3$. Toirtmheasadh an tuaslagán den fhínéagar caolaithe le tuaslagán 0.09 M hiodrocsaíde sóidiam i bhfleascán cónúil. Ar an meán, bhí 12.4 $cm^3$ den fhínéagar caolaithe ag teastáil chun 25.0 $cm^3$ den tuaslagán NaOH a neodrú.
 Déantar cur síos ar imoibriú an toirtmheasctha seo chomh maith le cothromóid chothromaíochta cheimiceach seo:
 $CH_3COOH + NaOH \rightarrow CH_3COONa + H_2O$
-(b) (ii) Tabhair breac-chuntas ar an bhfuntáise a bhaineann leis an bhfínéagar a chaolú sula gcuirtear toirtmheasadh i gcrích.","","earráid (%) níos lú / (toirt) níos cruinne / (tiúchan) níos lú NaOH",""
+Tabhair breac-chuntas ar an bhfuntáise a bhaineann leis an bhfínéagar a chaolú sula gcuirtear toirtmheasadh i gcrích.",earráid (%) níos lú / (toirt) níos cruinne / (tiúchan) níos lú NaOH,,,,
 "Rinne scoláire turgnamh i dtosach ag aidéid eatánóch i bhfínéagar ar aimsiú. Caoileadh cuid 10.0 $cm^3$ den fhínéagar i dtosach go dtí díreach 50.0 $cm^3$. Toirtmheasadh an tuaslagán den fhínéagar caolaithe le tuaslagán 0.09 M hiodrocsaíde sóidiam i bhfleascán cónúil. Ar an meán, bhí 12.4 $cm^3$ den fhínéagar caolaithe ag teastáil chun 25.0 $cm^3$ den tuaslagán NaOH a neodrú.
 Déantar cur síos ar imoibriú an toirtmheasctha seo chomh maith le cothromóid chothromaíochta cheimiceach seo:
 $CH_3COOH + NaOH \rightarrow CH_3COONa + H_2O$
-(c) (i) Ainmnigh táscaire oiriúnach chun toirtmheasadh seo.","","feanólftailéin",""
+Ainmnigh táscaire oiriúnach chun toirtmheasadh seo.",feanólftailéin,,,,
 "Rinne scoláire turgnamh i dtosach ag aidéid eatánóch i bhfínéagar ar aimsiú. Caoileadh cuid 10.0 $cm^3$ den fhínéagar i dtosach go dtí díreach 50.0 $cm^3$. Toirtmheasadh an tuaslagán den fhínéagar caolaithe le tuaslagán 0.09 M hiodrocsaíde sóidiam i bhfleascán cónúil. Ar an meán, bhí 12.4 $cm^3$ den fhínéagar caolaithe ag teastáil chun 25.0 $cm^3$ den tuaslagán NaOH a neodrú.
 Déantar cur síos ar imoibriú an toirtmheasctha seo chomh maith le cothromóid chothromaíochta cheimiceach seo:
 $CH_3COOH + NaOH \rightarrow CH_3COONa + H_2O$
-(c) (ii) luathán t-athrú datha a bhreathnaítear ag an gcríochphointe.","","bándearg [nó glac le corcra] go héadathach [ná glac le trédhearcach ]  [bronn 3 mharc má mhalartaítear an dá dhath chearta]",""
+luathán t-athrú datha a bhreathnaítear ag an gcríochphointe.",bándearg [nó glac le corcra] go héadathach [ná glac le trédhearcach ]  [bronn 3 mharc má mhalartaítear an dá dhath chearta],,,,
 "Rinne scoláire turgnamh i dtosach ag aidéid eatánóch i bhfínéagar ar aimsiú. Caoileadh cuid 10.0 $cm^3$ den fhínéagar i dtosach go dtí díreach 50.0 $cm^3$. Toirtmheasadh an tuaslagán den fhínéagar caolaithe le tuaslagán 0.09 M hiodrocsaíde sóidiam i bhfleascán cónúil. Ar an meán, bhí 12.4 $cm^3$ den fhínéagar caolaithe ag teastáil chun 25.0 $cm^3$ den tuaslagán NaOH a neodrú.
 Déantar cur síos ar imoibriú an toirtmheasctha seo chomh maith le cothromóid chothromaíochta cheimiceach seo:
 $CH_3COOH + NaOH \rightarrow CH_3COONa + H_2O$
-(d) (i) Ríomh líon na móil de hiodrocsaíd sóidiam i ngach cuid 25.0 $cm^3$.","","$\frac{25.0}{1000} \times 0.09 = 0.00225 (mól)$",""
+Ríomh líon na móil de hiodrocsaíd sóidiam i ngach cuid 25.0 $cm^3$.",$\frac{25.0}{1000} \times 0.09 = 0.00225 (mól)$,,,,
 "Rinne scoláire turgnamh i dtosach ag aidéid eatánóch i bhfínéagar ar aimsiú. Caoileadh cuid 10.0 $cm^3$ den fhínéagar i dtosach go dtí díreach 50.0 $cm^3$. Toirtmheasadh an tuaslagán den fhínéagar caolaithe le tuaslagán 0.09 M hiodrocsaíde sóidiam i bhfleascán cónúil. Ar an meán, bhí 12.4 $cm^3$ den fhínéagar caolaithe ag teastáil chun 25.0 $cm^3$ den tuaslagán NaOH a neodrú.
 Déantar cur síos ar imoibriú an toirtmheasctha seo chomh maith le cothromóid chothromaíochta cheimiceach seo:
 $CH_3COOH + NaOH \rightarrow CH_3COONa + H_2O$
-(d) (ii) Ríomh líon na móil d'aidéad eatánóch i ngach $cm^3$ den fhínéagar caolaithe.","","$\frac{0.00225 \div 12.4 = 0.00018 (mól)}{}$",""
+Ríomh líon na móil d'aidéad eatánóch i ngach $cm^3$ den fhínéagar caolaithe.",$\frac{0.00225 \div 12.4 = 0.00018 (mól)}{}$,,,,
 "Rinne scoláire turgnamh i dtosach ag aidéid eatánóch i bhfínéagar ar aimsiú. Caoileadh cuid 10.0 $cm^3$ den fhínéagar i dtosach go dtí díreach 50.0 $cm^3$. Toirtmheasadh an tuaslagán den fhínéagar caolaithe le tuaslagán 0.09 M hiodrocsaíde sóidiam i bhfleascán cónúil. Ar an meán, bhí 12.4 $cm^3$ den fhínéagar caolaithe ag teastáil chun 25.0 $cm^3$ den tuaslagán NaOH a neodrú.
 Déantar cur síos ar imoibriú an toirtmheasctha seo chomh maith le cothromóid chothromaíochta cheimiceach seo:
 $CH_3COOH + NaOH \rightarrow CH_3COONa + H_2O$
-(d) (iii) Ríomh tiúchan an aigéid eatánóigh san fhínéagar bunaidh ina móil in aghaidh an lítir.","","$\frac{0.00018 \times 5 \times 1000}{}$
-$= 0.91 (M)$",""
+Ríomh tiúchan an aigéid eatánóigh san fhínéagar bunaidh ina móil in aghaidh an lítir.","$\frac{0.00018 \times 5 \times 1000}{}$
+$= 0.91 (M)$",,,,
 "Rinne scoláire turgnamh i dtosach ag aidéid eatánóch i bhfínéagar ar aimsiú. Caoileadh cuid 10.0 $cm^3$ den fhínéagar i dtosach go dtí díreach 50.0 $cm^3$. Toirtmheasadh an tuaslagán den fhínéagar caolaithe le tuaslagán 0.09 M hiodrocsaíde sóidiam i bhfleascán cónúil. Ar an meán, bhí 12.4 $cm^3$ den fhínéagar caolaithe ag teastáil chun 25.0 $cm^3$ den tuaslagán NaOH a neodrú.
 Déantar cur síos ar imoibriú an toirtmheasctha seo chomh maith le cothromóid chothromaíochta cheimiceach seo:
 $CH_3COOH + NaOH \rightarrow CH_3COONa + H_2O$
-(d) (iv) Ríomh tiúchan an aigéid eatánóigh san fhínéagar bunaidh ina % (w/v).","","$M_r = 60$
-$\frac{0.91 \times 60}{10} = 5.44$ (%)",""
+Ríomh tiúchan an aigéid eatánóigh san fhínéagar bunaidh ina % (w/v).","$M_r = 60$
+$\frac{0.91 \times 60}{10} = 5.44$ (%)",,,,
 "Rinne scoláire turgnamh chun aigéad beansóch a íonghlanaadh trína athchristalú, agus úsáid á baint as uisce mar an tuaslagóir.
-(i) Mínigh cén fáth ar tuaslagóir oiriúnach é uisce chun an t-athchristalú seo a dhéanamh.","","(tá) intuaslagthacht íseal (ag aigéad beansóch) in uisce fuar /
-(tá) intuaslagthacht ard (ag aigéad beansóch) in uisce te",""
+Mínigh cén fáth ar tuaslagóir oiriúnach é uisce chun an t-athchristalú seo a dhéanamh.","(tá) intuaslagthacht íseal (ag aigéad beansóch) in uisce fuar /
+(tá) intuaslagthacht ard (ag aigéad beansóch) in uisce te",,,,
 "Rinne scoláire turgnamh chun aigéad beansóch a íonghlanaadh trína athchristalú, agus úsáid á baint as uisce mar an tuaslagóir.
-(ii) Mínigh an aidhm atá leis an gcéad scagachán (te).","","chun eisíontais dhothuaslagtha a bhaint",""
+Mínigh an aidhm atá leis an gcéad scagachán (te).",chun eisíontais dhothuaslagtha a bhaint,,,,
 "Rinne scoláire turgnamh chun aigéad beansóch a íonghlanaadh trína athchristalú, agus úsáid á baint as uisce mar an tuaslagóir.
-(iii) Sa scagachán te, baintear úsáid as scagpháipéar cuislithe i dtonnaoóir bogthe mar a thaispeántar ar dheis.
-Mínigh cén fáth a bhfuil an leagan amach seo oiriúnach do scagachán bogthe.","","achar dromchla níos mó / scagachán níos tapúla / coimeadtar an tuaslagán te /
-stopann sé aigéad beansóch teacht amach as an tuaslagán / ardú toraidh",""
+Sa scagachán te, baintear úsáid as scagpháipéar cuislithe i dtonnaoóir bogthe mar a thaispeántar ar dheis.
+Mínigh cén fáth a bhfuil an leagan amach seo oiriúnach do scagachán bogthe.","achar dromchla níos mó / scagachán níos tapúla / coimeadtar an tuaslagán te /
+stopann sé aigéad beansóch teacht amach as an tuaslagán / ardú toraidh",,,,
 "Rinne scoláire turgnamh chun aigéad beansóch a íonghlanaadh trína athchristalú, agus úsáid á baint as uisce mar an tuaslagóir.
-(iv) Mínigh cén fáth nach ndéantar an dara scagachán go dtí go mbíonn tréimhse sách oiriúnach fuaraithe istigh.","","chun an toradh a uasmhéadú / chun cristalú a éascú",""
+Mínigh cén fáth nach ndéantar an dara scagachán go dtí go mbíonn tréimhse sách oiriúnach fuaraithe istigh.",chun an toradh a uasmhéadú / chun cristalú a éascú,,,,
 "Rinne scoláire turgnamh chun aigéad beansóch a íonghlanaadh trína athchristalú, agus úsáid á baint as uisce mar an tuaslagóir.
-(v) Cad a breathnódh an scoláire a thabharfadh le fios gur sampla íon a bhí san aigéad beansóch athchriostalaithe?","","leáphointe
-thar raon caol / géar / gar don fíorluach",""
+Cad a breathnódh an scoláire a thabharfadh le fios gur sampla íon a bhí san aigéad beansóch athchriostalaithe?","leáphointe
+thar raon caol / géar / gar don fíorluach",,,,
 "Rinne scoláire eile tástáil chun a thaispeáint gur féidir eatánal a ocsaidiú go héasca.
-(i) Sainaithin an t-imoibrí (na himoibrithe) a d'fhéadfadh an scoláire a úsáid.","","(tuaslagán) KMnO_4 aigéadaithe  // tuaslagán Fehling (A agus B) // (imoibrí) Tollen",""
+Sainaithin an t-imoibrí (na himoibrithe) a d'fhéadfadh an scoláire a úsáid.",(tuaslagán) KMnO_4 aigéadaithe  // tuaslagán Fehling (A agus B) // (imoibrí) Tollen,,,,
 "Rinne scoláire eile tástáil chun a thaispeáint gur féidir eatánal a ocsaidiú go héasca.
-(ii) Luaigh an t-athrú datha a bhreathófaí don imoibrí (na himoibrithe) a shainaithin tú.","","bándearg/corcra // gorm // éadathach
+Luaigh an t-athrú datha a bhreathófaí don imoibrí (na himoibrithe) a shainaithin tú.","bándearg/corcra // gorm // éadathach
 go héadathach                // go dearg                     // go dath an airgid
-[bronn 3 mharc má mhalartaítear an dá dhath chearta]",""
+[bronn 3 mharc má mhalartaítear an dá dhath chearta]",,,,
 "Rinne scoláire eile tástáil chun a thaispeáint gur féidir eatánal a ocsaidiú go héasca.
-(iii) Sainaithin an tsubstaint orgánach a táirgeadh sa tástáil seo.","","aigéad eatánóch",""
+Sainaithin an tsubstaint orgánach a táirgeadh sa tástáil seo.",aigéad eatánóch,,,,
 "Rinne scoláire eile tástáil chun a thaispeáint gur féidir eatánal a ocsaidiú go héasca.
-(iv) Scríobh leathchothromóid don dí-ocsaidiú ar an imoibrí neamhorgánach a úsáideadh sa tástáil seo.","","$Mn^{7+} → Mn^{2+} // Cu^{2+} → Cu^{+} // Ag^{+} → Ag$",""
+Scríobh leathchothromóid don dí-ocsaidiú ar an imoibrí neamhorgánach a úsáideadh sa tástáil seo.",$Mn^{7+} → Mn^{2+} // Cu^{2+} → Cu^{+} // Ag^{+} → Ag$,,,,
 "D'ullmhaigh scoláire eile gallúnach sa tsaotharlann.
-(i) Sainaithin na himoibreáin a úsáideadh agus gallúnach á hullmhú.","","saill / blonag / ola / tríglicríd / m.sh. trístéaráit ghlicríle / stéirín / trístéirín
-hiodrocsaid sóidiam / hiodrocsaid photaisiam",""
+Sainaithin na himoibreáin a úsáideadh agus gallúnach á hullmhú.","saill / blonag / ola / tríglicríd / m.sh. trístéaráit ghlicríle / stéirín / trístéirín
+hiodrocsaid sóidiam / hiodrocsaid photaisiam",,,,
 "D'ullmhaigh scoláire eile gallúnach sa tsaotharlann.
-(ii) Sainaithin an tuaslagóir a úsáideadh agus gallúnach á hullmhú.","","eatánól",""
-"D'ullmhaigh scoláire eile gallúnach sa tsaotharlann.
-(iii) Ainmnigh an comhtháirge a fhoirmítear nuair a ullmhaítear gallúnach ar an mbealach seo. Tarraing struchtúr móilíneach an chomhtháirge seo, gach adamh agus gach nasc san áireamh.","","própán-1,2,3-tríól / gliocról [glac le glicrín]","images/chemistry/answer/2c_iii.png"
+Sainaithin an tuaslagóir a úsáideadh agus gallúnach á hullmhú.",eatánól,,,,
 "Déantar cur síos ar imoibriú tíosúlféit sóidiam agus aigéad hidreaclórach sa chothromóid chothromaíochta cheimiceach seo: $Na_2S_2O_3 + 2HCl \rightarrow 2NaCl + SO_2 + S + H_2O$
 Chun an tslí a dtéann tiúchan i bhfeidhm ar an ráta imoibriúcháin seo a fhiosrú, cuireadh an turgnamh i gcrích i gcás tiúchana difriúla de thuaslagán de thiasúlféit sóidiam. Maidir le gach rith, tosaíodh stopuairead ar mheascadh 100 $cm^3$ de $Na_2S_2O_3$ le 10 $cm^3$ de 3 M HCl.
 Maidir le gach rith, taifeadadh an t-imoibriú i gcrích ag teocht an tseomra agus tomhaiseadh an t-am a thóg sé chun an mhais chéanna sulfair a dheascadh. Tógadh inbhéarta an ama sin mar thomhas ar ráta tosaigh an imoibriúcháin.
@@ -88,9 +86,9 @@ Taisepeántar na torthaí sa tábla thíos.
 |Am (s)|50|56|63|72|84|100|125|168|
 |Ráta =$\frac{1}{Am}$(s⁻¹)|0.020|0.018| | | | | | |
 
-(a) (i) Déan cur síos ar mhodh a d'fhéadfaí a úsáid chun a bheith eolach cathain a bhí an mhais chéanna sulfair deasctha i ngach rith.","","X a chur faoin fhleascán// méadar solais
+Déan cur síos ar mhodh a d'fhéadfaí a úsáid chun a bheith eolach cathain a bhí an mhais chéanna sulfair deasctha i ngach rith.","X a chur faoin fhleascán// méadar solais
 (an t-am a thomhas go dtí) nach bhfuil X le feiceáil //
-(an t-am a thomhas go dtí) go bhfuil sé ar an luach céanna",""
+(an t-am a thomhas go dtí) go bhfuil sé ar an luach céanna",,,,
 "Déantar cur síos ar imoibriú tíosúlféit sóidiam agus aigéad hidreaclórach sa chothromóid chothromaíochta cheimiceach seo: $Na_2S_2O_3 + 2HCl \rightarrow 2NaCl + SO_2 + S + H_2O$
 Chun an tslí a dtéann tiúchan i bhfeidhm ar an ráta imoibriúcháin seo a fhiosrú, cuireadh an turgnamh i gcrích i gcás tiúchana difriúla de thuaslagán de thiasúlféit sóidiam. Maidir le gach rith, tosaíodh stopuairead ar mheascadh 100 $cm^3$ de $Na_2S_2O_3$ le 10 $cm^3$ de 3 M HCl.
 Maidir le gach rith, taifeadadh an t-imoibriú i gcrích ag teocht an tseomra agus tomhaiseadh an t-am a thóg sé chun an mhais chéanna sulfair a dheascadh. Tógadh inbhéarta an ama sin mar thomhas ar ráta tosaigh an imoibriúcháin.
@@ -101,8 +99,8 @@ Taisepeántar na torthaí sa tábla thíos.
 |Am (s)|50|56|63|72|84|100|125|168|
 |Ráta =$\frac{1}{Am}$(s⁻¹)|0.020|0.018| | | | | | |
 
-(a) (ii) Déan cur síos ar conas a d'fhéadfaí tuaslagán 0.10 M $Na_2S_2O_3$ a úsáid chun cuid 90 $cm^3$ de thuaslagán 0.09 M $Na_2S_2O_3$ a ullmhú.","","90 $cm^3$ de thuaslagán (0.10 M)
-cuir uisce leis chun (100 $cm^3$) a fháil",""
+Déan cur síos ar conas a d'fhéadfaí tuaslagán 0.10 M $Na_2S_2O_3$ a úsáid chun cuid 90 $cm^3$ de thuaslagán 0.09 M $Na_2S_2O_3$ a ullmhú.","90 $cm^3$ de thuaslagán (0.10 M)
+cuir uisce leis chun (100 $cm^3$) a fháil",,,,
 "Déantar cur síos ar imoibriú tíosúlféit sóidiam agus aigéad hidreaclórach sa chothromóid chothromaíochta cheimiceach seo: $Na_2S_2O_3 + 2HCl \rightarrow 2NaCl + SO_2 + S + H_2O$
 Chun an tslí a dtéann tiúchan i bhfeidhm ar an ráta imoibriúcháin seo a fhiosrú, cuireadh an turgnamh i gcrích i gcás tiúchana difriúla de thuaslagán de thiasúlféit sóidiam. Maidir le gach rith, tosaíodh stopuairead ar mheascadh 100 $cm^3$ de $Na_2S_2O_3$ le 10 $cm^3$ de 3 M HCl.
 Maidir le gach rith, taifeadadh an t-imoibriú i gcrích ag teocht an tseomra agus tomhaiseadh an t-am a thóg sé chun an mhais chéanna sulfair a dheascadh. Tógadh inbhéarta an ama sin mar thomhas ar ráta tosaigh an imoibriúcháin.
@@ -113,7 +111,7 @@ Taisepeántar na torthaí sa tábla thíos.
 |Am (s)|50|56|63|72|84|100|125|168|
 |Ráta =$\frac{1}{Am}$(s⁻¹)|0.020|0.018| | | | | | |
 
-(b) (i) Cóipeáil agus comhlánaigh an tríú sraith sa tábla i do fhreagarleabhar trí na luachanna ráta atá in easnamh a líonadh isteach, ceart go dtí trí ionad dheachúlacha.","","0.016, 0.014, 0.012, 0.010, 0.008, 0.006",""
+Cóipeáil agus comhlánaigh an tríú sraith sa tábla i do fhreagarleabhar trí na luachanna ráta atá in easnamh a líonadh isteach, ceart go dtí trí ionad dheachúlacha.","0.016, 0.014, 0.012, 0.010, 0.008, 0.006",,,,
 "Déantar cur síos ar imoibriú tíosúlféit sóidiam agus aigéad hidreaclórach sa chothromóid chothromaíochta cheimiceach seo: $Na_2S_2O_3 + 2HCl \rightarrow 2NaCl + SO_2 + S + H_2O$
 Chun an tslí a dtéann tiúchan i bhfeidhm ar an ráta imoibriúcháin seo a fhiosrú, cuireadh an turgnamh i gcrích i gcás tiúchana difriúla de thuaslagán de thiasúlféit sóidiam. Maidir le gach rith, tosaíodh stopuairead ar mheascadh 100 $cm^3$ de $Na_2S_2O_3$ le 10 $cm^3$ de 3 M HCl.
 Maidir le gach rith, taifeadadh an t-imoibriú i gcrích ag teocht an tseomra agus tomhaiseadh an t-am a thóg sé chun an mhais chéanna sulfair a dheascadh. Tógadh inbhéarta an ama sin mar thomhas ar ráta tosaigh an imoibriúcháin.
@@ -124,10 +122,7 @@ Taisepeántar na torthaí sa tábla thíos.
 |Am (s)|50|56|63|72|84|100|125|168|
 |Ráta =$\frac{1}{Am}$(s⁻¹)|0.020|0.018| | | | | | |
 
-(b) (ii) Ar ghrafpháipéar, tarraing graf a thaispeánann conas mar a athraíonn an ráta imoibriúcháin le tiúchan an tuaslagáin de thiasulfáit sóidiam.","","aiseanna lipéadaithe
-pointí breactha     [baintear 1 mharc do gach pointe a bhreactar go mícheart]
-[bronntar uasmhéid 3 mharc do phointí a bhreactar ar pháipéar seachas grafpháipéar]
-an líne is fearr oiriúint","images/chemistry/answer/3b_ii.png"
+Cén tátál is féidir a bhaint as do ghraf?",ráta i gcomhréir le tiúchan / am i gcomhréir inbhéartach le tiúchan,,,,
 "Déantar cur síos ar imoibriú tíosúlféit sóidiam agus aigéad hidreaclórach sa chothromóid chothromaíochta cheimiceach seo: $Na_2S_2O_3 + 2HCl \rightarrow 2NaCl + SO_2 + S + H_2O$
 Chun an tslí a dtéann tiúchan i bhfeidhm ar an ráta imoibriúcháin seo a fhiosrú, cuireadh an turgnamh i gcrích i gcás tiúchana difriúla de thuaslagán de thiasúlféit sóidiam. Maidir le gach rith, tosaíodh stopuairead ar mheascadh 100 $cm^3$ de $Na_2S_2O_3$ le 10 $cm^3$ de 3 M HCl.
 Maidir le gach rith, taifeadadh an t-imoibriú i gcrích ag teocht an tseomra agus tomhaiseadh an t-am a thóg sé chun an mhais chéanna sulfair a dheascadh. Tógadh inbhéarta an ama sin mar thomhas ar ráta tosaigh an imoibriúcháin.
@@ -138,7 +133,7 @@ Taisepeántar na torthaí sa tábla thíos.
 |Am (s)|50|56|63|72|84|100|125|168|
 |Ráta =$\frac{1}{Am}$(s⁻¹)|0.020|0.018| | | | | | |
 
-(b) (iii) Cén tátál is féidir a bhaint as do ghraf?","","ráta i gcomhréir le tiúchan / am i gcomhréir inbhéartach le tiúchan",""
+Úsáid do ghraf chun an ráta imoibriúcháin a mheas má úsáideadh 100 $cm^3$ de thuaslagán 0.015 M $Na_2S_2O_3$.",$≈ 0.003 (s^{-1})$,,,,
 "Déantar cur síos ar imoibriú tíosúlféit sóidiam agus aigéad hidreaclórach sa chothromóid chothromaíochta cheimiceach seo: $Na_2S_2O_3 + 2HCl \rightarrow 2NaCl + SO_2 + S + H_2O$
 Chun an tslí a dtéann tiúchan i bhfeidhm ar an ráta imoibriúcháin seo a fhiosrú, cuireadh an turgnamh i gcrích i gcás tiúchana difriúla de thuaslagán de thiasúlféit sóidiam. Maidir le gach rith, tosaíodh stopuairead ar mheascadh 100 $cm^3$ de $Na_2S_2O_3$ le 10 $cm^3$ de 3 M HCl.
 Maidir le gach rith, taifeadadh an t-imoibriú i gcrích ag teocht an tseomra agus tomhaiseadh an t-am a thóg sé chun an mhais chéanna sulfair a dheascadh. Tógadh inbhéarta an ama sin mar thomhas ar ráta tosaigh an imoibriúcháin.
@@ -149,18 +144,7 @@ Taisepeántar na torthaí sa tábla thíos.
 |Am (s)|50|56|63|72|84|100|125|168|
 |Ráta =$\frac{1}{Am}$(s⁻¹)|0.020|0.018| | | | | | |
 
-(c) (i) Úsáid do ghraf chun an ráta imoibriúcháin a mheas má úsáideadh 100 $cm^3$ de thuaslagán 0.015 M $Na_2S_2O_3$.","","$≈ 0.003 (s^{-1})$",""
-"Déantar cur síos ar imoibriú tíosúlféit sóidiam agus aigéad hidreaclórach sa chothromóid chothromaíochta cheimiceach seo: $Na_2S_2O_3 + 2HCl \rightarrow 2NaCl + SO_2 + S + H_2O$
-Chun an tslí a dtéann tiúchan i bhfeidhm ar an ráta imoibriúcháin seo a fhiosrú, cuireadh an turgnamh i gcrích i gcás tiúchana difriúla de thuaslagán de thiasúlféit sóidiam. Maidir le gach rith, tosaíodh stopuairead ar mheascadh 100 $cm^3$ de $Na_2S_2O_3$ le 10 $cm^3$ de 3 M HCl.
-Maidir le gach rith, taifeadadh an t-imoibriú i gcrích ag teocht an tseomra agus tomhaiseadh an t-am a thóg sé chun an mhais chéanna sulfair a dheascadh. Tógadh inbhéarta an ama sin mar thomhas ar ráta tosaigh an imoibriúcháin.
-Taisepeántar na torthaí sa tábla thíos.
-
-|Tiúchan an $Na_2S_2O_3$ (M)|0.10|0.09|0.08|0.07|0.06|0.05|0.04|0.03|
-|---|---|---|---|---|---|---|---|---|
-|Am (s)|50|56|63|72|84|100|125|168|
-|Ráta =$\frac{1}{Am}$(s⁻¹)|0.020|0.018| | | | | | |
-
-(c) (ii) Ríomh an t-am a tógadh chun an sulfar a dheascadh sa chás seo.","","$\frac{1}{0.003} = 333$ (s)",""
+Ríomh an t-am a tógadh chun an sulfar a dheascadh sa chás seo.",$\frac{1}{0.003} = 333$ (s),,,,
 "Déantar cur síos ar imoibriú tíosúlféit sóidiam agus aigéad hidreaclórach sa chothromóid chothromaíochta cheimiceach seo: $Na_2S_2O_3 + 2HCl \rightarrow 2NaCl + SO_2 + S + H_2O$
 Chun an tslí a dtéann teocht i bhfeidhm ar an ráta imoibriúcháin seo a fhiosrú, tomhaiseadh an t-am a tógadh chun an mhais chéanna sulfair a dheascadh ag trí theocht dhifriúla, agus úsáid á baint as toirteanna agus tiúchana seasta de na h-imoibreáin.
 Taisepeántar na torthaí sa tábla thíos.
@@ -169,8 +153,8 @@ Taisepeántar na torthaí sa tábla thíos.
 |---|---|---|---|
 |Am (s)|40|10|25|
 
-(d) (i) Déan cur síos ar mhodh oiriúnach chun na himoibreáin a théamh agus chun teocht an imoibrithe a thomhas. D'fhéadfadh léaráid lipéadaithe cabhrú le do fhreagra.","","foinse theasa / dabhach uisce / teophláta / dóire Bunsen
-teirmiméadar",""
+Déan cur síos ar mhodh oiriúnach chun na himoibreáin a théamh agus chun teocht an imoibrithe a thomhas. D'fhéadfadh léaráid lipéadaithe cabhrú le do fhreagra.","foinse theasa / dabhach uisce / teophláta / dóire Bunsen
+teirmiméadar",,,,
 "Déantar cur síos ar imoibriú tíosúlféit sóidiam agus aigéad hidreaclórach sa chothromóid chothromaíochta cheimiceach seo: $Na_2S_2O_3 + 2HCl \rightarrow 2NaCl + SO_2 + S + H_2O$
 Chun an tslí a dtéann teocht i bhfeidhm ar an ráta imoibriúcháin seo a fhiosrú, tomhaiseadh an t-am a tógadh chun an mhais chéanna sulfair a dheascadh ag trí theocht dhifriúla, agus úsáid á baint as toirteanna agus tiúchana seasta de na h-imoibreáin.
 Taisepeántar na torthaí sa tábla thíos.
@@ -179,452 +163,411 @@ Taisepeántar na torthaí sa tábla thíos.
 |---|---|---|---|
 |Am (s)|40|10|25|
 
-(d) (ii) Cé acu teocht (T1, T2 nó T3) an ceann ab airde? Cosain do fhreagra.","","T_2
-an ráta is mó / an t-am is lú",""
-"Cé mhéad (i) prótón, (ii) neodrón, atá i núicléas héiliam–3?","","(i) 2
-(ii) 1",""
-"Sainaithin dhá imoibrí atá ag teastáil chun láithreacht ian fosfáite i dtuaslagán uiscí a thástáil.","","molabdáit amóiniam, aigéad nítreach",""
-"Luaigh dhá chúis a n-imíonn fíorgháis ó iompar idéalach. ","","tá toirt ag cáithníní / fórsaí idirmhóilleacha / imbhuailtí neamhleaisteach
-[dhá cheann ar bith]",""
-"Taispeántar dhá fhleascán chomhionanna sa léaráid ar dheis, ceann acu líonta le gás héiliam agus an ceann eile le gás ocsaigine. Coinnítear na fleascáin ag an teocht agus ag an mbrú céanna. Tá 2.4 g de ghás i bhfleascán na hocsaigine. Ríomh mais an héiliam atá i láthair.","","tagairt do mhais 4 agus 32 / cóimheas 1:8
-$\frac{2.4 \times 4}{32} = 0.3$ (g)",""
-"Luaigh na haonaid chaighdeánacha (i) d'fhuinneamh céadiannúcháin","","(i) kJ mol^{-1} / J mol^{-1}",""
-"Luaigh na haonaid chaighdeánacha (ii) d'éileamh bithcheimiceach ar ocsaigin (BOD).","","(ii) codanna sa mhilliún / csm / mg L^{-1} / g m^{-3}",""
-"Ainmnigh trí shraith homalógacha de chomhdhúile orgánacha ina bhfuil grúpa carbóinile.","","aildéad / céatón / aigéad carbocsaileach / eistear [trí cinn ar bith]",""
+Cé acu teocht (T1, T2 nó T3) an ceann ab airde? Cosain do fhreagra.","T_2
+an ráta is mó / an t-am is lú",,,,
+"Cé mhéad (i) prótón, (ii) neodrón, atá i núicléas héiliam–3?","(i) 2
+(ii) 1",,,,
+Sainaithin dhá imoibrí atá ag teastáil chun láithreacht ian fosfáite i dtuaslagán uiscí a thástáil.,"molabdáit amóiniam, aigéad nítreach",,,,
+Luaigh dhá chúis a n-imíonn fíorgháis ó iompar idéalach. ,"tá toirt ag cáithníní / fórsaí idirmhóilleacha / imbhuailtí neamhleaisteach
+[dhá cheann ar bith]",,,,
+"Taispeántar dhá fhleascán chomhionanna sa léaráid ar dheis, ceann acu líonta le gás héiliam agus an ceann eile le gás ocsaigine. Coinnítear na fleascáin ag an teocht agus ag an mbrú céanna. Tá 2.4 g de ghás i bhfleascán na hocsaigine. Ríomh mais an héiliam atá i láthair.","tagairt do mhais 4 agus 32 / cóimheas 1:8
+$\frac{2.4 \times 4}{32} = 0.3$ (g)",,,,
+Luaigh na haonaid chaighdeánacha (i) d'fhuinneamh céadiannúcháin,(i) kJ mol^{-1} / J mol^{-1},,,,
+Luaigh na haonaid chaighdeánacha d'éileamh bithcheimiceach ar ocsaigin (BOD).,codanna sa mhilliún / csm / mg L^{-1} / g m^{-3},,,,
+Ainmnigh trí shraith homalógacha de chomhdhúile orgánacha ina bhfuil grúpa carbóinile.,aildéad / céatón / aigéad carbocsaileach / eistear [trí cinn ar bith],,,,
 "Cuirtear ocsaigionáití le peitreal go minic.
-(i) Mínigh cén fáth a gcuirtear ocsaigionáití le peitreal go minic.","","uimhir octáin a mhéadú / uath-adhaint a laghdú / dóchán níos míne",""
+Mínigh cén fáth a gcuirtear ocsaigionáití le peitreal go minic.",uimhir octáin a mhéadú / uath-adhaint a laghdú / dóchán níos míne,,,,
 "Cuirtear ocsaigionáití le peitreal go minic.
-(ii) Sainaithin ocsaigionáit atá oiriúnach don chúram seo.","","alcól / aon alcól ainmnithe m.sh. eatánól /
-éitear / aon éitear ainmnithe m.sh. MTBE",""
+Sainaithin ocsaigionáit atá oiriúnach don chúram seo.","alcól / aon alcól ainmnithe m.sh. eatánól /
+éitear / aon éitear ainmnithe m.sh. MTBE",,,,
 "Cén aidhm go sonrach a bhaineann le sulfáit alúmanaim a chur san áireamh:
-(i) le linn cóireáil uisce","","(i) flocasúchán",""
+le linn cóireáil uisce",flocasúchán,,,,
 "Cén aidhm go sonrach a bhaineann le sulfáit alúmanaim a chur san áireamh:
-(ii) le linn chéim threasach na cóireála camrais?","","(ii) chun fosfáit a bhaint",""
-"Scríobh leathchothromóid chothromaithe cheimiceach don imoibriú a tharlaíonn ag an gcatóid nuair a sheoltar sruth leictreach trí thuaslagán uiscí de shulfáit sóidiam.","","$2H_2O + 2e^{-} /rightarrow H_2 + 2OH^{-} / H_2O  +  e^{-} →  \frac{1}{2} H_2 +  OH^{-}$",""
-"Mínigh bunphrionsabal na crómatagraíochta.","","pas soghluaiste agus pas cónaitheach
-(tá) ionsú roghnaitheach (ag substaintí) / finíochtaí difriúla don dá phas",""
-"Taispeántar ar dheis struchtúr an phianmhúcháin beansócaon. Ríomh táirgeacht chéatadánach imoibrithe ina bhfuarthas 2412.3 g de bheansócaon íon, áit arbh é 21.5 mól an táirgeacht theoiriciúil.","","$M_r = 165$
-$\frac{2412.3}{21.5 × 165} = 0.68$, i.e. 68 (%)",""
-"Sainaithin trí speiceas cheimiceacha a fhoirmítear nuair a thuaslagtar gás dé-ocsaíde carbóin in uisce íon.","","$H_2CO_3 / HCO_3^- / CO_3^{2-} / H^+$ [trí cinn ar bith]",""
+le linn chéim threasach na cóireála camrais?",chun fosfáit a bhaint,,,,
+Scríobh leathchothromóid chothromaithe cheimiceach don imoibriú a tharlaíonn ag an gcatóid nuair a sheoltar sruth leictreach trí thuaslagán uiscí de shulfáit sóidiam.,$2H_2O + 2e^{-} /rightarrow H_2 + 2OH^{-} / H_2O  +  e^{-} →  \frac{1}{2} H_2 +  OH^{-}$,,,,
+Mínigh bunphrionsabal na crómatagraíochta.,"pas soghluaiste agus pas cónaitheach
+(tá) ionsú roghnaitheach (ag substaintí) / finíochtaí difriúla don dá phas",,,,
+"Taispeántar ar dheis struchtúr an phianmhúcháin beansócaon. Ríomh táirgeacht chéatadánach imoibrithe ina bhfuarthas 2412.3 g de bheansócaon íon, áit arbh é 21.5 mól an táirgeacht theoiriciúil.","$M_r = 165$
+$\frac{2412.3}{21.5 × 165} = 0.68$, i.e. 68 (%)",,,,
+Sainaithin trí speiceas cheimiceacha a fhoirmítear nuair a thuaslagtar gás dé-ocsaíde carbóin in uisce íon.,$H_2CO_3 / HCO_3^- / CO_3^{2-} / H^+$ [trí cinn ar bith],,,,
 "Tabhair breac-chuntas ar an méid a chuir siad seo thíos le réimse na criostalagrafaíochta:
-(i) Lawrence Bragg","","d'fhorbair sé teicníc (criostalagrafaíochta) x-ghathach",""
+Lawrence Bragg",d'fhorbair sé teicníc (criostalagrafaíochta) x-ghathach,,,,
 "Tabhair breac-chuntas ar an méid a chuir siad seo thíos le réimse na criostalagrafaíochta:
-(ii) Dorothy Hodgkin","","struchtúr (bith)mhóilíní",""
+Dorothy Hodgkin",struchtúr (bith)mhóilíní,,,,
 "Sa bhliain 1885, scríobh an matamaiticeoir Eilvéiseach Johann Balmer foirmle mhatamaitice chun cur síos a dhéanamh ar thonnfhaid an línespectrím infheicthe atá ag hidrigin adamhach, atá ainmnithe in omós dó anois. Ní raibh aon mhíniú, áfach, ar na línte seo a bheith ann go dtí 1913. Taispeánadh sa bhliain 1913 go raibh samhail Bohr den adamh hidrigine comhsheasmhach le sraith Balmer. Mar sin, bhí fianaise thurgnaimhach ann a bhí ag teacht le samhail Bohr.
-(a) (i) Mhol Bohr go raibh na leictreoín in adamh suite i leibhéil fuinnimh.
-Mínigh cad is brí leis an téarma leibhéal fuinnimh.","","fuinneamh seasta / fuinneamh candamaithe / fuinneamh i bhfithis /
+Mhol Bohr go raibh na leictreoín in adamh suite i leibhéil fuinnimh.
+Mínigh cad is brí leis an téarma leibhéal fuinnimh.","fuinneamh seasta / fuinneamh candamaithe / fuinneamh i bhfithis /
 fuinneamh i sceall
-do leictreoín (in adamh)",""
+do leictreoín (in adamh)",,,,
 "Sa bhliain 1885, scríobh an matamaiticeoir Eilvéiseach Johann Balmer foirmle mhatamaitice chun cur síos a dhéanamh ar thonnfhaid an línespectrím infheicthe atá ag hidrigin adamhach, atá ainmnithe in omós dó anois. Ní raibh aon mhíniú, áfach, ar na línte seo a bheith ann go dtí 1913. Taispeánadh sa bhliain 1913 go raibh samhail Bohr den adamh hidrigine comhsheasmhach le sraith Balmer. Mar sin, bhí fianaise thurgnaimhach ann a bhí ag teacht le samhail Bohr.
-(a) (ii) Idirdhealaigh idir bunstaid agus staideanna flosctha an leictreoin in adamh hidrigine.","","bunstaid: an fuinneamh is ísle / n = 1 / cobhsaí / i 1s //
-staideanna flosctha: níos mó fuinnimh / n > 1 / éagobhsaí / ní i 1s",""
+Idirdhealaigh idir bunstaid agus staideanna flosctha an leictreoin in adamh hidrigine.","bunstaid: an fuinneamh is ísle / n = 1 / cobhsaí / i 1s //
+staideanna flosctha: níos mó fuinnimh / n > 1 / éagobhsaí / ní i 1s",,,,
 "Sa bhliain 1885, scríobh an matamaiticeoir Eilvéiseach Johann Balmer foirmle mhatamaitice chun cur síos a dhéanamh ar thonnfhaid an línespectrím infheicthe atá ag hidrigin adamhach, atá ainmnithe in omós dó anois. Ní raibh aon mhíniú, áfach, ar na línte seo a bheith ann go dtí 1913. Taispeánadh sa bhliain 1913 go raibh samhail Bohr den adamh hidrigine comhsheasmhach le sraith Balmer. Mar sin, bhí fianaise thurgnaimhach ann a bhí ag teacht le samhail Bohr.
-(a) (iii) Mínigh cad a tharlaíonn nuair a bhogann leictreon ó staid fhlosctha go dtí a bhunstaid.","","scaoiltear fuinneamh
+Mínigh cad a tharlaíonn nuair a bhogann leictreon ó staid fhlosctha go dtí a bhunstaid.","scaoiltear fuinneamh
 mar fhótón / mar sholas / mar radaíocht leictreamaighnéadach /
-ag minicíocht ar leith / $E_m - E_n = hf$",""
+ag minicíocht ar leith / $E_m - E_n = hf$",,,,
 "Sa bhliain 1885, scríobh an matamaiticeoir Eilvéiseach Johann Balmer foirmle mhatamaitice chun cur síos a dhéanamh ar thonnfhaid an línespectrím infheicthe atá ag hidrigin adamhach, atá ainmnithe in omós dó anois. Ní raibh aon mhíniú, áfach, ar na línte seo a bheith ann go dtí 1913. Taispeánadh sa bhliain 1913 go raibh samhail Bohr den adamh hidrigine comhsheasmhach le sraith Balmer. Mar sin, bhí fianaise thurgnaimhach ann a bhí ag teacht le samhail Bohr.
-(a) (iv) Ainmnigh an gléas a úsáidtear chun línespecitream dúile a scrúdú.","","speictriméadar / speictreascóp     [ná glac le mais-speictriméadar]",""
-"Sa bhliain 1885, scríobh an matamaiticeoir Eilvéiseach Johann Balmer foirmle mhatamaitice chun cur síos a dhéanamh ar thonnfhaid an línespectrím infheicthe atá ag hidrigin adamhach, atá ainmnithe in omós dó anois. Ní raibh aon mhíniú, áfach, ar na línte seo a bheith ann go dtí 1913. Taispeánadh sa bhliain 1913 go raibh samhail Bohr den adamh hidrigine comhsheasmhach le sraith Balmer. Mar sin, bhí fianaise thurgnaimhach ann a bhí ag teacht le samhail Bohr.
-
-Le himeacht ama, taispeánadh gur léiriú róshimplí ar struchtúr adamh il-leictreoin a bhí i samhail Bohr. Anuas air sin, cuirtear nádúr tonnach an leictreoín agus prionsabal éiginnteachta Heisenberg san áireamh i dteoiric adamhach na linne seo, nithe nach raibh tuiscint ag daoine orthu in 1913.
-(b) (i) Mínigh conas a bhaineann prionsabal éiginnteachta Heisenberg le leictreoin in adamh.","","níl sé indéanta péire áirithe airíonna fisiceacha a thomhas (go cruinn) (m.sh. suíomh agus móiminteam/treoluas)
-ag an am céanna",""
+Ainmnigh an gléas a úsáidtear chun línespecitream dúile a scrúdú.",speictriméadar / speictreascóp     [ná glac le mais-speictriméadar],,,,
 "Sa bhliain 1885, scríobh an matamaiticeoir Eilvéiseach Johann Balmer foirmle mhatamaitice chun cur síos a dhéanamh ar thonnfhaid an línespectrím infheicthe atá ag hidrigin adamhach, atá ainmnithe in omós dó anois. Ní raibh aon mhíniú, áfach, ar na línte seo a bheith ann go dtí 1913. Taispeánadh sa bhliain 1913 go raibh samhail Bohr den adamh hidrigine comhsheasmhach le sraith Balmer. Mar sin, bhí fianaise thurgnaimhach ann a bhí ag teacht le samhail Bohr.
 
 Le himeacht ama, taispeánadh gur léiriú róshimplí ar struchtúr adamh il-leictreoin a bhí i samhail Bohr. Anuas air sin, cuirtear nádúr tonnach an leictreoín agus prionsabal éiginnteachta Heisenberg san áireamh i dteoiric adamhach na linne seo, nithe nach raibh tuiscint ag daoine orthu in 1913.
-(b) (ii) Scríobh an chumraíocht iomlán leictreon s, p atá ag adamh neoin (Ne) ina bhunstaid, líon na leictreon i ngach fithiseán adamhach san áireamh.","","$1s^2 2s^2$
-$2p_x^2 2p_y^2 2p_z^2$",""
+Mínigh conas a bhaineann prionsabal éiginnteachta Heisenberg le leictreoin in adamh.","níl sé indéanta péire áirithe airíonna fisiceacha a thomhas (go cruinn) (m.sh. suíomh agus móiminteam/treoluas)
+ag an am céanna",,,,
 "Sa bhliain 1885, scríobh an matamaiticeoir Eilvéiseach Johann Balmer foirmle mhatamaitice chun cur síos a dhéanamh ar thonnfhaid an línespectrím infheicthe atá ag hidrigin adamhach, atá ainmnithe in omós dó anois. Ní raibh aon mhíniú, áfach, ar na línte seo a bheith ann go dtí 1913. Taispeánadh sa bhliain 1913 go raibh samhail Bohr den adamh hidrigine comhsheasmhach le sraith Balmer. Mar sin, bhí fianaise thurgnaimhach ann a bhí ag teacht le samhail Bohr.
 
 Le himeacht ama, taispeánadh gur léiriú róshimplí ar struchtúr adamh il-leictreoin a bhí i samhail Bohr. Anuas air sin, cuirtear nádúr tonnach an leictreoín agus prionsabal éiginnteachta Heisenberg san áireamh i dteoiric adamhach na linne seo, nithe nach raibh tuiscint ag daoine orthu in 1913.
-(b) (iii) Trí thagairt don chumraíocht leictreon atá ag neon, idirdhealaigh idir fo-leibhéal fuinnimh agus fithiseán adamhach.","","fo-leibhéal:       2p          // (tá) 3 (ag Ne) // is féidir leis a bheith > 2 e⁻
-fithiseán:          e.g. 2p$_x$    // (tá) 5 (ag Ne) // = 2 e⁻",""
+Scríobh an chumraíocht iomlán leictreon s, p atá ag adamh neoin (Ne) ina bhunstaid, líon na leictreon i ngach fithiseán adamhach san áireamh.","$1s^2 2s^2$
+$2p_x^2 2p_y^2 2p_z^2$",,,,
 "Sa bhliain 1885, scríobh an matamaiticeoir Eilvéiseach Johann Balmer foirmle mhatamaitice chun cur síos a dhéanamh ar thonnfhaid an línespectrím infheicthe atá ag hidrigin adamhach, atá ainmnithe in omós dó anois. Ní raibh aon mhíniú, áfach, ar na línte seo a bheith ann go dtí 1913. Taispeánadh sa bhliain 1913 go raibh samhail Bohr den adamh hidrigine comhsheasmhach le sraith Balmer. Mar sin, bhí fianaise thurgnaimhach ann a bhí ag teacht le samhail Bohr.
 
 Le himeacht ama, taispeánadh gur léiriú róshimplí ar struchtúr adamh il-leictreoin a bhí i samhail Bohr. Anuas air sin, cuirtear nádúr tonnach an leictreoín agus prionsabal éiginnteachta Heisenberg san áireamh i dteoiric adamhach na linne seo, nithe nach raibh tuiscint ag daoine orthu in 1913.
-(b) (iv) Tá neon neamh-imoibríoch go ceimiceach. Mínigh an t-airí seo trí thagairt dá chumraíocht leictreon.","","leibhéal fuinnimh seachtrach lán / p-fholeibhéal lán / comhlíonann sé riail an ochtréid(3)",""
+Trí thagairt don chumraíocht leictreon atá ag neon, idirdhealaigh idir fo-leibhéal fuinnimh agus fithiseán adamhach.","fo-leibhéal:       2p          // (tá) 3 (ag Ne) // is féidir leis a bheith > 2 e⁻
+fithiseán:          e.g. 2p$_x$    // (tá) 5 (ag Ne) // = 2 e⁻",,,,
 "Sa bhliain 1885, scríobh an matamaiticeoir Eilvéiseach Johann Balmer foirmle mhatamaitice chun cur síos a dhéanamh ar thonnfhaid an línespectrím infheicthe atá ag hidrigin adamhach, atá ainmnithe in omós dó anois. Ní raibh aon mhíniú, áfach, ar na línte seo a bheith ann go dtí 1913. Taispeánadh sa bhliain 1913 go raibh samhail Bohr den adamh hidrigine comhsheasmhach le sraith Balmer. Mar sin, bhí fianaise thurgnaimhach ann a bhí ag teacht le samhail Bohr.
 
 Le himeacht ama, taispeánadh gur léiriú róshimplí ar struchtúr adamh il-leictreoin a bhí i samhail Bohr. Anuas air sin, cuirtear nádúr tonnach an leictreoín agus prionsabal éiginnteachta Heisenberg san áireamh i dteoiric adamhach na linne seo, nithe nach raibh tuiscint ag daoine orthu in 1913.
-(b) (v) Mínigh conas mar a chuireann luachanna comhleantacha fuinnimh ianúcháin neoin fianaise ar fáil a léiríonn go bhfuil leibhéil fuinnimh ann.","","tá an naoú (fuinneamh ianúcháin) i bhfad níos mó (ná an t-ochtú)",""
+Tá neon neamh-imoibríoch go ceimiceach. Mínigh an t-airí seo trí thagairt dá chumraíocht leictreon.",leibhéal fuinnimh seachtrach lán / p-fholeibhéal lán / comhlíonann sé riail an ochtréid(3),,,,
 "Sa bhliain 1885, scríobh an matamaiticeoir Eilvéiseach Johann Balmer foirmle mhatamaitice chun cur síos a dhéanamh ar thonnfhaid an línespectrím infheicthe atá ag hidrigin adamhach, atá ainmnithe in omós dó anois. Ní raibh aon mhíniú, áfach, ar na línte seo a bheith ann go dtí 1913. Taispeánadh sa bhliain 1913 go raibh samhail Bohr den adamh hidrigine comhsheasmhach le sraith Balmer. Mar sin, bhí fianaise thurgnaimhach ann a bhí ag teacht le samhail Bohr.
 
 Le himeacht ama, taispeánadh gur léiriú róshimplí ar struchtúr adamh il-leictreoin a bhí i samhail Bohr. Anuas air sin, cuirtear nádúr tonnach an leictreoín agus prionsabal éiginnteachta Heisenberg san áireamh i dteoiric adamhach na linne seo, nithe nach raibh tuiscint ag daoine orthu in 1913.
-(b) (vi) Tarraing an cruth atá ar p-fhithiseán.","","cruth tromán lúith ceart
-[bronn 3 mharc do líníocht a thaispeánann cruthanna tromán lúith ag luí thar chiumhais a chéile]","images/chemistry/answer/5b_vi.png"
+Mínigh conas mar a chuireann luachanna comhleantacha fuinnimh ianúcháin neoin fianaise ar fáil a léiríonn go bhfuil leibhéil fuinnimh ann.",tá an naoú (fuinneamh ianúcháin) i bhfad níos mó (ná an t-ochtú),,,,
 "Is féidir hidreacarbón A a thiontú ina hidreacarbón B mar a thaispeántar thíos.
-(a) Faightear hidreacarbón A sa chodán nafta nuair a
+Faightear hidreacarbón A sa chodán nafta nuair a
 dhriogtar amhola go codánach le linn scagadh ola.
-(i) Luaigh airí amháin atá i gcoiteann ag
-hidreacarbón A agus na hidreacarbóin eile sa chodán nafta.","images/chemistry/problem/6.png","(raon) fiuchphointe / mais / méid / líon adamh",""
+Luaigh airí amháin atá i gcoiteann ag
+hidreacarbón A agus na hidreacarbóin eile sa chodán nafta.",(raon) fiuchphointe / mais / méid / líon adamh,6.png,,,
 "Is féidir hidreacarbón A a thiontú ina hidreacarbón B mar a thaispeántar thíos.
-(a) Faightear hidreacarbón A sa chodán nafta nuair a
+Faightear hidreacarbón A sa chodán nafta nuair a
 dhriogtar amhola go codánach le linn scagadh ola.
-(ii) Luaigh na hainmneacha córasacha IUPAC ar chomhdhúil A agus ar chomhdhúil B.","images/chemistry/problem/6.png","A: ochtán
-B: 2,2,4-trímeithilpeantán",""
+Luaigh na hainmneacha córasacha IUPAC ar chomhdhúil A agus ar chomhdhúil B.","A: ochtán
+B: 2,2,4-trímeithilpeantán",6.png,,,
 "Is féidir hidreacarbón A a thiontú ina hidreacarbón B mar a thaispeántar thíos.
-(a) Faightear hidreacarbón A sa chodán nafta nuair a
+Faightear hidreacarbón A sa chodán nafta nuair a
 dhriogtar amhola go codánach le linn scagadh ola.
-(iii) Mínigh cén fáth a dtugtar alcáin sháithithe ar chomhdhúile A agus B.","images/chemistry/problem/6.png","níl ach naisc shingile / ní féidir imoibriúcháin suimiúcháin a dhéanamh /
-uasmhéid H i láthair",""
+Mínigh cén fáth a dtugtar alcáin sháithithe ar chomhdhúile A agus B.","níl ach naisc shingile / ní féidir imoibriúcháin suimiúcháin a dhéanamh /
+uasmhéid H i láthair",6.png,,,
 "Is féidir hidreacarbón A a thiontú ina hidreacarbón B mar a thaispeántar thíos.
-(b) Tiontaítear comhdhúil A ina comhdhúil B i bpróiseas a tharlaíonn i roinnt scaglann ola i ndiaidh an driogtha chodánaigh.
-(i) Ainmnigh an próiseas inar féidir comhdhúil A a thiontú ina comhdhúil B."," images/chemistry/problem/6.png","isiméiriú",""
+Tiontaítear comhdhúil A ina comhdhúil B i bpróiseas a tharlaíonn i roinnt scaglann ola i ndiaidh an driogtha chodánaigh.
+Ainmnigh an próiseas inar féidir comhdhúil A a thiontú ina comhdhúil B.",isiméiriú,6.png,,,
 "Is féidir hidreacarbón A a thiontú ina hidreacarbón B mar a thaispeántar thíos.
-(b) Tiontaítear comhdhúil A ina comhdhúil B i bpróiseas a tharlaíonn i roinnt scaglann ola i ndiaidh an driogtha chodánaigh.
-(ii) Cén fáth a ndéantar an tiontú seo?"," images/chemistry/problem/6.png","uimhir octáin a mhéadú / uath-adhaint a laghdú / dóchán níos míne /
-brainseáil a mhéadú",""
+Tiontaítear comhdhúil A ina comhdhúil B i bpróiseas a tharlaíonn i roinnt scaglann ola i ndiaidh an driogtha chodánaigh.
+Cén fáth a ndéantar an tiontú seo?","uimhir octáin a mhéadú / uath-adhaint a laghdú / dóchán níos míne /
+brainseáil a mhéadú",6.png,,,
 "Is féidir hidreacarbón A a thiontú ina hidreacarbón B mar a thaispeántar thíos.
-(c) Is féidir móilín de chomhdhúil A a chur faoi chnagadh catalach chun móilín de mheitiolprópán agus móilín de chomhdhúil C a tháirgeadh.
-(i) Tarraing an struchtúr móilíneach atá ag meitiolprópán, gach adamh agus gach nasc san áireamh."," images/chemistry/problem/6.png","[struchtúr cruinn meitiolprópán]","/images/chemistry/answer/6c_i.png"
-"Is féidir hidreacarbón A a thiontú ina hidreacarbón B mar a thaispeántar thíos.
-(c) Is féidir móilín de chomhdhúil A a chur faoi chnagadh catalach chun móilín de mheitiolprópán agus móilín de chomhdhúil C a tháirgeadh.
-Luaigh an t-ainm córasach IUPAC ar thrí isiméir a d’fhéadfadh a bheith ag comhdhúil C. I ngach cás, tarraing struchtúr móilíneach na hisiméire, gach adamh agus gach nasc san áireamh. ","","bút-1-éin // bút-2-éin // meitiolpróipéin","images/chemistry/answer/6c_ii.png"
-"Is féidir hidreacarbón A a thiontú ina hidreacarbón B mar a thaispeántar thíos.
-(d) Is féidir cur síos a dhéanamh ar dhóchán iomlán chomhdhúil A sa chothromóid chothromaithe cheimiceach seo: $CH_3(CH_2)_6CH_3(l) + 12\frac{1}{2}O_2(g) \rightarrow 8CO_2(g) + 9H_2O(l)$
-(i) Is é teas déanmhaíochta chomhdhúil A ná –250.3 kJ mol$^{-1}$. Is iad teasa déanmhaíochta dé-ocsaíde carbóin agus uisce faoi seach ná –393.5 kJ mol$^{-1}$ agus –285.8 kJ mol$^{-1}$. Ríomh teas dócháin chomhdhúil A.","","8(–393.5)                     [= –3148]    (2 [fachtóir iolraithe] + 1 [comhartha])
+Is féidir cur síos a dhéanamh ar dhóchán iomlán chomhdhúil A sa chothromóid chothromaithe cheimiceach seo: $CH_3(CH_2)_6CH_3(l) + 12\frac{1}{2}O_2(g) \rightarrow 8CO_2(g) + 9H_2O(l)$
+Is é teas déanmhaíochta chomhdhúil A ná –250.3 kJ mol$^{-1}$. Is iad teasa déanmhaíochta dé-ocsaíde carbóin agus uisce faoi seach ná –393.5 kJ mol$^{-1}$ agus –285.8 kJ mol$^{-1}$. Ríomh teas dócháin chomhdhúil A.","8(–393.5)                     [= –3148]    (2 [fachtóir iolraithe] + 1 [comhartha])
 + 9(–285.8)                   [= –2572.2]  (2 [fachtóir iolraithe] + 1 [comhartha])
 – (–250.3)                    [= +250.3]   (2 [fachtóir iolraithe] + 1 [comhartha])
-= –5469.9 (kJ mol$^{-1}$)",""
+= –5469.9 (kJ mol$^{-1}$)",,,,
 "Is féidir hidreacarbón A a thiontú ina hidreacarbón B mar a thaispeántar thíos.
-(d) Is féidir cur síos a dhéanamh ar dhóchán iomlán chomhdhúil A sa chothromóid chothromaithe cheimiceach seo: $CH_3(CH_2)_6CH_3(l) + 12\frac{1}{2}O_2(g) \rightarrow 8CO_2(g) + 9H_2O(l)$
-(ii) Is é teas déanmhaíochta chomhdhúil B ná –260.5 kJ mol$^{-1}$. Ríomh an teas imoibriúcháin do thiontú chomhdhúil A ina comhdhúil B.","","–260.5 – (–250.3) = –10.2 (kJ mol$^{-1}$)",""
-"Is féidir hidreacarbón A a thiontú ina hidreacarbón B mar a thaispeántar thíos.
-Nuair a meascadh 4.0 mól de ghal agus 1.0 mól d'aonocsaíd charbóin le chéile ag teocht T i soitheach a raibh toirt sheasta V ann, d'imoibrigh siad chun hidrigin agus dé-ocsaíd charbóin a tháirgeadh.
-Bunaíodh cothromaíocht ar a ndéantar cur síos sa chothromóid chothromaithe cheimiceach seo:
-$H_2O_{(g)} + CO_{(g)} \rightleftharpoons H_2_{(g)} + CO_{2(g)}$          $\Delta H = −38.8$ kJ mol$^{−1}$
-(a) (i) Mínigh cad is brí le cothromaíocht cheimiceach.","","tulimoibriú agus cúlimoibriú        // tiúchaintí
-tá rátaí cothroma acu                // tairiseach",""
+Is féidir cur síos a dhéanamh ar dhóchán iomlán chomhdhúil A sa chothromóid chothromaithe cheimiceach seo: $CH_3(CH_2)_6CH_3(l) + 12\frac{1}{2}O_2(g) \rightarrow 8CO_2(g) + 9H_2O(l)$
+Is é teas déanmhaíochta chomhdhúil B ná –260.5 kJ mol$^{-1}$. Ríomh an teas imoibriúcháin do thiontú chomhdhúil A ina comhdhúil B.",–260.5 – (–250.3) = –10.2 (kJ mol$^{-1}$),,,,
 "Is féidir hidreacarbón A a thiontú ina hidreacarbón B mar a thaispeántar thíos.
 Nuair a meascadh 4.0 mól de ghal agus 1.0 mól d'aonocsaíd charbóin le chéile ag teocht T i soitheach a raibh toirt sheasta V ann, d'imoibrigh siad chun hidrigin agus dé-ocsaíd charbóin a tháirgeadh.
 Bunaíodh cothromaíocht ar a ndéantar cur síos sa chothromóid chothromaithe cheimiceach seo:
 $H_2O_{(g)} + CO_{(g)} \rightleftharpoons H_2_{(g)} + CO_{2(g)}$          $\Delta H = −38.8$ kJ mol$^{−1}$
-(a) (ii) Scríobh slonn an tairisigh chothromaíochta $K_c$ don imoibriú seo.","","$\frac{[H_2][CO_2]}{[H_2O][CO]}$
-[bronn 3 mharc má úsáidtear lúibíní cruinne]",""
+Mínigh cad is brí le cothromaíocht cheimiceach.","tulimoibriú agus cúlimoibriú        // tiúchaintí
+tá rátaí cothroma acu                // tairiseach",,,,
 "Is féidir hidreacarbón A a thiontú ina hidreacarbón B mar a thaispeántar thíos.
 Nuair a meascadh 4.0 mól de ghal agus 1.0 mól d'aonocsaíd charbóin le chéile ag teocht T i soitheach a raibh toirt sheasta V ann, d'imoibrigh siad chun hidrigin agus dé-ocsaíd charbóin a tháirgeadh.
 Bunaíodh cothromaíocht ar a ndéantar cur síos sa chothromóid chothromaithe cheimiceach seo:
 $H_2O_{(g)} + CO_{(g)} \rightleftharpoons H_2_{(g)} + CO_{2(g)}$          $\Delta H = −38.8$ kJ mol$^{−1}$
-(a) (iii) Bhí 0.8 mól de ghás hidrigine sa soitheach agus é i gcothromaíocht ag teocht T. Ríomh luach $K_c$ don chothromaíocht ag an teocht seo.","","$[H_2O] = \frac{3.2}{V}$          // $[CO] = \frac{0.2}{V}$          // $[CO_2] = \frac{0.8}{V}$
+Scríobh slonn an tairisigh chothromaíochta $K_c$ don imoibriú seo.","$\frac{[H_2][CO_2]}{[H_2O][CO]}$
+[bronn 3 mharc má úsáidtear lúibíní cruinne]",,,,
+"Is féidir hidreacarbón A a thiontú ina hidreacarbón B mar a thaispeántar thíos.
+Nuair a meascadh 4.0 mól de ghal agus 1.0 mól d'aonocsaíd charbóin le chéile ag teocht T i soitheach a raibh toirt sheasta V ann, d'imoibrigh siad chun hidrigin agus dé-ocsaíd charbóin a tháirgeadh.
+Bunaíodh cothromaíocht ar a ndéantar cur síos sa chothromóid chothromaithe cheimiceach seo:
+$H_2O_{(g)} + CO_{(g)} \rightleftharpoons H_2_{(g)} + CO_{2(g)}$          $\Delta H = −38.8$ kJ mol$^{−1}$
+Bhí 0.8 mól de ghás hidrigine sa soitheach agus é i gcothromaíocht ag teocht T. Ríomh luach $K_c$ don chothromaíocht ag an teocht seo.","$[H_2O] = \frac{3.2}{V}$          // $[CO] = \frac{0.2}{V}$          // $[CO_2] = \frac{0.8}{V}$
 [glac le sloinn tiúchaintí a dhéanann nó nach ndéanann tagairt do V]
-$\frac{0.8 × 0.8}{3.2 × 0.2} = 1$",""
+$\frac{0.8 × 0.8}{3.2 × 0.2} = 1$",,,,
 "Is féidir hidreacarbón A a thiontú ina hidreacarbón B mar a thaispeántar thíos.
 Nuair a meascadh 4.0 mól de ghal agus 1.0 mól d'aonocsaíd charbóin le chéile ag teocht T i soitheach a raibh toirt sheasta V ann, d'imoibrigh siad chun hidrigin agus dé-ocsaíd charbóin a tháirgeadh.
 Bunaíodh cothromaíocht ar a ndéantar cur síos sa chothromóid chothromaithe cheimiceach seo:
 $H_2O_{(g)} + CO_{(g)} \rightleftharpoons H_2_{(g)} + CO_{2(g)}$          $\Delta H = −38.8$ kJ mol$^{−1}$
-(b) (i) Dá ndéanfaí an t-imoibriú céanna ag an teocht chéanna T sa soitheach céanna, ach le meascán tosaigh de 2.5 mól de ghal agus 2.5 mól d'aonocsaíd charbóin, ní athródh luach K$_c$ ón luach a ríomhadh in (a)(iii) thuas.
-Mínigh cén fáth nach dtiocfadh aon athrú ar luach K$_c$.","","níl athrú teochta ann / ní théann ach teocht i bhfeidhm ar K$_c$",""
+Dá ndéanfaí an t-imoibriú céanna ag an teocht chéanna T sa soitheach céanna, ach le meascán tosaigh de 2.5 mól de ghal agus 2.5 mól d'aonocsaíd charbóin, ní athródh luach K$_c$ ón luach a ríomhadh in (a)thuas.
+Mínigh cén fáth nach dtiocfadh aon athrú ar luach K$_c$.",níl athrú teochta ann / ní théann ach teocht i bhfeidhm ar K$_c$,,,,
 "Is féidir hidreacarbón A a thiontú ina hidreacarbón B mar a thaispeántar thíos.
 Nuair a meascadh 4.0 mól de ghal agus 1.0 mól d'aonocsaíd charbóin le chéile ag teocht T i soitheach a raibh toirt sheasta V ann, d'imoibrigh siad chun hidrigin agus dé-ocsaíd charbóin a tháirgeadh.
 Bunaíodh cothromaíocht ar a ndéantar cur síos sa chothromóid chothromaithe cheimiceach seo:
 $H_2O_{(g)} + CO_{(g)} \rightleftharpoons H_2_{(g)} + CO_{2(g)}$          $\Delta H = −38.8$ kJ mol$^{−1}$
-(b) (ii) Ríomh mais na dé-ocsaíde carbóin a bhí i láthair sa soitheach i gcothromaíocht sa chás a bhfuil cur síos déanta air in (b)(i).","","$H_2O_{(g)}$ + $CO_{(g)}$ ⇌ $H_{2(g)}$ + $CO_{2(g)}$
+Ríomh mais na dé-ocsaíde carbóin a bhí i láthair sa soitheach i gcothromaíocht sa chás a bhfuil cur síos déanta air in (b)(i).","$H_2O_{(g)}$ + $CO_{(g)}$ ⇌ $H_{2(g)}$ + $CO_{2(g)}$
 Tús                    2.5             2.5            0              0
 cothromaíocht   2.5 − x         2.5 − x          x              x
 [glac le sloinn tiúchaintí a dhéanann nó nach ndéanann tagairt do V]
 $\\frac{x^2}{(2.5 - x)^2} = 1$
 x = 1.25 (mól)
 $M_r = 44$
-mais = 55 g",""
+mais = 55 g",,,,
 "Is féidir hidreacarbón A a thiontú ina hidreacarbón B mar a thaispeántar thíos.
 Nuair a meascadh 4.0 mól de ghal agus 1.0 mól d'aonocsaíd charbóin le chéile ag teocht T i soitheach a raibh toirt sheasta V ann, d'imoibrigh siad chun hidrigin agus dé-ocsaíd charbóin a tháirgeadh.
 Bunaíodh cothromaíocht ar a ndéantar cur síos sa chothromóid chothromaithe cheimiceach seo:
 $H_2O_{(g)} + CO_{(g)} \rightleftharpoons H_2_{(g)} + CO_{2(g)}$          $\Delta H = −38.8$ kJ mol$^{−1}$
-(c) (i) Luaigh an tionchar, dá mba ann dó, ar an gcéatadán den ghal a thiontófaí go hidrigin dá ndéanfaí an brú sa soitheach a laghdú. Cosain do fhreagra.","","tionchar ar bith
-tá an líon céanna mól/móilíní (gáis) ar an dá thaobh",""
+Luaigh an tionchar, dá mba ann dó, ar an gcéatadán den ghal a thiontófaí go hidrigin dá ndéanfaí an brú sa soitheach a laghdú. Cosain do fhreagra.","tionchar ar bith
+tá an líon céanna mól/móilíní (gáis) ar an dá thaobh",,,,
 "Is féidir hidreacarbón A a thiontú ina hidreacarbón B mar a thaispeántar thíos.
 Nuair a meascadh 4.0 mól de ghal agus 1.0 mól d'aonocsaíd charbóin le chéile ag teocht T i soitheach a raibh toirt sheasta V ann, d'imoibrigh siad chun hidrigin agus dé-ocsaíd charbóin a tháirgeadh.
 Bunaíodh cothromaíocht ar a ndéantar cur síos sa chothromóid chothromaithe cheimiceach seo:
 $H_2O_{(g)} + CO_{(g)} \rightleftharpoons H_2_{(g)} + CO_{2(g)}$          $\Delta H = −38.8$ kJ mol$^{−1}$
-(c) (ii) Conas a d'fhéadfaí luach K$_c$ a mhéadú don imoibriú cothromaíochta seo? Cosain do fhreagra.","","teocht a ísliú
-imoibriú eisiteirmeach fabhraithe / tá an (tul)imoibriú eisiteirmeach",""
+Conas a d'fhéadfaí luach K$_c$ a mhéadú don imoibriú cothromaíochta seo? Cosain do fhreagra.","teocht a ísliú
+imoibriú eisiteirmeach fabhraithe / tá an (tul)imoibriú eisiteirmeach",,,,
 "Is féidir hidreacarbón A a thiontú ina hidreacarbón B mar a thaispeántar thíos.
 Nuair a meascadh 4.0 mól de ghal agus 1.0 mól d'aonocsaíd charbóin le chéile ag teocht T i soitheach a raibh toirt sheasta V ann, d'imoibrigh siad chun hidrigin agus dé-ocsaíd charbóin a tháirgeadh.
 Bunaíodh cothromaíocht ar a ndéantar cur síos sa chothromóid chothromaithe cheimiceach seo:
 $H_2O_{(g)} + CO_{(g)} \rightleftharpoons H_2_{(g)} + CO_{2(g)}$          $\Delta H = −38.8$ kJ mol$^{−1}$
-(c) (iii) I gcomhthéacs tionsclaíoch, is gnách go n-úsáidtear catalaíoch chun a chinntiú go mbunaítear cothromaíocht chomh tapa agus is féidir don imoibriú seo. Luaigh an tionchar a bheadh ar luach K$_c$ ag teocht T agus catalaíoch á úsáid. Cosain do fhreagra.","","tionchar ar bith
-tá an tionchar ar (ráta) an tulimoibriú agus an cúlimoibriú cothrom / níl ach tionchar ar ráta / ní bhíonn tionchar ag catalaíoch ach ar an am a thógtar chun an chothromaíocht a sroicheadh / níl ach tionchar ag T ar K$_c$",""
+I gcomhthéacs tionsclaíoch, is gnách go n-úsáidtear catalaíoch chun a chinntiú go mbunaítear cothromaíocht chomh tapa agus is féidir don imoibriú seo. Luaigh an tionchar a bheadh ar luach K$_c$ ag teocht T agus catalaíoch á úsáid. Cosain do fhreagra.","tionchar ar bith
+tá an tionchar ar (ráta) an tulimoibriú agus an cúlimoibriú cothrom / níl ach tionchar ar ráta / ní bhíonn tionchar ag catalaíoch ach ar an am a thógtar chun an chothromaíocht a sroicheadh / níl ach tionchar ag T ar K$_c$",,,,
 "Déan staidéar ar an scéim imoibriúcháin thíos
 agus freagair na ceisteanna a leanas.
-(a) Conas a athraíonn an gheoimeádracht timpeall ar na hadaimh charbóin le linn imoibriú A?","images/chemistry/problem/8.png","plánach / tríogánach / triantánach / 120°
-go teitriheildreach / 109°",""
-"Déan staidéar ar an scéim imoibriúcháin thíos
-agus freagair na ceisteanna a leanas.
-Tarlaíonn imoibriú B i láthair gás clóirín (Cl$_2$) agus solas ultraivialait.
-(b) (i) Ar chóir imoibriú B a rangú mar imoibriú suimiúcháin, mar imoibriú 
-malartaithe nó mar imoibriú díbeartha?","images/chemistry/problem/8.png","malartaithe",""
+Conas a athraíonn an gheoimeádracht timpeall ar na hadaimh charbóin le linn imoibriú A?","plánach / tríogánach / triantánach / 120°
+go teitriheildreach / 109°",8.png,,,
 "Déan staidéar ar an scéim imoibriúcháin thíos
 agus freagair na ceisteanna a leanas.
 Tarlaíonn imoibriú B i láthair gás clóirín (Cl$_2$) agus solas ultraivialait.
-(b) (ii) Déan cur síos ar an meicníocht d'imoibriú B.","images/chemistry/problem/8.png","(tionscnamh/homalú):      Cl$_2$ → 2Cl$^•$ i láthair solais/uv
+Ar chóir imoibriú B a rangú mar imoibriú suimiúcháin, mar imoibriú 
+malartaithe nó mar imoibriú díbeartha?",malartaithe,8.png,,,
+"Déan staidéar ar an scéim imoibriúcháin thíos
+agus freagair na ceisteanna a leanas.
+Tarlaíonn imoibriú B i láthair gás clóirín (Cl$_2$) agus solas ultraivialait.
+Déan cur síos ar an meicníocht d'imoibriú B.","(tionscnamh/homalú):      Cl$_2$ → 2Cl$^•$ i láthair solais/uv
 (forleathadh):              C$_2$H$_6$ + Cl$^•$ → $^•$C$_2$H$_5$ + HCl
 (forleathadh):              $^•$C$_2$H$_5$ + Cl$_2$ → C$_2$H$_5$Cl + Cl$^•$
 (críoch):                   e.g. $^•$C$_2$H$_5$ + Cl$^•$ → C$_2$H$_5$Cl
-[Nóta: níl * ag teastáil ar Cl ach tá sé ag teastáil ar $^•$C$_2$H$_5$]",""
+[Nóta: níl * ag teastáil ar Cl ach tá sé ag teastáil ar $^•$C$_2$H$_5$]",8.png,,,
 "Déan staidéar ar an scéim imoibriúcháin thíos
 agus freagair na ceisteanna a leanas.
 Tarlaíonn imoibriú B i láthair gás clóirín (Cl$_2$) agus solas ultraivialait.
-(b) (iii) Ní fhoirmítear ach cainníochtaí bideacha de C$_4$H$_{10}$ in imoibriú B. Mínigh conas ar
-fianaise é foirmiú C$_4$H$_{10}$ ar an meicníocht a bhfuil cur síos déanta uirthi.","images/chemistry/problem/8.png","léiríonn sé go bhfuil saorfhréamh eitile ann / 2$^•$C$_2$H$_5$ → C$_4$H$_{10}$",""
+Ní fhoirmítear ach cainníochtaí bideacha de C$_4$H$_{10}$ in imoibriú B. Mínigh conas ar
+fianaise é foirmiú C$_4$H$_{10}$ ar an meicníocht a bhfuil cur síos déanta uirthi.",léiríonn sé go bhfuil saorfhréamh eitile ann / 2$^•$C$_2$H$_5$ → C$_4$H$_{10}$,8.png,,,
 "Déan staidéar ar an scéim imoibriúcháin thíos
 agus freagair na ceisteanna a leanas.
 Tarlaíonn imoibriú B i láthair gás clóirín (Cl$_2$) agus solas ultraivialait.
-(b) (iv) Seachas foirmiú C$_4$H$_{10}$, luaigh píosa fianaise amháin eile den mheicníocht seo.","images/chemistry/problem/8.png","solas/uv ag teastáil don imoibriú (chun tosú) / móilíní táirge iolracha do gach fótón / 
-méadaíonn foinse saorfhréamh ráta an imoibrithe / Cl$_2$ → 2Cl i láthair solais/uv",""
+Seachas foirmiú C$_4$H$_{10}$, luaigh píosa fianaise amháin eile den mheicníocht seo.","solas/uv ag teastáil don imoibriú (chun tosú) / móilíní táirge iolracha do gach fótón / 
+méadaíonn foinse saorfhréamh ráta an imoibrithe / Cl$_2$ → 2Cl i láthair solais/uv",8.png,,,
 "Déan staidéar ar an scéim imoibriúcháin thíos
 agus freagair na ceisteanna a leanas.
-(c) Sintéisítear polaiviniolclóiríd (PVC) i dtrí chéim ó C₂H₄. Is iad na céimeanna seo imoibriú
+Sintéisítear polaiviniolclóiríd (PVC) i dtrí chéim ó C₂H₄. Is iad na céimeanna seo imoibriú
 suimiúcháin chun comhdhúil X a fhoirmiú, imoibriú díbeartha ansin chun comhdhúil Y a
 fhoirmiú agus ar deireadh polaiméiriúchán Y chun PVC a fhoirmiú, mar atá leagtha amach sa
 scéim imoibriúcháin thuas.
-(i) Luaigh an t-ainm córasach IUPAC ar chomhdhúil X.","images/chemistry/problem/8.png","1,2-déchlóireatán",""
+Luaigh an t-ainm córasach IUPAC ar chomhdhúil X.","1,2-déchlóireatán",8.png,,,
 "Déan staidéar ar an scéim imoibriúcháin thíos
 agus freagair na ceisteanna a leanas.
-(c) Sintéisítear polaiviniolclóiríd (PVC) i dtrí chéim ó C₂H₄. Is iad na céimeanna seo imoibriú
+Sintéisítear polaiviniolclóiríd (PVC) i dtrí chéim ó C₂H₄. Is iad na céimeanna seo imoibriú
 suimiúcháin chun comhdhúil X a fhoirmiú, imoibriú díbeartha ansin chun comhdhúil Y a
 fhoirmiú agus ar deireadh polaiméiriúchán Y chun PVC a fhoirmiú, mar atá leagtha amach sa
 scéim imoibriúcháin thuas.
-(ii) Ainmnigh an chomhdhúil neamhorgánach a dhíbrítar nuair a thiontaítear X ina Y.","images/chemistry/problem/8.png","clóiríd hidrigine           [nó glac le HCl nó aigéad hidreaclórach]",""
-"Déan staidéar ar an scéim imoibriúcháin thíos
-agus freagair na ceisteanna a leanas.
-(c) Sintéisítear polaiviniolclóiríd (PVC) i dtrí chéim ó C₂H₄. Is iad na céimeanna seo imoibriú
-suimiúcháin chun comhdhúil X a fhoirmiú, imoibriú díbeartha ansin chun comhdhúil Y a
-fhoirmiú agus ar deireadh polaiméiriúchán Y chun PVC a fhoirmiú, mar atá leagtha amach sa
-scéim imoibriúcháin thuas.
-(iii) Tarraing an struchtúr ag móilín de X ina dtaispeánfar a chuid adamh ar fad agus a chuid
-nasc ar fad agus cuir in iúl go soiléir cé acu dá chuid nasc a bhristear san imoibriú
-díbeartha.","images/chemistry/problem/8.png","[struchtúr 1,2-déchlóireatán le nascanna soiléir]
-nasc amháin C-Cl curtha in iúl agus nasc C-H amháin ar an gcarbón eile curtha in iúl","images/chemistry/answer/8c_iii.png"
-"Déan staidéar ar an scéim imoibriúcháin thíos
-agus freagair na ceisteanna a leanas.
-(c) Sintéisítear polaiviniolclóiríd (PVC) i dtrí chéim ó C₂H₄. Is iad na céimeanna seo imoibriú
-suimiúcháin chun comhdhúil X a fhoirmiú, imoibriú díbeartha ansin chun comhdhúil Y a
-fhoirmiú agus ar deireadh polaiméiriúchán Y chun PVC a fhoirmiú, mar atá leagtha amach sa
-scéim imoibriúcháin thuas.
-(iv) Tarraing an struchtúr ag móilín de Y ina dtaispeánfar a chuid adamh ar fad agus a chuid
-nasc ar fad agus cuir in iúl go soiléir cé acu dá chuid nasc a fhoirmítear san imoibriú
-díbeartha.","images/chemistry/problem/8.png","[struchtúr clóireitiléine le nascanna soiléir]
-(nasc amháin de) C=C nasc dúbailte curtha in iúl","images/chemistry/answer/8c_iv.png"
-"Déan staidéar ar an scéim imoibriúcháin thíos
-agus freagair na ceisteanna a leanas.
-(c) Sintéisítear polaiviniolclóiríd (PVC) i dtrí chéim ó C₂H₄. Is iad na céimeanna seo imoibriú
-suimiúcháin chun comhdhúil X a fhoirmiú, imoibriú díbeartha ansin chun comhdhúil Y a
-fhoirmiú agus ar deireadh polaiméiriúchán Y chun PVC a fhoirmiú, mar atá leagtha amach sa
-scéim imoibriúcháin thuas.
-(v) Tarraing dhá aonad athfhillteacha den pholaiméir PVC.","images/chemistry/problem/8.png","[struchtúr dhá aonad athfhillteacha PVC le nascanna soiléir]","images/chemistry/answer/8c_v.png"
- "9. (a) (i) Mínigh cén fáth a mbreathnaitear ar amóinia (NH$_3$) mar bhun de réir theoiric Brønsted-Lowry ach nach mbreathnaitear uirthi mar bhun de réir theoiric Arrhenius.","","is glacóir prótón é
-ní dhíthiomsaíonn sé in uisce chun OH$^-$ a tháirgeadh",""
-"9. (a) Déantar cur síos ar fhéinianúchán an leachta amóinia sa chothromóid chothromaithe
+Ainmnigh an chomhdhúil neamhorgánach a dhíbrítar nuair a thiontaítear X ina Y.",clóiríd hidrigine           [nó glac le HCl nó aigéad hidreaclórach],8.png,,,
+" ""Mínigh cén fáth a mbreathnaitear ar amóinia (NH$_3$) mar bhun de réir theoiric Brønsted-Lowry ach nach mbreathnaitear uirthi mar bhun de réir theoiric Arrhenius.""","is glacóir prótón é
+ní dhíthiomsaíonn sé in uisce chun OH$^-$ a tháirgeadh",,,,
+"Déantar cur síos ar fhéinianúchán an leachta amóinia sa chothromóid chothromaithe
 cheimiceach seo:
 NH$_3$ + NH$_3$ $\rightleftharpoons$ NH$_4^+$ + NH$_2^-$
-(ii) Sainaithin aigéad comhchuingeach NH$_3$ sa chothromaíocht seo.","","NH$_4^+$",""
-"9. (a) Déantar cur síos ar fhéinianúchán an leachta amóinia sa chothromóid chothromaithe
+Sainaithin aigéad comhchuingeach NH$_3$ sa chothromaíocht seo.",NH$_4^+$,,,,
+"Déantar cur síos ar fhéinianúchán an leachta amóinia sa chothromóid chothromaithe
 cheimiceach seo:
 NH$_3$ + NH$_3$ $\rightleftharpoons$ NH$_4^+$ + NH$_2^-$
-(iii) Sainaithin bun comhchuingeach NH$_3$ sa chothromaíocht seo.","","NH$_2^-$",""
-"9. (b) (i) Sainmhínigh pH.","","$-\log_{10}$
-[H$^+$]",""
-"9. (b) (ii) Is é an pH atá ag uisce íon ná 7 ag 25 °C. Mínigh cén fáth nach é 7 an pH atá ag uisce
-íon ag 50 °C.","","athraíonn $K_w$ le T / athraíonn [H$^+$] le T / athraíonn céim díthiomsaithe le T",""
-"9. (b) (iii) Caolaíodh sampla 10 cm$^3$ d'aigéad láidir aonbhunata X trína mheascadh le huisce
-dí-ianaithe go dtí go raibh toirt nua 100 cm$^3$ ann. Cad é an t-athrú ar an pH?","","méadú 1                                   [glac le: athrú 1]",""
-"9. (b) (iv) Tá tairiseach díthiomsúcháin aigéid $K_a = 1.8 \times 10^{-5}$ ag aigéad lag aonbhunata Y.
-Tá pH 2.98 ag sampla d'aigéad Y. Ríomh tiúchan an tsampla.","","pH = $-\log_{10}(\sqrt{K_a M_{aigéad}})$ / [H$^+$] = $\sqrt{K_a M_{aigéad}}$ / [H$^+$] = $10^{-\text{pH}}$ / $\sqrt{K_a M_{aigéad}}$ = 0.00105
+Sainaithin bun comhchuingeach NH$_3$ sa chothromaíocht seo.",NH$_2^-$,,,,
+Sainmhínigh pH.,"$-\log_{10}$
+[H$^+$]",,,,
+"Is é an pH atá ag uisce íon ná 7 ag 25 °C. Mínigh cén fáth nach é 7 an pH atá ag uisce
+íon ag 50 °C.",athraíonn $K_w$ le T / athraíonn [H$^+$] le T / athraíonn céim díthiomsaithe le T,,,,
+"Caolaíodh sampla 10 cm$^3$ d'aigéad láidir aonbhunata X trína mheascadh le huisce
+dí-ianaithe go dtí go raibh toirt nua 100 cm$^3$ ann. Cad é an t-athrú ar an pH?",méadú 1                                   [glac le: athrú 1],,,,
+"Tá tairiseach díthiomsúcháin aigéid $K_a = 1.8 \times 10^{-5}$ ag aigéad lag aonbhunata Y.
+Tá pH 2.98 ag sampla d'aigéad Y. Ríomh tiúchan an tsampla.","pH = $-\log_{10}(\sqrt{K_a M_{aigéad}})$ / [H$^+$] = $\sqrt{K_a M_{aigéad}}$ / [H$^+$] = $10^{-\text{pH}}$ / $\sqrt{K_a M_{aigéad}}$ = 0.00105
 $K_a M_{aigéad}$ = 0.0000011
-[Y] = 0.061 mol L$^{-1}$",""
-"9. (c) Is féidir táscaire áirithe aigéid/buin, atá intuaslagtha in uisce, a léiriú mar HIn. Déantar cur síos
+[Y] = 0.061 mol L$^{-1}$",,,,
+"Is féidir táscaire áirithe aigéid/buin, atá intuaslagtha in uisce, a léiriú mar HIn. Déantar cur síos
 ar a dhíthiomsúchán in uisce sa chothromóid chothromaithe cheimiceach seo:
 HIn $\rightleftharpoons$ H$^+$ + In$^-$
 gorm          glas
 Tá dath gorm ar an HIn neamh-dhíthiomsaithe. Tá dath glas ar an ian In$^-$.
 Cén t-athrú datha a bhreathnaítear nuair a chuirtear cúpla braon de thuaslagán HIn le 25 cm$^3$
-de thuaslagán 0.1 M de hiodrocsaíd photaisiam (KOH)? Cosain do fhreagra.","","gorm go glas / (tagann) dath glas air
-laghdaíonn [H$^+$] / bogann an t-imoibriú ar dheis / imoibríonn an córas chun strus a laghdú",""
-"9. (d) Toirtmheasctar aigéad Z le tuaslagán de charbónáit sóidiam
+de thuaslagán 0.1 M de hiodrocsaíd photaisiam (KOH)? Cosain do fhreagra.","gorm go glas / (tagann) dath glas air
+laghdaíonn [H$^+$] / bogann an t-imoibriú ar dheis / imoibríonn an córas chun strus a laghdú",,,,
+"Toirtmheasctar aigéad Z le tuaslagán de charbónáit sóidiam
 (Na$_2$CO$_3$). Taispeántar an cuar toirtmheascthar sa léaráid.
-(i) Cén fhianaise atá ann gur aigéad láidir é aigéad Z?","images/chemistry/problem/9d.png","tá an pH gar do 0 (nuair atá sé íon) / bun lag agus ceartingear fada
-[glac le pH < 1 nó pH an-íseal]",""
-"9. (d) Toirtmheasctar aigéad Z le tuaslagán de charbónáit sóidiam
+Cén fhianaise atá ann gur aigéad láidir é aigéad Z?","tá an pH gar do 0 (nuair atá sé íon) / bun lag agus ceartingear fada
+[glac le pH < 1 nó pH an-íseal]",9d.png,,,
+"Toirtmheasctar aigéad Z le tuaslagán de charbónáit sóidiam
 (Na$_2$CO$_3$). Taispeántar an cuar toirtmheascthar sa léaráid.
 Úsáideadh táscaire ag a bhfuil raon pH 8 go 10 sa toirtmheascadh seo.
-(ii) An mbeifaá ag súil go dtíocfadh athrú datha ar an táscaire roimh
+An mbeifaá ag súil go dtíocfadh athrú datha ar an táscaire roimh
 an bpointe neodrúcháin, tar éis an phointe neodrúcháin nó
-díreach ag an bpointe neodrúcháin? Cosain do fhreagra.","images/chemistry/problem/9d.png","tar éis
-críochnaíonn an chuid cheartingearach den ghraf roimh 10",""
-"10. (a) (i) Sainmhínigh ocsaidiú i dtéarmaí traschur leictreon.","","caillteanas",""
-"10. (a) (ii) Luaigh uimhir ocsaidiúcháin fosfair in P$_4$ agus PO$_4^{3-}$.","","0, +5",""
-"10. (a) (iii) Luaigh uimhir ocsaidiúcháin nitrigine in NO$_3^-$ agus NO.","","+5, +2",""
-"10. (a) (iv) Uaidh sin, nó ar shlí eile, cothromaigh an chothromóid cheimiceach:
-P$_4$ + NO$_3^-$ + H$_2$O → PO$_4^{3-}$ + NO + H$^+$","","P: 5    [luaite/intuigthe]                [glac le huimhir atá i gcomhréir le (ii)]
+díreach ag an bpointe neodrúcháin? Cosain do fhreagra.","tar éis
+críochnaíonn an chuid cheartingearach den ghraf roimh 10",9d.png,,,
+Sainmhínigh ocsaidiú i dtéarmaí traschur leictreon.,caillteanas,,,,
+Luaigh uimhir ocsaidiúcháin fosfair in P$_4$ agus PO$_4^{3-}$.,"0, +5",,,,
+Luaigh uimhir ocsaidiúcháin nitrigine in NO$_3^-$ agus NO.,"+5, +2",,,,
+"Uaidh sin, nó ar shlí eile, cothromaigh an chothromóid cheimiceach:
+P$_4$ + NO$_3^-$ + H$_2$O → PO$_4^{3-}$ + NO + H$^+$","P: 5    [luaite/intuigthe]                [glac le huimhir atá i gcomhréir le (ii)]
 N: 3    [luaite/intuigthe]                [glac le huimhir atá i gcomhréir le (iii)]
-3P$_4$ + 20NO$_3^-$ + 8H$_2$O → 12PO$_4^{3-}$ + 20NO + 16H$^+$",""
-"10. (a) (v) Sainaithin an dí-ocsaideoir san imoibriú thuas.","","P$_4$",""
-"10. (b) Aimsíodh na dúile raidiam (Ra) agus polóiniam (Po) ar bhonn a gcuid radaighníomhaíochta
+3P$_4$ + 20NO$_3^-$ + 8H$_2$O → 12PO$_4^{3-}$ + 20NO + 16H$^+$",,,,
+Sainaithin an dí-ocsaideoir san imoibriú thuas.,P$_4$,,,,
+"Aimsíodh na dúile raidiam (Ra) agus polóiniam (Po) ar bhonn a gcuid radaighníomhaíochta
 mar thoradh ar an obair a rinne Marie agus Pierre Curie. Sa bhliain 1902, fuair siad 0.1 g de
 RaCl$_2$ íon as tonna picbhleinde, an t-ábhar atá fágtha tar éis d'úráiniam a bheith eastósctha
 as a mhian. Sa bhliain 1910, d'aonraigh Marie Curie raidiam íon. Níor éirigh léi polóiniam
 íon a aonrú, áfach, go pointe áirithe mar gheall ar a leathré ghairid.
-(i) Cad is brí le radaighníomhaíocht?","","discaoileadh (spontáineach) de núicléas le astú radaíocht",""
-"10. (b) (ii) Cad is brí le leathré raidiseatóip?","","an t-am a nglacann sé chun leathshampla a mheath / an t-am a nglacann sé chun
-gníomhaíocht a laghdú faoina leath",""
-"10. (b) Léirítear alfa-mheath polóiniam–210 sa chothromóid núicléach thíos.
+Cad is brí le radaighníomhaíocht?",discaoileadh (spontáineach) de núicléas le astú radaíocht,,,,
+Cad is brí le leathré raidiseatóip?,"an t-am a nglacann sé chun leathshampla a mheath / an t-am a nglacann sé chun
+gníomhaíocht a laghdú faoina leath",,,,
+"Léirítear alfa-mheath polóiniam–210 sa chothromóid núicléach thíos.
 $_{84}^{210}Po \rightarrow _{Y}^{X}Z + _2^4\alpha$
-(iii) Sainaithin an uimhir X.","","206",""
-"10. (b) Léirítear alfa-mheath polóiniam–210 sa chothromóid núicléach thíos.
+Sainaithin an uimhir X.",206,,,,
+"Léirítear alfa-mheath polóiniam–210 sa chothromóid núicléach thíos.
 $_{84}^{210}Po \rightarrow _{Y}^{X}Z + _2^4\alpha$
-(iv) Sainaithin an uimhir Y.","","82",""
-"10. (b) Léirítear alfa-mheath polóiniam–210 sa chothromóid núicléach thíos.
+Sainaithin an uimhir Y.",82,,,,
+"Léirítear alfa-mheath polóiniam–210 sa chothromóid núicléach thíos.
 $_{84}^{210}Po \rightarrow _{Y}^{X}Z + _2^4\alpha$
-(v) Sainaithin an dúil a léirítear mar Z.","","luaidhe / Pb",""
-"10. (b) Léirítear alfa-mheath polóiniam–210 sa chothromóid núicléach thíos.
+Sainaithin an dúil a léirítear mar Z.",luaidhe / Pb,,,,
+"Léirítear alfa-mheath polóiniam–210 sa chothromóid núicléach thíos.
 $_{84}^{210}Po \rightarrow _{Y}^{X}Z + _2^4\alpha$
-(vi) Sainaithin an dá raidiseatóp de chuid na dtriathghás a fhoirmítear nuair a tharlaíonn
-alfa-mheath i núicléas raidiam–226.","","radón/Rn, héiliam/He",""
-"10. (b) Léirítear alfa-mheath polóiniam–210 sa chothromóid núicléach thíos.
+Sainaithin an dá raidiseatóp de chuid na dtriathghás a fhoirmítear nuair a tharlaíonn
+alfa-mheath i núicléas raidiam–226.","radón/Rn, héiliam/He",,,,
+"Léirítear alfa-mheath polóiniam–210 sa chothromóid núicléach thíos.
 $_{84}^{210}Po \rightarrow _{Y}^{X}Z + _2^4\alpha$
-(vii) Ríomh an uasmhais raidiam a d'fhéadfaí a aonrú ó 0.1 g de RaCl$_2$.","","$M_r = 297$
-$\frac{226}{297} × 0.1 = 0.076$ (g)",""
-"10. (c) Bíonn baint ag roinnt imoibrithe difriúla a tharlaíonn i láthair aeir thais le meirg a chur ar
+Ríomh an uasmhais raidiam a d'fhéadfaí a aonrú ó 0.1 g de RaCl$_2$.","$M_r = 297$
+$\frac{226}{297} × 0.1 = 0.076$ (g)",,,,
+"Bíonn baint ag roinnt imoibrithe difriúla a tharlaíonn i láthair aeir thais le meirg a chur ar
 iarann. Tagann méadú ar mhais earra iarainn agus ar a thoirt fhoriomlán mar thoradh ar na
 himoibrithe meirgithe seo a bheith ag tarlú ar dhromchla an earra. Déantar cur síos ar
 cheann de na himoibrithe sa chothromóid chothromaithe cheimiceach a leanas:
 4Fe + 3O$_2$ → 2Fe$_2$O$_3$
 Tháinig méadú de 1.92 g ar mhais earra iarainn mar thoradh ar an imoibriú seo.
-(i) Ríomh toirt an gháis ocsaigine, agus í á tomhas ag t.b.c., a d'imoibrigh leis an iarann.","","$M_r = 32$
+Ríomh toirt an gháis ocsaigine, agus í á tomhas ag t.b.c., a d'imoibrigh leis an iarann.","$M_r = 32$
 $\frac{1.92}{32} = 0.06$ (mól de O$_2$)
-$0.06 × 22.4 = 1.34$ L          // $\frac{0.06 × 8.3 × 273}{101325} = 0.00134$ m$^3$",""
-"10. (c) Bíonn baint ag roinnt imoibrithe difriúla a tharlaíonn i láthair aeir thais le meirg a chur ar
+$0.06 × 22.4 = 1.34$ L          // $\frac{0.06 × 8.3 × 273}{101325} = 0.00134$ m$^3$",,,,
+"Bíonn baint ag roinnt imoibrithe difriúla a tharlaíonn i láthair aeir thais le meirg a chur ar
 iarann. Tagann méadú ar mhais earra iarainn agus ar a thoirt fhoriomlán mar thoradh ar na
 himoibrithe meirgithe seo a bheith ag tarlú ar dhromchla an earra. Déantar cur síos ar
 cheann de na himoibrithe sa chothromóid chothromaithe cheimiceach a leanas:
 4Fe + 3O$_2$ → 2Fe$_2$O$_3$
 Tháinig méadú de 1.92 g ar mhais earra iarainn mar thoradh ar an imoibriú seo.
-(ii) Ríomh an mhais de Fe$_2$O$_3$ a táirgeadh.","","$M_r = 160$                                    // $\frac{0.06}{3} × 4 = 0.08$ (mól de Fe)
+Ríomh an mhais de Fe$_2$O$_3$ a táirgeadh.","$M_r = 160$                                    // $\frac{0.06}{3} × 4 = 0.08$ (mól de Fe)
 $\frac{0.06}{3} × 2 = 0.04$ (mól de Fe$_2$O$_3$)     // $0.08 × 56 = 4.48$ (g de Fe)
-$0.04 × 160 = 6.4$ (g)                      // $4.48 + 1.92 = 6.4$ (g)",""
-"10. (c) Bíonn baint ag roinnt imoibrithe difriúla a tharlaíonn i láthair aeir thais le meirg a chur ar
+$0.04 × 160 = 6.4$ (g)                      // $4.48 + 1.92 = 6.4$ (g)",,,,
+"Bíonn baint ag roinnt imoibrithe difriúla a tharlaíonn i láthair aeir thais le meirg a chur ar
 iarann. Tagann méadú ar mhais earra iarainn agus ar a thoirt fhoriomlán mar thoradh ar na
 himoibrithe meirgithe seo a bheith ag tarlú ar dhromchla an earra. Déantar cur síos ar
 cheann de na himoibrithe sa chothromóid chothromaithe cheimiceach a leanas:
 4Fe + 3O$_2$ → 2Fe$_2$O$_3$
 Tháinig méadú de 1.92 g ar mhais earra iarainn mar thoradh ar an imoibriú seo.
-(iii) Ríomh líon na n-adamh d'iarann a d'imoibrigh.","","0.08 (mól de Fe)
-$0.08 × 6.0 × 10^{23} = 4.8 × 10^{22}$ (adamh)",""
-"10. (c) Bíonn baint ag roinnt imoibrithe difriúla a tharlaíonn i láthair aeir thais le meirg a chur ar
+Ríomh líon na n-adamh d'iarann a d'imoibrigh.","0.08 (mól de Fe)
+$0.08 × 6.0 × 10^{23} = 4.8 × 10^{22}$ (adamh)",,,,
+"Bíonn baint ag roinnt imoibrithe difriúla a tharlaíonn i láthair aeir thais le meirg a chur ar
 iarann. Tagann méadú ar mhais earra iarainn agus ar a thoirt fhoriomlán mar thoradh ar na
 himoibrithe meirgithe seo a bheith ag tarlú ar dhromchla an earra. Déantar cur síos ar
 cheann de na himoibrithe sa chothromóid chothromaithe cheimiceach a leanas:
 4Fe + 3O$_2$ → 2Fe$_2$O$_3$
 Tháinig méadú de 1.92 g ar mhais earra iarainn mar thoradh ar an imoibriú seo.
-(iv) Ríomh an méadú ar thoirt an earra iarainn, ag glacadh leis gurb é 7.86 g cm$^{-3}$ dlús Fe
-agus gurb é 5.25 g cm$^{-3}$ dlús Fe$_2$O$_3$.","","Fe:         $0.08 × 56 = 4.48$ (g)
+Ríomh an méadú ar thoirt an earra iarainn, ag glacadh leis gurb é 7.86 g cm$^{-3}$ dlús Fe
+agus gurb é 5.25 g cm$^{-3}$ dlús Fe$_2$O$_3$.","Fe:         $0.08 × 56 = 4.48$ (g)
               $4.48 ÷ 7.86 = 0.57$ (cm$^3$)
 Fe$_2$O$_3$:    $6.4 ÷ 5.25 = 1.22$ (cm$^3$)
-Δ = $1.22 − 0.57 = 0.65$ (cm$^3$)",""
-"11. (a) Is gás gan dath é trífhluairíd bhóróin (BF$_3$) a bhfuil boladh gránna uaidh.
-(i) Tarraing léaráid phoncanna agus cros chun an t-eagar ar na fiúsleictreoini i móilín de BF$_3$ 
-a thaispeáint.","","[bronn 2 mharc má fhágtár dís aonair de leictreoín ar lár ó F(s)]","images/chemistry/answer/11a_i.png"
-"11. (a) Is gás gan dath é trífhluairíd bhóróin (BF$_3$) a bhfuil boladh gránna uaidh.
-(ii) An mbeifaá ag súil go mbeadh nasc B–F polach nó neamhpholach? Cosain do fhreagra.","","polach
-difríocht leictridiúltachta (mhór)",""
-"11. (a) Is gás gan dath é trífhluairíd bhóróin (BF$_3$) a bhfuil boladh gránna uaidh.
-(iii) An mbeifaá ag súil go mbeadh móilín BF$_3$ polach nó neamhpholach? Cosain do fhreagra.","","neamhpholach
-siméadracht / níl déphol glan ann / forluíonn láir +ve agus –ve / níl dís aonair ag B",""
-"11. (a) Is gás gan dath é trífhluairíd bhóróin (BF$_3$) a bhfuil boladh gránna uaidh.
-(iv) Is gás gan dath, inlasta agus thar a bheith tocsaineach é fosfán (PH$_3$) a úsáidtear i 
-dtionscal na leathsheoltóirí. Déan an cruth ar mhóilín PH$_3$ a thuar. Mínigh an tuar.","","pirimidiúil / teitriheadrán dichumtha / léaráid cheart tarraingthe
-trí dhís nascacha agus dís aonair amháin (ar P)",""
-"11. (a) Is gás gan dath é trífhluairíd bhóróin (BF$_3$) a bhfuil boladh gránna uaidh.
-(v) Ní bhíonn ceachtar ceann de BF$_3$ ná PH$_3$ an-intuaslagtha in uisce. Mínigh an fáth.","","neamhpholach / níl mórán nascadh hidrigine ann / 
-níl mórán fórsaí idirmhóilleacha ann",""
-"11. (b) Taispeántar sa tábla thíos na comhdhúile A go E, áit a léirítear an grúpa CH$_3$ le R agus an grúpa
+Δ = $1.22 − 0.57 = 0.65$ (cm$^3$)",,,,
+"Is gás gan dath é trífhluairíd bhóróin (BF$_3$) a bhfuil boladh gránna uaidh.
+An mbeifaá ag súil go mbeadh nasc B–F polach nó neamhpholach? Cosain do fhreagra.","polach
+difríocht leictridiúltachta (mhór)",,,,
+"Is gás gan dath é trífhluairíd bhóróin (BF$_3$) a bhfuil boladh gránna uaidh.
+An mbeifaá ag súil go mbeadh móilín BF$_3$ polach nó neamhpholach? Cosain do fhreagra.","neamhpholach
+siméadracht / níl déphol glan ann / forluíonn láir +ve agus –ve / níl dís aonair ag B",,,,
+"Is gás gan dath é trífhluairíd bhóróin (BF$_3$) a bhfuil boladh gránna uaidh.
+Is gás gan dath, inlasta agus thar a bheith tocsaineach é fosfán (PH$_3$) a úsáidtear i 
+dtionscal na leathsheoltóirí. Déan an cruth ar mhóilín PH$_3$ a thuar. Mínigh an tuar.","pirimidiúil / teitriheadrán dichumtha / léaráid cheart tarraingthe
+trí dhís nascacha agus dís aonair amháin (ar P)",,,,
+"Is gás gan dath é trífhluairíd bhóróin (BF$_3$) a bhfuil boladh gránna uaidh.
+Ní bhíonn ceachtar ceann de BF$_3$ ná PH$_3$ an-intuaslagtha in uisce. Mínigh an fáth.","neamhpholach / níl mórán nascadh hidrigine ann / 
+níl mórán fórsaí idirmhóilleacha ann",,,,
+"Taispeántar sa tábla thíos na comhdhúile A go E, áit a léirítear an grúpa CH$_3$ le R agus an grúpa
 C$_2$H$_5$ le R'.
-(i) Luaigh na hainmneacha córasacha IUPAC ar na comhdhúile A, B, C, D agus E.","images/chemistry/problem/11b","A:    2,2-déchlóirbútán
+Luaigh na hainmneacha córasacha IUPAC ar na comhdhúile A, B, C, D agus E.","A:    2,2-déchlóirbútán
 B:    própán-2-ól
 C:    bútán-2-ól
 D:    aigéad própánóch
-E:    eatánóáit mheitile",""
-"11. (b) Taispeántar sa tábla thíos na comhdhúile A go E, áit a léirítear an grúpa CH$_3$ le R agus an grúpa
+E:    eatánóáit mheitile",11b.png,,,
+"Taispeántar sa tábla thíos na comhdhúile A go E, áit a léirítear an grúpa CH$_3$ le R agus an grúpa
 C$_2$H$_5$ le R'.
- (ii) Rangaigh comhdhúil B mar alcól príomhúil nó mar alcól tánaisteach. Cosain do fhreagra.","images/chemistry/problem/11b","tánaisteach
-tá OH nasctha le carbón atá nasctha le dhá charbón eile",""
-"11. (b) Taispeántar sa tábla thíos na comhdhúile A go E, áit a léirítear an grúpa CH$_3$ le R agus an grúpa
+ Rangaigh comhdhúil B mar alcól príomhúil nó mar alcól tánaisteach. Cosain do fhreagra.","tánaisteach
+tá OH nasctha le carbón atá nasctha le dhá charbón eile",11b.png,,,
+"Taispeántar sa tábla thíos na comhdhúile A go E, áit a léirítear an grúpa CH$_3$ le R agus an grúpa
 C$_2$H$_5$ le R'.
-(iii) An isiméirí struchtúracha iad comhdhúile D agus E? Cosain do fhreagra.","images/chemistry/problem/11b","tá
-an méid chéanna de gach cineál adhamh / an fhoirmle mhóilíneach chéanna acu",""
-"11. (c) Iain mhiotail thuaslagtha áirithe is cúis le cruas uisce.
-(i) Scríobh na foirmlí ceimiceacha don dá ian miotail is mó is cúis le cruas agus iad
-tuaslagtha in uisce.","","Ca$^{2+}$, Mg$^{2+}$                        [luachtanna de dhíth]",""
-"11. (c) Iain mhiotail thuaslagtha áirithe is cúis le cruas uisce.
-(ii) Sainaithin ainian a bhíonn tuaslagtha go minic in uisce i dteannta na n-ian miotail seo
-nuair is cruas neamhbhuan a bhíonn i gceist.","","hidrigincharbónáit / décharbónáit",""
-"11. (c) Iain mhiotail thuaslagtha áirithe is cúis le cruas uisce.
-(iii) Sainaithin ainian a bhíonn tuaslagtha go minic in uisce i dteannta na n-ian miotail seo
-nuair is cruas buan a bhíonn i gceist.","","sulfáit / clóirid",""
-"11. (c) Nuair a fhiuchtar uisce crua i gciteal, déantar screamh aoil a charnadh ar an eilimint téimh.
-(iv) Scríobh cothromóid chothromaithe cheimiceach chun cur síos a dhéanamh ar fhoirmiú
-screimhe aoil nuair a dhéantar uisce crua a fhiuchadh.","","Ca(HCO$_3$)$_2$ → CaCO$_3$ + CO$_2$ + H$_2$O",""
-"11. (c) Is féidir uisce crua a bhogadh trí é a dhí-ianú.
-(v) Mínigh conas is féidir uisce a dhí-ianú agus úsáid á baint as roisíní ianmhalartaithe.","","déantar malartú ar na hiain le haghaidh H$^+$agus OH$^-$",""
-"11. (c) Is féidir uisce crua a bhogadh trí é a dhí-ianú.
-(vi) Mínigh cén fáth nach bhfuil uisce dí-ianaithe chomh hion le huisce driogtha.","","d'fhéadfadh gáis thuaslagtha / d'fhéadfadh ábhar neamhianach a bheith ann / 
+An isiméirí struchtúracha iad comhdhúile D agus E? Cosain do fhreagra.","tá
+an méid chéanna de gach cineál adhamh / an fhoirmle mhóilíneach chéanna acu",11b.png,,,
+"Iain mhiotail thuaslagtha áirithe is cúis le cruas uisce.
+Scríobh na foirmlí ceimiceacha don dá ian miotail is mó is cúis le cruas agus iad
+tuaslagtha in uisce.","Ca$^{2+}$, Mg$^{2+}$                        [luachtanna de dhíth]",,,,
+"Iain mhiotail thuaslagtha áirithe is cúis le cruas uisce.
+Sainaithin ainian a bhíonn tuaslagtha go minic in uisce i dteannta na n-ian miotail seo
+nuair is cruas neamhbhuan a bhíonn i gceist.",hidrigincharbónáit / décharbónáit,,,,
+"Iain mhiotail thuaslagtha áirithe is cúis le cruas uisce.
+Sainaithin ainian a bhíonn tuaslagtha go minic in uisce i dteannta na n-ian miotail seo
+nuair is cruas buan a bhíonn i gceist.",sulfáit / clóirid,,,,
+"Nuair a fhiuchtar uisce crua i gciteal, déantar screamh aoil a charnadh ar an eilimint téimh.
+Scríobh cothromóid chothromaithe cheimiceach chun cur síos a dhéanamh ar fhoirmiú
+screimhe aoil nuair a dhéantar uisce crua a fhiuchadh.",Ca(HCO$_3$)$_2$ → CaCO$_3$ + CO$_2$ + H$_2$O,,,,
+"Is féidir uisce crua a bhogadh trí é a dhí-ianú.
+Mínigh conas is féidir uisce a dhí-ianú agus úsáid á baint as roisíní ianmhalartaithe.",déantar malartú ar na hiain le haghaidh H$^+$agus OH$^-$,,,,
+"Is féidir uisce crua a bhogadh trí é a dhí-ianú.
+Mínigh cén fáth nach bhfuil uisce dí-ianaithe chomh hion le huisce driogtha.","d'fhéadfadh gáis thuaslagtha / d'fhéadfadh ábhar neamhianach a bheith ann / 
 d'fhéadfadh comhdhúile orgánacha a bheith ann /
-d'fhéadfadh ábhar ar fuaidreamh a bheith ann",""
-"11. (d) A Murab ionann is go leor fadhbanna comhshaoil eile, táthar tar éis an t-idiú ar an ózón
+d'fhéadfadh ábhar ar fuaidreamh a bheith ann",,,,
+"A Murab ionann is go leor fadhbanna comhshaoil eile, táthar tar éis an t-idiú ar an ózón
 strataisfearach a réiteach den mhórchuid trí chomhaontú idirnáisiúnta ar úsáid CFCanna.
 Bhí an ceimiceoir Meicsiceach Mario Molina tar éis an dochar a bhí á dhéanamh don chiseal
 ózóin de bharr CFCanna a thuar sular tugadh faoi deara go raibh 'poll' sa chiseal ózóin.
-(i) Cad is ózón ann?","","O$_3$",""
-"11. (d) A Murab ionann is go leor fadhbanna comhshaoil eile, táthar tar éis an t-idiú ar an ózón
+Cad is ózón ann?",O$_3$,,,,
+"A Murab ionann is go leor fadhbanna comhshaoil eile, táthar tar éis an t-idiú ar an ózón
 strataisfearach a réiteach den mhórchuid trí chomhaontú idirnáisiúnta ar úsáid CFCanna.
 Bhí an ceimiceoir Meicsiceach Mario Molina tar éis an dochar a bhí á dhéanamh don chiseal
 ózóin de bharr CFCanna a thuar sular tugadh faoi deara go raibh 'poll' sa chiseal ózóin.
-(ii) Mínigh conas a fhoirmítear ózón sa strataisfear.","","O$_2$ → 2O$^•$
+Mínigh conas a fhoirmítear ózón sa strataisfear.","O$_2$ → 2O$^•$
 O$^•$ + O$_2$ → O$_3$
-[Nóta: níl * ag teastáil ar O]",""
-"11. (d) A Murab ionann is go leor fadhbanna comhshaoil eile, táthar tar éis an t-idiú ar an ózón
+[Nóta: níl * ag teastáil ar O]",,,,
+"A Murab ionann is go leor fadhbanna comhshaoil eile, táthar tar éis an t-idiú ar an ózón
 strataisfearach a réiteach den mhórchuid trí chomhaontú idirnáisiúnta ar úsáid CFCanna.
 Bhí an ceimiceoir Meicsiceach Mario Molina tar éis an dochar a bhí á dhéanamh don chiseal
 ózóin de bharr CFCanna a thuar sular tugadh faoi deara go raibh 'poll' sa chiseal ózóin.
-(iii) Cad iad CFCanna?","","clórafluaracarbóin",""
-"11. (d) A Murab ionann is go leor fadhbanna comhshaoil eile, táthar tar éis an t-idiú ar an ózón
+Cad iad CFCanna?",clórafluaracarbóin,,,,
+"A Murab ionann is go leor fadhbanna comhshaoil eile, táthar tar éis an t-idiú ar an ózón
 strataisfearach a réiteach den mhórchuid trí chomhaontú idirnáisiúnta ar úsáid CFCanna.
 Bhí an ceimiceoir Meicsiceach Mario Molina tar éis an dochar a bhí á dhéanamh don chiseal
 ózóin de bharr CFCanna a thuar sular tugadh faoi deara go raibh 'poll' sa chiseal ózóin.
-(iv) Luaigh príomhúsáid amháin a bhaintí as CFCanna.","","cuisneán, aerasól/tiomántán, sochtach tine, oibreán séidte, tuaslagóir,
-réamhtheachtaí ceimiceach",""
-"11. (d) A Murab ionann is go leor fadhbanna comhshaoil eile, táthar tar éis an t-idiú ar an ózón
+Luaigh príomhúsáid amháin a bhaintí as CFCanna.","cuisneán, aerasól/tiomántán, sochtach tine, oibreán séidte, tuaslagóir,
+réamhtheachtaí ceimiceach",,,,
+"A Murab ionann is go leor fadhbanna comhshaoil eile, táthar tar éis an t-idiú ar an ózón
 strataisfearach a réiteach den mhórchuid trí chomhaontú idirnáisiúnta ar úsáid CFCanna.
 Bhí an ceimiceoir Meicsiceach Mario Molina tar éis an dochar a bhí á dhéanamh don chiseal
 ózóin de bharr CFCanna a thuar sular tugadh faoi deara go raibh 'poll' sa chiseal ózóin.
-(v) Mínigh conas a dhéantar dochar don chiseal ózóin de bharr na CFCanna sa strataisfear.","","foinse saorfhréamhacha / foinse (adaimh) Cl
-is cúid le hózóna athrú go O$_2$",""
-"11. (d) A Murab ionann is go leor fadhbanna comhshaoil eile, táthar tar éis an t-idiú ar an ózón
+Mínigh conas a dhéantar dochar don chiseal ózóin de bharr na CFCanna sa strataisfear.","foinse saorfhréamhacha / foinse (adaimh) Cl
+is cúid le hózóna athrú go O$_2$",,,,
+"A Murab ionann is go leor fadhbanna comhshaoil eile, táthar tar éis an t-idiú ar an ózón
 strataisfearach a réiteach den mhórchuid trí chomhaontú idirnáisiúnta ar úsáid CFCanna.
 Bhí an ceimiceoir Meicsiceach Mario Molina tar éis an dochar a bhí á dhéanamh don chiseal
 ózóin de bharr CFCanna a thuar sular tugadh faoi deara go raibh 'poll' sa chiseal ózóin.
-(vi) Sainaithin sampla amháin de shubstaint a úsáidtear in ionad CFCanna agus nach
-ndéanann dochar don chiseal ózóin.","","HCFCanna / HFCanna",""
-"11. (d) B Eastósctar miotal iarainn óna mhianta trí dhí-ocsaidiú
+Sainaithin sampla amháin de shubstaint a úsáidtear in ionad CFCanna agus nach
+ndéanann dochar don chiseal ózóin.",HCFCanna / HFCanna,,,,
+"B Eastósctar miotal iarainn óna mhianta trí dhí-ocsaidiú
 i bhfornéis soinneáin amhail an ceann a thaispeántar
 sa léaráid ar dheis.
-(i) Sainaithin an dá ábhar sholadacha a chuirtear go
+Sainaithin an dá ábhar sholadacha a chuirtear go
 leanúnach leis an iarnmhian sa lucht ag barr na
-foirnéise.","images/chemistry/problem/11d_B","cóc / carbón
-aolchloch / carbónáit chailciam",""
-"11. (d) B Eastósctar miotal iarainn óna mhianta trí dhí-ocsaidiú
+foirnéise.","cóc / carbón
+aolchloch / carbónáit chailciam",11d.png,,,
+"B Eastósctar miotal iarainn óna mhianta trí dhí-ocsaidiú
 i bhfornéis soinneáin amhail an ceann a thaispeántar
 sa léaráid ar dheis.
-(ii) Sainaithin an gás te a shéidtear isteach san
-fhoirnéis os cionn an teallaigh le linn táirgthe.","images/chemistry/problem/11d_B","aer / ocsaigin",""
-"11. (d) B Eastósctar miotal iarainn óna mhianta trí dhí-ocsaidiú
+Sainaithin an gás te a shéidtear isteach san
+fhoirnéis os cionn an teallaigh le linn táirgthe.",aer / ocsaigin,11d.png,,,
+"B Eastósctar miotal iarainn óna mhianta trí dhí-ocsaidiú
 i bhfornéis soinneáin amhail an ceann a thaispeántar
 sa léaráid ar dheis.
-(iii) Sainaithin fotháirge B a bhaintear amach ag bun
-na foirnéise.","images/chemistry/problem/11d_B","slaig / CaSiO$_3$ / CaAl$_2$O$_4$",""
-"11. (d) B Feidhmíonn aonocsaíd charbóin mar dhí-ocsaideoir san fhoirnéis soinneáin.
-(iv) Scríobh cothromóid chothromaithe cheimiceach don imoibriú idir aonocsaíd charbóin
-agus ocsaíd iarainn(III).","","Fe$_2$O$_3$ + 3CO → 2Fe + 3CO$_2$",""
-"11. (d) B Cóimhiotal d'iarann atá i gcruach.
-(v) Ainmnigh na príomhchéimeanna i monarú cruach agus úsáid á baint as próiseas an
-stua leictrigh.","","luchtú, leá, scagadh, tapáil, teilgean                [trí cinn ar bith]",""
+Sainaithin fotháirge B a bhaintear amach ag bun
+na foirnéise.",slaig / CaSiO$_3$ / CaAl$_2$O$_4$,11d.png,,,
+"B Feidhmíonn aonocsaíd charbóin mar dhí-ocsaideoir san fhoirnéis soinneáin.
+Scríobh cothromóid chothromaithe cheimiceach don imoibriú idir aonocsaíd charbóin
+agus ocsaíd iarainn(III).",Fe$_2$O$_3$ + 3CO → 2Fe + 3CO$_2$,,,,
+"B Cóimhiotal d'iarann atá i gcruach.
+Ainmnigh na príomhchéimeanna i monarú cruach agus úsáid á baint as próiseas an
+stua leictrigh.","luchtú, leá, scagadh, tapáil, teilgean                [trí cinn ar bith]",,,,
